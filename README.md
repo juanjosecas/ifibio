@@ -28,7 +28,18 @@ The remaining `.pkl`, `.gexf`, `.csv` and figures remain as reproducibility/sour
 
 ## Deployment
 
-In GitHub:
+This site is static and must be served over HTTP to load the generated dataset files in the browser. If you open `index.html` directly from the filesystem, browsers block the `fetch()` calls used to read the CSV/JSON/GEXF assets.
+
+For local testing:
+
+```bash
+cd /home/juan/Documents/ifibio
+python3 -m http.server 8000
+```
+
+Then open `http://localhost:8000`.
+
+For GitHub Pages:
 
 1. Open **Settings → Pages**.
 2. Choose **Deploy from a branch**.

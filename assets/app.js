@@ -4,6 +4,7 @@ const DATA = {
   network: 'ml_pubmed_ifibio/coauthor_network.gexf'
 };
 
+const isFileOrigin = window.location.protocol === 'file:';
 const state = { papers: [], filtered: [], summary: null, cy: null, networkLoaded: false };
 const plotConfig = { responsive: true, displaylogo: false, modeBarButtonsToRemove: ['lasso2d', 'select2d'] };
 const plotLayout = {
@@ -17,7 +18,13 @@ const plotLayout = {
 };
 
 function $(id) { return document.getElementById(id); }
-function num(v) { const n = Number(v); return Number.isFinite(n) ? n : null; }
+function num(v) {
+  if (v === null || v === undefined || v === '') return null;
+  const s = String(v).trim();
+  if (s === '') return null;
+  const n = Number(s);
+  return Number.isFinite(n) ? n : null;
+}
 function esc(s='') { return String(s).replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c])); }
 function groupCount(rows, key) {
   return rows.reduce((acc, row) => { const k = row[key]; if (k !== '' && k != null) acc[k] = (acc[k] || 0) + 1; return acc; }, {});
@@ -26,14 +33,31 @@ function sortedEntries(obj, numeric=true) {
   return Object.entries(obj).sort((a,b) => numeric ? Number(a[0]) - Number(b[0]) : b[1] - a[1]);
 }
 
+function localServerHint(error) {
+  if (!isFileOrigin) return error?.message || 'Data load error';
+  return 'Browsers block local file fetches. Serve the repo with a local HTTP server and open http://localhost:8000 instead.';
+}
+
 async function loadJSON(path) {
-  const r = await fetch(path);
+  let r;
+  try {
+    r = await fetch(path, { cache: 'no-store' });
+  } catch (error) {
+    throw new Error(localServerHint(error));
+  }
   if (!r.ok) throw new Error(`${path}: ${r.status}`);
   return r.json();
 }
 
 async function loadCSV(path) {
-  const text = await fetch(path).then(r => { if (!r.ok) throw new Error(`${path}: ${r.status}`); return r.text(); });
+  let text;
+  try {
+    const response = await fetch(path, { cache: 'no-store' });
+    if (!response.ok) throw new Error(`${path}: ${response.status}`);
+    text = await response.text();
+  } catch (error) {
+    throw new Error(localServerHint(error));
+  }
   const parsed = Papa.parse(text, { header: true, skipEmptyLines: true, dynamicTyping: false });
   if (parsed.errors.length) console.warn('CSV parser warnings', parsed.errors.slice(0,3));
   return parsed.data;
@@ -294,11 +318,18 @@ async function init() {
     renderUMAP('umap-chart', state.filtered);
     renderLandscape();
     $('data-status').textContent = `${state.papers.length} papers loaded`;
+    if (isFileOrigin) {
+      $('data-status').title = 'Open through a local HTTP server to load the data files from the repo.';
+    }
   } catch (e) {
     console.error(e);
-    $('data-status').textContent = 'Data load error';
-    $('data-status').title = e.message;
+    $('data-status').textContent = isFileOrigin ? 'Use a local server' : 'Data load error';
+    $('data-status').title = e.message || localServerHint(e);
   }
+}
+
+if (isFileOrigin) {
+  console.warn('The portal was opened via file://. Browsers block fetch() against local files; serve the repository over HTTP to load the CSV/JSON/GEXF analysis outputs.');
 }
 
 init();
