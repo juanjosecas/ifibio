@@ -1,0 +1,10 @@
+{
+  "n_rows": 287,
+  "n_columns": 36,
+  "n_years": 13,
+  "n_unique_authors": 975,
+  "n_clusters": 8,
+  "top_journal": "Placenta",
+  "top_keyword": "placenta",
+  "top_mesh": "Animals"
+}
