@@ -1,17 +1,19 @@
 :root {
   --bg: #07111f;
-  --bg-2: #0d1830;
-  --panel: rgba(15, 23, 42, 0.85);
-  --panel-strong: #0f1d33;
+  --bg-2: #0f172a;
+  --bg-3: #111827;
+  --panel: rgba(15, 23, 42, 0.82);
+  --panel-strong: rgba(17, 24, 39, 0.96);
   --panel-soft: rgba(15, 23, 42, 0.72);
-  --text: #edf6ff;
-  --muted: #9bb2c8;
+  --text: #eef6ff;
+  --muted: #9bb1c9;
   --line: rgba(148, 163, 184, 0.18);
   --accent: #7dd3fc;
   --accent-2: #a78bfa;
+  --accent-3: #5eead4;
   --green: #6ee7b7;
   --warning: #fbbf24;
-  --shadow: 0 26px 70px rgba(3, 7, 18, 0.45);
+  --shadow: 0 30px 80px rgba(2, 6, 23, 0.52);
   --radius: 24px;
 }
 
@@ -21,11 +23,24 @@ body {
   margin: 0;
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   background:
-    radial-gradient(circle at top right, rgba(125, 211, 252, 0.16), transparent 26%),
-    radial-gradient(circle at left bottom, rgba(167, 139, 250, 0.12), transparent 22%),
-    linear-gradient(180deg, var(--bg) 0%, #0b1528 100%);
+    radial-gradient(circle at top right, rgba(125, 211, 252, 0.18), transparent 24%),
+    radial-gradient(circle at left bottom, rgba(167, 139, 250, 0.16), transparent 20%),
+    linear-gradient(180deg, #050d18 0%, #0b1628 38%, #0d1b2d 100%);
   color: var(--text);
   min-height: 100vh;
+  position: relative;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(148, 163, 184, 0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(148, 163, 184, 0.025) 1px, transparent 1px);
+  background-size: 24px 24px;
+  pointer-events: none;
+  mask-image: radial-gradient(circle at center, black 35%, transparent 100%);
 }
 
 button, input, select { font: inherit; }
@@ -45,9 +60,10 @@ a { color: inherit; text-decoration: none; }
   padding: 26px 18px 18px;
   display: flex;
   flex-direction: column;
-  background: rgba(7, 14, 28, 0.82);
+  background: rgba(7, 14, 28, 0.74);
   backdrop-filter: blur(18px);
   z-index: 20;
+  box-shadow: inset -1px 0 0 rgba(255,255,255,0.02);
 }
 
 .brand {
@@ -99,19 +115,21 @@ a { color: inherit; text-decoration: none; }
   cursor: pointer;
   transition: 0.2s ease;
   position: relative;
+  letter-spacing: 0.01em;
 }
 
 .nav-item:hover {
   background: rgba(125, 211, 252, 0.05);
   border-color: rgba(125, 211, 252, 0.08);
   color: var(--text);
+  transform: translateX(2px);
 }
 
 .nav-item.active {
-  background: linear-gradient(90deg, rgba(125, 211, 252, 0.12), rgba(167, 139, 250, 0.06));
+  background: linear-gradient(90deg, rgba(125, 211, 252, 0.16), rgba(167, 139, 250, 0.08));
   color: var(--text);
   border-color: rgba(125, 211, 252, 0.18);
-  box-shadow: inset 3px 0 0 var(--accent);
+  box-shadow: inset 3px 0 0 var(--accent), 0 0 0 1px rgba(125, 211, 252, 0.06);
 }
 
 .sidebar-foot {
@@ -186,14 +204,20 @@ a { color: inherit; text-decoration: none; }
 .button {
   cursor: pointer;
   color: #09111f;
-  background: linear-gradient(135deg, #e2f4ff, #f3f0ff);
+  background: linear-gradient(135deg, #dff7ff 0%, #e9ebff 48%, #dffcf2 100%);
   font-weight: 700;
   border: none;
-  box-shadow: 0 12px 25px rgba(125, 211, 252, 0.2);
+  box-shadow: 0 16px 28px rgba(125, 211, 252, 0.18);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 20px 32px rgba(125, 211, 252, 0.22);
 }
 
 .button.ghost {
-  background: transparent;
+  background: rgba(15, 23, 42, 0.55);
   color: var(--text);
   border: 1px solid var(--line);
   box-shadow: none;
@@ -210,9 +234,11 @@ a { color: inherit; text-decoration: none; }
   align-items: center;
   min-height: 260px;
   padding: clamp(28px, 5vw, 54px);
-  border: 1px solid rgba(125, 211, 252, 0.14);
+  border: 1px solid rgba(125, 211, 252, 0.18);
   border-radius: 30px;
-  background: linear-gradient(135deg, rgba(125, 211, 252, 0.11), rgba(167, 139, 250, 0.07) 42%, rgba(9, 17, 31, 0.94));
+  background:
+    linear-gradient(135deg, rgba(125, 211, 252, 0.12), rgba(167, 139, 250, 0.08) 42%, rgba(9, 17, 31, 0.96)),
+    radial-gradient(circle at top left, rgba(94, 234, 212, 0.14), transparent 30%);
   box-shadow: var(--shadow);
 }
 
@@ -220,10 +246,19 @@ a { color: inherit; text-decoration: none; }
   content: "";
   position: absolute;
   inset: auto -90px -90px auto;
-  width: 240px;
-  height: 240px;
+  width: 260px;
+  height: 260px;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(125, 211, 252, 0.28), transparent 65%);
+  background: radial-gradient(circle, rgba(125, 211, 252, 0.32), transparent 66%);
+  pointer-events: none;
+}
+
+.hero-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(120deg, transparent 0%, rgba(255,255,255,0.04) 50%, transparent 100%);
+  transform: translateX(-25%);
   pointer-events: none;
 }
 
@@ -277,15 +312,16 @@ a { color: inherit; text-decoration: none; }
 .kpi {
   padding: 22px 22px 20px;
   border-radius: 20px;
-  background: linear-gradient(180deg, rgba(15, 23, 42, 0.9), rgba(11, 18, 30, 0.85));
+  background: linear-gradient(180deg, rgba(15, 23, 42, 0.9), rgba(11, 18, 30, 0.9));
   border: 1px solid var(--line);
-  box-shadow: inset 0 1px 0 rgba(255,255,255,0.02);
-  transition: transform 0.2s ease, border-color 0.2s ease;
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.02), 0 10px 24px rgba(2,6,23,0.18);
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
 .kpi:hover {
   transform: translateY(-2px);
   border-color: rgba(125, 211, 252, 0.28);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.04), 0 18px 34px rgba(2,6,23,0.22);
 }
 
 .kpi span,
@@ -316,12 +352,14 @@ a { color: inherit; text-decoration: none; }
 .grid.three { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 
 .panel {
-  background: linear-gradient(180deg, rgba(17, 25, 41, 0.9), rgba(11, 18, 30, 0.92));
+  background:
+    linear-gradient(180deg, rgba(17, 25, 41, 0.92), rgba(11, 18, 30, 0.94)),
+    rgba(15, 23, 42, 0.8);
   border: 1px solid var(--line);
   border-radius: var(--radius);
   padding: 20px;
   min-width: 0;
-  box-shadow: 0 18px 60px rgba(2,6,23,0.18);
+  box-shadow: 0 18px 60px rgba(2,6,23,0.18), inset 0 1px 0 rgba(255,255,255,0.02);
 }
 
 .panel-head {
@@ -393,11 +431,12 @@ a { color: inherit; text-decoration: none; }
   min-height: 44px;
   border: 1px solid var(--line);
   border-radius: 12px;
-  background: rgba(11, 20, 36, 0.92);
+  background: rgba(11, 20, 36, 0.82);
   color: var(--text);
   padding: 0 14px;
   outline: none;
   transition: 0.2s ease;
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.02);
 }
 
 .toolbar input:focus,
