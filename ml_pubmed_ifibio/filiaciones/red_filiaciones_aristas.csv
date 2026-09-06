@@ -1,0 +1,281 @@
+source,target,autores,pmids,evidencia,weight,n_papers,n_autor_paper
+aff_006a67a31f5e64be,aff_6ae0796c5c72dd64,"[""Walker A""]","[""41423699""]","[{""autor"": ""Walker A"", ""pmid"": ""41423699""}]",1,1,1
+aff_006a67a31f5e64be,aff_d37dcaf256b62523,"[""Walker A""]","[""41423699""]","[{""autor"": ""Walker A"", ""pmid"": ""41423699""}]",1,1,1
+aff_0097f4bcedede33a,aff_9ec6aa0ef09fca2b,"[""Ibarra F""]","[""32282322""]","[{""autor"": ""Ibarra F"", ""pmid"": ""32282322""}]",1,1,1
+aff_00dd5270a70efe18,aff_67c9c317fe4b259d,"[""Cerny N""]","[""39553573""]","[{""autor"": ""Cerny N"", ""pmid"": ""39553573""}]",1,1,1
+aff_03e2d56d2286973e,aff_28d0bbbda0195d6a,"[""Ibarra F""]","[""37676461""]","[{""autor"": ""Ibarra F"", ""pmid"": ""37676461""}]",1,1,1
+aff_03e2d56d2286973e,aff_bcc2ea3d8a44eeb1,"[""Ibarra F""]","[""37676461""]","[{""autor"": ""Ibarra F"", ""pmid"": ""37676461""}]",1,1,1
+aff_0583d5ae97783aaa,aff_c279eecb7c53fe7c,"[""Zotta E""]","[""34437406""]","[{""autor"": ""Zotta E"", ""pmid"": ""34437406""}]",1,1,1
+aff_0795be649c6b7425,aff_534be2109fa6b205,"[""Amaral M"", ""Giron D"", ""Gomez F"", ""Marques da Silva W"", ""Sacerdoti F""]","[""42347511""]","[{""autor"": ""Amaral M"", ""pmid"": ""42347511""}, {""autor"": ""Giron D"", ""pmid"": ""42347511""}, {""autor"": ""Gomez F"", ""pmid"": ""42347511""}, {""autor"": ""Marques da Silva W"", ""pmid"": ""42347511""}, {""autor"": ""Sacerdoti F"", ""pmid"": ""42347511""}]",5,1,5
+aff_07a7d8ddbf990adc,aff_320455ea214b3afe,"[""Ibarra F""]","[""40577142""]","[{""autor"": ""Ibarra F"", ""pmid"": ""40577142""}]",1,1,1
+aff_083ec23f412eaf11,aff_2b96a3a001f83643,"[""Faillace M""]","[""28710541""]","[{""autor"": ""Faillace M"", ""pmid"": ""28710541""}]",1,1,1
+aff_083ec23f412eaf11,aff_5280a87c1d18614b,"[""Faillace M""]","[""28710541""]","[{""autor"": ""Faillace M"", ""pmid"": ""28710541""}]",1,1,1
+aff_0864a01dd26b2da3,aff_f1ddb25373081fda,"[""Katz M""]","[""40603573""]","[{""autor"": ""Katz M"", ""pmid"": ""40603573""}]",1,1,1
+aff_08b48b366bbd1b54,aff_d999260a07edd193,"[""Valverde E""]","[""39851628""]","[{""autor"": ""Valverde E"", ""pmid"": ""39851628""}]",1,1,1
+aff_08e1e3ae9c5aec56,aff_b0db5227cb42e1e0,"[""Brughera A""]","[""34741225""]","[{""autor"": ""Brughera A"", ""pmid"": ""34741225""}]",1,1,1
+aff_08e828390736715f,aff_cf056aad41458a89,"[""Bello E""]","[""39833563""]","[{""autor"": ""Bello E"", ""pmid"": ""39833563""}]",1,1,1
+aff_091dc03894b4b08c,aff_a4ff206b0bd58fe9,"[""Merlo E""]","[""33519685""]","[{""autor"": ""Merlo E"", ""pmid"": ""33519685""}]",1,1,1
+aff_09c035911b86ae00,aff_65c3d20eeeccbccc,"[""Vassallu F""]","[""41571758""]","[{""autor"": ""Vassallu F"", ""pmid"": ""41571758""}]",1,1,1
+aff_0a5c427088f59e74,aff_99a69f3984adb769,"[""Damiano A""]","[""42123443""]","[{""autor"": ""Damiano A"", ""pmid"": ""42123443""}]",1,1,1
+aff_0ab2c57121296919,aff_58be8a264a648e29,"[""Kasanetz F""]","[""37252991""]","[{""autor"": ""Kasanetz F"", ""pmid"": ""37252991""}]",1,1,1
+aff_0c0d06b026218758,aff_33703390530c752c,"[""Arrizurieta E""]","[""34320266""]","[{""autor"": ""Arrizurieta E"", ""pmid"": ""34320266""}]",1,1,1
+aff_0c0d06b026218758,aff_ea57fbba16f33c76,"[""Ibarra F""]","[""34320266""]","[{""autor"": ""Ibarra F"", ""pmid"": ""34320266""}]",1,1,1
+aff_0d4a066729caa8ed,aff_ae0039804c85d993,"[""Namboodiri V""]","[""28947572""]","[{""autor"": ""Namboodiri V"", ""pmid"": ""28947572""}]",1,1,1
+aff_0f678194300b4103,aff_b1a2e0b488e54984,"[""Escudero C""]","[""37466779""]","[{""autor"": ""Escudero C"", ""pmid"": ""37466779""}]",1,1,1
+aff_11ed18e97e2fe311,aff_28f9dde996930b0b,"[""Medrano M""]","[""28710541""]","[{""autor"": ""Medrano M"", ""pmid"": ""28710541""}]",1,1,1
+aff_140c136b97d0eb17,aff_8e776c6beae99658,"[""Giachini F""]","[""34267676"", ""35431989""]","[{""autor"": ""Giachini F"", ""pmid"": ""34267676""}, {""autor"": ""Giachini F"", ""pmid"": ""35431989""}]",1,2,2
+aff_14bc7e9ad50a692c,aff_3d00a58bac42ad69,"[""Bordey A""]","[""25856239""]","[{""autor"": ""Bordey A"", ""pmid"": ""25856239""}]",1,1,1
+aff_14f00333d118f1d3,aff_16c47262ce39acb1,"[""Damiano A""]","[""27488203""]","[{""autor"": ""Damiano A"", ""pmid"": ""27488203""}]",1,1,1
+aff_14f00333d118f1d3,aff_385bd095785cb599,"[""Damiano A""]","[""34938200""]","[{""autor"": ""Damiano A"", ""pmid"": ""34938200""}]",1,1,1
+aff_14f4c08569899194,aff_1c3b2e65cc5db0d1,"[""Evelson P""]","[""30732602""]","[{""autor"": ""Evelson P"", ""pmid"": ""30732602""}]",1,1,1
+aff_152e8ad6e2c59f7d,aff_6d2dd8dcfaa28249,"[""Opazo M""]","[""37274341""]","[{""autor"": ""Opazo M"", ""pmid"": ""37274341""}]",1,1,1
+aff_15be64a871c4ddaf,aff_891224f51168c3c9,"[""Karikari T""]","[""31630412""]","[{""autor"": ""Karikari T"", ""pmid"": ""31630412""}]",1,1,1
+aff_15be64a871c4ddaf,aff_e2bb4fe4ec2a830f,"[""Karikari T""]","[""31630412""]","[{""autor"": ""Karikari T"", ""pmid"": ""31630412""}]",1,1,1
+aff_1743cc8c7020d2af,aff_9fbfaf455eb379d0,"[""Morici J"", ""Weisstaub N""]","[""29717980""]","[{""autor"": ""Morici J"", ""pmid"": ""29717980""}, {""autor"": ""Weisstaub N"", ""pmid"": ""29717980""}]",2,1,2
+aff_17d960832bed61b8,aff_3e518a1ad80af884,"[""Moratalla R"", ""Ruiz-DeDiego I"", ""Solis O""]","[""30895594""]","[{""autor"": ""Moratalla R"", ""pmid"": ""30895594""}, {""autor"": ""Ruiz-DeDiego I"", ""pmid"": ""30895594""}, {""autor"": ""Solis O"", ""pmid"": ""30895594""}]",3,1,3
+aff_17d960832bed61b8,aff_9925f4777f1cdf64,"[""Keifman E""]","[""30895594""]","[{""autor"": ""Keifman E"", ""pmid"": ""30895594""}]",1,1,1
+aff_17fd5602cf34c02a,aff_68a215d3a9d46b87,"[""Viola H""]","[""42086667""]","[{""autor"": ""Viola H"", ""pmid"": ""42086667""}]",1,1,1
+aff_17fd5602cf34c02a,aff_846fef047571448d,"[""Viola H""]","[""42086667""]","[{""autor"": ""Viola H"", ""pmid"": ""42086667""}]",1,1,1
+aff_1a12fec5ff3f588b,aff_385bd095785cb599,"[""Damiano A""]","[""31396108""]","[{""autor"": ""Damiano A"", ""pmid"": ""31396108""}]",1,1,1
+aff_1ac9a29bb43f178e,aff_b272151555cf1e20,"[""Tomsic D""]","[""33240056""]","[{""autor"": ""Tomsic D"", ""pmid"": ""33240056""}]",1,1,1
+aff_1aea4b70cd0f1de3,aff_acdea9dd918867dd,"[""Goldstein J""]","[""36227397""]","[{""autor"": ""Goldstein J"", ""pmid"": ""36227397""}]",1,1,1
+aff_1b8e5f52e1fb48ea,aff_45b1ee5fc7a61b61,"[""Acurio J"", ""Escudero C""]","[""42601945""]","[{""autor"": ""Acurio J"", ""pmid"": ""42601945""}, {""autor"": ""Escudero C"", ""pmid"": ""42601945""}]",2,1,2
+aff_1f01facd1ca0d1c5,aff_cb48feaf2ccd917a,"[""Zotta E""]","[""30204500""]","[{""autor"": ""Zotta E"", ""pmid"": ""30204500""}]",1,1,1
+aff_1f0da6583f4def16,aff_2665c3c0f87d53ff,"[""Goitia B"", ""Rivero-Echeto M""]","[""26484945""]","[{""autor"": ""Goitia B"", ""pmid"": ""26484945""}, {""autor"": ""Rivero-Echeto M"", ""pmid"": ""26484945""}]",2,1,2
+aff_1f61b7d1e8047012,aff_2ee24db3a253275f,"[""Di Pietro A"", ""Marcora M"", ""Pasquini J"", ""Pasquini L"", ""Wies Mancini V""]","[""34935149""]","[{""autor"": ""Di Pietro A"", ""pmid"": ""34935149""}, {""autor"": ""Marcora M"", ""pmid"": ""34935149""}, {""autor"": ""Pasquini J"", ""pmid"": ""34935149""}, {""autor"": ""Pasquini L"", ""pmid"": ""34935149""}, {""autor"": ""Wies Mancini V"", ""pmid"": ""34935149""}]",5,1,5
+aff_209c5d4e00c323a6,aff_e16498f6455db704,"[""Soto G""]","[""34293244""]","[{""autor"": ""Soto G"", ""pmid"": ""34293244""}]",1,1,1
+aff_20bf2e253658e8b1,aff_a762ee38f60277af,"[""Doyon J""]","[""36587288""]","[{""autor"": ""Doyon J"", ""pmid"": ""36587288""}]",1,1,1
+aff_218bce40e9121f2c,aff_37f5451bedadbaf9,"[""Nasimbera A"", ""Seoane P""]","[""33692740""]","[{""autor"": ""Nasimbera A"", ""pmid"": ""33692740""}, {""autor"": ""Seoane P"", ""pmid"": ""33692740""}]",2,1,2
+aff_22520c387a4f4e3b,aff_e81b046ac1ffcf76,"[""Lino-de-Oliveira C""]","[""32319840""]","[{""autor"": ""Lino-de-Oliveira C"", ""pmid"": ""32319840""}]",1,1,1
+aff_23313e0c19d215c7,aff_a04f49a3af8b2d02,"[""Araya J"", ""Mennickent D""]","[""37274341""]","[{""autor"": ""Araya J"", ""pmid"": ""37274341""}, {""autor"": ""Mennickent D"", ""pmid"": ""37274341""}]",2,1,2
+aff_23313e0c19d215c7,aff_cad92dcdbe845473,"[""Mennickent D""]","[""37274341""]","[{""autor"": ""Mennickent D"", ""pmid"": ""37274341""}]",1,1,1
+aff_234d495e582015a6,aff_b02fd2ea60e937e0,"[""Capurro C"", ""Ford P"", ""Netti V"", ""Pizzoni A""]","[""29790838""]","[{""autor"": ""Capurro C"", ""pmid"": ""29790838""}, {""autor"": ""Ford P"", ""pmid"": ""29790838""}, {""autor"": ""Netti V"", ""pmid"": ""29790838""}, {""autor"": ""Pizzoni A"", ""pmid"": ""29790838""}]",4,1,4
+aff_234f94ad003faf17,aff_d690604ea09bb1eb,"[""Beltramone N"", ""Capurro C"", ""Casal J"", ""Celi A"", ""Di Giusto G"", ""Ford P"", ""Rivarola V"", ""Sterba J""]","[""41457365""]","[{""autor"": ""Beltramone N"", ""pmid"": ""41457365""}, {""autor"": ""Capurro C"", ""pmid"": ""41457365""}, {""autor"": ""Casal J"", ""pmid"": ""41457365""}, {""autor"": ""Celi A"", ""pmid"": ""41457365""}, {""autor"": ""Di Giusto G"", ""pmid"": ""41457365""}, {""autor"": ""Ford P"", ""pmid"": ""41457365""}, {""autor"": ""Rivarola V"", ""pmid"": ""41457365""}, {""autor"": ""Sterba J"", ""pmid"": ""41457365""}]",8,1,8
+aff_26f32e8cd0c26593,aff_c0d1973a50415e48,"[""Zotta E""]","[""41800087""]","[{""autor"": ""Zotta E"", ""pmid"": ""41800087""}]",1,1,1
+aff_27640c7d308e68c5,aff_4b4f9972886acc7a,"[""Azurmendi P"", ""Oddo E"", ""Vlachovsky S""]","[""37676461""]","[{""autor"": ""Azurmendi P"", ""pmid"": ""37676461""}, {""autor"": ""Oddo E"", ""pmid"": ""37676461""}, {""autor"": ""Vlachovsky S"", ""pmid"": ""37676461""}]",3,1,3
+aff_28c50e49d737513d,aff_3f88cb2aa79b5c16,"[""Casal J""]","[""33703954""]","[{""autor"": ""Casal J"", ""pmid"": ""33703954""}]",1,1,1
+aff_28d0bbbda0195d6a,aff_bcc2ea3d8a44eeb1,"[""Ibarra F""]","[""37676461""]","[{""autor"": ""Ibarra F"", ""pmid"": ""37676461""}]",1,1,1
+aff_28f56a705bedde3e,aff_7445d50103944537,"[""Marini M"", ""Martinez M""]","[""41743514""]","[{""autor"": ""Marini M"", ""pmid"": ""41743514""}, {""autor"": ""Martinez M"", ""pmid"": ""41743514""}]",2,1,2
+aff_28f56a705bedde3e,aff_df41ac45a06a6f81,"[""Belluscio M"", ""Murer M""]","[""41743514""]","[{""autor"": ""Belluscio M"", ""pmid"": ""41743514""}, {""autor"": ""Murer M"", ""pmid"": ""41743514""}]",2,1,2
+aff_28f9dde996930b0b,aff_30c8abd41e24c198,"[""Bejarano C"", ""Bernabeu R""]","[""28710541""]","[{""autor"": ""Bejarano C"", ""pmid"": ""28710541""}, {""autor"": ""Bernabeu R"", ""pmid"": ""28710541""}]",2,1,2
+aff_2aa41b5d0d38493e,aff_cfa398c2f7c45cc2,"[""Kasanetz F""]","[""34930957""]","[{""autor"": ""Kasanetz F"", ""pmid"": ""34930957""}]",1,1,1
+aff_2b6e40460f25a0af,aff_40d9ca977897692c,"[""Della-Maggiore V""]","[""40744730""]","[{""autor"": ""Della-Maggiore V"", ""pmid"": ""40744730""}]",1,1,1
+aff_2b6e40460f25a0af,aff_6caf3626b4429618,"[""Della-Maggiore V""]","[""40744730""]","[{""autor"": ""Della-Maggiore V"", ""pmid"": ""40744730""}]",1,1,1
+aff_2b96a3a001f83643,aff_5280a87c1d18614b,"[""Faillace M""]","[""28710541""]","[{""autor"": ""Faillace M"", ""pmid"": ""28710541""}]",1,1,1
+aff_2d69482a1f682698,aff_ec9263af2a63066f,"[""Jancic C""]","[""31703347""]","[{""autor"": ""Jancic C"", ""pmid"": ""31703347""}]",1,1,1
+aff_2d8900d2768afa78,aff_be316785d21178b9,"[""Blizzard C""]","[""41423699""]","[{""autor"": ""Blizzard C"", ""pmid"": ""41423699""}]",1,1,1
+aff_2db4123a90143a16,aff_9ac9bfd6578dd8ef,"[""Rivarola V""]","[""41824201""]","[{""autor"": ""Rivarola V"", ""pmid"": ""41824201""}]",1,1,1
+aff_2defcc597060fc62,aff_d265d836c74a6a6b,"[""Belforte J""]","[""39833563""]","[{""autor"": ""Belforte J"", ""pmid"": ""39833563""}]",1,1,1
+aff_2e5420e0a1047618,aff_7c732adf1e570f60,"[""Murer M"", ""Rela L""]","[""40553107""]","[{""autor"": ""Murer M"", ""pmid"": ""40553107""}, {""autor"": ""Rela L"", ""pmid"": ""40553107""}]",2,1,2
+aff_2e5420e0a1047618,aff_d4d1b4ef7738e07d,"[""Paz R""]","[""40553107""]","[{""autor"": ""Paz R"", ""pmid"": ""40553107""}]",1,1,1
+aff_2fe1c297ffd88b23,aff_6c3e9f942b0e008a,"[""Escudero C""]","[""36117714""]","[{""autor"": ""Escudero C"", ""pmid"": ""36117714""}]",1,1,1
+aff_2fe1c297ffd88b23,aff_93130deb441cb8f0,"[""Escudero C""]","[""36117714""]","[{""autor"": ""Escudero C"", ""pmid"": ""36117714""}]",1,1,1
+aff_2fe6d617a93437db,aff_4d53c44c100a038c,"[""Wappner P""]","[""40595449""]","[{""autor"": ""Wappner P"", ""pmid"": ""40595449""}]",1,1,1
+aff_2fe6d617a93437db,aff_f5e4111a6396909f,"[""Wappner P""]","[""40595449""]","[{""autor"": ""Wappner P"", ""pmid"": ""40595449""}]",1,1,1
+aff_303affa4f4fb01f0,aff_e47e41ed1dc94575,"[""Damiano A""]","[""39055061""]","[{""autor"": ""Damiano A"", ""pmid"": ""39055061""}]",1,1,1
+aff_305c528cd4ad1af7,aff_a9fbe87ab8c5c59d,"[""Solomons D""]","[""39853576""]","[{""autor"": ""Solomons D"", ""pmid"": ""39853576""}]",1,1,1
+aff_30be19c77b7fe9ec,aff_99a6f6ed7c213299,"[""Cabral P""]","[""25980432""]","[{""autor"": ""Cabral P"", ""pmid"": ""25980432""}]",1,1,1
+aff_30c8abd41e24c198,aff_3c1f1aa6a5d6ee60,"[""Bernabeu R"", ""Faillace M""]","[""30102439"", ""31997350""]","[{""autor"": ""Bernabeu R"", ""pmid"": ""30102439""}, {""autor"": ""Faillace M"", ""pmid"": ""30102439""}, {""autor"": ""Bernabeu R"", ""pmid"": ""31997350""}, {""autor"": ""Faillace M"", ""pmid"": ""31997350""}]",2,2,4
+aff_314259d4a47e9112,aff_3f8876a2ebc5c382,"[""Marques da Silva W""]","[""42611393""]","[{""autor"": ""Marques da Silva W"", ""pmid"": ""42611393""}]",1,1,1
+aff_320455ea214b3afe,aff_d0bcddafd54786ee,"[""Di Ciano L""]","[""40577142""]","[{""autor"": ""Di Ciano L"", ""pmid"": ""40577142""}]",1,1,1
+aff_330185d41cffdf97,aff_44027febf1b0938a,"[""Martinez M""]","[""36426715""]","[{""autor"": ""Martinez M"", ""pmid"": ""36426715""}]",1,1,1
+aff_3303d001c7b11acb,aff_a3aff8ee1c072148,"[""Merlo E""]","[""30842725""]","[{""autor"": ""Merlo E"", ""pmid"": ""30842725""}]",1,1,1
+aff_337ca8bfb8191fcf,aff_5bd39c8480985821,"[""Ferrary Americo M"", ""Vilela Rodrigues T""]","[""41709136""]","[{""autor"": ""Ferrary Americo M"", ""pmid"": ""41709136""}, {""autor"": ""Vilela Rodrigues T"", ""pmid"": ""41709136""}]",2,1,2
+aff_359e4207bf941d5d,aff_72441bcd52dc4cdd,"[""Chara O""]","[""35705598""]","[{""autor"": ""Chara O"", ""pmid"": ""35705598""}]",1,1,1
+aff_359e4207bf941d5d,aff_a2e2a28b8a1efb3c,"[""Chara O""]","[""35705598""]","[{""autor"": ""Chara O"", ""pmid"": ""35705598""}]",1,1,1
+aff_35af8b21ccc80a8d,aff_5ebe703ca5ab3d27,"[""Zerbetto De Palma G""]","[""34293244""]","[{""autor"": ""Zerbetto De Palma G"", ""pmid"": ""34293244""}]",1,1,1
+aff_35af8b21ccc80a8d,aff_b7727a6b6fdce087,"[""Alleva K"", ""Zerbetto De Palma G""]","[""34293244""]","[{""autor"": ""Alleva K"", ""pmid"": ""34293244""}, {""autor"": ""Zerbetto De Palma G"", ""pmid"": ""34293244""}]",2,1,2
+aff_35db0d4197a4ad32,aff_44d0bc32d8ec51d9,"[""Piriz J""]","[""35217797""]","[{""autor"": ""Piriz J"", ""pmid"": ""35217797""}]",1,1,1
+aff_3690f2c27abd4930,aff_6e8ca31d34ff20ec,"[""Della-Maggiore V""]","[""42313886""]","[{""autor"": ""Della-Maggiore V"", ""pmid"": ""42313886""}]",1,1,1
+aff_3690f2c27abd4930,aff_e363a0e01dffa1c0,"[""Della-Maggiore V"", ""Solano A"", ""Yeffal A""]","[""42313886""]","[{""autor"": ""Della-Maggiore V"", ""pmid"": ""42313886""}, {""autor"": ""Solano A"", ""pmid"": ""42313886""}, {""autor"": ""Yeffal A"", ""pmid"": ""42313886""}]",3,1,3
+aff_36bf9922da4ec2cc,aff_4248175a9555565b,"[""Damiano A""]","[""40642510""]","[{""autor"": ""Damiano A"", ""pmid"": ""40642510""}]",1,1,1
+aff_3722a6d3d1befe40,aff_77562cdb26c7cd84,"[""Igaz L""]","[""41571758""]","[{""autor"": ""Igaz L"", ""pmid"": ""41571758""}]",1,1,1
+aff_37419cc03f42717c,aff_6d7a349a4b6031bf,"[""Huang M"", ""Jerome K"", ""Roychoudhury P""]","[""38019897""]","[{""autor"": ""Huang M"", ""pmid"": ""38019897""}, {""autor"": ""Jerome K"", ""pmid"": ""38019897""}, {""autor"": ""Roychoudhury P"", ""pmid"": ""38019897""}]",3,1,3
+aff_37f5451bedadbaf9,aff_54ea707af7991ac4,"[""Collavini S""]","[""33692740""]","[{""autor"": ""Collavini S"", ""pmid"": ""33692740""}]",1,1,1
+aff_37f5451bedadbaf9,aff_56e1a3e2090a5144,"[""Princich J""]","[""33692740""]","[{""autor"": ""Princich J"", ""pmid"": ""33692740""}]",1,1,1
+aff_37f5451bedadbaf9,aff_d4d4e25992912100,"[""Collavini S""]","[""33692740""]","[{""autor"": ""Collavini S"", ""pmid"": ""33692740""}]",1,1,1
+aff_3813dc13e55ed604,aff_cde3ccd212863f06,"[""Carbone S""]","[""29774754""]","[{""autor"": ""Carbone S"", ""pmid"": ""29774754""}]",1,1,1
+aff_385bd095785cb599,aff_3cca1a26b7ad8bc3,"[""Damiano A""]","[""30620717""]","[{""autor"": ""Damiano A"", ""pmid"": ""30620717""}]",1,1,1
+aff_385bd095785cb599,aff_93130deb441cb8f0,"[""Damiano A""]","[""36117714""]","[{""autor"": ""Damiano A"", ""pmid"": ""36117714""}]",1,1,1
+aff_385bd095785cb599,aff_a4de4d80af177a8d,"[""Damiano A""]","[""34925067"", ""35431989"", ""36117714"", ""37466779""]","[{""autor"": ""Damiano A"", ""pmid"": ""34925067""}, {""autor"": ""Damiano A"", ""pmid"": ""35431989""}, {""autor"": ""Damiano A"", ""pmid"": ""36117714""}, {""autor"": ""Damiano A"", ""pmid"": ""37466779""}]",1,4,4
+aff_385bd095785cb599,aff_d21c583e5bd869a9,"[""Damiano A""]","[""31956716""]","[{""autor"": ""Damiano A"", ""pmid"": ""31956716""}]",1,1,1
+aff_385bd095785cb599,aff_f080ded293ce2aeb,"[""Damiano A"", ""Di Paola M""]","[""30425647""]","[{""autor"": ""Damiano A"", ""pmid"": ""30425647""}, {""autor"": ""Di Paola M"", ""pmid"": ""30425647""}]",2,1,2
+aff_385bd095785cb599,aff_f7ce6acbfa6c593b,"[""Damiano A""]","[""31541456""]","[{""autor"": ""Damiano A"", ""pmid"": ""31541456""}]",1,1,1
+aff_385bd095785cb599,aff_f9e4cc836f986368,"[""Damiano A""]","[""37274341""]","[{""autor"": ""Damiano A"", ""pmid"": ""37274341""}]",1,1,1
+aff_38c3c3c215f657b5,aff_7d988c4443f307d5,"[""Reppetti J""]","[""38019897""]","[{""autor"": ""Reppetti J"", ""pmid"": ""38019897""}]",1,1,1
+aff_3934ba44d29eec9c,aff_8947a5bf05c4a166,"[""Stahl A""]","[""41817828""]","[{""autor"": ""Stahl A"", ""pmid"": ""41817828""}]",1,1,1
+aff_39e9696618ee188a,aff_f39ddc6ac5eb1872,"[""Depino A""]","[""42404802""]","[{""autor"": ""Depino A"", ""pmid"": ""42404802""}]",1,1,1
+aff_3a26936a62e60903,aff_918ec50751c2e4d7,"[""San Gil R""]","[""41423699""]","[{""autor"": ""San Gil R"", ""pmid"": ""41423699""}]",1,1,1
+aff_3a26936a62e60903,aff_a0c82f8177ce87ae,"[""San Gil R""]","[""41423699""]","[{""autor"": ""San Gil R"", ""pmid"": ""41423699""}]",1,1,1
+aff_3a479c80ad9dea31,aff_5ad4e32ad814566f,"[""Dare S""]","[""33519685""]","[{""autor"": ""Dare S"", ""pmid"": ""33519685""}]",1,1,1
+aff_3b994d984444414f,aff_7287ca77f71f37cc,"[""Murer M""]","[""41817828""]","[{""autor"": ""Murer M"", ""pmid"": ""41817828""}]",1,1,1
+aff_3beb38a791af4687,aff_84d60a0f2c172882,"[""Wappner P""]","[""40603573""]","[{""autor"": ""Wappner P"", ""pmid"": ""40603573""}]",1,1,1
+aff_3beb38a791af4687,aff_c19da172802ef94f,"[""Wappner P""]","[""40603573""]","[{""autor"": ""Wappner P"", ""pmid"": ""40603573""}]",1,1,1
+aff_3c15b18649cefc81,aff_3d00a58bac42ad69,"[""Rela L""]","[""25856239""]","[{""autor"": ""Rela L"", ""pmid"": ""25856239""}]",1,1,1
+aff_3c15b18649cefc81,aff_66d92e506dade2f6,"[""Piantanida A"", ""Rela L""]","[""25856239""]","[{""autor"": ""Piantanida A"", ""pmid"": ""25856239""}, {""autor"": ""Rela L"", ""pmid"": ""25856239""}]",2,1,2
+aff_3d00a58bac42ad69,aff_418929afbe3e1028,"[""Greer C""]","[""25856239""]","[{""autor"": ""Greer C"", ""pmid"": ""25856239""}]",1,1,1
+aff_3d00a58bac42ad69,aff_66d92e506dade2f6,"[""Rela L""]","[""25856239""]","[{""autor"": ""Rela L"", ""pmid"": ""25856239""}]",1,1,1
+aff_3d1f5223a91c7ecf,aff_6ba3d3b9e1f4db26,"[""Bussey T"", ""Saksida L""]","[""29085903""]","[{""autor"": ""Bussey T"", ""pmid"": ""29085903""}, {""autor"": ""Saksida L"", ""pmid"": ""29085903""}]",2,1,2
+aff_3d1f5223a91c7ecf,aff_8a89f4ad1a2348a9,"[""Bussey T"", ""Saksida L""]","[""29085903""]","[{""autor"": ""Bussey T"", ""pmid"": ""29085903""}, {""autor"": ""Saksida L"", ""pmid"": ""29085903""}]",2,1,2
+aff_3d1f532e83990432,aff_8e4e0251c391bfd6,"[""Ortiz A"", ""Sanchez-Nino M""]","[""28523190""]","[{""autor"": ""Ortiz A"", ""pmid"": ""28523190""}, {""autor"": ""Sanchez-Nino M"", ""pmid"": ""28523190""}]",2,1,2
+aff_3e7ff306361189c7,aff_b8b11627be8b8e1b,"[""Taravini I""]","[""30746639""]","[{""autor"": ""Taravini I"", ""pmid"": ""30746639""}]",1,1,1
+aff_3e7ff306361189c7,aff_e2d98346afc74265,"[""Taravini I""]","[""30746639""]","[{""autor"": ""Taravini I"", ""pmid"": ""30746639""}]",1,1,1
+aff_3f04655630a87f51,aff_5cc17ba9a3be32b3,"[""Melani M""]","[""40603573""]","[{""autor"": ""Melani M"", ""pmid"": ""40603573""}]",1,1,1
+aff_3f04655630a87f51,aff_82efff6c0763a986,"[""Melani M""]","[""40603573""]","[{""autor"": ""Melani M"", ""pmid"": ""40603573""}]",1,1,1
+aff_3f24331eaae85406,aff_90f3214ef1a79e1c,"[""Merlo S""]","[""38355584""]","[{""autor"": ""Merlo S"", ""pmid"": ""38355584""}]",1,1,1
+aff_3f24331eaae85406,aff_ccdd92511c648e30,"[""Merlo S""]","[""38355584""]","[{""autor"": ""Merlo S"", ""pmid"": ""38355584""}]",1,1,1
+aff_3f8876a2ebc5c382,aff_818694892a796f8c,"[""Gomes Pio M"", ""Rivolta C""]","[""42611393""]","[{""autor"": ""Gomes Pio M"", ""pmid"": ""42611393""}, {""autor"": ""Rivolta C"", ""pmid"": ""42611393""}]",2,1,2
+aff_406c480d8d512641,aff_68de8de95c4c2e5b,"[""Martin S""]","[""37466779""]","[{""autor"": ""Martin S"", ""pmid"": ""37466779""}]",1,1,1
+aff_406c480d8d512641,aff_8d361cdeedd0afb5,"[""Gonzalez M"", ""Gonzalez-Ortiz M""]","[""35431989"", ""37466779""]","[{""autor"": ""Gonzalez M"", ""pmid"": ""35431989""}, {""autor"": ""Gonzalez-Ortiz M"", ""pmid"": ""37466779""}]",2,2,2
+aff_406c480d8d512641,aff_b69a12a93c57d961,"[""Escudero C""]","[""35431989""]","[{""autor"": ""Escudero C"", ""pmid"": ""35431989""}]",1,1,1
+aff_40c7a82f2c8aa783,aff_ddae692c92ed8cbb,"[""Acosta L"", ""Brocardo L"", ""Capurro C"", ""Piantanida A"", ""Rela L""]","[""30628061""]","[{""autor"": ""Acosta L"", ""pmid"": ""30628061""}, {""autor"": ""Brocardo L"", ""pmid"": ""30628061""}, {""autor"": ""Capurro C"", ""pmid"": ""30628061""}, {""autor"": ""Piantanida A"", ""pmid"": ""30628061""}, {""autor"": ""Rela L"", ""pmid"": ""30628061""}]",5,1,5
+aff_40d9ca977897692c,aff_6caf3626b4429618,"[""Della-Maggiore V""]","[""40744730""]","[{""autor"": ""Della-Maggiore V"", ""pmid"": ""40744730""}]",1,1,1
+aff_4222640156e0768d,aff_5186d19e853fb37e,"[""Sobrevia L""]","[""38827994""]","[{""autor"": ""Sobrevia L"", ""pmid"": ""38827994""}]",1,1,1
+aff_4222640156e0768d,aff_9d121fff2a1f6e1b,"[""Sobrevia L""]","[""38827994""]","[{""autor"": ""Sobrevia L"", ""pmid"": ""38827994""}]",1,1,1
+aff_4222640156e0768d,aff_cfd79c0a2a5e2ca5,"[""Sobrevia L""]","[""38827994""]","[{""autor"": ""Sobrevia L"", ""pmid"": ""38827994""}]",1,1,1
+aff_4222640156e0768d,aff_edb0c189f5bdac98,"[""Sobrevia L""]","[""38827994""]","[{""autor"": ""Sobrevia L"", ""pmid"": ""38827994""}]",1,1,1
+aff_42654adad47b9edd,aff_99c18ca43b8704d8,"[""Nakao K"", ""Nakazawa K""]","[""29394409""]","[{""autor"": ""Nakao K"", ""pmid"": ""29394409""}, {""autor"": ""Nakazawa K"", ""pmid"": ""29394409""}]",2,1,2
+aff_43d00b9b5574c3d0,aff_d76dc10413910295,"[""Echevarria M""]","[""38956598""]","[{""autor"": ""Echevarria M"", ""pmid"": ""38956598""}]",1,1,1
+aff_44027febf1b0938a,aff_df2cc5f49dd034ef,"[""Belluscio M"", ""Coletti M"", ""Murer M"", ""Zold C""]","[""36426715""]","[{""autor"": ""Belluscio M"", ""pmid"": ""36426715""}, {""autor"": ""Coletti M"", ""pmid"": ""36426715""}, {""autor"": ""Murer M"", ""pmid"": ""36426715""}, {""autor"": ""Zold C"", ""pmid"": ""36426715""}]",4,1,4
+aff_440939cae05a1692,aff_9fbfaf455eb379d0,"[""Bekinschtein P"", ""Gallo F"", ""Miranda M""]","[""29717980""]","[{""autor"": ""Bekinschtein P"", ""pmid"": ""29717980""}, {""autor"": ""Gallo F"", ""pmid"": ""29717980""}, {""autor"": ""Miranda M"", ""pmid"": ""29717980""}]",3,1,3
+aff_44da268f6a3e1f4b,aff_94afcea4d4eef6dd,"[""Berni J"", ""Rodriguez Curt J""]","[""33519685""]","[{""autor"": ""Berni J"", ""pmid"": ""33519685""}, {""autor"": ""Rodriguez Curt J"", ""pmid"": ""33519685""}]",2,1,2
+aff_44ddd48de5771b8f,aff_83d05cc4ffaf2479,"[""Anderson M""]","[""35853718""]","[{""autor"": ""Anderson M"", ""pmid"": ""35853718""}]",1,1,1
+aff_453b7394e370894f,aff_bcba04651d634aef,"[""Fischer Sigel L"", ""Sanchez D"", ""Silberstein C""]","[""41800087""]","[{""autor"": ""Fischer Sigel L"", ""pmid"": ""41800087""}, {""autor"": ""Sanchez D"", ""pmid"": ""41800087""}, {""autor"": ""Silberstein C"", ""pmid"": ""41800087""}]",3,1,3
+aff_4656262f6a966ae5,aff_bd0565296f830634,"[""Canales-Johnson A""]","[""31690927""]","[{""autor"": ""Canales-Johnson A"", ""pmid"": ""31690927""}]",1,1,1
+aff_4656262f6a966ae5,aff_cfa784efefbd3363,"[""Canales-Johnson A""]","[""31690927""]","[{""autor"": ""Canales-Johnson A"", ""pmid"": ""31690927""}]",1,1,1
+aff_4692ada1b2336e9a,aff_51ad578f18c547a8,"[""Igaz L"", ""Vassallu F""]","[""41423699""]","[{""autor"": ""Igaz L"", ""pmid"": ""41423699""}, {""autor"": ""Vassallu F"", ""pmid"": ""41423699""}]",2,1,2
+aff_4692ada1b2336e9a,aff_5d7553c4e919cc25,"[""Capurro C"", ""Di Giusto G"", ""Politi M""]","[""42576265""]","[{""autor"": ""Capurro C"", ""pmid"": ""42576265""}, {""autor"": ""Di Giusto G"", ""pmid"": ""42576265""}, {""autor"": ""Politi M"", ""pmid"": ""42576265""}]",3,1,3
+aff_4745d4c222c4d4ea,aff_6542dac6e7b0ddf4,"[""Rubinstein M""]","[""27431292""]","[{""autor"": ""Rubinstein M"", ""pmid"": ""27431292""}]",1,1,1
+aff_474dd01122e06115,aff_5bcb4fb4b8b3ed23,"[""Gershanik O"", ""Gomez G""]","[""30746639""]","[{""autor"": ""Gershanik O"", ""pmid"": ""30746639""}, {""autor"": ""Gomez G"", ""pmid"": ""30746639""}]",2,1,2
+aff_482744f1412e6f10,aff_aa7a38c296ccdcdb,"[""Renfijes M""]","[""42086667""]","[{""autor"": ""Renfijes M"", ""pmid"": ""42086667""}]",1,1,1
+aff_482744f1412e6f10,aff_b6123071603cb39f,"[""Iribarne J"", ""Riboldi J""]","[""42086667""]","[{""autor"": ""Iribarne J"", ""pmid"": ""42086667""}, {""autor"": ""Riboldi J"", ""pmid"": ""42086667""}]",2,1,2
+aff_482744f1412e6f10,aff_e00bf8b996446a67,"[""Iribarne J"", ""Riboldi J""]","[""42086667""]","[{""autor"": ""Iribarne J"", ""pmid"": ""42086667""}, {""autor"": ""Riboldi J"", ""pmid"": ""42086667""}]",2,1,2
+aff_48c2cb670d671069,aff_9c25b5dc2eed5261,"[""Ramos-Hryb A""]","[""31630412""]","[{""autor"": ""Ramos-Hryb A"", ""pmid"": ""31630412""}]",1,1,1
+aff_4a7a18d8f37dd23e,aff_93e230e73595ef31,"[""Chye Y"", ""West P""]","[""41423699""]","[{""autor"": ""Chye Y"", ""pmid"": ""41423699""}, {""autor"": ""West P"", ""pmid"": ""41423699""}]",2,1,2
+aff_4a7a18d8f37dd23e,aff_f1035155a57362ca,"[""Chye Y""]","[""41423699""]","[{""autor"": ""Chye Y"", ""pmid"": ""41423699""}]",1,1,1
+aff_4d53c44c100a038c,aff_f5e4111a6396909f,"[""Wappner P""]","[""40595449""]","[{""autor"": ""Wappner P"", ""pmid"": ""40595449""}]",1,1,1
+aff_4eb846c189333edf,aff_eaad9813b8a354b3,"[""Netti V""]","[""39485629""]","[{""autor"": ""Netti V"", ""pmid"": ""39485629""}]",1,1,1
+aff_5186d19e853fb37e,aff_9d121fff2a1f6e1b,"[""Sobrevia L""]","[""38827994""]","[{""autor"": ""Sobrevia L"", ""pmid"": ""38827994""}]",1,1,1
+aff_5186d19e853fb37e,aff_cfd79c0a2a5e2ca5,"[""Sobrevia L""]","[""38827994""]","[{""autor"": ""Sobrevia L"", ""pmid"": ""38827994""}]",1,1,1
+aff_5186d19e853fb37e,aff_edb0c189f5bdac98,"[""Sobrevia L""]","[""38827994""]","[{""autor"": ""Sobrevia L"", ""pmid"": ""38827994""}]",1,1,1
+aff_51ad578f18c547a8,aff_611932da19df87e0,"[""Gomez Acosta M"", ""Uehara J""]","[""39833563""]","[{""autor"": ""Gomez Acosta M"", ""pmid"": ""39833563""}, {""autor"": ""Uehara J"", ""pmid"": ""39833563""}]",2,1,2
+aff_51aeaff5e5e3b3d9,aff_5d7553c4e919cc25,"[""Capurro C"", ""Cocca M"", ""Cutrera N"", ""Di Giusto G"", ""Ford P"", ""Molina Ponce T""]","[""39485629""]","[{""autor"": ""Capurro C"", ""pmid"": ""39485629""}, {""autor"": ""Cocca M"", ""pmid"": ""39485629""}, {""autor"": ""Cutrera N"", ""pmid"": ""39485629""}, {""autor"": ""Di Giusto G"", ""pmid"": ""39485629""}, {""autor"": ""Ford P"", ""pmid"": ""39485629""}, {""autor"": ""Molina Ponce T"", ""pmid"": ""39485629""}]",6,1,6
+aff_54a8b64a73a8363a,aff_f983070427ab2705,"[""Damiano A""]","[""28258575""]","[{""autor"": ""Damiano A"", ""pmid"": ""28258575""}]",1,1,1
+aff_54ea707af7991ac4,aff_d4d4e25992912100,"[""Collavini S""]","[""33692740""]","[{""autor"": ""Collavini S"", ""pmid"": ""33692740""}]",1,1,1
+aff_5583129e55d9bcb7,aff_9a941c1453ee3534,"[""Della-Maggiore V""]","[""39074983""]","[{""autor"": ""Della-Maggiore V"", ""pmid"": ""39074983""}]",1,1,1
+aff_5583129e55d9bcb7,aff_edc29b1ccca97321,"[""Della-Maggiore V""]","[""39074983""]","[{""autor"": ""Della-Maggiore V"", ""pmid"": ""39074983""}]",1,1,1
+aff_55c20d3f08a996dc,aff_98a8b450e5e90100,"[""Medina J""]","[""29755331""]","[{""autor"": ""Medina J"", ""pmid"": ""29755331""}]",1,1,1
+aff_57833ca493b15fef,aff_81be4ded416def6c,"[""Murer M"", ""Rela L""]","[""34823607""]","[{""autor"": ""Murer M"", ""pmid"": ""34823607""}, {""autor"": ""Rela L"", ""pmid"": ""34823607""}]",2,1,2
+aff_5addbefca958a52e,aff_849cfdb1cdb65021,"[""Damiano A""]","[""36717499""]","[{""autor"": ""Damiano A"", ""pmid"": ""36717499""}]",1,1,1
+aff_5b17cc643387a3df,aff_e00bf8b996446a67,"[""Medina J""]","[""35217797""]","[{""autor"": ""Medina J"", ""pmid"": ""35217797""}]",1,1,1
+aff_5c85927a9e37cc3d,aff_c0f4b8b9686a3384,"[""Boccaccio G"", ""Borrat A"", ""Evangelisti F"", ""Melani M"", ""Perez-Pandolfo S"", ""Peters T"", ""Rodriguez F"", ""Sommario N""]","[""40595449""]","[{""autor"": ""Boccaccio G"", ""pmid"": ""40595449""}, {""autor"": ""Borrat A"", ""pmid"": ""40595449""}, {""autor"": ""Evangelisti F"", ""pmid"": ""40595449""}, {""autor"": ""Melani M"", ""pmid"": ""40595449""}, {""autor"": ""Perez-Pandolfo S"", ""pmid"": ""40595449""}, {""autor"": ""Peters T"", ""pmid"": ""40595449""}, {""autor"": ""Rodriguez F"", ""pmid"": ""40595449""}, {""autor"": ""Sommario N"", ""pmid"": ""40595449""}]",8,1,8
+aff_5c85927a9e37cc3d,aff_eb66b7d79751c0d5,"[""Boccaccio G"", ""Melani M""]","[""40595449""]","[{""autor"": ""Boccaccio G"", ""pmid"": ""40595449""}, {""autor"": ""Melani M"", ""pmid"": ""40595449""}]",2,1,2
+aff_5cc17ba9a3be32b3,aff_82efff6c0763a986,"[""Melani M""]","[""40603573""]","[{""autor"": ""Melani M"", ""pmid"": ""40603573""}]",1,1,1
+aff_5d7553c4e919cc25,aff_e5f9c92d47206008,"[""Netti V""]","[""42404802""]","[{""autor"": ""Netti V"", ""pmid"": ""42404802""}]",1,1,1
+aff_5ebe703ca5ab3d27,aff_b7727a6b6fdce087,"[""Zerbetto De Palma G""]","[""34293244""]","[{""autor"": ""Zerbetto De Palma G"", ""pmid"": ""34293244""}]",1,1,1
+aff_5f7e79808111e878,aff_843454e9a23523a6,"[""Damiano A""]","[""32482148""]","[{""autor"": ""Damiano A"", ""pmid"": ""32482148""}]",1,1,1
+aff_60dafe0ed3a8afdd,aff_e20f984e26c57db0,"[""Blake M""]","[""36227397""]","[{""autor"": ""Blake M"", ""pmid"": ""36227397""}]",1,1,1
+aff_60f30097ab50e683,aff_be102b1b3275f070,"[""Garcia-Sanz P"", ""Granado N"", ""Moratalla R"", ""Sanz-Magro A"", ""Solis O""]","[""31833146""]","[{""autor"": ""Garcia-Sanz P"", ""pmid"": ""31833146""}, {""autor"": ""Granado N"", ""pmid"": ""31833146""}, {""autor"": ""Moratalla R"", ""pmid"": ""31833146""}, {""autor"": ""Sanz-Magro A"", ""pmid"": ""31833146""}, {""autor"": ""Solis O"", ""pmid"": ""31833146""}]",5,1,5
+aff_61fbc19f32d41763,aff_620f45ecb4fa96bd,"[""Damiano A""]","[""38089623""]","[{""autor"": ""Damiano A"", ""pmid"": ""38089623""}]",1,1,1
+aff_6234f24add618aef,aff_d483779fbf2abd07,"[""Jancic C""]","[""34900753""]","[{""autor"": ""Jancic C"", ""pmid"": ""34900753""}]",1,1,1
+aff_623532a2745f8700,aff_638dacceba6b8d0c,"[""Piriz J""]","[""27419661""]","[{""autor"": ""Piriz J"", ""pmid"": ""27419661""}]",1,1,1
+aff_646eb37713d89034,aff_bcee52ab4aca5753,"[""Damiano A""]","[""42327001""]","[{""autor"": ""Damiano A"", ""pmid"": ""42327001""}]",1,1,1
+aff_66c73a8ce5a882d9,aff_9d17263d51f9eea6,"[""Della-Maggiore V""]","[""41040166""]","[{""autor"": ""Della-Maggiore V"", ""pmid"": ""41040166""}]",1,1,1
+aff_66c73a8ce5a882d9,aff_f41f4680c2307ace,"[""Della-Maggiore V""]","[""41040166""]","[{""autor"": ""Della-Maggiore V"", ""pmid"": ""41040166""}]",1,1,1
+aff_67c8cf5c8edf7250,aff_b680313360492a21,"[""Bocai N""]","[""31630412""]","[{""autor"": ""Bocai N"", ""pmid"": ""31630412""}]",1,1,1
+aff_68a215d3a9d46b87,aff_846fef047571448d,"[""Viola H""]","[""42086667""]","[{""autor"": ""Viola H"", ""pmid"": ""42086667""}]",1,1,1
+aff_6a132b6c9c092e49,aff_aedca35129f0fa22,"[""Damiano A""]","[""34267676""]","[{""autor"": ""Damiano A"", ""pmid"": ""34267676""}]",1,1,1
+aff_6adeef7793aa5411,aff_7a8dd683d82dcf1e,"[""Lacour A"", ""Romussi S""]","[""41571758""]","[{""autor"": ""Lacour A"", ""pmid"": ""41571758""}, {""autor"": ""Romussi S"", ""pmid"": ""41571758""}]",2,1,2
+aff_6ae0796c5c72dd64,aff_d37dcaf256b62523,"[""Walker A""]","[""41423699""]","[{""autor"": ""Walker A"", ""pmid"": ""41423699""}]",1,1,1
+aff_6ba3d3b9e1f4db26,aff_8a89f4ad1a2348a9,"[""Bussey T"", ""Saksida L""]","[""29085903""]","[{""autor"": ""Bussey T"", ""pmid"": ""29085903""}, {""autor"": ""Saksida L"", ""pmid"": ""29085903""}]",2,1,2
+aff_6c3e9f942b0e008a,aff_93130deb441cb8f0,"[""Escudero C""]","[""36117714""]","[{""autor"": ""Escudero C"", ""pmid"": ""36117714""}]",1,1,1
+aff_6c5792e934f2c3b3,aff_7e121574a05e66ef,"[""Freudenthal R"", ""Romano A"", ""Salles A""]","[""28439227""]","[{""autor"": ""Freudenthal R"", ""pmid"": ""28439227""}, {""autor"": ""Romano A"", ""pmid"": ""28439227""}, {""autor"": ""Salles A"", ""pmid"": ""28439227""}]",3,1,3
+aff_6d2dd8dcfaa28249,aff_c8f3f0065f8b994e,"[""Riedel C""]","[""37274341""]","[{""autor"": ""Riedel C"", ""pmid"": ""37274341""}]",1,1,1
+aff_6d7a349a4b6031bf,aff_7d988c4443f307d5,"[""Gornalusse G"", ""Hladik F"", ""Levy C"", ""Vo P""]","[""38019897""]","[{""autor"": ""Gornalusse G"", ""pmid"": ""38019897""}, {""autor"": ""Hladik F"", ""pmid"": ""38019897""}, {""autor"": ""Levy C"", ""pmid"": ""38019897""}, {""autor"": ""Vo P"", ""pmid"": ""38019897""}]",4,1,4
+aff_6d7a349a4b6031bf,aff_d63945c2bb3d569e,"[""Hladik F""]","[""38019897""]","[{""autor"": ""Hladik F"", ""pmid"": ""38019897""}]",1,1,1
+aff_6e8ca31d34ff20ec,aff_e363a0e01dffa1c0,"[""Della-Maggiore V""]","[""42313886""]","[{""autor"": ""Della-Maggiore V"", ""pmid"": ""42313886""}]",1,1,1
+aff_700a7a4c184d6f73,aff_f13a48fb3253ee4b,"[""Ozu M""]","[""28486763""]","[{""autor"": ""Ozu M"", ""pmid"": ""28486763""}]",1,1,1
+aff_70877d91829891ad,aff_ed49356c1fc536f9,"[""Moncada D""]","[""42086667""]","[{""autor"": ""Moncada D"", ""pmid"": ""42086667""}]",1,1,1
+aff_71c64e9fc35ba201,aff_80e97758033b2e20,"[""Belluscio M"", ""Coletti M"", ""Silva A""]","[""38950066""]","[{""autor"": ""Belluscio M"", ""pmid"": ""38950066""}, {""autor"": ""Coletti M"", ""pmid"": ""38950066""}, {""autor"": ""Silva A"", ""pmid"": ""38950066""}]",3,1,3
+aff_72441bcd52dc4cdd,aff_a2e2a28b8a1efb3c,"[""Chara O""]","[""35705598""]","[{""autor"": ""Chara O"", ""pmid"": ""35705598""}]",1,1,1
+aff_7583b4a982c698e9,aff_d125b9f3ebccdf67,"[""Marques da Silva W""]","[""41709136""]","[{""autor"": ""Marques da Silva W"", ""pmid"": ""41709136""}]",1,1,1
+aff_75a132773bc86da1,aff_99c9d63d8ddecf4f,"[""Quintero-Arciniegas L""]","[""35431989""]","[{""autor"": ""Quintero-Arciniegas L"", ""pmid"": ""35431989""}]",1,1,1
+aff_789f6b4484afab70,aff_81d6ffcea2ee2436,"[""Martinez N""]","[""30564135""]","[{""autor"": ""Martinez N"", ""pmid"": ""30564135""}]",1,1,1
+aff_7917923f159f2c75,aff_d980a4294f72dfd1,"[""Greer C""]","[""30628061""]","[{""autor"": ""Greer C"", ""pmid"": ""30628061""}]",1,1,1
+aff_792f9b1c452818fc,aff_9cff4d0cc8cde6bf,"[""Garcia-Venzor A"", ""Toiber D""]","[""34804128""]","[{""autor"": ""Garcia-Venzor A"", ""pmid"": ""34804128""}, {""autor"": ""Toiber D"", ""pmid"": ""34804128""}]",2,1,2
+aff_7be356d8a2c9fa2e,aff_b5a4005c183ba476,"[""Vlachovsky S""]","[""40577142""]","[{""autor"": ""Vlachovsky S"", ""pmid"": ""40577142""}]",1,1,1
+aff_7c732adf1e570f60,aff_ce6f79848aec9c32,"[""Bumaschny V""]","[""30283405""]","[{""autor"": ""Bumaschny V"", ""pmid"": ""30283405""}]",1,1,1
+aff_7d988c4443f307d5,aff_d63945c2bb3d569e,"[""Hladik F""]","[""38019897""]","[{""autor"": ""Hladik F"", ""pmid"": ""38019897""}]",1,1,1
+aff_7f5ceab98bd48c7c,aff_93130deb441cb8f0,"[""Galaviz-Hernandez C""]","[""36117714""]","[{""autor"": ""Galaviz-Hernandez C"", ""pmid"": ""36117714""}]",1,1,1
+aff_7f97c3e3ee25024f,aff_d802cd1985d1e283,"[""Bom A"", ""Luz D"", ""Piazza R""]","[""42347511""]","[{""autor"": ""Bom A"", ""pmid"": ""42347511""}, {""autor"": ""Luz D"", ""pmid"": ""42347511""}, {""autor"": ""Piazza R"", ""pmid"": ""42347511""}]",3,1,3
+aff_80c59da7f77a18cb,aff_c4baa78702143c0e,"[""Kiffer F""]","[""31630412""]","[{""autor"": ""Kiffer F"", ""pmid"": ""31630412""}]",1,1,1
+aff_80c59da7f77a18cb,aff_e508bee9fda6ff68,"[""Kiffer F""]","[""31630412""]","[{""autor"": ""Kiffer F"", ""pmid"": ""31630412""}]",1,1,1
+aff_81d6ffcea2ee2436,aff_b69ee39b3cc67bfe,"[""Farina M""]","[""30564135""]","[{""autor"": ""Farina M"", ""pmid"": ""30564135""}]",1,1,1
+aff_8266523032086167,aff_97b628f7572875f9,"[""Damiano A""]","[""32129110""]","[{""autor"": ""Damiano A"", ""pmid"": ""32129110""}]",1,1,1
+aff_84d60a0f2c172882,aff_c19da172802ef94f,"[""Wappner P""]","[""40603573""]","[{""autor"": ""Wappner P"", ""pmid"": ""40603573""}]",1,1,1
+aff_891224f51168c3c9,aff_e2bb4fe4ec2a830f,"[""Karikari T""]","[""31630412""]","[{""autor"": ""Karikari T"", ""pmid"": ""31630412""}]",1,1,1
+aff_89dc26118788c47f,aff_ec82c621f7aded17,"[""Gonzalez-Vinceiro L"", ""Hiraldo-Gonzalez L"", ""Mayo F"", ""Ramirez-Lorca R""]","[""38956598""]","[{""autor"": ""Gonzalez-Vinceiro L"", ""pmid"": ""38956598""}, {""autor"": ""Hiraldo-Gonzalez L"", ""pmid"": ""38956598""}, {""autor"": ""Mayo F"", ""pmid"": ""38956598""}, {""autor"": ""Ramirez-Lorca R"", ""pmid"": ""38956598""}]",4,1,4
+aff_8d23ad52c9feccfa,aff_e20f984e26c57db0,"[""Bongiovanni V"", ""Galo A"", ""Katz M"", ""Pagani M""]","[""41208638""]","[{""autor"": ""Bongiovanni V"", ""pmid"": ""41208638""}, {""autor"": ""Galo A"", ""pmid"": ""41208638""}, {""autor"": ""Katz M"", ""pmid"": ""41208638""}, {""autor"": ""Pagani M"", ""pmid"": ""41208638""}]",4,1,4
+aff_8e3de54dd41b7735,aff_ff10bfa28896ed6e,"[""Sanchez-Nino M""]","[""27733175""]","[{""autor"": ""Sanchez-Nino M"", ""pmid"": ""27733175""}]",1,1,1
+aff_8e4e0251c391bfd6,aff_a0c58bcca0fd4272,"[""Ortiz A""]","[""27733175""]","[{""autor"": ""Ortiz A"", ""pmid"": ""27733175""}]",1,1,1
+aff_8e776c6beae99658,aff_93130deb441cb8f0,"[""Giachini F""]","[""36117714""]","[{""autor"": ""Giachini F"", ""pmid"": ""36117714""}]",1,1,1
+aff_8ee067b62cdb310b,aff_c3520b1a4102f885,"[""Paz R""]","[""41817828""]","[{""autor"": ""Paz R"", ""pmid"": ""41817828""}]",1,1,1
+aff_8ee067b62cdb310b,aff_f2f41d2c80be1556,"[""Belforte J"", ""Paz R"", ""Rela L"", ""Tubert C""]","[""41817828""]","[{""autor"": ""Belforte J"", ""pmid"": ""41817828""}, {""autor"": ""Paz R"", ""pmid"": ""41817828""}, {""autor"": ""Rela L"", ""pmid"": ""41817828""}, {""autor"": ""Tubert C"", ""pmid"": ""41817828""}]",4,1,4
+aff_9064db81ef102fa7,aff_91913fe89ca672a6,"[""Rayes D""]","[""41571758""]","[{""autor"": ""Rayes D"", ""pmid"": ""41571758""}]",1,1,1
+aff_90d0edc5647ab870,aff_de0b1dcb964173fe,"[""Damiano A""]","[""28986756""]","[{""autor"": ""Damiano A"", ""pmid"": ""28986756""}]",1,1,1
+aff_90f3214ef1a79e1c,aff_ccdd92511c648e30,"[""Belluscio M"", ""Merlo S""]","[""38355584""]","[{""autor"": ""Belluscio M"", ""pmid"": ""38355584""}, {""autor"": ""Merlo S"", ""pmid"": ""38355584""}]",2,1,2
+aff_918ec50751c2e4d7,aff_a0c82f8177ce87ae,"[""San Gil R""]","[""41423699""]","[{""autor"": ""San Gil R"", ""pmid"": ""41423699""}]",1,1,1
+aff_93130deb441cb8f0,aff_a4de4d80af177a8d,"[""Damiano A""]","[""36117714""]","[{""autor"": ""Damiano A"", ""pmid"": ""36117714""}]",1,1,1
+aff_93130deb441cb8f0,aff_d021534fc37a5a01,"[""Garcia-Robles R""]","[""36117714""]","[{""autor"": ""Garcia-Robles R"", ""pmid"": ""36117714""}]",1,1,1
+aff_93e230e73595ef31,aff_cf2f6dce46d7c2a1,"[""Chang M"", ""Harutyunyan A"", ""Robinson K"", ""Venturato J""]","[""41423699""]","[{""autor"": ""Chang M"", ""pmid"": ""41423699""}, {""autor"": ""Harutyunyan A"", ""pmid"": ""41423699""}, {""autor"": ""Robinson K"", ""pmid"": ""41423699""}, {""autor"": ""Venturato J"", ""pmid"": ""41423699""}]",4,1,4
+aff_93e230e73595ef31,aff_f1035155a57362ca,"[""Chang M"", ""Chye Y"", ""Venturato J""]","[""41423699""]","[{""autor"": ""Chang M"", ""pmid"": ""41423699""}, {""autor"": ""Chye Y"", ""pmid"": ""41423699""}, {""autor"": ""Venturato J"", ""pmid"": ""41423699""}]",3,1,3
+aff_964a98b67e27aea8,aff_9fc4a4ff7698cbe3,"[""Martinez M""]","[""36710956""]","[{""autor"": ""Martinez M"", ""pmid"": ""36710956""}]",1,1,1
+aff_976128492420de80,aff_bcee52ab4aca5753,"[""Reynoso M""]","[""42327001""]","[{""autor"": ""Reynoso M"", ""pmid"": ""42327001""}]",1,1,1
+aff_97ad00359151f0d9,aff_c0fdbf20a931d58e,"[""Rivarola V""]","[""31811544""]","[{""autor"": ""Rivarola V"", ""pmid"": ""31811544""}]",1,1,1
+aff_9a3894a764dbe156,aff_f73937e0e22e9999,"[""Murer M""]","[""27431292""]","[{""autor"": ""Murer M"", ""pmid"": ""27431292""}]",1,1,1
+aff_9a941c1453ee3534,aff_edc29b1ccca97321,"[""Della-Maggiore V""]","[""39074983""]","[{""autor"": ""Della-Maggiore V"", ""pmid"": ""39074983""}]",1,1,1
+aff_9b97e19f8ff415b6,aff_9df27d65029ec4f0,"[""Paraiso-Luna J""]","[""31630412""]","[{""autor"": ""Paraiso-Luna J"", ""pmid"": ""31630412""}]",1,1,1
+aff_9d121fff2a1f6e1b,aff_cfd79c0a2a5e2ca5,"[""Sobrevia L""]","[""38827994""]","[{""autor"": ""Sobrevia L"", ""pmid"": ""38827994""}]",1,1,1
+aff_9d121fff2a1f6e1b,aff_edb0c189f5bdac98,"[""Sobrevia L""]","[""38827994""]","[{""autor"": ""Sobrevia L"", ""pmid"": ""38827994""}]",1,1,1
+aff_9d17263d51f9eea6,aff_b0d9700e05a40eed,"[""Doyon J""]","[""32900965""]","[{""autor"": ""Doyon J"", ""pmid"": ""32900965""}]",1,1,1
+aff_9d17263d51f9eea6,aff_f41f4680c2307ace,"[""Della-Maggiore V""]","[""41040166""]","[{""autor"": ""Della-Maggiore V"", ""pmid"": ""41040166""}]",1,1,1
+aff_9fc4a4ff7698cbe3,aff_bef28628e9901c17,"[""Silva A""]","[""36710956""]","[{""autor"": ""Silva A"", ""pmid"": ""36710956""}]",1,1,1
+aff_9fcba21d7f2313b9,aff_a2561a71dc652c92,"[""Capurro C"", ""Di Giusto G"", ""Ford P"", ""Pizzoni A"", ""Rivarola V""]","[""29243846""]","[{""autor"": ""Capurro C"", ""pmid"": ""29243846""}, {""autor"": ""Di Giusto G"", ""pmid"": ""29243846""}, {""autor"": ""Ford P"", ""pmid"": ""29243846""}, {""autor"": ""Pizzoni A"", ""pmid"": ""29243846""}, {""autor"": ""Rivarola V"", ""pmid"": ""29243846""}]",5,1,5
+aff_a04f49a3af8b2d02,aff_bfa35b8652cd6348,"[""Rodriguez A""]","[""37274341""]","[{""autor"": ""Rodriguez A"", ""pmid"": ""37274341""}]",1,1,1
+aff_a04f49a3af8b2d02,aff_cad92dcdbe845473,"[""Guzman-Gutierrez E"", ""Mennickent D""]","[""37274341""]","[{""autor"": ""Guzman-Gutierrez E"", ""pmid"": ""37274341""}, {""autor"": ""Mennickent D"", ""pmid"": ""37274341""}]",2,1,2
+aff_a81f36201bca7f01,aff_ddd975eed5f34b26,"[""Della-Maggiore V""]","[""38332013""]","[{""autor"": ""Della-Maggiore V"", ""pmid"": ""38332013""}]",1,1,1
+aff_a96b1ec6159add56,aff_f617c31b55166e1b,"[""Rosso O""]","[""39851628""]","[{""autor"": ""Rosso O"", ""pmid"": ""39851628""}]",1,1,1
+aff_aa7a38c296ccdcdb,aff_e93d2dd2b4d7a5f8,"[""Belluscio M""]","[""33240056""]","[{""autor"": ""Belluscio M"", ""pmid"": ""33240056""}]",1,1,1
+aff_ad79c99e60df3b18,aff_f02ac9398e504504,"[""Igaz L"", ""Vassallu F""]","[""40766632""]","[{""autor"": ""Igaz L"", ""pmid"": ""40766632""}, {""autor"": ""Vassallu F"", ""pmid"": ""40766632""}]",2,1,2
+aff_afc38922ae1d120b,aff_e5f9c92d47206008,"[""Igaz L"", ""Nieva G"", ""Vassallu F""]","[""42404802""]","[{""autor"": ""Igaz L"", ""pmid"": ""42404802""}, {""autor"": ""Nieva G"", ""pmid"": ""42404802""}, {""autor"": ""Vassallu F"", ""pmid"": ""42404802""}]",3,1,3
+aff_b1895623d35d2225,aff_e81b046ac1ffcf76,"[""Ramos-Hryb A""]","[""32319840""]","[{""autor"": ""Ramos-Hryb A"", ""pmid"": ""32319840""}]",1,1,1
+aff_b2687fa9a6f7b61f,aff_bdd11945a8209b51,"[""Krakauer J""]","[""35225229""]","[{""autor"": ""Krakauer J"", ""pmid"": ""35225229""}]",1,1,1
+aff_b2687fa9a6f7b61f,aff_f068b2531bc4c253,"[""Krakauer J""]","[""35225229""]","[{""autor"": ""Krakauer J"", ""pmid"": ""35225229""}]",1,1,1
+aff_b3cb2146fe063764,aff_be102b1b3275f070,"[""Moratalla R"", ""Suarez L""]","[""30746639""]","[{""autor"": ""Moratalla R"", ""pmid"": ""30746639""}, {""autor"": ""Suarez L"", ""pmid"": ""30746639""}]",2,1,2
+aff_b6123071603cb39f,aff_e00bf8b996446a67,"[""Iribarne J"", ""Riboldi J""]","[""42086667""]","[{""autor"": ""Iribarne J"", ""pmid"": ""42086667""}, {""autor"": ""Riboldi J"", ""pmid"": ""42086667""}]",2,1,2
+aff_b85e955d3843554c,aff_bb59763f8d8b0187,"[""Katz M""]","[""40595449""]","[{""autor"": ""Katz M"", ""pmid"": ""40595449""}]",1,1,1
+aff_b879c9e3d0a6a199,aff_fabd853f7c70ec55,"[""Correale J""]","[""41208638""]","[{""autor"": ""Correale J"", ""pmid"": ""41208638""}]",1,1,1
+aff_b8b11627be8b8e1b,aff_e2d98346afc74265,"[""Taravini I""]","[""30746639""]","[{""autor"": ""Taravini I"", ""pmid"": ""30746639""}]",1,1,1
+aff_b8dd4f653d4b2d82,aff_f8b1c72d2c26f0a3,"[""Trimarchi H""]","[""26842625"", ""27015899""]","[{""autor"": ""Trimarchi H"", ""pmid"": ""26842625""}, {""autor"": ""Trimarchi H"", ""pmid"": ""27015899""}]",1,2,2
+aff_bc70c78588b67e6b,aff_d999260a07edd193,"[""Arini P""]","[""39851628""]","[{""autor"": ""Arini P"", ""pmid"": ""39851628""}]",1,1,1
+aff_bcee52ab4aca5753,aff_fbec47c27962b8d3,"[""Damiano A""]","[""35095555""]","[{""autor"": ""Damiano A"", ""pmid"": ""35095555""}]",1,1,1
+aff_bd0565296f830634,aff_bffecf569eede212,"[""Merlo E""]","[""31690927""]","[{""autor"": ""Merlo E"", ""pmid"": ""31690927""}]",1,1,1
+aff_bd0565296f830634,aff_c33b723d22027459,"[""Merlo E""]","[""31690927""]","[{""autor"": ""Merlo E"", ""pmid"": ""31690927""}]",1,1,1
+aff_bd0565296f830634,aff_cfa784efefbd3363,"[""Canales-Johnson A""]","[""31690927""]","[{""autor"": ""Canales-Johnson A"", ""pmid"": ""31690927""}]",1,1,1
+aff_bdd11945a8209b51,aff_f068b2531bc4c253,"[""Krakauer J""]","[""35225229""]","[{""autor"": ""Krakauer J"", ""pmid"": ""35225229""}]",1,1,1
+aff_bffecf569eede212,aff_c33b723d22027459,"[""Merlo E""]","[""31690927""]","[{""autor"": ""Merlo E"", ""pmid"": ""31690927""}]",1,1,1
+aff_c0f4b8b9686a3384,aff_eb66b7d79751c0d5,"[""Boccaccio G"", ""Melani M""]","[""40595449""]","[{""autor"": ""Boccaccio G"", ""pmid"": ""40595449""}, {""autor"": ""Melani M"", ""pmid"": ""40595449""}]",2,1,2
+aff_c1843b289d883e8b,aff_d040740adde29d9e,"[""Albert S""]","[""35225229""]","[{""autor"": ""Albert S"", ""pmid"": ""35225229""}]",1,1,1
+aff_c3520b1a4102f885,aff_f2f41d2c80be1556,"[""Paz R""]","[""41817828""]","[{""autor"": ""Paz R"", ""pmid"": ""41817828""}]",1,1,1
+aff_c4baa78702143c0e,aff_e508bee9fda6ff68,"[""Kiffer F""]","[""31630412""]","[{""autor"": ""Kiffer F"", ""pmid"": ""31630412""}]",1,1,1
+aff_c6401d047eb855e2,aff_e5f9c92d47206008,"[""Beltramone N"", ""Capurro C"", ""Casal J"", ""Celi A"", ""Di Giusto G"", ""Ford P"", ""Grippo A"", ""Mechali A""]","[""41824201""]","[{""autor"": ""Beltramone N"", ""pmid"": ""41824201""}, {""autor"": ""Capurro C"", ""pmid"": ""41824201""}, {""autor"": ""Casal J"", ""pmid"": ""41824201""}, {""autor"": ""Celi A"", ""pmid"": ""41824201""}, {""autor"": ""Di Giusto G"", ""pmid"": ""41824201""}, {""autor"": ""Ford P"", ""pmid"": ""41824201""}, {""autor"": ""Grippo A"", ""pmid"": ""41824201""}, {""autor"": ""Mechali A"", ""pmid"": ""41824201""}]",8,1,8
+aff_ca730e5bf1197480,aff_ee6a6208e8bd2e18,"[""Igaz L""]","[""42086667""]","[{""autor"": ""Igaz L"", ""pmid"": ""42086667""}]",1,1,1
+aff_cab4fee785e8fad6,aff_d210e1871288a74e,"[""Carbajosa N"", ""Gironacci M""]","[""36227397""]","[{""autor"": ""Carbajosa N"", ""pmid"": ""36227397""}, {""autor"": ""Gironacci M"", ""pmid"": ""36227397""}]",2,1,2
+aff_cf2f6dce46d7c2a1,aff_f1035155a57362ca,"[""Chang M"", ""Venturato J""]","[""41423699""]","[{""autor"": ""Chang M"", ""pmid"": ""41423699""}, {""autor"": ""Venturato J"", ""pmid"": ""41423699""}]",2,1,2
+aff_cfd79c0a2a5e2ca5,aff_edb0c189f5bdac98,"[""Sobrevia L""]","[""38827994""]","[{""autor"": ""Sobrevia L"", ""pmid"": ""38827994""}]",1,1,1
+aff_d040740adde29d9e,aff_f8ac30ed5b0b9e5e,"[""Jang J""]","[""35225229""]","[{""autor"": ""Jang J"", ""pmid"": ""35225229""}]",1,1,1
+aff_d21c583e5bd869a9,aff_ea4d4de5fbb3ba02,"[""Seyahian E"", ""Zotta E""]","[""31956716""]","[{""autor"": ""Seyahian E"", ""pmid"": ""31956716""}, {""autor"": ""Zotta E"", ""pmid"": ""31956716""}]",2,1,2
+aff_d4357d2d3141bfb7,aff_e25e6ae6512507c0,"[""Gallo F""]","[""29085903""]","[{""autor"": ""Gallo F"", ""pmid"": ""29085903""}]",1,1,1
+aff_d6c8886602313529,aff_e20f984e26c57db0,"[""Berdasco C"", ""Celi A"", ""Pinto A""]","[""36227397""]","[{""autor"": ""Berdasco C"", ""pmid"": ""36227397""}, {""autor"": ""Celi A"", ""pmid"": ""36227397""}, {""autor"": ""Pinto A"", ""pmid"": ""36227397""}]",3,1,3
+aff_d975544b73c2a5f0,aff_f854683b07196682,"[""Damiano A"", ""Reynoso M""]","[""42601945""]","[{""autor"": ""Damiano A"", ""pmid"": ""42601945""}, {""autor"": ""Reynoso M"", ""pmid"": ""42601945""}]",2,1,2
+aff_e3a9932312863c7d,aff_e6b686ac84c96869,"[""Della-Maggiore V""]","[""36587288""]","[{""autor"": ""Della-Maggiore V"", ""pmid"": ""36587288""}]",1,1,1

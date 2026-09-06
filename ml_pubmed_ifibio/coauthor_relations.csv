@@ -1,0 +1,6284 @@
+Author1,Author2,Weight
+Amaral M,Ibarra C,22
+Amaral M,Sacerdoti F,20
+Ibarra C,Sacerdoti F,17
+Damiano A,Martinez N,17
+Capurro C,Di Giusto G,12
+Capurro C,Ford P,12
+Damiano A,Reppetti J,11
+Bernabeu R,Faillace M,11
+Farina M,Martinez N,11
+Di Giusto G,Ford P,11
+Damiano A,Giachini F,11
+Damiano A,Farina M,11
+Goldstein J,Pinto A,9
+Damiano A,Escudero C,9
+Pomeranz V,Schiel A,8
+Murer M,Tubert C,8
+Pomeranz V,Trimarchi H,8
+Muryan A,Zotta E,8
+Murer M,Rela L,8
+Muryan A,Trimarchi H,8
+Muryan A,Schiel A,8
+Pomeranz V,Zotta E,8
+Muryan A,Rengel T,8
+Muryan A,Pomeranz V,8
+Pomeranz V,Rengel T,8
+Forrester M,Schiel A,8
+Forrester M,Zotta E,8
+Forrester M,Trimarchi H,8
+Rengel T,Trimarchi H,8
+Forrester M,Rengel T,8
+Forrester M,Pomeranz V,8
+Forrester M,Muryan A,8
+Canzonieri R,Zotta E,8
+Canzonieri R,Trimarchi H,8
+Canzonieri R,Schiel A,8
+Canzonieri R,Rengel T,8
+Canzonieri R,Pomeranz V,8
+Canzonieri R,Muryan A,8
+Canzonieri R,Forrester M,8
+Damiano A,Galaviz-Hernandez C,8
+Escudero C,Giachini F,8
+Rengel T,Schiel A,8
+Rengel T,Zotta E,8
+Belforte J,Murer M,8
+Martinez N,Reppetti J,8
+Schiel A,Trimarchi H,8
+Blake M,Boccia M,8
+Di Giusto G,Rivarola V,8
+Capurro C,Rivarola V,8
+Ford P,Rivarola V,8
+Schiel A,Zotta E,8
+Murer M,Paz R,8
+Trimarchi H,Zotta E,8
+Ibarra C,Palermo M,8
+Damiano A,Medina Y,7
+Paulero M,Zotta E,7
+Paulero M,Pomeranz V,7
+Paulero M,Rengel T,7
+Paulero M,Schiel A,7
+Paulero M,Trimarchi H,7
+Canzonieri R,Lombi F,7
+Boccia M,Krawczyk M,7
+Blake M,Krawczyk M,7
+Amaral M,Gomez F,7
+Iriarte R,Zotta E,7
+Escudero C,Galaviz-Hernandez C,7
+Bernabeu R,Pisera-Fuster A,7
+Muryan A,Paulero M,7
+Igaz L,Vassallu F,7
+Iriarte R,Trimarchi H,7
+Iriarte R,Schiel A,7
+Moratalla R,Murer M,7
+Morici J,Weisstaub N,7
+Canzonieri R,Iriarte R,7
+Canzonieri R,Paulero M,7
+Forrester M,Iriarte R,7
+Forrester M,Paulero M,7
+Lombi F,Zotta E,7
+Lombi F,Trimarchi H,7
+Lombi F,Schiel A,7
+Lombi F,Rengel T,7
+Lombi F,Pomeranz V,7
+Iriarte R,Muryan A,7
+Lombi F,Muryan A,7
+Iriarte R,Paulero M,7
+Iriarte R,Pomeranz V,7
+Iriarte R,Rengel T,7
+Forrester M,Lombi F,7
+Alvarez R,Amaral M,7
+Amaral M,Palermo M,7
+Damiano A,Sosa-Macias M,6
+Ibarra F,Silberstein C,6
+Lombi F,Paulero M,6
+Iriarte R,Stern A,6
+Iriarte R,Lombi F,6
+Forrester M,Stern A,6
+Canzonieri R,Stern A,6
+Ibarra C,Zotta E,6
+Bekinschtein P,Morici J,6
+Alvarez R,Ibarra C,6
+Damiano A,Szpilbarg N,6
+Garimano N,Ibarra C,6
+Di Ciano L,Ibarra F,6
+Muryan A,Stern A,6
+Azurmendi P,Oddo E,6
+Ibarra F,Oddo E,6
+Paz R,Tubert C,6
+Ibarra F,Vlachovsky S,6
+Galaviz-Hernandez C,Sosa-Macias M,6
+Galaviz-Hernandez C,Giachini F,6
+Sanchez D,Silberstein C,6
+Cataldi A,Ibarra C,6
+Azurmendi P,Ibarra F,6
+Rela L,Tubert C,6
+Rengel T,Stern A,6
+Schiel A,Stern A,6
+Pomeranz V,Stern A,6
+Stern A,Zotta E,6
+Ford P,Pizzoni A,6
+Faillace M,Pisera-Fuster A,6
+Stern A,Trimarchi H,6
+Murer M,Taravini I,6
+Paulero M,Stern A,6
+Capurro C,Netti V,6
+Capurro C,Pizzoni A,6
+Oddo E,Silberstein C,5
+Murer M,Stahl A,5
+Oddo E,Vlachovsky S,5
+Cangelosi A,Geoghegan P,5
+Ford P,Netti V,5
+Paz R,Rela L,5
+Miranda M,Morici J,5
+Gallo F,Weisstaub N,5
+Cangelosi A,Goldstein J,5
+Paulero M,Politei J,5
+Gallo F,Morici J,5
+Andrews J,Schiel A,5
+Gomez F,Ibarra C,5
+Andrews J,Canzonieri R,5
+Andrews J,Forrester M,5
+Andrews J,Muryan A,5
+Andrews J,Pomeranz V,5
+Andrews J,Rengel T,5
+Ibarra C,Paton J,5
+Palermo M,Sacerdoti F,5
+Andrews J,Trimarchi H,5
+Andrews J,Zotta E,5
+Di Ciano L,Oddo E,5
+Azurmendi P,Di Ciano L,5
+Pizzoni A,Rivarola V,5
+Bekinschtein P,Miranda M,5
+Paz R,Stahl A,5
+Stahl A,Tubert C,5
+Di Giusto G,Pizzoni A,5
+Rela L,Stahl A,5
+Muryan A,Politei J,5
+Beltramone N,Capurro C,5
+Lombi F,Stern A,5
+Politei J,Pomeranz V,5
+Alvarez R,Sacerdoti F,5
+Iriarte R,Politei J,5
+Politei J,Rengel T,5
+Politei J,Schiel A,5
+Forrester M,Politei J,5
+Politei J,Stern A,5
+Canzonieri R,Politei J,5
+Politei J,Trimarchi H,5
+Bekinschtein P,Weisstaub N,5
+Politei J,Zotta E,5
+Amaral M,Garimano N,5
+Della-Maggiore V,Solano A,5
+Ibarra C,Paton A,5
+Paton A,Paton J,5
+Geoghegan P,Pinto A,5
+Azurmendi P,Silberstein C,5
+Azurmendi P,Vlachovsky S,5
+Geoghegan P,Goldstein J,5
+Cangelosi A,Pinto A,5
+Fischer Sigel L,Sanchez D,5
+Fischer Sigel L,Silberstein C,5
+Gomez F,Sacerdoti F,5
+Silberstein C,Vlachovsky S,5
+Della-Maggiore V,Lerner G,5
+Di Ciano L,Vlachovsky S,5
+Della-Maggiore V,Jacobacci F,5
+Capurro C,Politi M,5
+Damiano A,Lima V,5
+Medina Y,Reppetti J,5
+Costales-Collaguazo C,Zotta E,5
+Etcheverry T,Farina M,5
+Giachini F,Lima V,5
+Etcheverry T,Martinez N,5
+Escudero C,Sosa-Macias M,5
+Beltramone N,Di Giusto G,4
+Braz B,Murer M,4
+Costales-Collaguazo C,Muryan A,4
+Sacerdoti F,Zotta E,4
+Canzonieri R,Costales-Collaguazo C,4
+Capurro C,Fernandez J,4
+Ochoa F,Zotta E,4
+Belforte J,Taravini I,4
+Beltramone N,Ford P,4
+Piazza R,Sacerdoti F,4
+Belforte J,Braz B,4
+Martinez N,Medina Y,4
+Costales-Collaguazo C,Trimarchi H,4
+Della-Maggiore V,Griffa G,4
+Beltramone N,Rivarola V,4
+Andrews J,Paulero M,4
+Bekinschtein P,Gallo F,4
+Giachini F,Sosa-Macias M,4
+Costales-Collaguazo C,Pomeranz V,4
+Krawczyk M,Millan J,4
+Farina M,Reppetti J,4
+Costales-Collaguazo C,Schiel A,4
+Blake M,Millan J,4
+Boccia M,Millan J,4
+Lombi F,Politei J,4
+Keifman E,Murer M,4
+Costales-Collaguazo C,Rengel T,4
+Costales-Collaguazo C,Iriarte R,4
+Amaral M,Luz D,4
+Amaral M,Piazza R,4
+Miranda M,Weisstaub N,4
+Costales-Collaguazo C,Forrester M,4
+Luz D,Piazza R,4
+Luz D,Sacerdoti F,4
+Damiano A,Sierra M,4
+Gallo F,Miranda M,4
+Fernandez J,Politi M,4
+Castro Parodi M,Damiano A,4
+Escudero C,Lima V,4
+Damiano A,Garcia-Robles R,4
+Della-Maggiore V,Yeffal A,4
+Damiano A,Ibarra C,4
+Di Giusto G,Netti V,4
+Faillace M,Medrano M,4
+Ibarra C,Scalise M,4
+Reppetti J,Szpilbarg N,4
+Bernabeu R,Medrano M,4
+Costales-Collaguazo C,Paulero M,4
+Corominas A,Damiano A,4
+Di Ciano L,Silberstein C,4
+Ibarra C,Silberstein C,4
+Martinez N,Szpilbarg N,4
+Cataldi A,Vilte D,4
+Ibarra C,Vilte D,4
+Castro-Parodi M,Damiano A,4
+Ayala-Ramirez P,Damiano A,4
+Andrews J,Lombi F,4
+Andrews J,Araoz A,4
+Araoz A,Pomeranz V,4
+Araoz A,Lombi F,4
+Andrews J,Iriarte R,4
+Araoz A,Zotta E,4
+Araoz A,Trimarchi H,4
+Araoz A,Schiel A,4
+Araoz A,Rengel T,4
+Araoz A,Muryan A,4
+Costales-Collaguazo C,Stern A,4
+Amaral M,Scalise M,4
+Araoz A,Forrester M,4
+Araoz A,Canzonieri R,4
+Armony J,Jacobacci F,3
+Amaral M,Jancic C,3
+Armony J,Jovicich J,3
+Ferreira R,Sacerdoti F,3
+Della-Maggiore V,Jovicich J,3
+Armony J,Della-Maggiore V,3
+Franchi A,Ibarra C,3
+Franchi A,Sacerdoti F,3
+Armony J,Doyon J,3
+Della-Maggiore V,Doyon J,3
+Bernal A,Palermo M,3
+Damiano A,Seyahian E,3
+Fernandez N,Sierra M,3
+Fernandez-Brando R,Palermo M,3
+Andrews J,Politei J,3
+Damiano A,Fernandez N,3
+Araoz A,Paulero M,3
+Damiano A,Sacerdoti F,3
+Bernal A,Ibarra C,3
+Andrews J,Stern A,3
+Ferreira R,Piazza R,3
+Araoz A,Iriarte R,3
+Ferreira R,Luz D,3
+Riquelme L,Solano A,3
+Amaral M,Zotta E,3
+Aban C,Martinez N,3
+Murer M,Zold C,3
+Griffa G,Solano A,3
+Gaudric J,Politi M,3
+Echevarria M,Netti V,3
+Deleglise A,Della-Maggiore V,3
+Barragan-Zuniga L,Sosa-Macias M,3
+Berdasco C,Pinto A,3
+Aban C,Farina M,3
+Aban C,Leguizamon G,3
+Farina M,Leguizamon G,3
+Bernal A,Sacerdoti F,3
+Leguizamon G,Martinez N,3
+Berdasco C,Goldstein J,3
+Berdasco C,Geoghegan P,3
+Bortman G,Capurro C,3
+Ibarra C,Repetto H,3
+Berdasco C,Cangelosi A,3
+Bortman G,Ferreyra R,3
+Bortman G,Piazza A,3
+Medina Y,Szpilbarg N,3
+Costales-Collaguazo C,Lombi F,3
+Fernandez J,Gaudric J,3
+Amaral M,Franchi A,3
+Jacobacci F,Lerner G,3
+Pagani M,San Martin A,3
+Doyon J,Jacobacci F,3
+Doyon J,Jovicich J,3
+Garcia-Robles R,Giachini F,3
+Liern M,Vallejo G,3
+Cataldi A,Palermo M,3
+Damiano A,Seyahian A,3
+Jacobacci F,Jovicich J,3
+Liern M,Zotta E,3
+Vallejo G,Zotta E,3
+Piantanida A,Rela L,3
+Alvarez R,Paton J,3
+Escudero C,Garcia-Robles R,3
+Belforte J,Pretell Annan C,3
+Barragan-Zuniga L,Damiano A,3
+Galinanes G,Murer M,3
+Seyahian E,Zotta E,3
+Barragan-Zuniga L,Galaviz-Hernandez C,3
+Bortman G,Politi M,3
+Gornalusse G,Reppetti J,3
+Alvarez R,Paton A,3
+Garimano N,Sacerdoti F,3
+Piazza A,Politi M,3
+Albanese A,Cataldi A,3
+Damiano A,Etcheverry T,3
+Damiano A,Reynoso M,3
+Capurro C,Piazza A,3
+Martinez N,Seyahian A,3
+Etcheverry T,Reppetti J,3
+Gomez G,Murer M,3
+Lima V,Sosa-Macias M,3
+Damiano A,Di Paola M,3
+Costales-Collaguazo C,Politei J,3
+Gomez G,Taravini I,3
+Amaro E,Jovicich J,3
+Bekinschtein P,Silva A,3
+Amaro E,Jacobacci F,3
+Amaro E,Doyon J,3
+Amaro E,Della-Maggiore V,3
+Amaro E,Armony J,3
+Amaral M,Ferreira R,3
+Morici J,Silva A,3
+Galaviz-Hernandez C,Lima V,3
+Ayala-Ramirez P,Garcia-Robles R,3
+Capurro C,Ferreyra R,3
+Rela L,Taravini I,3
+Miranda M,Silva A,3
+Ferreyra R,Piazza A,3
+Ferreyra R,Politi M,3
+Ayala-Ramirez P,Giachini F,3
+Cataldi A,Mercado E,3
+Della-Maggiore V,Riquelme L,3
+Della-Maggiore V,Perez-Chada D,3
+Amaral M,Paton A,3
+Amaral M,Paton J,3
+Castro-Parodi M,Martinez N,3
+Perez-Chada D,Riquelme L,3
+Perez-Chada D,Solano A,3
+Ibarra C,Jancic C,3
+Paton A,Sacerdoti F,3
+Belluscio M,Murer M,3
+Paton J,Sacerdoti F,3
+Ayala-Ramirez P,Escudero C,3
+Mercado E,Vilte D,3
+Ibarra C,Mercado E,3
+Cataldi A,Zotta E,3
+Dorr R,Toriano R,3
+Bernabeu R,Rocco L,3
+Faillace M,Rocco L,3
+Amaral M,Bernal A,3
+Albanese A,Ibarra C,3
+Della-Maggiore V,Villalta J,3
+Alvarez R,Gomez F,3
+Sacerdoti F,Scalise M,3
+Ortiz A,Politei J,2
+Muryan A,Ortiz A,2
+Casal J,Celi A,2
+Taravini I,Tubert C,2
+Casal J,Di Giusto G,2
+Belluscio M,Zold C,2
+Igaz L,Silva P,2
+Ortiz A,Paulero M,2
+Belluscio M,Silva A,2
+Belluscio M,Morici J,2
+Muryan A,Sanchez-Nino M,2
+Capurro C,Casal J,2
+Di Giusto G,Fernandez J,2
+Ozu M,Sutka M,2
+Bentancor L,Goldstein J,2
+Iriarte R,Ortiz A,2
+Iriarte R,Sanchez-Nino M,2
+Castro Parodi M,Medina Y,2
+Castro Parodi M,Di Paola M,2
+Ibarra C,Luz D,2
+Arenas-Mosquera D,Cangelosi A,2
+Arenas-Mosquera D,Cerny N,2
+Forrester M,Sanchez-Nino M,2
+Gallo F,Silva A,2
+Forrester M,Ortiz A,2
+Ortiz A,Rengel T,2
+Capurro C,Celi A,2
+Fernandez J,Netti V,2
+Fernandez J,Ford P,2
+Arenas-Mosquera D,De Marzi M,2
+Silva A,Weisstaub N,2
+Arenas-Mosquera D,Geoghegan P,2
+Ortiz A,Pomeranz V,2
+Costales-Collaguazo C,Ortiz A,2
+Ortiz A,Sanchez-Nino M,2
+Cangelosi A,Malchiodi E,2
+Arenas-Mosquera D,Malchiodi E,2
+Arenas-Mosquera D,Pinto A,2
+Celi A,Rivarola V,2
+Alsina R,Bumaschny V,2
+Alsina R,Trotta M,2
+Bumaschny V,Trotta M,2
+Ibarra C,Seyahian E,2
+Cangelosi A,Cerny N,2
+Malchiodi E,Pinto A,2
+Goldstein J,Malchiodi E,2
+Cangelosi A,De Marzi M,2
+Cerny N,De Marzi M,2
+Belluscio M,Miranda M,2
+Geoghegan P,Malchiodi E,2
+De Marzi M,Pinto A,2
+Cerny N,Geoghegan P,2
+Damiano A,Zotta E,2
+De Marzi M,Malchiodi E,2
+Cerny N,Goldstein J,2
+De Marzi M,Goldstein J,2
+Morici J,Zold C,2
+De Marzi M,Geoghegan P,2
+Cerny N,Pinto A,2
+Amaral M,Quintilio W,2
+Arenas-Mosquera D,Goldstein J,2
+Celi A,Ford P,2
+Celi A,Di Giusto G,2
+Casal J,Rivarola V,2
+Canzonieri R,Ortiz A,2
+Paton J,Zotta E,2
+Canzonieri R,Sanchez-Nino M,2
+Amaral M,Moro A,2
+Cerny N,Malchiodi E,2
+Bekinschtein P,Belluscio M,2
+Ortiz A,Schiel A,2
+Ortiz A,Stern A,2
+Ortiz A,Trimarchi H,2
+Ortiz A,Zotta E,2
+Paulero M,Sanchez-Nino M,2
+Politei J,Sanchez-Nino M,2
+Pomeranz V,Sanchez-Nino M,2
+Rengel T,Sanchez-Nino M,2
+Seyahian A,Szpilbarg N,2
+Sanchez-Nino M,Schiel A,2
+Sanchez-Nino M,Stern A,2
+Sanchez-Nino M,Trimarchi H,2
+Sanchez-Nino M,Zotta E,2
+Paton A,Zotta E,2
+Weisstaub N,Zold C,2
+Costales-Collaguazo C,Sanchez-Nino M,2
+Casal J,Ford P,2
+Deleglise A,Donnelly-Kehoe P,2
+Jancic C,Sacerdoti F,2
+Beltramone N,Celi A,2
+Sosa-Macias M,Teran E,2
+Giachini F,Teran E,2
+Alvarez R,Belforte J,2
+Lima V,Teran E,2
+Amaro E,Lerner G,2
+Armony J,Lerner G,2
+Doyon J,Lerner G,2
+Melani M,Wappner P,2
+Jovicich J,Lerner G,2
+Barragan-Zuniga L,Blanco-Castaneda R,2
+Blanco-Castaneda R,Giachini F,2
+Katz M,Wappner P,2
+Deleglise A,Griffa G,2
+Barragan-Zuniga L,Escudero C,2
+Katz M,Melani M,2
+Deleglise A,Solano A,2
+Barragan-Zuniga L,Giachini F,2
+Blanco-Castaneda R,Damiano A,2
+Blanco-Castaneda R,Escudero C,2
+Giachini F,RIVA-TREM,2
+Galaviz-Hernandez C,Teran E,2
+Galaviz-Hernandez C,RIVA-TREM,2
+Escudero C,Teran E,2
+Della-Maggiore V,Palombo M,2
+Della-Maggiore V,Lee H,2
+Della-Maggiore V,Huang S,2
+Gornalusse G,Martinez N,2
+Farina M,Gornalusse G,2
+Etcheverry T,Gornalusse G,2
+Damiano A,Gornalusse G,2
+Rayes D,Vassallu F,2
+Lacour A,Vassallu F,2
+Lacour A,Rayes D,2
+Igaz L,Rayes D,2
+Igaz L,Lacour A,2
+Damiano A,RIVA-TREM,2
+Alvarez A,Damiano A,2
+Damiano A,Teran E,2
+Escudero C,RIVA-TREM,2
+Alvarez A,Ayala-Ramirez P,2
+Blanco-Castaneda R,Galaviz-Hernandez C,2
+Blanco-Castaneda R,Sosa-Macias M,2
+Cadavid A,Lima V,2
+Carbone S,Cutrera R,2
+Cocca M,Ford P,2
+Fiorentino G,Palermo M,2
+Cocca M,Netti V,2
+Fiorentino G,Ibarra C,2
+Cutrera N,Di Giusto G,2
+Castro Parodi M,Sierra M,2
+Castro Parodi M,Fernandez N,2
+Cutrera N,Ford P,2
+Belforte J,Pafundo D,2
+Roguin L,Zotta E,2
+Cutrera N,Netti V,2
+Cataldi A,Sacerdoti F,2
+Cataldi A,Fiorentino G,2
+Amaral M,Cataldi A,2
+Corominas A,Martinez N,2
+Balconi S,Martinez N,2
+Balconi S,Damiano A,2
+Balconi S,Corominas A,2
+Fiorentino G,Vilte D,2
+Cocca M,Di Giusto G,2
+Cocca M,Cutrera N,2
+Capurro C,Cutrera N,2
+Damiano A,Souto P,2
+Escudero C,Souto P,2
+Amaral M,Fernandez Brando R,2
+Giachini F,Souto P,2
+Lima V,Souto P,2
+Albert S,Della-Maggiore V,2
+Fernandez Brando R,Ibarra C,2
+Fernandez Brando R,Palermo M,2
+Albert S,Lerner G,2
+Albert S,Shadmehr R,2
+Caffaro P,Della-Maggiore V,2
+Caffaro P,Lerner G,2
+Della-Maggiore V,Shadmehr R,2
+Lerner G,Shadmehr R,2
+Palermo M,Zotta E,2
+Palermo M,Vilte D,2
+Capurro C,Cocca M,2
+Griffa G,Huang S,2
+Cadavid A,Giachini F,2
+Beltramone N,Casal J,2
+Amaral M,Fernandez-Brando R,2
+Gonzalez-Hoyos I,Zotta E,2
+Alleva K,Canessa Fortuna A,2
+Charif S,Igaz L,2
+Belforte J,Paz R,2
+Belforte J,Tubert C,2
+Amaral M,Bentancor L,2
+Bazzi Z,Schwarzbaum P,2
+Amaral M,Da Rocha M,2
+Coll C,Keifman E,2
+Doyon J,Yeffal A,2
+Coll C,Murer M,2
+Alvarez C,Schwarzbaum P,2
+Bentancor L,Fernandez-Brando R,2
+Belluscio M,Coletti M,2
+Bentancor L,Palermo M,2
+Belluscio M,Martinez M,2
+Alvarez C,Bazzi Z,2
+Jovicich J,Yeffal A,2
+Gonzalez-Hoyos I,Trimarchi H,2
+Gonzalez-Hoyos I,Stern A,2
+Gonzalez-Hoyos I,Schiel A,2
+Gonzalez-Hoyos I,Rengel T,2
+Netti V,Pizzoni A,2
+Garimano N,Scalise M,2
+Deleglise A,Jacobacci F,2
+Medrano M,Pisera-Fuster A,2
+Beccaria J,Belforte J,2
+Beccaria J,Murer M,2
+Gelb B,Pagani M,2
+Gelb B,San Martin A,2
+Galaviz-Hernandez C,Garcia-Robles R,2
+Canzonieri R,Gonzalez-Hoyos I,2
+Costales-Collaguazo C,Gonzalez-Hoyos I,2
+Forrester M,Gonzalez-Hoyos I,2
+Gonzalez-Hoyos I,Iriarte R,2
+Gonzalez-Hoyos I,Lombi F,2
+Gonzalez-Hoyos I,Muryan A,2
+Gonzalez-Hoyos I,Paulero M,2
+Gonzalez-Hoyos I,Pomeranz V,2
+Jacobacci F,Yeffal A,2
+Armony J,Yeffal A,2
+Griffa G,Lee H,2
+Palombo M,Yeffal A,2
+Farina M,Marin R,2
+Borbely A,Giachini F,2
+Borbely A,Damiano A,2
+Bueno J,Cadavid A,2
+Bueno J,Damiano A,2
+Bueno J,Escudero C,2
+Bueno J,Giachini F,2
+Bueno J,Lima V,2
+Lee H,Yeffal A,2
+Amaro E,Yeffal A,2
+Lee H,Palombo M,2
+Huang S,Yeffal A,2
+Huang S,Palombo M,2
+Huang S,Lee H,2
+Griffa G,Yeffal A,2
+Griffa G,Palombo M,2
+Cadavid A,Damiano A,2
+Cadavid A,Escudero C,2
+Damiano A,Marin R,2
+Abad C,Marin R,2
+Abad C,Farina M,2
+Abad C,Damiano A,2
+Martinez M,Murer M,2
+Da Rocha M,Fernandez-Brando R,2
+Da Rocha M,Ibarra C,2
+Da Rocha M,Palermo M,2
+Fernandez-Brando R,Ibarra C,2
+Alvarez R,Jancic C,2
+Garimano N,Palermo M,2
+Albanese A,Vilte D,2
+Cataldi A,Garimano N,2
+Cataldi A,Martorelli L,2
+Ibarra C,Martorelli L,2
+Granado N,Moratalla R,2
+Granado N,Murer M,2
+Fischer Sigel L,Zotta E,2
+Martorelli L,Vilte D,2
+Sanchez D,Zotta E,2
+Silberstein C,Zotta E,2
+Mejias M,Palermo M,2
+Albanese A,Mercado E,2
+Ibarra C,Mejias M,2
+Gonzalez G,Murer M,2
+Ghigo A,Politi M,2
+Chen G,Piazza R,2
+Lagree P,Politi M,2
+Aban C,Damiano A,2
+Damiano A,Leguizamon G,2
+Echevarria M,Ford P,2
+Capurro C,Gaudric J,2
+Gaudric J,Lagree P,2
+Chen G,Sacerdoti F,2
+Chen G,Sidhu S,2
+Ferreira R,Gomez F,2
+Gershanik O,Taravini I,2
+Gershanik O,Murer M,2
+Di Giusto G,Echevarria M,2
+Ghigo A,Lagree P,2
+Chen G,Luz D,2
+Capurro C,Echevarria M,2
+Fullana J,Gaudric J,2
+Trimarchi H,Young P,2
+Young P,Zotta E,2
+Fernandez J,Fullana J,2
+Fernandez J,Ghigo A,2
+Bentancor A,Cataldi A,2
+Fernandez J,Lagree P,2
+Amaral M,Chen G,2
+Igaz L,Nieva G,2
+Amaral M,Sidhu S,2
+Fullana J,Politi M,2
+Chen G,Ferreira R,2
+Chen G,Gomez F,2
+Gaudric J,Ghigo A,2
+Marcora M,Pasquini J,2
+Gershanik O,Gomez G,2
+Ferreira R,Sidhu S,2
+Casale R,Corominas A,2
+Alberquilla S,Moratalla R,2
+Belforte J,Galinanes G,2
+Greer C,Rela L,2
+Greer C,Piantanida A,2
+Acosta L,Rela L,2
+Acosta L,Piantanida A,2
+Alberquilla S,Murer M,2
+Luz D,Sidhu S,2
+Brocardo L,Piantanida A,2
+Acosta L,Brocardo L,2
+Farina M,Medina Y,2
+Di Paola M,Fernandez N,2
+Di Paola M,Sierra M,2
+Reppetti J,Sacerdoti F,2
+Piazza R,Sidhu S,2
+Braz B,Galinanes G,2
+Brocardo L,Rela L,2
+Gomez F,Piazza R,2
+Blake M,Romano A,2
+Belforte J,Escande M,2
+Belforte J,Zold C,2
+Escande M,Murer M,2
+Escande M,Taravini I,2
+Blake M,Feld M,2
+Blake M,Navarro N,2
+Boccia M,Feld M,2
+Castro-Parodi M,Farina M,2
+Boccia M,Navarro N,2
+Boccia M,Romano A,2
+Feld M,Krawczyk M,2
+Gomez F,Sidhu S,2
+Krawczyk M,Navarro N,2
+Krawczyk M,Romano A,2
+Stern A,Young P,2
+Schiel A,Young P,2
+Rengel T,Young P,2
+Sanchez D,Vlachovsky S,2
+Bruballa A,Palermo M,2
+Correale J,Pasquini J,2
+Lombardi P,Lores-Arnaiz S,2
+Gomez G,Rela L,2
+Karadayian A,Lores-Arnaiz S,2
+Karadayian A,Lombardi P,2
+Cutrera R,Lores-Arnaiz S,2
+Amaral M,Repetto H,2
+Cutrera R,Lombardi P,2
+Cutrera R,Karadayian A,2
+Keifman E,Moratalla R,2
+Bustamante J,Lores-Arnaiz S,2
+Bustamante J,Lombardi P,2
+Bustamante J,Karadayian A,2
+Amaral M,Girard M,2
+Girard M,Ibarra C,2
+Pomeranz V,Young P,2
+Villar M,Viola H,2
+Gingrich J,Weisstaub N,2
+Azurmendi P,Sanchez D,2
+Pisera-Fuster A,Rocco L,2
+Corominas A,Medina Y,2
+Igaz L,Viola H,2
+Kasanetz F,Nevian T,2
+Belforte J,Keifman E,2
+Girard M,Repetto H,2
+Castro-Parodi M,Szpilbarg N,2
+Ibarra F,Sanchez D,2
+Correale J,Marcora M,2
+Repetto H,Sacerdoti F,2
+Oddo E,Sanchez D,2
+Girard M,Sacerdoti F,2
+Bustamante J,Cutrera R,2
+Gomez F,Jancic C,2
+Arrizurieta E,Azurmendi P,2
+Muryan A,Young P,2
+Forrester M,Young P,2
+Goette N,Vlachovsky S,2
+Iriarte R,Young P,2
+Lombi F,Young P,2
+Moratalla R,Solis O,2
+Ibarra C,Larzabal M,2
+Paulero M,Young P,2
+Arrizurieta E,Di Ciano L,2
+Murer M,Solis O,2
+Cataldi A,Larzabal M,2
+Politei J,Young P,2
+Bentancor A,Vilte D,2
+Bentancor A,Mercado E,2
+Bentancor A,Ibarra C,2
+Canzonieri R,Young P,2
+Goette N,Silberstein C,2
+Mercado E,Zotta E,2
+Araoz A,Young P,2
+Goette N,Oddo E,2
+Araoz A,Stern A,2
+Araoz A,Politei J,2
+Andrews J,Young P,2
+Goette N,Ibarra F,2
+Vilte D,Zotta E,2
+Di Ciano L,Goette N,2
+Azurmendi P,Goette N,2
+Belforte J,Gomez G,2
+Arrizurieta E,Oddo E,2
+Arrizurieta E,Ibarra F,2
+Keifman E,Paz R,2
+Belforte J,Rela L,2
+Amaral M,Reppetti J,2
+Gomez F,Luz D,2
+Casale R,Damiano A,2
+Ibarra C,Sanchez D,2
+Casal J,Toriano R,2
+Amaral M,Balestracci A,2
+Henrique I,Luz D,2
+Henrique C,Sacerdoti F,2
+Henrique C,Piazza R,2
+Balestracci A,Ibarra C,2
+Balestracci A,Sanchez D,2
+Luz D,Quintilio W,2
+Balestracci A,Silberstein C,2
+Fischer Sigel L,Ibarra C,2
+Henrique C,Luz D,2
+Moro A,Piazza R,2
+Henrique C,Henrique I,2
+Ferreira R,Henrique I,2
+Ferreira R,Henrique C,2
+Amaral M,Henrique I,2
+Amaral M,Henrique C,2
+Luz D,Moro A,2
+Bello E,Rubinstein M,2
+Ibarra C,Quintilio W,2
+Ibarra C,Piazza R,2
+Ibarra C,Moro A,2
+Casal J,Dorr R,2
+Henrique I,Piazza R,2
+Alvarez R,Mejias M,2
+Katche C,Medina J,2
+Alfieri J,Igaz L,2
+Accialini P,Etcheverry T,2
+Repetto H,Silberstein C,2
+Accialini P,Farina M,2
+Paton J,Repetto H,2
+Beltramone N,Pizzoni A,2
+Paton A,Repetto H,2
+Accialini P,Martinez N,2
+Gonzalez M,Medina J,2
+Farina M,Seyahian A,2
+Katche C,Weisstaub N,2
+Henrique I,Sacerdoti F,2
+Marquez L,Silberstein C,2
+Marquez L,Repetto H,2
+Quintilio W,Sacerdoti F,2
+Piazza R,Quintilio W,2
+Colazo A,Liern M,2
+Colazo A,Vallejo G,2
+Colazo A,Zotta E,2
+Moro A,Sacerdoti F,2
+Moro A,Quintilio W,2
+Medina J,Weisstaub N,2
+Alvarez R,Bruballa A,2
+Balestracci A,Fischer Sigel L,2
+Cataldi A,Gerhardt E,2
+Sacerdoti F,Sidhu S,2
+Amigo N,Gerhardt E,2
+Gerhardt E,Ibarra C,2
+Gerhardt E,Zotta E,2
+Amigo N,Ibarra C,2
+Amigo N,Zotta E,2
+Alvarez R,Palermo M,2
+Amaral M,Mejias M,2
+Bruballa A,Mejias M,2
+Amigo N,Cataldi A,2
+Amaral M,Damiano A,2
+Albanese A,Zotta E,2
+Bruballa A,Ibarra C,2
+Amaral M,Bruballa A,2
+Fabi M,Roggiero G,1
+Fabi M,Sicurello M,1
+Fabi M,Sardella A,1
+Fabi M,Tolin A,1
+Manso P,Villalba C,1
+Appel-Rubio J,Riedel C,1
+Araya J,Opazo M,1
+Manso P,Vainstein E,1
+Castro E,Damiano A,1
+Appel-Rubio J,Rodriguez A,1
+Fabi M,Rios Leiva C,1
+Araya J,Castro E,1
+Fabi M,Pena S,1
+Araya J,Riedel C,1
+Fabi M,Murer M,1
+Fabi M,Manso P,1
+Fabi M,Magliola R,1
+Araya J,Rodriguez A,1
+Fabi M,Vaccarello M,1
+Fabi M,Triguy J,1
+Fabi M,Zold C,1
+Escudero P,Galaviz-Hernandez C,1
+Castro E,Mennickent D,1
+Castro E,Guzman-Gutierrez E,1
+Escudero P,Giachini F,1
+Castro E,Eriz-Salinas A,1
+Escudero P,Gonzalez-Ortiz M,1
+Escudero P,Lima V,1
+Goldaracena P,Gonzalez G,1
+Goldaracena P,Goldsman A,1
+Escudero P,Martin S,1
+Hortas M,Sardella A,1
+Appel-Rubio J,Guzman-Gutierrez E,1
+Appel-Rubio J,Mennickent D,1
+Fabi M,Villalba C,1
+Fabi M,Vainstein E,1
+Appel-Rubio J,Opazo M,1
+Araya J,Eriz-Salinas A,1
+Fabi M,Urrutia L,1
+Hortas M,Rios Leiva C,1
+Hortas M,Roggiero G,1
+Araya J,Damiano A,1
+Hortas M,Tolin A,1
+Fabi M,Hortas M,1
+Magliola R,Villalba C,1
+Manso P,Pena S,1
+Manso P,Murer M,1
+Escudero C,Stojanova J,1
+Magliola R,Zold C,1
+EMSKC Group,Vainstein E,1
+Magliola R,Manso P,1
+Magliola R,Murer M,1
+Magliola R,Pena S,1
+Magliola R,Rios Leiva C,1
+Magliola R,Roggiero G,1
+Escudero P,Moller A,1
+Magliola R,Sardella A,1
+Magliola R,Sicurello M,1
+Fabi M,Goldaracena P,1
+Magliola R,Vainstein E,1
+EMSKC Group,Villalba C,1
+Magliola R,Vaccarello M,1
+EMSKC Group,Zold C,1
+Magliola R,Urrutia L,1
+Magliola R,Triguy J,1
+Hortas M,Zold C,1
+Manso P,Rios Leiva C,1
+Manso P,Roggiero G,1
+Manso P,Sardella A,1
+Hortas M,Sicurello M,1
+Escudero P,Sosa-Macias M,1
+Magliola R,Tolin A,1
+Araya J,Guzman-Gutierrez E,1
+Escudero P,Stojanova J,1
+Hortas M,Triguy J,1
+Hortas M,Urrutia L,1
+Araya J,Mennickent D,1
+Fabi M,Gonzalez G,1
+Manso P,Vaccarello M,1
+Manso P,Urrutia L,1
+Manso P,Triguy J,1
+Hortas M,Vaccarello M,1
+Manso P,Tolin A,1
+Hortas M,Vainstein E,1
+Manso P,Sicurello M,1
+Hortas M,Villalba C,1
+EMSKC Group,Vaccarello M,1
+Fabi M,Goldsman A,1
+Escudero C,on behalf RIVATREM,1
+Gonzalez G,Sardella A,1
+Castro E,Opazo M,1
+Goldaracena P,Triguy J,1
+Araujo G,Giachini F,1
+Araujo G,Galaviz-Hernandez C,1
+Carrasco-Wong I,Gonzalez-Ortiz M,1
+Araujo G,Escudero P,1
+Araujo G,Escudero C,1
+Goldaracena P,Tolin A,1
+Goldaracena P,Sicurello M,1
+Carrasco-Wong I,Lima V,1
+Carrasco-Wong I,Martin S,1
+Carrasco-Wong I,Moller A,1
+Goldaracena P,Sardella A,1
+Goldaracena P,Roggiero G,1
+Goldsman A,Triguy J,1
+Goldsman A,Urrutia L,1
+Araujo G,Damiano A,1
+Araujo G,Carrasco-Wong I,1
+Riedel C,Rodriguez A,1
+Opazo M,Rodriguez A,1
+Murer M,Pena S,1
+Opazo M,Riedel C,1
+Mennickent D,Rodriguez A,1
+Mennickent D,Riedel C,1
+Mennickent D,Opazo M,1
+Guzman-Gutierrez E,Rodriguez A,1
+Guzman-Gutierrez E,Riedel C,1
+Araujo G,Gonzalez-Ortiz M,1
+Goldaracena P,Urrutia L,1
+Hortas M,Pena S,1
+Goldaracena P,Vaccarello M,1
+Goldsman A,Manso P,1
+Goldsman A,Magliola R,1
+Goldsman A,Hortas M,1
+Carrasco-Wong I,Giachini F,1
+Carrasco-Wong I,Escudero P,1
+Carrasco-Wong I,Escudero C,1
+Carrasco-Wong I,Damiano A,1
+Goldsman A,Murer M,1
+Araujo G,on behalf RIVATREM,1
+Goldsman A,Pena S,1
+Araujo G,Teran E,1
+Goldsman A,Rios Leiva C,1
+Goldsman A,Roggiero G,1
+Goldsman A,Gonzalez G,1
+Araujo G,Stojanova J,1
+Goldaracena P,Zold C,1
+Araujo G,Sosa-Macias M,1
+Goldsman A,Sardella A,1
+Goldaracena P,Villalba C,1
+Araujo G,Moller A,1
+Araujo G,Martin S,1
+Goldsman A,Sicurello M,1
+Goldsman A,Tolin A,1
+Araujo G,Lima V,1
+Goldaracena P,Vainstein E,1
+Guzman-Gutierrez E,Opazo M,1
+Carrasco-Wong I,Sosa-Macias M,1
+Goldaracena P,Rios Leiva C,1
+Goldaracena P,Pena S,1
+Gonzalez G,Rios Leiva C,1
+Damiano A,Opazo M,1
+Escudero C,Escudero P,1
+Damiano A,Mennickent D,1
+Gonzalez G,Roggiero G,1
+Damiano A,Guzman-Gutierrez E,1
+Goldaracena P,Hortas M,1
+Damiano A,Eriz-Salinas A,1
+Carrasco-Wong I,Galaviz-Hernandez C,1
+Escudero C,Gonzalez-Ortiz M,1
+Escudero C,Martin S,1
+Castro E,Rodriguez A,1
+Escudero C,Moller A,1
+Castro E,Riedel C,1
+Gonzalez G,Sicurello M,1
+Gonzalez G,Tolin A,1
+Gonzalez G,Triguy J,1
+Gonzalez G,Urrutia L,1
+Gonzalez G,Vaccarello M,1
+Gonzalez G,Vainstein E,1
+Gonzalez G,Villalba C,1
+Gonzalez G,Zold C,1
+Hortas M,Magliola R,1
+Hortas M,Manso P,1
+Hortas M,Murer M,1
+Damiano A,on behalf RIVATREM,1
+Damiano A,Stojanova J,1
+Damiano A,Moller A,1
+Gonzalez G,Hortas M,1
+Guzman-Gutierrez E,Mennickent D,1
+Eriz-Salinas A,Rodriguez A,1
+Goldaracena P,Murer M,1
+Goldaracena P,Manso P,1
+Goldsman A,Vaccarello M,1
+Goldsman A,Vainstein E,1
+Goldsman A,Villalba C,1
+Carrasco-Wong I,Stojanova J,1
+Carrasco-Wong I,Teran E,1
+Eriz-Salinas A,Riedel C,1
+Goldsman A,Zold C,1
+Carrasco-Wong I,on behalf RIVATREM,1
+Damiano A,Martin S,1
+Gonzalez G,Magliola R,1
+Eriz-Salinas A,Opazo M,1
+Eriz-Salinas A,Mennickent D,1
+Gonzalez G,Manso P,1
+Eriz-Salinas A,Guzman-Gutierrez E,1
+Damiano A,Rodriguez A,1
+Damiano A,Escudero P,1
+Damiano A,Riedel C,1
+Gonzalez G,Pena S,1
+Damiano A,Gonzalez-Ortiz M,1
+Goldaracena P,Magliola R,1
+Manso P,Zold C,1
+Sardella A,Triguy J,1
+Murer M,Rios Leiva C,1
+Lombardi A,Norris A,1
+Lombardi A,Rodrigues-Rodriguez N,1
+Lombardi A,Sacerdoti F,1
+Luzzani C,Martire-Greco D,1
+Amaral M,Fernandez G,1
+Amaral M,Castillo Montanez L,1
+Luzzani C,Miriuka S,1
+Amaral M,Birnberg-Weiss F,1
+Amaral M,Biani C,1
+Macias-Salas A,Sosa-Macias M,1
+Giachini F,Macias-Salas A,1
+Garcia-Robles R,Sosa-Macias M,1
+Garcia-Robles R,Macias-Salas A,1
+Luzzani C,Norris A,1
+Galaviz-Hernandez C,Macias-Salas A,1
+Escudero C,Macias-Salas A,1
+Lombardi A,Pittaluga J,1
+Lombardi A,Miriuka S,1
+Murer M,Roggiero G,1
+Lombardi A,Martire-Greco D,1
+La Greca A,Pittaluga J,1
+La Greca A,Rodrigues-Rodriguez N,1
+La Greca A,Sacerdoti F,1
+Landoni V,Lombardi A,1
+Landoni V,Luzzani C,1
+Landoni V,Martire-Greco D,1
+Landoni V,Miriuka S,1
+Landoni V,Norris A,1
+Landoni V,Pittaluga J,1
+Landoni V,Rodrigues-Rodriguez N,1
+Amaral M,Landoni V,1
+Amaral M,La Greca A,1
+Amaral M,Furmento V,1
+Landoni V,Sacerdoti F,1
+Lombardi A,Luzzani C,1
+Damiano A,Macias-Salas A,1
+Bueno-Sanchez J,Sosa-Macias M,1
+Bueno-Sanchez J,Macias-Salas A,1
+Luzzani C,Pittaluga J,1
+Ayala-Ramirez P,Macias-Salas A,1
+Martire-Greco D,Sacerdoti F,1
+Miriuka S,Norris A,1
+Miriuka S,Pittaluga J,1
+Miriuka S,Rodrigues-Rodriguez N,1
+Miriuka S,Sacerdoti F,1
+Ayala-Ramirez P,Galaviz-Hernandez C,1
+Norris A,Pittaluga J,1
+Ayala-Ramirez P,Bueno-Sanchez J,1
+Ayala-Ramirez P,Blanco-Castaneda R,1
+Norris A,Rodrigues-Rodriguez N,1
+Ayala-Ramirez P,Barragan-Zuniga L,1
+Martinez M,Silva A,1
+Donnelly-Kehoe P,Yeffal A,1
+Donnelly-Kehoe P,Jovicich J,1
+Ayala-Ramirez P,Sosa-Macias M,1
+Martire-Greco D,Rodrigues-Rodriguez N,1
+Martire-Greco D,Pittaluga J,1
+Blanco-Castaneda R,Garcia-Robles R,1
+Bueno-Sanchez J,Giachini F,1
+Bueno-Sanchez J,Garcia-Robles R,1
+Bueno-Sanchez J,Galaviz-Hernandez C,1
+Bueno-Sanchez J,Escudero C,1
+Bueno-Sanchez J,Damiano A,1
+Blanco-Castaneda R,Macias-Salas A,1
+Luzzani C,Rodrigues-Rodriguez N,1
+Barragan-Zuniga L,Bueno-Sanchez J,1
+Blanco-Castaneda R,Bueno-Sanchez J,1
+Barragan-Zuniga L,Macias-Salas A,1
+Luzzani C,Sacerdoti F,1
+Barragan-Zuniga L,Garcia-Robles R,1
+Martire-Greco D,Miriuka S,1
+Martire-Greco D,Norris A,1
+La Greca A,Norris A,1
+La Greca A,Miriuka S,1
+La Greca A,Martire-Greco D,1
+Biani C,La Greca A,1
+Birnberg-Weiss F,Furmento V,1
+Castillo Montanez L,Miriuka S,1
+Birnberg-Weiss F,Fernandez G,1
+Castillo Montanez L,Norris A,1
+Castillo Montanez L,Pittaluga J,1
+Birnberg-Weiss F,Castillo Montanez L,1
+Biani C,Sacerdoti F,1
+Biani C,Rodrigues-Rodriguez N,1
+Biani C,Pittaluga J,1
+Biani C,Norris A,1
+Castillo Montanez L,Rodrigues-Rodriguez N,1
+Biani C,Miriuka S,1
+Biani C,Martire-Greco D,1
+Biani C,Luzzani C,1
+Biani C,Lombardi A,1
+Castillo Montanez L,Martire-Greco D,1
+Birnberg-Weiss F,La Greca A,1
+Birnberg-Weiss F,Landoni V,1
+Castillo Montanez L,Landoni V,1
+Castillo Montanez L,Fernandez G,1
+Birnberg-Weiss F,Sacerdoti F,1
+Birnberg-Weiss F,Rodrigues-Rodriguez N,1
+Birnberg-Weiss F,Pittaluga J,1
+Castillo Montanez L,Furmento V,1
+Castillo Montanez L,La Greca A,1
+Castillo Montanez L,Lombardi A,1
+Birnberg-Weiss F,Lombardi A,1
+Birnberg-Weiss F,Norris A,1
+Birnberg-Weiss F,Miriuka S,1
+Castillo Montanez L,Luzzani C,1
+Birnberg-Weiss F,Martire-Greco D,1
+EMSKC Group,Triguy J,1
+Birnberg-Weiss F,Luzzani C,1
+Biani C,Landoni V,1
+Biani C,Furmento V,1
+La Greca A,Luzzani C,1
+Castillo Montanez L,Sacerdoti F,1
+Furmento V,Landoni V,1
+Furmento V,Lombardi A,1
+Furmento V,Luzzani C,1
+Furmento V,Martire-Greco D,1
+Furmento V,Miriuka S,1
+Furmento V,Norris A,1
+Furmento V,Pittaluga J,1
+Amaral M,Miriuka S,1
+Amaral M,Martire-Greco D,1
+Amaral M,Luzzani C,1
+Amaral M,Lombardi A,1
+Furmento V,Rodrigues-Rodriguez N,1
+Furmento V,Sacerdoti F,1
+La Greca A,Landoni V,1
+La Greca A,Lombardi A,1
+Furmento V,La Greca A,1
+Fernandez G,Sacerdoti F,1
+Fernandez G,Rodrigues-Rodriguez N,1
+Amaral M,Rodrigues-Rodriguez N,1
+Biani C,Fernandez G,1
+Fernandez G,Furmento V,1
+Biani C,Castillo Montanez L,1
+Fernandez G,La Greca A,1
+Fernandez G,Landoni V,1
+Biani C,Birnberg-Weiss F,1
+Amaral M,Pittaluga J,1
+Fernandez G,Pittaluga J,1
+Fernandez G,Lombardi A,1
+Amaral M,Norris A,1
+Fernandez G,Luzzani C,1
+Fernandez G,Martire-Greco D,1
+Fernandez G,Miriuka S,1
+Fernandez G,Norris A,1
+Donnelly-Kehoe P,Jacobacci F,1
+Donnelly-Kehoe P,Doyon J,1
+Della-Maggiore V,Donnelly-Kehoe P,1
+Rios Leiva C,Vainstein E,1
+Sardella A,Vainstein E,1
+Sardella A,Vaccarello M,1
+Sardella A,Urrutia L,1
+Sardella A,Tolin A,1
+Sardella A,Sicurello M,1
+Roggiero G,Zold C,1
+Roggiero G,Villalba C,1
+Roggiero G,Vainstein E,1
+Roggiero G,Vaccarello M,1
+Roggiero G,Urrutia L,1
+Roggiero G,Triguy J,1
+Roggiero G,Tolin A,1
+Roggiero G,Sicurello M,1
+Roggiero G,Sardella A,1
+Rios Leiva C,Zold C,1
+Sardella A,Villalba C,1
+Sardella A,Zold C,1
+Aguayo C,Eriz-Salinas A,1
+Aguayo C,Araya J,1
+De Luna P,Falkowska M,1
+De Luna P,Kasanetz F,1
+De Luna P,Nevian T,1
+Falkowska M,Kasanetz F,1
+Falkowska M,Nevian T,1
+Aguayo C,Appel-Rubio J,1
+Sicurello M,Villalba C,1
+Sicurello M,Tolin A,1
+Sicurello M,Vainstein E,1
+Sicurello M,Vaccarello M,1
+Sicurello M,Urrutia L,1
+Sicurello M,Triguy J,1
+Aguayo C,Castro E,1
+Aguayo C,Damiano A,1
+Rios Leiva C,Villalba C,1
+Rios Leiva C,Vaccarello M,1
+Tolin A,Triguy J,1
+Aguayo C,Guzman-Gutierrez E,1
+Pena S,Triguy J,1
+Pena S,Tolin A,1
+Pena S,Sicurello M,1
+Pena S,Sardella A,1
+Pena S,Roggiero G,1
+Pena S,Rios Leiva C,1
+Murer M,Villalba C,1
+Murer M,Vainstein E,1
+Murer M,Vaccarello M,1
+Murer M,Urrutia L,1
+Appel-Rubio J,Eriz-Salinas A,1
+Murer M,Triguy J,1
+Murer M,Tolin A,1
+Murer M,Sicurello M,1
+Murer M,Sardella A,1
+Pena S,Urrutia L,1
+Pena S,Vaccarello M,1
+Pena S,Vainstein E,1
+Aguayo C,Rodriguez A,1
+Aguayo C,Mennickent D,1
+Rios Leiva C,Urrutia L,1
+Rios Leiva C,Triguy J,1
+Rios Leiva C,Tolin A,1
+Aguayo C,Opazo M,1
+Aguayo C,Riedel C,1
+Appel-Rubio J,Araya J,1
+Pena S,Villalba C,1
+Appel-Rubio J,Castro E,1
+Rios Leiva C,Sicurello M,1
+Rios Leiva C,Sardella A,1
+Appel-Rubio J,Damiano A,1
+Rios Leiva C,Roggiero G,1
+Pena S,Zold C,1
+Sicurello M,Zold C,1
+Tolin A,Urrutia L,1
+Deleglise A,Yeffal A,1
+Celia A,Guevara D,1
+Guevara D,Toledo J,1
+Pittaluga J,Sacerdoti F,1
+Guevara D,Solerno M,1
+Rodrigues-Rodriguez N,Sacerdoti F,1
+Guevara D,Oddo E,1
+Guevara D,Ibarra F,1
+Ilarraz C,Kasanetz F,1
+Di Ciano L,Toro A,1
+Di Ciano L,Toledo J,1
+Di Ciano L,Solerno M,1
+Di Ciano L,Guevara D,1
+Celia A,Toro A,1
+Celia A,Toledo J,1
+Celia A,Solerno M,1
+Celia A,Oddo E,1
+Pittaluga J,Rodrigues-Rodriguez N,1
+Guevara D,Toro A,1
+Ibarra F,Solerno M,1
+Amaro E,Deleglise A,1
+Deleglise A,Jovicich J,1
+Norris A,Sacerdoti F,1
+Deleglise A,Doyon J,1
+Armony J,Donnelly-Kehoe P,1
+Armony J,Deleglise A,1
+Amaro E,Donnelly-Kehoe P,1
+Toledo J,Toro A,1
+Ibarra F,Toledo J,1
+Solerno M,Toro A,1
+Solerno M,Toledo J,1
+Oddo E,Toro A,1
+Oddo E,Toledo J,1
+Oddo E,Solerno M,1
+Ibarra F,Toro A,1
+Celia A,Ibarra F,1
+Celia A,Di Ciano L,1
+Acuna M,Nevian T,1
+Azurmendi P,Toro A,1
+Urrutia L,Vaccarello M,1
+Triguy J,Zold C,1
+Triguy J,Villalba C,1
+Triguy J,Vainstein E,1
+Triguy J,Vaccarello M,1
+Triguy J,Urrutia L,1
+Tolin A,Zold C,1
+Ilarraz C,Trujillo M,1
+Kasanetz F,Trujillo M,1
+Tolin A,Villalba C,1
+Tolin A,Vainstein E,1
+Acuna M,De Luna P,1
+Acuna M,Falkowska M,1
+Tolin A,Vaccarello M,1
+Acuna M,Kasanetz F,1
+Urrutia L,Vainstein E,1
+Urrutia L,Villalba C,1
+Urrutia L,Zold C,1
+Arrizurieta E,Solerno M,1
+Azurmendi P,Toledo J,1
+Azurmendi P,Solerno M,1
+Azurmendi P,Guevara D,1
+Azurmendi P,Celia A,1
+Arrizurieta E,Toro A,1
+Arrizurieta E,Toledo J,1
+Arrizurieta E,Guevara D,1
+Vaccarello M,Vainstein E,1
+Arrizurieta E,Celia A,1
+Villalba C,Zold C,1
+Vainstein E,Zold C,1
+Vainstein E,Villalba C,1
+Vaccarello M,Zold C,1
+Vaccarello M,Villalba C,1
+EMSKC Group,Urrutia L,1
+Ibarra C,Marquez L,1
+EMSKC Group,Tolin A,1
+Pafundo D,Piriz J,1
+Della-Maggiore V,Haith A,1
+Albert S,Modchalingam S,1
+Albert S,Krakauer J,1
+Albert S,Jang J,1
+Albert S,Henriques D,1
+Albert S,Haith A,1
+'t Hart B,Shadmehr R,1
+'t Hart B,Modchalingam S,1
+'t Hart B,Lerner G,1
+'t Hart B,Krakauer J,1
+'t Hart B,Jang J,1
+'t Hart B,Henriques D,1
+'t Hart B,Haith A,1
+'t Hart B,Della-Maggiore V,1
+'t Hart B,Albert S,1
+Proulx C,Sachella T,1
+Piriz J,Sachella T,1
+Piriz J,Proulx C,1
+Pafundo D,Sachella T,1
+Della-Maggiore V,Henriques D,1
+Della-Maggiore V,Jang J,1
+Della-Maggiore V,Krakauer J,1
+Henriques D,Modchalingam S,1
+Krakauer J,Shadmehr R,1
+Krakauer J,Modchalingam S,1
+Krakauer J,Lerner G,1
+Jang J,Shadmehr R,1
+Jang J,Modchalingam S,1
+Jang J,Lerner G,1
+Jang J,Krakauer J,1
+Henriques D,Shadmehr R,1
+Henriques D,Lerner G,1
+Della-Maggiore V,Modchalingam S,1
+Henriques D,Krakauer J,1
+Henriques D,Jang J,1
+Haith A,Shadmehr R,1
+Haith A,Modchalingam S,1
+Haith A,Lerner G,1
+Haith A,Krakauer J,1
+Haith A,Jang J,1
+Haith A,Henriques D,1
+Pafundo D,Proulx C,1
+Mendez P,Sachella T,1
+Modchalingam S,Shadmehr R,1
+Mendez P,Proulx C,1
+Di Paola M,Ibarra C,1
+Wies Mancini V,de Olmos S,1
+Vence M,de Olmos S,1
+Vence M,Wies Mancini V,1
+Silva Pinto P,de Olmos S,1
+Silva Pinto P,Wies Mancini V,1
+Silva Pinto P,Vence M,1
+Pasquini L,de Olmos S,1
+Pasquini L,Wies Mancini V,1
+Pasquini L,Vence M,1
+Pasquini L,Silva Pinto P,1
+Pasquini J,de Olmos S,1
+Pasquini J,Wies Mancini V,1
+Pasquini J,Vence M,1
+Pasquini J,Silva Pinto P,1
+Pasquini J,Pasquini L,1
+Marder M,de Olmos S,1
+Marder M,Wies Mancini V,1
+Marder M,Vence M,1
+Fernandez N,Ibarra C,1
+Ibarra C,Sierra M,1
+Balconi S,Casale R,1
+Ihidoype M,Proulx C,1
+Mendez P,Piriz J,1
+Mendez P,Pafundo D,1
+Medina J,Sachella T,1
+Medina J,Proulx C,1
+Medina J,Piriz J,1
+Medina J,Pafundo D,1
+Medina J,Mendez P,1
+Ihidoype M,Sachella T,1
+Ihidoype M,Piriz J,1
+Balconi S,Farina M,1
+Ihidoype M,Pafundo D,1
+Ihidoype M,Mendez P,1
+Ihidoype M,Medina J,1
+Corominas A,Farina M,1
+Casale R,Medina Y,1
+Casale R,Martinez N,1
+Casale R,Farina M,1
+Balconi S,Medina Y,1
+Lerner G,Modchalingam S,1
+Alves de Freitas R,Ayala-Ramirez P,1
+EMSKC Group,Sicurello M,1
+Chara O,Fernandez J,1
+Berdasco C,De Marzi M,1
+Berdasco C,Cerny N,1
+Arenas-Mosquera D,Berdasco C,1
+Medina C,Millan J,1
+Krawczyk M,Medina C,1
+Boccia M,Medina C,1
+Blake M,Medina C,1
+Spagnuolo D,Tello Santacruz I,1
+Schiavone M,Tello Santacruz I,1
+Schiavone M,Spagnuolo D,1
+Politi M,Tello Santacruz I,1
+Politi M,Spagnuolo D,1
+Politi M,Schiavone M,1
+Fernandez J,Tello Santacruz I,1
+Fernandez J,Spagnuolo D,1
+Fernandez J,Schiavone M,1
+Chara O,Tello Santacruz I,1
+Chara O,Spagnuolo D,1
+Chara O,Schiavone M,1
+Berdasco C,Malchiodi E,1
+Anderson M,Bekinschtein P,1
+Anderson M,Gallo F,1
+Weisstaub N,Zanoni Saad M,1
+Amaral M,Pereyra A,1
+Amaral M,Padola N,1
+Amaral M,Leonino P,1
+Amaral M,Casale R,1
+Silberstein C,Toriano R,1
+Ibarra C,Toriano R,1
+Dorr R,Silberstein C,1
+Dorr R,Ibarra C,1
+Silva A,Zanoni Saad M,1
+Anderson M,Miranda M,1
+Morici J,Zanoni Saad M,1
+Miranda M,Zanoni Saad M,1
+Gallo F,Zanoni Saad M,1
+Bekinschtein P,Zanoni Saad M,1
+Anderson M,Zanoni Saad M,1
+Anderson M,Weisstaub N,1
+Anderson M,Silva A,1
+Anderson M,Morici J,1
+Chara O,Politi M,1
+Caceres Monie C,Tello Santacruz I,1
+Alves de Freitas R,Damiano A,1
+Caceres Monie C,Spagnuolo D,1
+Belluscio M,Cicuttin G,1
+Bekinschtein P,Zold C,1
+Bekinschtein P,Cicuttin G,1
+Gonzalez M,Quintero-Arciniegas L,1
+Giachini F,Quintero-Arciniegas L,1
+Giachini F,Gonzalez M,1
+Garcia-Robles R,Quintero-Arciniegas L,1
+Garcia-Robles R,Gonzalez M,1
+Escudero C,Quintero-Arciniegas L,1
+Escudero C,Gonzalez M,1
+Damiano A,Quintero-Arciniegas L,1
+Damiano A,Gonzalez M,1
+Ayala-Ramirez P,Quintero-Arciniegas L,1
+Ayala-Ramirez P,Gonzalez M,1
+Alves de Freitas R,Quintero-Arciniegas L,1
+Alves de Freitas R,Gonzalez M,1
+Alves de Freitas R,Giachini F,1
+Alves de Freitas R,Garcia-Robles R,1
+Alves de Freitas R,Escudero C,1
+Belluscio M,Gallo F,1
+Belluscio M,Weisstaub N,1
+Cicuttin G,Gallo F,1
+Avaca H,Fernandez J,1
+Caceres Monie C,Schiavone M,1
+Caceres Monie C,Politi M,1
+Caceres Monie C,Fernandez J,1
+Caceres Monie C,Chara O,1
+Avaca H,Tello Santacruz I,1
+Avaca H,Spagnuolo D,1
+Avaca H,Schiavone M,1
+Avaca H,Politi M,1
+Avaca H,Chara O,1
+Cicuttin G,Miranda M,1
+Avaca H,Caceres Monie C,1
+Silva A,Zold C,1
+Miranda M,Zold C,1
+Gallo F,Zold C,1
+Cicuttin G,Zold C,1
+Cicuttin G,Weisstaub N,1
+Cicuttin G,Silva A,1
+Cicuttin G,Morici J,1
+Marder M,Silva Pinto P,1
+Marder M,Pasquini L,1
+Marder M,Pasquini J,1
+Garcia C,Gonzalez J,1
+Gonzalez Moron D,Mostoslavsky G,1
+Gonzalez Moron D,Kauffman M,1
+Gonzalez J,Urbano F,1
+Gonzalez J,Rela L,1
+Gonzalez J,Quinta H,1
+Gonzalez J,Pitossi F,1
+Gonzalez J,Pasquini J,1
+Gonzalez J,Murer M,1
+Gonzalez J,Mostoslavsky G,1
+Gonzalez J,Kauffman M,1
+Gonzalez J,Gonzalez Moron D,1
+Garcia C,Urbano F,1
+Garcia C,Rela L,1
+Garcia C,Quinta H,1
+Garcia C,Pitossi F,1
+Garcia C,Pasquini J,1
+Garcia C,Murer M,1
+Garcia C,Mostoslavsky G,1
+Garcia C,Kauffman M,1
+Gonzalez Moron D,Murer M,1
+Gonzalez Moron D,Pasquini J,1
+Gonzalez Moron D,Pitossi F,1
+Mostoslavsky G,Murer M,1
+Murer M,Quinta H,1
+Murer M,Pitossi F,1
+Murer M,Pasquini J,1
+Mostoslavsky G,Urbano F,1
+Mostoslavsky G,Rela L,1
+Mostoslavsky G,Quinta H,1
+Mostoslavsky G,Pitossi F,1
+Mostoslavsky G,Pasquini J,1
+Kauffman M,Urbano F,1
+Gonzalez Moron D,Quinta H,1
+Kauffman M,Rela L,1
+Kauffman M,Quinta H,1
+Kauffman M,Pitossi F,1
+Kauffman M,Pasquini J,1
+Kauffman M,Murer M,1
+Kauffman M,Mostoslavsky G,1
+Gonzalez Moron D,Urbano F,1
+Gonzalez Moron D,Rela L,1
+Garcia C,Gonzalez Moron D,1
+Farias M,Urbano F,1
+Marcora M,de Olmos S,1
+Farias M,Rela L,1
+Consalvo D,Rela L,1
+Consalvo D,Quinta H,1
+Consalvo D,Pitossi F,1
+Consalvo D,Pasquini J,1
+Consalvo D,Murer M,1
+Consalvo D,Mostoslavsky G,1
+Consalvo D,Kauffman M,1
+Consalvo D,Gonzalez Moron D,1
+Consalvo D,Gonzalez J,1
+Consalvo D,Garcia C,1
+Consalvo D,Farias M,1
+Consalvo D,Cordoba M,1
+Cavaliere Candedo V,Urbano F,1
+Cavaliere Candedo V,Rela L,1
+Cavaliere Candedo V,Quinta H,1
+Cavaliere Candedo V,Pitossi F,1
+Cavaliere Candedo V,Pasquini J,1
+Cavaliere Candedo V,Murer M,1
+Cavaliere Candedo V,Mostoslavsky G,1
+Consalvo D,Urbano F,1
+Cordoba M,Farias M,1
+Cordoba M,Garcia C,1
+Farias M,Garcia C,1
+Farias M,Quinta H,1
+Farias M,Pitossi F,1
+Farias M,Pasquini J,1
+Farias M,Murer M,1
+Farias M,Mostoslavsky G,1
+Farias M,Kauffman M,1
+Farias M,Gonzalez Moron D,1
+Farias M,Gonzalez J,1
+Cordoba M,Urbano F,1
+Cordoba M,Gonzalez J,1
+Cordoba M,Rela L,1
+Cordoba M,Quinta H,1
+Cordoba M,Pitossi F,1
+Cordoba M,Pasquini J,1
+Cordoba M,Murer M,1
+Cordoba M,Mostoslavsky G,1
+Cordoba M,Kauffman M,1
+Cordoba M,Gonzalez Moron D,1
+Murer M,Urbano F,1
+Pasquini J,Pitossi F,1
+Pasquini J,Quinta H,1
+Pasquini J,Rela L,1
+Correale J,de Olmos S,1
+Correale J,Wies Mancini V,1
+Correale J,Vence M,1
+Correale J,Silva Pinto P,1
+Correale J,Pasquini L,1
+Correale J,Marder M,1
+Correale J,Igaz L,1
+Correale J,Di Pietro A,1
+Murer M,Pretell Annan C,1
+Keifman E,Pretell Annan C,1
+Beccaria J,Pretell Annan C,1
+Beccaria J,Keifman E,1
+Corominas A,Szpilbarg N,1
+Corominas A,Reppetti J,1
+Bustamante J,Szpilbarg N,1
+Bustamante J,Reppetti J,1
+Bustamante J,Medina Y,1
+Bustamante J,Damiano A,1
+Bustamante J,Corominas A,1
+Di Pietro A,Igaz L,1
+Di Pietro A,Marcora M,1
+Di Pietro A,Marder M,1
+Igaz L,Silva Pinto P,1
+Marcora M,Wies Mancini V,1
+Marcora M,Vence M,1
+Marcora M,Silva Pinto P,1
+Marcora M,Pasquini L,1
+Marcora M,Marder M,1
+Igaz L,de Olmos S,1
+Igaz L,Wies Mancini V,1
+Igaz L,Vence M,1
+Igaz L,Pasquini L,1
+Di Pietro A,Pasquini J,1
+Igaz L,Pasquini J,1
+Igaz L,Marder M,1
+Igaz L,Marcora M,1
+Di Pietro A,de Olmos S,1
+Di Pietro A,Wies Mancini V,1
+Di Pietro A,Vence M,1
+Di Pietro A,Silva Pinto P,1
+Di Pietro A,Pasquini L,1
+Acosta L,Szpilbarg N,1
+Acosta L,Reppetti J,1
+Acosta L,Medina Y,1
+Alvarez R,Rosso D,1
+Gomez F,Rosso D,1
+Gomez F,Rosato M,1
+Gomez F,Keitelman I,1
+Amaral M,Shiromizu C,1
+Amaral M,Rosso D,1
+Amaral M,Rosato M,1
+Amaral M,Keitelman I,1
+Alvarez R,Shiromizu C,1
+Alvarez R,Rosato M,1
+Ibarra C,Keitelman I,1
+Alvarez R,Keitelman I,1
+Rela L,Urbano F,1
+Quinta H,Urbano F,1
+Quinta H,Rela L,1
+Pitossi F,Urbano F,1
+Pitossi F,Rela L,1
+Pitossi F,Quinta H,1
+Pasquini J,Urbano F,1
+Gomez F,Shiromizu C,1
+Ibarra C,Rosato M,1
+Acosta L,Damiano A,1
+Rosato M,Shiromizu C,1
+Acosta L,Corominas A,1
+Acosta L,Bustamante J,1
+Salvanal L,Vassallu M,1
+Igaz L,Vassallu M,1
+Igaz L,Salvanal L,1
+Charif S,Vassallu M,1
+Charif S,Salvanal L,1
+Rosso D,Shiromizu C,1
+Rosato M,Rosso D,1
+Ibarra C,Rosso D,1
+Keitelman I,Shiromizu C,1
+Keitelman I,Rosso D,1
+Keitelman I,Rosato M,1
+Jancic C,Shiromizu C,1
+Jancic C,Rosso D,1
+Jancic C,Rosato M,1
+Jancic C,Keitelman I,1
+Ibarra C,Shiromizu C,1
+Amaral M,Sanz M,1
+Casale R,Garimano N,1
+Casale R,Ibarra C,1
+Cazalas M,Urrutia L,1
+Cervetto V,Roggiero G,1
+Cervetto V,Rios Leiva C,1
+Cervetto V,Pena S,1
+Cervetto V,Murer M,1
+Cervetto V,Manso P,1
+Cervetto V,Magliola R,1
+Cervetto V,Hortas M,1
+Cervetto V,Gonzalez G,1
+Cervetto V,Goldsman A,1
+Cervetto V,Goldaracena P,1
+Cervetto V,Fabi M,1
+Cervetto V,EMSKC Group,1
+Cervetto V,De Carli M,1
+Cervetto V,De Carli D,1
+Cervetto V,Cosentino M,1
+Cervetto V,Ciotti A,1
+Cazalas M,Zold C,1
+Cazalas M,Villalba C,1
+Cazalas M,Vainstein E,1
+Cervetto V,Sardella A,1
+Cervetto V,Sicurello M,1
+Cervetto V,Tolin A,1
+Ciotti A,Fabi M,1
+Ciotti A,Pena S,1
+Ciotti A,Murer M,1
+Ciotti A,Manso P,1
+Ciotti A,Magliola R,1
+Ciotti A,Hortas M,1
+Ciotti A,Gonzalez G,1
+Ciotti A,Goldsman A,1
+Ciotti A,Goldaracena P,1
+Ciotti A,EMSKC Group,1
+Cervetto V,Triguy J,1
+Ciotti A,De Carli M,1
+Ciotti A,De Carli D,1
+Ciotti A,Cosentino M,1
+Cervetto V,Zold C,1
+Cervetto V,Villalba C,1
+Cervetto V,Vainstein E,1
+Cervetto V,Vaccarello M,1
+Cervetto V,Urrutia L,1
+Cazalas M,Vaccarello M,1
+Cazalas M,Triguy J,1
+Ballester C,Cosentino M,1
+Cazalas M,Tolin A,1
+Ballester C,Vaccarello M,1
+Ballester C,Urrutia L,1
+Ballester C,Triguy J,1
+Ballester C,Tolin A,1
+Ballester C,Sicurello M,1
+Ballester C,Sardella A,1
+Ballester C,Roggiero G,1
+Ballester C,Rios Leiva C,1
+Ballester C,Pena S,1
+Ballester C,Murer M,1
+Ballester C,Manso P,1
+Ballester C,Magliola R,1
+Ballester C,Hortas M,1
+Ballester C,Gonzalez G,1
+Ballester C,Goldsman A,1
+Ballester C,Goldaracena P,1
+Ballester C,Fabi M,1
+Ballester C,EMSKC Group,1
+Ballester C,De Carli M,1
+Ballester C,Vainstein E,1
+Ballester C,Villalba C,1
+Ballester C,Zold C,1
+Cazalas M,Hortas M,1
+Cazalas M,Sicurello M,1
+Cazalas M,Sardella A,1
+Cazalas M,Roggiero G,1
+Cazalas M,Rios Leiva C,1
+Cazalas M,Pena S,1
+Cazalas M,Murer M,1
+Cazalas M,Manso P,1
+Cazalas M,Magliola R,1
+Cazalas M,Gonzalez G,1
+Cazalas M,Cervetto V,1
+Cazalas M,Goldsman A,1
+Cazalas M,Goldaracena P,1
+Cazalas M,Fabi M,1
+Cazalas M,EMSKC Group,1
+Cazalas M,De Carli M,1
+Cazalas M,De Carli D,1
+Cazalas M,Cosentino M,1
+Cazalas M,Ciotti A,1
+Ciotti A,Rios Leiva C,1
+Ciotti A,Roggiero G,1
+Ciotti A,Sardella A,1
+Ciotti A,Sicurello M,1
+De Carli M,Rios Leiva C,1
+De Carli M,Pena S,1
+De Carli M,Murer M,1
+De Carli M,Manso P,1
+De Carli M,Magliola R,1
+De Carli M,Hortas M,1
+De Carli M,Gonzalez G,1
+De Carli M,Goldsman A,1
+De Carli M,Goldaracena P,1
+De Carli M,Fabi M,1
+De Carli M,EMSKC Group,1
+De Carli D,Zold C,1
+De Carli D,Villalba C,1
+De Carli D,Vainstein E,1
+De Carli D,Vaccarello M,1
+De Carli D,Urrutia L,1
+De Carli D,Triguy J,1
+De Carli D,Tolin A,1
+De Carli D,Sicurello M,1
+De Carli M,Roggiero G,1
+De Carli M,Sardella A,1
+De Carli M,Sicurello M,1
+EMSKC Group,Gonzalez G,1
+EMSKC Group,Sardella A,1
+EMSKC Group,Roggiero G,1
+EMSKC Group,Rios Leiva C,1
+EMSKC Group,Pena S,1
+EMSKC Group,Murer M,1
+EMSKC Group,Manso P,1
+EMSKC Group,Magliola R,1
+EMSKC Group,Hortas M,1
+EMSKC Group,Goldsman A,1
+De Carli M,Tolin A,1
+EMSKC Group,Goldaracena P,1
+EMSKC Group,Fabi M,1
+De Carli M,Zold C,1
+De Carli M,Villalba C,1
+De Carli M,Vainstein E,1
+De Carli M,Vaccarello M,1
+De Carli M,Urrutia L,1
+De Carli M,Triguy J,1
+De Carli D,Sardella A,1
+De Carli D,Roggiero G,1
+De Carli D,Rios Leiva C,1
+Cosentino M,EMSKC Group,1
+Cosentino M,Murer M,1
+Cosentino M,Manso P,1
+Cosentino M,Magliola R,1
+Cosentino M,Hortas M,1
+Cosentino M,Gonzalez G,1
+Cosentino M,Goldsman A,1
+Cosentino M,Goldaracena P,1
+Cosentino M,Fabi M,1
+Cosentino M,De Carli M,1
+Cosentino M,Rios Leiva C,1
+Cosentino M,De Carli D,1
+Ciotti A,Zold C,1
+Ciotti A,Villalba C,1
+Ciotti A,Vainstein E,1
+Ciotti A,Vaccarello M,1
+Ciotti A,Urrutia L,1
+Ciotti A,Triguy J,1
+Ciotti A,Tolin A,1
+Cosentino M,Pena S,1
+Cosentino M,Roggiero G,1
+De Carli D,Pena S,1
+De Carli D,EMSKC Group,1
+De Carli D,Murer M,1
+De Carli D,Manso P,1
+De Carli D,Magliola R,1
+De Carli D,Hortas M,1
+De Carli D,Gonzalez G,1
+De Carli D,Goldsman A,1
+De Carli D,Goldaracena P,1
+De Carli D,Fabi M,1
+De Carli D,De Carli M,1
+Cosentino M,Sardella A,1
+Cosentino M,Zold C,1
+Cosentino M,Villalba C,1
+Cosentino M,Vainstein E,1
+Cosentino M,Vaccarello M,1
+Cosentino M,Urrutia L,1
+Cosentino M,Triguy J,1
+Cosentino M,Tolin A,1
+Cosentino M,Sicurello M,1
+Ballester C,De Carli D,1
+Ballester C,Ciotti A,1
+Casale R,Leonino P,1
+Blake M,Pinto A,1
+Correa F,Gironacci M,1
+Correa F,Geoghegan P,1
+Celi A,Pinto A,1
+Celi A,Nunez M,1
+Celi A,Goldstein J,1
+Celi A,Gironacci M,1
+Celi A,Geoghegan P,1
+Celi A,Correa F,1
+Carbajosa N,Pinto A,1
+Carbajosa N,Nunez M,1
+Carbajosa N,Goldstein J,1
+Carbajosa N,Gironacci M,1
+Carbajosa N,Geoghegan P,1
+Carbajosa N,Correa F,1
+Carbajosa N,Celi A,1
+Cangelosi A,Nunez M,1
+Cangelosi A,Gironacci M,1
+Cangelosi A,Correa F,1
+Cangelosi A,Celi A,1
+Correa F,Goldstein J,1
+Correa F,Nunez M,1
+Correa F,Pinto A,1
+Braz B,Paz R,1
+Martinez M,Zold C,1
+Coletti M,Zold C,1
+Coletti M,Murer M,1
+Coletti M,Martinez M,1
+Keifman E,Tubert C,1
+Coll C,Tubert C,1
+Coll C,Paz R,1
+Braz B,Tubert C,1
+Braz B,Keifman E,1
+Geoghegan P,Gironacci M,1
+Braz B,Coll C,1
+Belforte J,Coll C,1
+Nunez M,Pinto A,1
+Goldstein J,Nunez M,1
+Gironacci M,Pinto A,1
+Gironacci M,Nunez M,1
+Gironacci M,Goldstein J,1
+Geoghegan P,Nunez M,1
+Cangelosi A,Carbajosa N,1
+Blake M,Nunez M,1
+Ballester C,Cervetto V,1
+Blake M,Goldstein J,1
+Padola N,Pereyra A,1
+Leonino P,Scalise M,1
+Leonino P,Sanz M,1
+Leonino P,Sacerdoti F,1
+Leonino P,Pereyra A,1
+Leonino P,Padola N,1
+Ibarra C,Sanz M,1
+Ibarra C,Pereyra A,1
+Ibarra C,Padola N,1
+Ibarra C,Leonino P,1
+Garimano N,Sanz M,1
+Garimano N,Pereyra A,1
+Garimano N,Padola N,1
+Garimano N,Leonino P,1
+Casale R,Scalise M,1
+Casale R,Sanz M,1
+Casale R,Sacerdoti F,1
+Casale R,Pereyra A,1
+Casale R,Padola N,1
+Padola N,Sacerdoti F,1
+Padola N,Sanz M,1
+Padola N,Scalise M,1
+Berdasco C,Correa F,1
+Blake M,Gironacci M,1
+Blake M,Geoghegan P,1
+Blake M,Correa F,1
+Blake M,Celi A,1
+Blake M,Carbajosa N,1
+Blake M,Cangelosi A,1
+Berdasco C,Nunez M,1
+Berdasco C,Gironacci M,1
+Berdasco C,Celi A,1
+Pereyra A,Sacerdoti F,1
+Berdasco C,Carbajosa N,1
+Berdasco C,Blake M,1
+Gomez F,Scalise M,1
+Garimano N,Gomez F,1
+Sanz M,Scalise M,1
+Sacerdoti F,Sanz M,1
+Pereyra A,Scalise M,1
+Pereyra A,Sanz M,1
+Ackerman J,Affranchino N,1
+Ackerman J,Baleani S,1
+Ackerman J,Ballester C,1
+Ackerman J,Cazalas M,1
+Baleani S,De Carli M,1
+Baleani S,De Carli D,1
+Baleani S,Cosentino M,1
+Baleani S,Ciotti A,1
+Baleani S,Cervetto V,1
+Baleani S,Cazalas M,1
+Baleani S,Ballester C,1
+Affranchino N,Zold C,1
+Affranchino N,Villalba C,1
+Affranchino N,Vainstein E,1
+Affranchino N,Vaccarello M,1
+Affranchino N,Urrutia L,1
+Affranchino N,Triguy J,1
+Affranchino N,Tolin A,1
+Affranchino N,Sicurello M,1
+Affranchino N,Sardella A,1
+Affranchino N,Roggiero G,1
+Affranchino N,Rios Leiva C,1
+Affranchino N,Pena S,1
+Baleani S,EMSKC Group,1
+Baleani S,Fabi M,1
+Baleani S,Goldaracena P,1
+Baleani S,Sicurello M,1
+Ballester C,Cazalas M,1
+Baleani S,Zold C,1
+Baleani S,Villalba C,1
+Baleani S,Vainstein E,1
+Baleani S,Vaccarello M,1
+Baleani S,Urrutia L,1
+Baleani S,Triguy J,1
+Baleani S,Tolin A,1
+Baleani S,Sardella A,1
+Baleani S,Goldsman A,1
+Baleani S,Roggiero G,1
+Baleani S,Rios Leiva C,1
+Baleani S,Pena S,1
+Baleani S,Murer M,1
+Baleani S,Manso P,1
+Baleani S,Magliola R,1
+Baleani S,Hortas M,1
+Baleani S,Gonzalez G,1
+Affranchino N,Murer M,1
+Affranchino N,Manso P,1
+Affranchino N,Magliola R,1
+Ackerman J,Gonzalez G,1
+Ackerman J,Sardella A,1
+Ackerman J,Roggiero G,1
+Ackerman J,Rios Leiva C,1
+Ackerman J,Pena S,1
+Ackerman J,Murer M,1
+Ackerman J,Manso P,1
+Ackerman J,Magliola R,1
+Ackerman J,Hortas M,1
+Ackerman J,Goldsman A,1
+Ackerman J,Tolin A,1
+Ackerman J,Goldaracena P,1
+Ackerman J,Fabi M,1
+Ackerman J,EMSKC Group,1
+Ackerman J,De Carli M,1
+Ackerman J,De Carli D,1
+Ackerman J,Cosentino M,1
+Ackerman J,Ciotti A,1
+Ackerman J,Cervetto V,1
+Ackerman J,Sicurello M,1
+Ackerman J,Triguy J,1
+Affranchino N,Hortas M,1
+Affranchino N,Cosentino M,1
+Affranchino N,Gonzalez G,1
+Affranchino N,Goldsman A,1
+Affranchino N,Goldaracena P,1
+Affranchino N,Fabi M,1
+Escudero P,on behalf RIVATREM,1
+Affranchino N,EMSKC Group,1
+Affranchino N,De Carli M,1
+Affranchino N,De Carli D,1
+Affranchino N,Ciotti A,1
+Ackerman J,Urrutia L,1
+Affranchino N,Cervetto V,1
+Affranchino N,Cazalas M,1
+Affranchino N,Ballester C,1
+Affranchino N,Baleani S,1
+Ackerman J,Zold C,1
+Ackerman J,Villalba C,1
+Ackerman J,Vainstein E,1
+Ackerman J,Vaccarello M,1
+Escudero P,Teran E,1
+Hecht F,Henrich T,1
+Galaviz-Hernandez C,Gonzalez-Ortiz M,1
+West P,Wu H,1
+Pinto A,Ramos-Aloi A,1
+Goldstein J,Ramos-Aloi A,1
+Arias L,Ramos-Aloi A,1
+Arias L,Pinto A,1
+Arias L,Goldstein J,1
+Rivarola V,Sterba J,1
+Ford P,Sterba J,1
+Fanelli M,Sterba J,1
+Fanelli M,Rivarola V,1
+Fanelli M,Ford P,1
+Di Giusto G,Sterba J,1
+Di Giusto G,Fanelli M,1
+Celi A,Sterba J,1
+Celi A,Fanelli M,1
+Casal J,Sterba J,1
+Casal J,Fanelli M,1
+Capurro C,Sterba J,1
+Capurro C,Fanelli M,1
+Beltramone N,Sterba J,1
+Igaz L,Romussi S,1
+Lacour A,Romussi S,1
+Rayes D,Romussi S,1
+Carrasquillo Y,Singh S,1
+Perello M,Valdivia S,1
+Perello M,Singh S,1
+Perello M,Reynaldo M,1
+Kasanetz F,Valdivia S,1
+Kasanetz F,Singh S,1
+Kasanetz F,Reynaldo M,1
+Kasanetz F,Perello M,1
+Carrasquillo Y,Valdivia S,1
+Carrasquillo Y,Reynaldo M,1
+Romussi S,Vassallu F,1
+Carrasquillo Y,Perello M,1
+Carrasquillo Y,Kasanetz F,1
+Agostino P,Valdivia S,1
+Agostino P,Singh S,1
+Agostino P,Reynaldo M,1
+Agostino P,Perello M,1
+Agostino P,Kasanetz F,1
+Agostino P,Carrasquillo Y,1
+Beltramone N,Fanelli M,1
+Walker A,Wu H,1
+Galaviz-Hernandez C,Martin S,1
+Walker A,West P,1
+Robinson K,Vassallu F,1
+Robinson K,Scotter E,1
+Robinson K,San Gil R,1
+Madrid San Martin L,Wu H,1
+Madrid San Martin L,West P,1
+Madrid San Martin L,Walker A,1
+Madrid San Martin L,Venturato J,1
+Madrid San Martin L,Vassallu F,1
+Madrid San Martin L,Scotter E,1
+Madrid San Martin L,San Gil R,1
+Madrid San Martin L,Robinson K,1
+Luan W,Wu H,1
+Luan W,West P,1
+Luan W,Walker A,1
+Luan W,Venturato J,1
+Luan W,Vassallu F,1
+Luan W,Scotter E,1
+Luan W,San Gil R,1
+Luan W,Robinson K,1
+Robinson K,Venturato J,1
+Robinson K,Walker A,1
+Robinson K,West P,1
+Scotter E,West P,1
+Venturato J,Wu H,1
+Venturato J,West P,1
+Venturato J,Walker A,1
+Vassallu F,Wu H,1
+Vassallu F,West P,1
+Vassallu F,Walker A,1
+Vassallu F,Venturato J,1
+Scotter E,Wu H,1
+Scotter E,Walker A,1
+Robinson K,Wu H,1
+Scotter E,Venturato J,1
+Scotter E,Vassallu F,1
+San Gil R,Wu H,1
+San Gil R,West P,1
+San Gil R,Walker A,1
+San Gil R,Venturato J,1
+San Gil R,Vassallu F,1
+San Gil R,Scotter E,1
+Reynaldo M,Singh S,1
+Reynaldo M,Valdivia S,1
+Singh S,Valdivia S,1
+Azevedo V,Chatel J,1
+Aguilar L,Cardenas F,1
+Aguilar L,Canteras N,1
+Aguilar L,Belforte J,1
+Riboldi J,Viola H,1
+Renfijes M,Viola H,1
+Renfijes M,Riboldi J,1
+Moncada D,Viola H,1
+Moncada D,Riboldi J,1
+Moncada D,Renfijes M,1
+Iribarne J,Viola H,1
+Iribarne J,Riboldi J,1
+Iribarne J,Renfijes M,1
+Iribarne J,Moncada D,1
+Igaz L,Riboldi J,1
+Igaz L,Renfijes M,1
+Igaz L,Moncada D,1
+Igaz L,Iribarne J,1
+Cutrera N,Echevarria M,1
+Cocca M,Echevarria M,1
+Aguilar L,Carreira M,1
+Aguilar L,Duenas Z,1
+Aguilar L,Montiel J,1
+Belforte J,Montiel J,1
+Canteras N,Carreira M,1
+Canteras N,Cardenas F,1
+Belforte J,Sanchez-Vincitore L,1
+Belforte J,Rodriguez-Labrada R,1
+Belforte J,Rocha L,1
+Belforte J,Ramos A,1
+Belforte J,Pertusa M,1
+Belforte J,Olazabal D,1
+Belforte J,Duenas Z,1
+Aguilar L,Olazabal D,1
+Belforte J,Carreira M,1
+Belforte J,Cardenas F,1
+Belforte J,Canteras N,1
+Aguilar L,Sanchez-Vincitore L,1
+Aguilar L,Rodriguez-Labrada R,1
+Aguilar L,Rocha L,1
+Aguilar L,Ramos A,1
+Aguilar L,Pertusa M,1
+Mechali A,Rivarola V,1
+Grippo A,Rivarola V,1
+Grippo A,Mechali A,1
+Chatel J,Vilela Rodrigues T,1
+Marques da Silva W,Verano-Braga T,1
+Henry C,Vilela Rodrigues T,1
+Henry C,Verano-Braga T,1
+Henry C,Marques da Silva W,1
+Ferrary Americo M,Vilela Rodrigues T,1
+Ferrary Americo M,Verano-Braga T,1
+Ferrary Americo M,Marques da Silva W,1
+Ferrary Americo M,Henry C,1
+Chatel J,Verano-Braga T,1
+Verano-Braga T,Vilela Rodrigues T,1
+Chatel J,Marques da Silva W,1
+Chatel J,Henry C,1
+Chatel J,Ferrary Americo M,1
+Azevedo V,Vilela Rodrigues T,1
+Azevedo V,Verano-Braga T,1
+Azevedo V,Marques da Silva W,1
+Azevedo V,Henry C,1
+Azevedo V,Ferrary Americo M,1
+Marques da Silva W,Vilela Rodrigues T,1
+Belluscio M,Marini M,1
+Ford P,Mechali A,1
+Capurro C,Grippo A,1
+Ford P,Grippo A,1
+Di Giusto G,Mechali A,1
+Di Giusto G,Grippo A,1
+Celi A,Mechali A,1
+Celi A,Grippo A,1
+Casal J,Mechali A,1
+Casal J,Grippo A,1
+Capurro C,Mechali A,1
+Beltramone N,Mechali A,1
+Marini M,Martinez M,1
+Beltramone N,Grippo A,1
+Stahl A,Taravini I,1
+Paz R,Taravini I,1
+Gomez G,Tubert C,1
+Gomez G,Stahl A,1
+Gomez G,Paz R,1
+Belforte J,Stahl A,1
+Marini M,Murer M,1
+Luan W,Madrid San Martin L,1
+Igaz L,Wu H,1
+Igaz L,West P,1
+Bademosi A,Wu H,1
+Alvarez A,Palacios D,1
+Alvarez A,Garcia-Robles R,1
+Alvarez A,Cardona P,1
+Pagani M,Pasquini J,1
+Marcora M,Pagani M,1
+Katz M,Pasquini J,1
+Katz M,Pagani M,1
+Katz M,Marcora M,1
+Galo A,Pasquini J,1
+Galo A,Pagani M,1
+Galo A,Marcora M,1
+Galo A,Katz M,1
+Correale J,Pagani M,1
+Correale J,Katz M,1
+Correale J,Galo A,1
+Bongiovanni V,Pasquini J,1
+Bongiovanni V,Pagani M,1
+Bongiovanni V,Marcora M,1
+Bongiovanni V,Katz M,1
+Ayala-Ramirez P,Cardona P,1
+Ayala-Ramirez P,Palacios D,1
+Cardona P,Damiano A,1
+Bademosi A,Igaz L,1
+Bademosi A,Walker A,1
+Bademosi A,Venturato J,1
+Bademosi A,Vassallu F,1
+Bademosi A,Scotter E,1
+Bademosi A,San Gil R,1
+Bademosi A,Robinson K,1
+Bademosi A,Madrid San Martin L,1
+Bademosi A,Luan W,1
+Bademosi A,Harutyunyan A,1
+Cardona P,Garcia-Robles R,1
+Bademosi A,Chye Y,1
+Bademosi A,Chang M,1
+Bademosi A,Cao M,1
+Bademosi A,Brown-Wright H,1
+Bademosi A,Blizzard C,1
+Garcia-Robles R,Palacios D,1
+Damiano A,Palacios D,1
+Cardona P,Palacios D,1
+Bongiovanni V,Galo A,1
+Bongiovanni V,Correale J,1
+Bodin D,Pasquini J,1
+Garcia-Verdugo M,Lanciego J,1
+Gustincich S,Rodriguez-Martin P,1
+Gustincich S,Murer M,1
+Gustincich S,Moratalla R,1
+Gustincich S,Lanciego J,1
+Gustincich S,Jercog P,1
+Garcia-Verdugo M,Rodriguez-Martin P,1
+Garcia-Verdugo M,Murer M,1
+Garcia-Verdugo M,Moratalla R,1
+Garcia-Verdugo M,Jercog P,1
+Jercog P,Moratalla R,1
+Garcia-Verdugo M,Gustincich S,1
+Reynoso M,Sierra M,1
+Fernandez N,Reynoso M,1
+Di Paola M,Reynoso M,1
+Castro Parodi M,Reynoso M,1
+Jacobacci F,Solano A,1
+Griffa G,Jacobacci F,1
+De Pino G,Solano A,1
+Jercog P,Lanciego J,1
+Jercog P,Murer M,1
+Bodin D,Pagani M,1
+Bochicchio P,Katz M,1
+Bodin D,Marcora M,1
+Bodin D,Katz M,1
+Bodin D,Galo A,1
+Bodin D,Correale J,1
+Bodin D,Bongiovanni V,1
+Bochicchio P,Pasquini J,1
+Bochicchio P,Pagani M,1
+Bochicchio P,Marcora M,1
+Bochicchio P,Galo A,1
+Jercog P,Rodriguez-Martin P,1
+Bochicchio P,Correale J,1
+Bochicchio P,Bongiovanni V,1
+Bochicchio P,Bodin D,1
+Murer M,Rodriguez-Martin P,1
+Moratalla R,Rodriguez-Martin P,1
+Lanciego J,Rodriguez-Martin P,1
+Lanciego J,Murer M,1
+Lanciego J,Moratalla R,1
+Bademosi A,West P,1
+Blizzard C,Brown-Wright H,1
+Igaz L,Walker A,1
+Blizzard C,Cao M,1
+Chye Y,Scotter E,1
+Chye Y,San Gil R,1
+Chye Y,Robinson K,1
+Chye Y,Madrid San Martin L,1
+Chye Y,Luan W,1
+Chye Y,Igaz L,1
+Chye Y,Harutyunyan A,1
+Chang M,Wu H,1
+Chang M,West P,1
+Chang M,Walker A,1
+Chang M,Venturato J,1
+Chang M,Vassallu F,1
+Chang M,Scotter E,1
+Chang M,San Gil R,1
+Chang M,Robinson K,1
+Chang M,Madrid San Martin L,1
+Chang M,Luan W,1
+Chang M,Igaz L,1
+Chang M,Harutyunyan A,1
+Chye Y,Vassallu F,1
+Chye Y,Venturato J,1
+Chye Y,Walker A,1
+Harutyunyan A,Walker A,1
+Igaz L,Venturato J,1
+Igaz L,Scotter E,1
+Igaz L,San Gil R,1
+Igaz L,Robinson K,1
+Igaz L,Madrid San Martin L,1
+Igaz L,Luan W,1
+Harutyunyan A,Wu H,1
+Harutyunyan A,West P,1
+Harutyunyan A,Venturato J,1
+Chye Y,West P,1
+Harutyunyan A,Vassallu F,1
+Harutyunyan A,Scotter E,1
+Harutyunyan A,San Gil R,1
+Harutyunyan A,Robinson K,1
+Harutyunyan A,Madrid San Martin L,1
+Harutyunyan A,Luan W,1
+Harutyunyan A,Igaz L,1
+Chye Y,Wu H,1
+Chang M,Chye Y,1
+Cao M,Wu H,1
+Cao M,West P,1
+Blizzard C,Vassallu F,1
+Brown-Wright H,Harutyunyan A,1
+Brown-Wright H,Chye Y,1
+Brown-Wright H,Chang M,1
+Brown-Wright H,Cao M,1
+Blizzard C,Wu H,1
+Blizzard C,West P,1
+Blizzard C,Walker A,1
+Blizzard C,Venturato J,1
+Blizzard C,Scotter E,1
+Brown-Wright H,Luan W,1
+Blizzard C,San Gil R,1
+Blizzard C,Robinson K,1
+Blizzard C,Madrid San Martin L,1
+Blizzard C,Luan W,1
+Blizzard C,Igaz L,1
+Blizzard C,Harutyunyan A,1
+Blizzard C,Chye Y,1
+Blizzard C,Chang M,1
+Brown-Wright H,Igaz L,1
+Brown-Wright H,Madrid San Martin L,1
+Cao M,Walker A,1
+Cao M,Harutyunyan A,1
+Cao M,Venturato J,1
+Cao M,Vassallu F,1
+Cao M,Scotter E,1
+Cao M,San Gil R,1
+Cao M,Robinson K,1
+Cao M,Madrid San Martin L,1
+Cao M,Luan W,1
+Cao M,Igaz L,1
+Cao M,Chye Y,1
+Brown-Wright H,Robinson K,1
+Cao M,Chang M,1
+Brown-Wright H,Wu H,1
+Brown-Wright H,West P,1
+Brown-Wright H,Walker A,1
+Brown-Wright H,Venturato J,1
+Brown-Wright H,Vassallu F,1
+Brown-Wright H,Scotter E,1
+Brown-Wright H,San Gil R,1
+Canteras N,Duenas Z,1
+Canteras N,Montiel J,1
+Canteras N,Olazabal D,1
+Garzon V,Targovnik H,1
+Galaviz-Hernandez C,Valenzuela-Torres P,1
+Galaviz-Hernandez C,Simental-Mendia L,1
+Galaviz-Hernandez C,Reynoso M,1
+Galaviz-Hernandez C,Marchat L,1
+Escudero C,Valenzuela-Torres P,1
+Escudero C,Simental-Mendia L,1
+Escudero C,Reynoso M,1
+Escudero C,Marchat L,1
+Damiano A,Valenzuela-Torres P,1
+Damiano A,Simental-Mendia L,1
+Damiano A,Marchat L,1
+Burgos C,Valenzuela-Torres P,1
+Burgos C,Sosa-Macias M,1
+Burgos C,Simental-Mendia L,1
+Burgos C,Reynoso M,1
+Burgos C,Marchat L,1
+Burgos C,Galaviz-Hernandez C,1
+Burgos C,Escudero C,1
+Burgos C,Damiano A,1
+Marchat L,Reynoso M,1
+Marchat L,Simental-Mendia L,1
+Marchat L,Sosa-Macias M,1
+Dujovne N,Marques da Silva W,1
+Garzon V,Marti J,1
+Garzon V,Marques da Silva W,1
+Garzon V,Lazzati J,1
+Garzon V,Gomes Pio M,1
+Dujovne N,Zappa J,1
+Dujovne N,Targovnik H,1
+Dujovne N,Rivolta C,1
+Dujovne N,Marti J,1
+Dujovne N,Lazzati J,1
+Marchat L,Valenzuela-Torres P,1
+Dujovne N,Gomes Pio M,1
+Dujovne N,Garzon V,1
+Sosa-Macias M,Valenzuela-Torres P,1
+Simental-Mendia L,Valenzuela-Torres P,1
+Simental-Mendia L,Sosa-Macias M,1
+Reynoso M,Valenzuela-Torres P,1
+Reynoso M,Sosa-Macias M,1
+Reynoso M,Simental-Mendia L,1
+Acurio J,Valenzuela-Torres P,1
+Acurio J,Sosa-Macias M,1
+Acurio J,Simental-Mendia L,1
+Netti V,Vassallu F,1
+Murer M,Salas-Prieto C,1
+Moratalla R,Salas-Prieto C,1
+Merino-Serrais P,Salas-Prieto C,1
+Merino-Serrais P,Murer M,1
+Merino-Serrais P,Moratalla R,1
+Alberquilla S,Salas-Prieto C,1
+Alberquilla S,Merino-Serrais P,1
+Nieva G,Vassallu F,1
+Netti V,Nieva G,1
+Blanco M,Capurro C,1
+Igaz L,Netti V,1
+Depino A,Vassallu F,1
+Depino A,Nieva G,1
+Depino A,Netti V,1
+Depino A,Igaz L,1
+Miliwebsky E,Sidhu S,1
+Miliwebsky E,Sacerdoti F,1
+Miliwebsky E,Piazza R,1
+Blanco M,Bortman G,1
+Blanco M,Di Giusto G,1
+Acurio J,Reynoso M,1
+Di Giusto G,Politi M,1
+Acurio J,Marchat L,1
+Acurio J,Galaviz-Hernandez C,1
+Acurio J,Escudero C,1
+Acurio J,Damiano A,1
+Acurio J,Burgos C,1
+Fonseca S,Politi M,1
+Fonseca S,Piazza A,1
+Ferreyra R,Fonseca S,1
+Di Giusto G,Piazza A,1
+Blanco M,Ferreyra R,1
+Di Giusto G,Fonseca S,1
+Di Giusto G,Ferreyra R,1
+Capurro C,Fonseca S,1
+Bortman G,Fonseca S,1
+Bortman G,Di Giusto G,1
+Blanco M,Politi M,1
+Blanco M,Piazza A,1
+Blanco M,Fonseca S,1
+Garzon V,Rivolta C,1
+Garzon V,Zappa J,1
+Marques da Silva W,Sacerdoti F,1
+Gomes Pio M,Lazzati J,1
+Bumaschny V,Naik A,1
+Bumaschny V,Dezzutti L,1
+Bumaschny V,Deaner N,1
+Bumaschny V,Daven M,1
+Bumaschny V,Daniels A,1
+Breithaupt A,Sabbagh M,1
+Breithaupt A,Possin K,1
+Breithaupt A,Naik A,1
+Breithaupt A,Dezzutti L,1
+Breithaupt A,Deaner N,1
+Breithaupt A,Daven M,1
+Breithaupt A,Daniels A,1
+Breithaupt A,Bumaschny V,1
+Alzheimer's Association Innovation Roundtable,Sabbagh M,1
+Alzheimer's Association Innovation Roundtable,Possin K,1
+Alzheimer's Association Innovation Roundtable,Naik A,1
+Alzheimer's Association Innovation Roundtable,Dezzutti L,1
+Alzheimer's Association Innovation Roundtable,Deaner N,1
+Alzheimer's Association Innovation Roundtable,Daven M,1
+Bumaschny V,Possin K,1
+Bumaschny V,Sabbagh M,1
+Daniels A,Daven M,1
+Deaner N,Dezzutti L,1
+Naik A,Sabbagh M,1
+Naik A,Possin K,1
+Dezzutti L,Sabbagh M,1
+Dezzutti L,Possin K,1
+Dezzutti L,Naik A,1
+Deaner N,Sabbagh M,1
+Deaner N,Possin K,1
+Deaner N,Naik A,1
+Daven M,Sabbagh M,1
+Daniels A,Deaner N,1
+Daven M,Possin K,1
+Daven M,Naik A,1
+Daven M,Dezzutti L,1
+Daven M,Deaner N,1
+Daniels A,Sabbagh M,1
+Daniels A,Possin K,1
+Daniels A,Naik A,1
+Daniels A,Dezzutti L,1
+Alzheimer's Association Innovation Roundtable,Daniels A,1
+Alzheimer's Association Innovation Roundtable,Bumaschny V,1
+Alzheimer's Association Innovation Roundtable,Breithaupt A,1
+Lazzati J,Zappa J,1
+Rivolta C,Targovnik H,1
+Marti J,Zappa J,1
+Marti J,Targovnik H,1
+Marti J,Rivolta C,1
+Marques da Silva W,Zappa J,1
+Marques da Silva W,Targovnik H,1
+Marques da Silva W,Rivolta C,1
+Marques da Silva W,Marti J,1
+Lazzati J,Targovnik H,1
+Targovnik H,Zappa J,1
+Lazzati J,Rivolta C,1
+Lazzati J,Marti J,1
+Lazzati J,Marques da Silva W,1
+Gomes Pio M,Zappa J,1
+Gomes Pio M,Targovnik H,1
+Gomes Pio M,Rivolta C,1
+Gomes Pio M,Marti J,1
+Gomes Pio M,Marques da Silva W,1
+Rivolta C,Zappa J,1
+Alexander A,Alford S,1
+Alford S,Sabbagh M,1
+Alford S,Alzheimer's Association Innovation Roundtable,1
+Alford S,Possin K,1
+Alford S,Naik A,1
+Alford S,Dezzutti L,1
+Alford S,Deaner N,1
+Alford S,Daven M,1
+Alford S,Daniels A,1
+Alford S,Bumaschny V,1
+Alford S,Breithaupt A,1
+Alexander A,Sabbagh M,1
+Alexander A,Alzheimer's Association Innovation Roundtable,1
+Alexander A,Possin K,1
+Alexander A,Naik A,1
+Alexander A,Dezzutti L,1
+Alexander A,Deaner N,1
+Alexander A,Daven M,1
+Alexander A,Daniels A,1
+Alexander A,Bumaschny V,1
+Alexander A,Breithaupt A,1
+Marques da Silva W,Sidhu S,1
+Marques da Silva W,Piazza R,1
+Canteras N,Pertusa M,1
+Lee H,Solano A,1
+Galaviz-Hernandez C,Lazalde-Ramos B,1
+Enriquez-Mendiola D,Vertiz-Hernandez A,1
+Enriquez-Mendiola D,Sosa-Macias M,1
+Enriquez-Mendiola D,Sifuentes-Garcia J,1
+Enriquez-Mendiola D,Lazalde-Ramos B,1
+Enriquez-Mendiola D,Galaviz-Hernandez C,1
+Damiano A,Vertiz-Hernandez A,1
+Damiano A,Sifuentes-Garcia J,1
+Damiano A,Lazalde-Ramos B,1
+Damiano A,Enriquez-Mendiola D,1
+Barragan-Zuniga L,Vertiz-Hernandez A,1
+Barragan-Zuniga L,Sifuentes-Garcia J,1
+Barragan-Zuniga L,Lazalde-Ramos B,1
+Barragan-Zuniga L,Enriquez-Mendiola D,1
+Rodriguez-Labrada R,Sanchez-Vincitore L,1
+Rocha L,Sanchez-Vincitore L,1
+Rocha L,Rodriguez-Labrada R,1
+Ramos A,Sanchez-Vincitore L,1
+Ramos A,Rodriguez-Labrada R,1
+Galaviz-Hernandez C,Sifuentes-Garcia J,1
+Galaviz-Hernandez C,Vertiz-Hernandez A,1
+Lazalde-Ramos B,Sifuentes-Garcia J,1
+Casal J,Igaz L,1
+Lopez M,Vassallu F,1
+Lopez Ambrosioni F,Vassallu F,1
+Lopez Ambrosioni F,Lopez M,1
+Igaz L,Lopez M,1
+Igaz L,Lopez Ambrosioni F,1
+Casal J,Vassallu F,1
+Casal J,Lopez M,1
+Casal J,Lopez Ambrosioni F,1
+Caltana L,Vassallu F,1
+Lazalde-Ramos B,Sosa-Macias M,1
+Caltana L,Lopez M,1
+Caltana L,Lopez Ambrosioni F,1
+Caltana L,Igaz L,1
+Caltana L,Casal J,1
+Sosa-Macias M,Vertiz-Hernandez A,1
+Sifuentes-Garcia J,Vertiz-Hernandez A,1
+Sifuentes-Garcia J,Sosa-Macias M,1
+Lazalde-Ramos B,Vertiz-Hernandez A,1
+Ramos A,Rocha L,1
+Pertusa M,Sanchez-Vincitore L,1
+Pertusa M,Rodriguez-Labrada R,1
+Cardenas F,Ramos A,1
+Carreira M,Ramos A,1
+Carreira M,Pertusa M,1
+Carreira M,Olazabal D,1
+Carreira M,Montiel J,1
+Carreira M,Duenas Z,1
+Cardenas F,Sanchez-Vincitore L,1
+Cardenas F,Rodriguez-Labrada R,1
+Cardenas F,Rocha L,1
+Cardenas F,Pertusa M,1
+Carreira M,Rodriguez-Labrada R,1
+Cardenas F,Olazabal D,1
+Cardenas F,Montiel J,1
+Cardenas F,Duenas Z,1
+Cardenas F,Carreira M,1
+Canteras N,Sanchez-Vincitore L,1
+Canteras N,Rodriguez-Labrada R,1
+Canteras N,Rocha L,1
+Canteras N,Ramos A,1
+Carreira M,Rocha L,1
+Carreira M,Sanchez-Vincitore L,1
+Pertusa M,Rocha L,1
+Montiel J,Rocha L,1
+Pertusa M,Ramos A,1
+Olazabal D,Sanchez-Vincitore L,1
+Olazabal D,Rodriguez-Labrada R,1
+Olazabal D,Rocha L,1
+Olazabal D,Ramos A,1
+Olazabal D,Pertusa M,1
+Montiel J,Sanchez-Vincitore L,1
+Montiel J,Rodriguez-Labrada R,1
+Montiel J,Ramos A,1
+Duenas Z,Montiel J,1
+Montiel J,Pertusa M,1
+Montiel J,Olazabal D,1
+Duenas Z,Sanchez-Vincitore L,1
+Duenas Z,Rodriguez-Labrada R,1
+Duenas Z,Rocha L,1
+Duenas Z,Ramos A,1
+Duenas Z,Pertusa M,1
+Duenas Z,Olazabal D,1
+Huang S,Solano A,1
+Palombo M,Solano A,1
+Marques da Silva W,Miliwebsky E,1
+Solano A,Yeffal A,1
+Ferreira R,Marques da Silva W,1
+Ferreira R,Giron D,1
+Chinen I,Sidhu S,1
+Chinen I,Sacerdoti F,1
+Chinen I,Piazza R,1
+Chinen I,Miliwebsky E,1
+Chinen I,Marques da Silva W,1
+Chinen I,Luz D,1
+Chinen I,Henrique I,1
+Chinen I,Henrique C,1
+Chinen I,Gomez F,1
+Chinen I,Giron D,1
+Chinen I,Ferreira R,1
+Chen G,Miliwebsky E,1
+Chen G,Marques da Silva W,1
+Chen G,Henrique I,1
+Chen G,Henrique C,1
+Chen G,Giron D,1
+Chen G,Chinen I,1
+Ferreira R,Miliwebsky E,1
+Giron D,Gomez F,1
+Giron D,Henrique C,1
+Gomez F,Miliwebsky E,1
+Luz D,Miliwebsky E,1
+Luz D,Marques da Silva W,1
+Henrique I,Sidhu S,1
+Henrique I,Miliwebsky E,1
+Henrique I,Marques da Silva W,1
+Henrique C,Sidhu S,1
+Henrique C,Miliwebsky E,1
+Henrique C,Marques da Silva W,1
+Gomez F,Marques da Silva W,1
+Giron D,Henrique I,1
+Gomez F,Henrique I,1
+Gomez F,Henrique C,1
+Giron D,Sidhu S,1
+Giron D,Sacerdoti F,1
+Giron D,Piazza R,1
+Giron D,Miliwebsky E,1
+Giron D,Marques da Silva W,1
+Giron D,Luz D,1
+Carbonari C,Sidhu S,1
+Carbonari C,Sacerdoti F,1
+Carbonari C,Piazza R,1
+Ferreiros A,Solimine F,1
+Bom A,Carbonari C,1
+Amaral M,Miliwebsky E,1
+Amaral M,Marques da Silva W,1
+Amaral M,Giron D,1
+Amaral M,Chinen I,1
+Amaral M,Carbonari C,1
+Amaral M,Bom A,1
+Reynoso M,Solimine F,1
+Ferreiros A,Reynoso M,1
+Bom A,Chinen I,1
+Damiano A,Solimine F,1
+Damiano A,Ferreiros A,1
+Corominas A,Solimine F,1
+Corominas A,Reynoso M,1
+Corominas A,Ferreiros A,1
+Casale R,Solimine F,1
+Casale R,Reynoso M,1
+Casale R,Ferreiros A,1
+Bom A,Chen G,1
+Bom A,Ferreira R,1
+Carbonari C,Miliwebsky E,1
+Carbonari C,Chen G,1
+Carbonari C,Marques da Silva W,1
+Carbonari C,Luz D,1
+Carbonari C,Henrique I,1
+Carbonari C,Henrique C,1
+Carbonari C,Gomez F,1
+Carbonari C,Giron D,1
+Carbonari C,Ferreira R,1
+Carbonari C,Chinen I,1
+Bom A,Sidhu S,1
+Bom A,Giron D,1
+Bom A,Sacerdoti F,1
+Bom A,Piazza R,1
+Bom A,Miliwebsky E,1
+Bom A,Marques da Silva W,1
+Bom A,Luz D,1
+Bom A,Henrique I,1
+Bom A,Henrique C,1
+Bom A,Gomez F,1
+De Pino G,Jacobacci F,1
+De Pino G,Griffa G,1
+De Pino G,Della-Maggiore V,1
+Hladik F,Milush J,1
+Henrich T,Hladik F,1
+Hecht F,Vo P,1
+Hecht F,Thanh C,1
+Hecht F,Stone M,1
+Hecht F,Siegel D,1
+Hecht F,Roychoudhury P,1
+Hecht F,Reppetti J,1
+Hecht F,Pilcher C,1
+Hecht F,Pan T,1
+Hecht F,Milush J,1
+Hecht F,Martin J,1
+Hecht F,Levy C,1
+Hecht F,Lee S,1
+Hecht F,Jerome K,1
+Hecht F,Huang M,1
+Hecht F,Hoh R,1
+Hecht F,Hobbs K,1
+Hecht F,Hladik F,1
+Cavaliere Candedo V,Gonzalez Moron D,1
+Henrich T,Hobbs K,1
+Henrich T,Hoh R,1
+Henrich T,Huang M,1
+Henrich T,Stone M,1
+Hladik F,Levy C,1
+Hladik F,Lee S,1
+Hladik F,Jerome K,1
+Hladik F,Huang M,1
+Hladik F,Hoh R,1
+Hladik F,Hobbs K,1
+Henrich T,Vo P,1
+Henrich T,Thanh C,1
+Henrich T,Siegel D,1
+Henrich T,Jerome K,1
+Henrich T,Roychoudhury P,1
+Henrich T,Reppetti J,1
+Henrich T,Pilcher C,1
+Henrich T,Pan T,1
+Henrich T,Milush J,1
+Henrich T,Martin J,1
+Henrich T,Levy C,1
+Henrich T,Lee S,1
+Gornalusse G,Vo P,1
+Gornalusse G,Thanh C,1
+Gornalusse G,Stone M,1
+Gibson E,Hladik F,1
+Gibson E,Milush J,1
+Gibson E,Martin J,1
+Gibson E,Levy C,1
+Gibson E,Lee S,1
+Gibson E,Jerome K,1
+Gibson E,Huang M,1
+Gibson E,Hoh R,1
+Gibson E,Hobbs K,1
+Gibson E,Henrich T,1
+Gibson E,Pilcher C,1
+Gibson E,Hecht F,1
+Gibson E,Gornalusse G,1
+Dwivedi A,Vo P,1
+Dwivedi A,Thanh C,1
+Dwivedi A,Stone M,1
+Dwivedi A,Siegel D,1
+Dwivedi A,Roychoudhury P,1
+Dwivedi A,Reppetti J,1
+Gibson E,Pan T,1
+Gibson E,Reppetti J,1
+Gornalusse G,Siegel D,1
+Gornalusse G,Huang M,1
+Gornalusse G,Roychoudhury P,1
+Gornalusse G,Pilcher C,1
+Gornalusse G,Pan T,1
+Gornalusse G,Milush J,1
+Gornalusse G,Martin J,1
+Gornalusse G,Levy C,1
+Gornalusse G,Lee S,1
+Gornalusse G,Jerome K,1
+Gornalusse G,Hoh R,1
+Gibson E,Roychoudhury P,1
+Gornalusse G,Hobbs K,1
+Gornalusse G,Hladik F,1
+Gornalusse G,Henrich T,1
+Gornalusse G,Hecht F,1
+Gibson E,Vo P,1
+Gibson E,Thanh C,1
+Gibson E,Stone M,1
+Gibson E,Siegel D,1
+Hladik F,Martin J,1
+Hladik F,Pan T,1
+Dwivedi A,Pan T,1
+Hladik F,Pilcher C,1
+Lee S,Milush J,1
+Lee S,Martin J,1
+Lee S,Levy C,1
+Jerome K,Vo P,1
+Jerome K,Thanh C,1
+Jerome K,Stone M,1
+Jerome K,Siegel D,1
+Jerome K,Roychoudhury P,1
+Jerome K,Reppetti J,1
+Jerome K,Pilcher C,1
+Jerome K,Pan T,1
+Jerome K,Milush J,1
+Jerome K,Martin J,1
+Jerome K,Levy C,1
+Jerome K,Lee S,1
+Huang M,Vo P,1
+Huang M,Thanh C,1
+Huang M,Stone M,1
+Huang M,Siegel D,1
+Lee S,Pan T,1
+Lee S,Pilcher C,1
+Lee S,Reppetti J,1
+Levy C,Roychoudhury P,1
+Martin J,Reppetti J,1
+Martin J,Pilcher C,1
+Martin J,Pan T,1
+Martin J,Milush J,1
+Levy C,Vo P,1
+Levy C,Thanh C,1
+Levy C,Stone M,1
+Levy C,Siegel D,1
+Levy C,Reppetti J,1
+Lee S,Roychoudhury P,1
+Levy C,Pilcher C,1
+Levy C,Pan T,1
+Levy C,Milush J,1
+Levy C,Martin J,1
+Lee S,Vo P,1
+Lee S,Thanh C,1
+Lee S,Stone M,1
+Lee S,Siegel D,1
+Huang M,Roychoudhury P,1
+Huang M,Reppetti J,1
+Huang M,Pilcher C,1
+Hobbs K,Lee S,1
+Hobbs K,Siegel D,1
+Hobbs K,Roychoudhury P,1
+Hobbs K,Reppetti J,1
+Hobbs K,Pilcher C,1
+Hobbs K,Pan T,1
+Hobbs K,Milush J,1
+Hobbs K,Martin J,1
+Hobbs K,Levy C,1
+Hobbs K,Jerome K,1
+Hobbs K,Thanh C,1
+Hobbs K,Huang M,1
+Hobbs K,Hoh R,1
+Hladik F,Vo P,1
+Hladik F,Thanh C,1
+Hladik F,Stone M,1
+Hladik F,Siegel D,1
+Hladik F,Roychoudhury P,1
+Hladik F,Reppetti J,1
+Hobbs K,Stone M,1
+Hobbs K,Vo P,1
+Huang M,Pan T,1
+Hoh R,Siegel D,1
+Huang M,Milush J,1
+Huang M,Martin J,1
+Huang M,Levy C,1
+Huang M,Lee S,1
+Huang M,Jerome K,1
+Hoh R,Vo P,1
+Hoh R,Thanh C,1
+Hoh R,Stone M,1
+Hoh R,Roychoudhury P,1
+Hoh R,Huang M,1
+Hoh R,Reppetti J,1
+Hoh R,Pilcher C,1
+Hoh R,Pan T,1
+Hoh R,Milush J,1
+Hoh R,Martin J,1
+Hoh R,Levy C,1
+Hoh R,Lee S,1
+Hoh R,Jerome K,1
+Dwivedi A,Pilcher C,1
+Dwivedi A,Milush J,1
+Martin J,Siegel D,1
+Jancic C,Moretton M,1
+Surmeier D,Tkatch T,1
+Pancani T,Zampese E,1
+Pancani T,Tubert C,1
+Pancani T,Tkatch T,1
+Pancani T,Surmeier D,1
+Fernandez-Brando R,Sacerdoti F,1
+Da Rocha M,Sacerdoti F,1
+Bernal A,Fernandez-Brando R,1
+Bernal A,Da Rocha M,1
+Belardo M,Sacerdoti F,1
+Belardo M,Palermo M,1
+Belardo M,Ibarra C,1
+Belardo M,Fernandez-Brando R,1
+Belardo M,Da Rocha M,1
+Belardo M,Bernal A,1
+Amaral M,Belardo M,1
+Reig R,Saez M,1
+Murer M,Saez M,1
+Murer M,Reig R,1
+Surmeier D,Tubert C,1
+Surmeier D,Zampese E,1
+Tkatch T,Tubert C,1
+Chiappetta D,Moretton M,1
+Ibarra C,Pascuale C,1
+Ibarra C,Moretton M,1
+Ibarra C,Lombardo T,1
+Gomez F,Pascuale C,1
+Gomez F,Moretton M,1
+Gomez F,Lombardo T,1
+Chiappetta D,Sacerdoti F,1
+Chiappetta D,Pascuale C,1
+Chiappetta D,Lombardo T,1
+Tkatch T,Zampese E,1
+Chiappetta D,Jancic C,1
+Chiappetta D,Ibarra C,1
+Chiappetta D,Gomez F,1
+Amaral M,Pascuale C,1
+Amaral M,Moretton M,1
+Amaral M,Lombardo T,1
+Amaral M,Chiappetta D,1
+Tubert C,Zampese E,1
+Moratalla R,Saez M,1
+Moratalla R,Reig R,1
+Keifman E,Saez M,1
+Gonzalez-Ortiz M,Martin S,1
+Lima V,Stojanova J,1
+Lima V,Moller A,1
+Lima V,Martin S,1
+Gonzalez-Ortiz M,on behalf RIVATREM,1
+Gonzalez-Ortiz M,Teran E,1
+Gonzalez-Ortiz M,Stojanova J,1
+Gonzalez-Ortiz M,Sosa-Macias M,1
+Gonzalez-Ortiz M,Moller A,1
+Gonzalez-Ortiz M,Lima V,1
+Martin S,Moller A,1
+Giachini F,on behalf RIVATREM,1
+Giachini F,Stojanova J,1
+Giachini F,Moller A,1
+Giachini F,Martin S,1
+Giachini F,Gonzalez-Ortiz M,1
+Galaviz-Hernandez C,on behalf RIVATREM,1
+Galaviz-Hernandez C,Stojanova J,1
+Galaviz-Hernandez C,Moller A,1
+Lima V,on behalf RIVATREM,1
+Martin S,Sosa-Macias M,1
+Keifman E,Reig R,1
+Stojanova J,on behalf RIVATREM,1
+Coll C,Saez M,1
+Coll C,Reig R,1
+Coll C,Moratalla R,1
+Alberquilla S,Saez M,1
+Alberquilla S,Reig R,1
+Alberquilla S,Keifman E,1
+Alberquilla S,Coll C,1
+Teran E,on behalf RIVATREM,1
+Stojanova J,Teran E,1
+Martin S,Stojanova J,1
+Sosa-Macias M,on behalf RIVATREM,1
+Sosa-Macias M,Stojanova J,1
+Moller A,on behalf RIVATREM,1
+Moller A,Teran E,1
+Moller A,Stojanova J,1
+Moller A,Sosa-Macias M,1
+Martin S,on behalf RIVATREM,1
+Martin S,Teran E,1
+Jancic C,Lombardo T,1
+Jancic C,Pascuale C,1
+Dwivedi A,Martin J,1
+Lombardo T,Moretton M,1
+Deeks S,Lee S,1
+Deeks S,Jerome K,1
+Deeks S,Huang M,1
+Deeks S,Hoh R,1
+Deeks S,Hobbs K,1
+Deeks S,Hladik F,1
+Deeks S,Henrich T,1
+Deeks S,Hecht F,1
+Deeks S,Gornalusse G,1
+Deeks S,Gibson E,1
+Deeks S,Dwivedi A,1
+Busch M,Vo P,1
+Busch M,Thanh C,1
+Busch M,Stone M,1
+Busch M,Siegel D,1
+Busch M,Roychoudhury P,1
+Busch M,Reppetti J,1
+Busch M,Pilcher C,1
+Busch M,Pan T,1
+Deeks S,Levy C,1
+Deeks S,Martin J,1
+Deeks S,Milush J,1
+Dwivedi A,Hecht F,1
+Dwivedi A,Levy C,1
+Dwivedi A,Lee S,1
+Dwivedi A,Jerome K,1
+Dwivedi A,Huang M,1
+Dwivedi A,Hoh R,1
+Dwivedi A,Hobbs K,1
+Dwivedi A,Hladik F,1
+Dwivedi A,Henrich T,1
+Dwivedi A,Gornalusse G,1
+Deeks S,Pan T,1
+Dwivedi A,Gibson E,1
+Deeks S,Vo P,1
+Deeks S,Thanh C,1
+Deeks S,Stone M,1
+Deeks S,Siegel D,1
+Deeks S,Roychoudhury P,1
+Deeks S,Reppetti J,1
+Deeks S,Pilcher C,1
+Busch M,Milush J,1
+Busch M,Martin J,1
+Busch M,Levy C,1
+Barbehenn A,Gornalusse G,1
+Barbehenn A,Lee S,1
+Barbehenn A,Jerome K,1
+Barbehenn A,Huang M,1
+Barbehenn A,Hoh R,1
+Barbehenn A,Hobbs K,1
+Barbehenn A,Hladik F,1
+Barbehenn A,Henrich T,1
+Barbehenn A,Hecht F,1
+Barbehenn A,Gibson E,1
+Barbehenn A,Martin J,1
+Barbehenn A,Dwivedi A,1
+Barbehenn A,Deeks S,1
+Barbehenn A,Busch M,1
+Pascuale C,Sacerdoti F,1
+Moretton M,Sacerdoti F,1
+Moretton M,Pascuale C,1
+Lombardo T,Sacerdoti F,1
+Lombardo T,Pascuale C,1
+Barbehenn A,Levy C,1
+Barbehenn A,Milush J,1
+Busch M,Lee S,1
+Busch M,Gibson E,1
+Busch M,Jerome K,1
+Busch M,Huang M,1
+Busch M,Hoh R,1
+Busch M,Hobbs K,1
+Busch M,Hladik F,1
+Busch M,Henrich T,1
+Busch M,Hecht F,1
+Busch M,Gornalusse G,1
+Busch M,Dwivedi A,1
+Barbehenn A,Pan T,1
+Busch M,Deeks S,1
+Barbehenn A,Vo P,1
+Barbehenn A,Thanh C,1
+Barbehenn A,Stone M,1
+Barbehenn A,Siegel D,1
+Barbehenn A,Roychoudhury P,1
+Barbehenn A,Reppetti J,1
+Barbehenn A,Pilcher C,1
+Martin J,Roychoudhury P,1
+Martin J,Stone M,1
+De Pino G,Deleglise A,1
+German G,Mariana F,1
+Fabian L,Jorge G,1
+Alipio P,Jorge G,1
+Alipio P,Fabian L,1
+Medina Y,Sierra M,1
+Fernandez N,Medina Y,1
+Murer M,Tizabi Y,1
+Moratalla R,Tizabi Y,1
+Mendieta L,Tizabi Y,1
+Mendieta L,Murer M,1
+Mendieta L,Moratalla R,1
+Granado N,Tizabi Y,1
+Granado N,Mendieta L,1
+Santander O,Varela-Nallar L,1
+Garcia-Rojas F,Varela-Nallar L,1
+Garcia-Rojas F,Santander O,1
+Fuenzalida M,Varela-Nallar L,1
+Fuenzalida M,Santander O,1
+Fuenzalida M,Garcia-Rojas F,1
+Estay S,Varela-Nallar L,1
+Barba V,Bortman G,1
+Barba V,Capurro C,1
+Barba V,Di Benedetto S,1
+Di Benedetto S,Piazza A,1
+Alicia D,Reppetti J,1
+Alicia D,Nora M,1
+Alicia D,Mariana F,1
+Alicia D,German G,1
+Izurieta M,Politi M,1
+Izurieta M,Piazza A,1
+Ferreyra R,Izurieta M,1
+Di Benedetto S,Politi M,1
+Di Benedetto S,Izurieta M,1
+Barba V,Ferreyra R,1
+Di Benedetto S,Ferreyra R,1
+Capurro C,Izurieta M,1
+Capurro C,Di Benedetto S,1
+Bortman G,Izurieta M,1
+Bortman G,Di Benedetto S,1
+Barba V,Politi M,1
+Barba V,Piazza A,1
+Barba V,Izurieta M,1
+Estay S,Santander O,1
+Estay S,Garcia-Rojas F,1
+Estay S,Fuenzalida M,1
+Arias S,Perez-Chada D,1
+Perez-Chada D,Schonfeld D,1
+Azpiazu M,Vigo D,1
+Azpiazu M,Solomons D,1
+Azpiazu M,Schonfeld D,1
+Azpiazu M,Perez-Chada D,1
+Arias S,Vigo D,1
+Arias S,Solomons D,1
+Arias S,Schonfeld D,1
+Arias S,Azpiazu M,1
+Perez-Chada D,Vigo D,1
+Valverde E,Vampa V,1
+Rosso O,Vampa V,1
+Rosso O,Valverde E,1
+Arini P,Vampa V,1
+Arini P,Valverde E,1
+Arini P,Rosso O,1
+Gomez Acosta M,Uehara J,1
+Bello E,Uehara J,1
+Perez-Chada D,Solomons D,1
+Schonfeld D,Solomons D,1
+Chavez A,Varela-Nallar L,1
+Belforte J,Estay S,1
+Chavez A,Santander O,1
+Chavez A,Garcia-Rojas F,1
+Chavez A,Fuenzalida M,1
+Chavez A,Estay S,1
+Belforte J,Varela-Nallar L,1
+Belforte J,Santander O,1
+Belforte J,Garcia-Rojas F,1
+Belforte J,Fuenzalida M,1
+Belforte J,Chavez A,1
+Schonfeld D,Vigo D,1
+Arredondo S,Varela-Nallar L,1
+Arredondo S,Santander O,1
+Arredondo S,Garcia-Rojas F,1
+Arredondo S,Fuenzalida M,1
+Arredondo S,Estay S,1
+Arredondo S,Chavez A,1
+Arredondo S,Belforte J,1
+Solomons D,Vigo D,1
+Alicia D,Tomas E,1
+German G,Nora M,1
+Belforte J,Uehara J,1
+German G,Reppetti J,1
+Melani M,Sorianello E,1
+Melani M,Perez-Perri J,1
+Katz M,Sorianello E,1
+Katz M,Perez-Perri J,1
+Acevedo J,Wappner P,1
+Acevedo J,Sorianello E,1
+Acevedo J,Perez-Perri J,1
+Acevedo J,Melani M,1
+Acevedo J,Katz M,1
+Sommario N,Wappner P,1
+Rodriguez F,Wappner P,1
+Rodriguez F,Sommario N,1
+Peters T,Wappner P,1
+Peters T,Sommario N,1
+Peters T,Rodriguez F,1
+Perez-Pandolfo S,Wappner P,1
+Perez-Pandolfo S,Sommario N,1
+Perez-Pandolfo S,Rodriguez F,1
+Perez-Pandolfo S,Peters T,1
+Perez-Perri J,Sorianello E,1
+Perez-Perri J,Wappner P,1
+Sorianello E,Wappner P,1
+Miret N,Ramos Aloi A,1
+Randi A,Vassallu F,1
+Ramos Aloi A,Vassallu F,1
+Ramos Aloi A,Randi A,1
+Pinto A,Vassallu F,1
+Pinto A,Randi A,1
+Pinto A,Ramos Aloi A,1
+Miret N,Vassallu F,1
+Miret N,Randi A,1
+Miret N,Pinto A,1
+Goldstein J,Igaz L,1
+Igaz L,Randi A,1
+Igaz L,Ramos Aloi A,1
+Igaz L,Pinto A,1
+Igaz L,Miret N,1
+Goldstein J,Vassallu F,1
+Goldstein J,Randi A,1
+Goldstein J,Ramos Aloi A,1
+Goldstein J,Miret N,1
+Melani M,Sommario N,1
+Melani M,Rodriguez F,1
+Melani M,Peters T,1
+Rela L,Sanchez Armijos K,1
+Boccaccio G,Peters T,1
+Boccaccio G,Perez-Pandolfo S,1
+Boccaccio G,Melani M,1
+Boccaccio G,Katz M,1
+Boccaccio G,Evangelisti F,1
+Boccaccio G,Borrat A,1
+Sanchez Armijos K,Tubert C,1
+Sanchez Armijos K,Stahl A,1
+Paz R,Sanchez Armijos K,1
+Boccaccio G,Sommario N,1
+Murer M,Sanchez Armijos K,1
+Reppetti J,Tomas E,1
+Nora M,Tomas E,1
+Nora M,Reppetti J,1
+Mariana F,Tomas E,1
+Mariana F,Reppetti J,1
+Mariana F,Nora M,1
+German G,Tomas E,1
+Boccaccio G,Rodriguez F,1
+Boccaccio G,Wappner P,1
+Melani M,Perez-Pandolfo S,1
+Evangelisti F,Perez-Pandolfo S,1
+Katz M,Sommario N,1
+Katz M,Rodriguez F,1
+Katz M,Peters T,1
+Katz M,Perez-Pandolfo S,1
+Evangelisti F,Wappner P,1
+Evangelisti F,Sommario N,1
+Evangelisti F,Rodriguez F,1
+Evangelisti F,Peters T,1
+Evangelisti F,Melani M,1
+Borrat A,Evangelisti F,1
+Evangelisti F,Katz M,1
+Borrat A,Wappner P,1
+Borrat A,Sommario N,1
+Borrat A,Rodriguez F,1
+Borrat A,Peters T,1
+Borrat A,Perez-Pandolfo S,1
+Borrat A,Melani M,1
+Borrat A,Katz M,1
+Bello E,Gomez Acosta M,1
+Belforte J,Gomez Acosta M,1
+Martin J,Thanh C,1
+Echevarria M,Gonzalez-Vinceiro L,1
+Rodriguez R,Silberstein C,1
+Paz L,Vlachovsky S,1
+Paz L,Silberstein C,1
+Paz L,Rodriguez R,1
+Oddo E,Rodriguez R,1
+Oddo E,Paz L,1
+Ibarra F,Rodriguez R,1
+Ibarra F,Paz L,1
+Goette N,Rodriguez R,1
+Goette N,Paz L,1
+Di Ciano L,Rodriguez R,1
+Di Ciano L,Paz L,1
+Azurmendi P,Rodriguez R,1
+Azurmendi P,Paz L,1
+Merlo S,Pedreira M,1
+Merlo E,Pedreira M,1
+Merlo E,Merlo S,1
+Belluscio M,Pedreira M,1
+Belluscio M,Merlo S,1
+Rodriguez R,Vlachovsky S,1
+Capurro C,Cremaschi G,1
+Capurro C,Larocca M,1
+Coletti M,Morici J,1
+Calle-Castillejo C,Ramirez-Lorca R,1
+Calle-Castillejo C,Netti V,1
+Calle-Castillejo C,Mayo M,1
+Calle-Castillejo C,Mayo F,1
+Calle-Castillejo C,Hiraldo-Gonzalez L,1
+Calle-Castillejo C,Gonzalez-Vinceiro L,1
+Calle-Castillejo C,Echevarria M,1
+Coletti M,Silva A,1
+Coletti M,Miranda M,1
+Capurro C,Sobrevia L,1
+Bekinschtein P,Coletti M,1
+Sobrevia L,Vila Petroff M,1
+Larocca M,Vila Petroff M,1
+Larocca M,Sobrevia L,1
+Cremaschi G,Vila Petroff M,1
+Cremaschi G,Sobrevia L,1
+Cremaschi G,Larocca M,1
+Capurro C,Vila Petroff M,1
+Belluscio M,Merlo E,1
+Ortiz J,Rocco L,1
+Faillace M,Ortiz J,1
+Pan T,Pilcher C,1
+Pilcher C,Roychoudhury P,1
+Pilcher C,Reppetti J,1
+Pan T,Vo P,1
+Pan T,Thanh C,1
+Pan T,Stone M,1
+Pan T,Siegel D,1
+Pan T,Roychoudhury P,1
+Pan T,Reppetti J,1
+Milush J,Vo P,1
+Pilcher C,Stone M,1
+Milush J,Thanh C,1
+Milush J,Stone M,1
+Milush J,Siegel D,1
+Milush J,Roychoudhury P,1
+Milush J,Reppetti J,1
+Milush J,Pilcher C,1
+Milush J,Pan T,1
+Martin J,Vo P,1
+Pilcher C,Siegel D,1
+Pilcher C,Thanh C,1
+Bernabeu R,Ortiz J,1
+Siegel D,Stone M,1
+Sacerdoti F,Silberstein C,1
+Sacerdoti F,Sanchez D,1
+Fischer Sigel L,Sacerdoti F,1
+Thanh C,Vo P,1
+Stone M,Vo P,1
+Stone M,Thanh C,1
+Siegel D,Vo P,1
+Siegel D,Thanh C,1
+Roychoudhury P,Vo P,1
+Pilcher C,Vo P,1
+Roychoudhury P,Thanh C,1
+Roychoudhury P,Stone M,1
+Roychoudhury P,Siegel D,1
+Reppetti J,Vo P,1
+Reppetti J,Thanh C,1
+Reppetti J,Stone M,1
+Reppetti J,Siegel D,1
+Reppetti J,Roychoudhury P,1
+Calle-Castillejo C,Rodriguez-Gomez F,1
+Echevarria M,Hiraldo-Gonzalez L,1
+Belforte J,Bello E,1
+Echevarria M,Mayo F,1
+Di Giusto G,Gomez F,1
+Di Giusto G,Giron Reyes D,1
+Damiano A,Gomez F,1
+Damiano A,Giron Reyes D,1
+Damiano A,Di Giusto G,1
+Balestracci A,Sacerdoti F,1
+Balestracci A,Reppetti J,1
+Balestracci A,Martinez N,1
+Balestracci A,Gomez F,1
+Balestracci A,Giron Reyes D,1
+Balestracci A,Di Giusto G,1
+Balestracci A,Damiano A,1
+Amaral M,Martinez N,1
+Amaral M,Giron Reyes D,1
+Amaral M,Di Giusto G,1
+Alvarez R,Reppetti J,1
+Alvarez R,Martinez N,1
+Alvarez R,Giron Reyes D,1
+Alvarez R,Di Giusto G,1
+Di Giusto G,Martinez N,1
+Di Giusto G,Reppetti J,1
+Di Giusto G,Sacerdoti F,1
+Cebral E,Damiano A,1
+Molina Ponce T,Netti V,1
+Ford P,Molina Ponce T,1
+Di Giusto G,Molina Ponce T,1
+Cutrera N,Molina Ponce T,1
+Cocca M,Molina Ponce T,1
+Capurro C,Molina Ponce T,1
+Damiano A,Gualdoni G,1
+Cebral E,Gualdoni G,1
+Barril C,Gualdoni G,1
+Giron Reyes D,Gomez F,1
+Barril C,Damiano A,1
+Barril C,Cebral E,1
+Martinez N,Sacerdoti F,1
+Gomez F,Reppetti J,1
+Gomez F,Martinez N,1
+Giron Reyes D,Sacerdoti F,1
+Giron Reyes D,Reppetti J,1
+Giron Reyes D,Martinez N,1
+Alvarez R,Damiano A,1
+Alvarez R,Balestracci A,1
+Lerner G,Solano A,1
+Hiraldo-Gonzalez L,Mayo F,1
+Mayo F,Rodriguez-Gomez F,1
+Mayo F,Ramirez-Lorca R,1
+Mayo F,Netti V,1
+Mayo F,Mayo M,1
+Hiraldo-Gonzalez L,Rodriguez-Gomez F,1
+Hiraldo-Gonzalez L,Ramirez-Lorca R,1
+Hiraldo-Gonzalez L,Netti V,1
+Hiraldo-Gonzalez L,Mayo M,1
+Gonzalez-Vinceiro L,Rodriguez-Gomez F,1
+Mayo M,Ramirez-Lorca R,1
+Gonzalez-Vinceiro L,Ramirez-Lorca R,1
+Gonzalez-Vinceiro L,Netti V,1
+Gonzalez-Vinceiro L,Mayo M,1
+Gonzalez-Vinceiro L,Mayo F,1
+Gonzalez-Vinceiro L,Hiraldo-Gonzalez L,1
+Echevarria M,Rodriguez-Gomez F,1
+Echevarria M,Ramirez-Lorca R,1
+Echevarria M,Mayo M,1
+Mayo M,Netti V,1
+Mayo M,Rodriguez-Gomez F,1
+Lerner G,Riquelme L,1
+Caffaro P,Riquelme L,1
+Lerner G,Perez-Chada D,1
+Griffa G,Riquelme L,1
+Griffa G,Perez-Chada D,1
+Griffa G,Lerner G,1
+Deleglise A,Riquelme L,1
+Deleglise A,Perez-Chada D,1
+Deleglise A,Lerner G,1
+Caffaro P,Solano A,1
+Caffaro P,Perez-Chada D,1
+Netti V,Ramirez-Lorca R,1
+Caffaro P,Griffa G,1
+Caffaro P,Deleglise A,1
+Giachini F,Hryciw D,1
+Damiano A,Hryciw D,1
+Castro-Parodi M,Hryciw D,1
+Castro-Parodi M,Giachini F,1
+Ramirez-Lorca R,Rodriguez-Gomez F,1
+Netti V,Rodriguez-Gomez F,1
+Cavaliere Candedo V,Kauffman M,1
+Aguiar A,Oliveira de Souza J,1
+Cavaliere Candedo V,Gonzalez J,1
+Albanese A,Fiorentino G,1
+Cataldi A,Fernandez Brando R,1
+Amaral M,Vilte D,1
+Amaral M,Seyahian E,1
+Amaral M,Mercado E,1
+Amaral M,Fiorentino G,1
+Albanese A,Seyahian E,1
+Albanese A,Sacerdoti F,1
+Albanese A,Palermo M,1
+Albanese A,Fernandez Brando R,1
+Fernandez Brando R,Fiorentino G,1
+Albanese A,Amaral M,1
+Martinez N,Ortiz M,1
+Damiano A,Ortiz M,1
+Corominas A,Ortiz M,1
+Balconi S,Ortiz M,1
+Nakazawa K,Pretell Annan C,1
+Nakao K,Pretell Annan C,1
+Nakao K,Nakazawa K,1
+Cataldi A,Seyahian E,1
+Fernandez Brando R,Mercado E,1
+Bellizzi Y,Roguin L,1
+Mercado E,Seyahian E,1
+Bellizzi Y,Delpiccolo C,1
+Bellizzi Y,Cornier P,1
+Bellizzi Y,Boggian D,1
+Bellizzi Y,Blank V,1
+Seyahian E,Vilte D,1
+Sacerdoti F,Vilte D,1
+Sacerdoti F,Seyahian E,1
+Palermo M,Seyahian E,1
+Mercado E,Sacerdoti F,1
+Fernandez Brando R,Sacerdoti F,1
+Mercado E,Palermo M,1
+Fiorentino G,Zotta E,1
+Fiorentino G,Seyahian E,1
+Fiorentino G,Sacerdoti F,1
+Fiorentino G,Mercado E,1
+Fernandez Brando R,Zotta E,1
+Fernandez Brando R,Vilte D,1
+Fernandez Brando R,Seyahian E,1
+Jiang S,Pretell Annan C,1
+Jiang S,Nakazawa K,1
+Jiang S,Nakao K,1
+Belforte J,Nakazawa K,1
+Diaz N,Pretell Annan C,1
+Diaz N,Nakazawa K,1
+Diaz N,Nakao K,1
+Diaz N,Jiang S,1
+Diaz N,Jeevakumar V,1
+Diaz N,Hashimoto K,1
+Diaz N,Fujita Y,1
+Diaz N,Eskow Jaunarajs K,1
+Belforte J,Nakao K,1
+Jeevakumar V,Pretell Annan C,1
+Belforte J,Jiang S,1
+Belforte J,Jeevakumar V,1
+Belforte J,Hashimoto K,1
+Belforte J,Fujita Y,1
+Belforte J,Eskow Jaunarajs K,1
+Belforte J,Diaz N,1
+Cutrera R,Gonzalez B,1
+Carbone S,Gonzalez B,1
+Eskow Jaunarajs K,Fujita Y,1
+Eskow Jaunarajs K,Hashimoto K,1
+Eskow Jaunarajs K,Jeevakumar V,1
+Eskow Jaunarajs K,Jiang S,1
+Jeevakumar V,Nakazawa K,1
+Jeevakumar V,Nakao K,1
+Jeevakumar V,Jiang S,1
+Hashimoto K,Pretell Annan C,1
+Hashimoto K,Nakazawa K,1
+Hashimoto K,Nakao K,1
+Hashimoto K,Jiang S,1
+Hashimoto K,Jeevakumar V,1
+Fujita Y,Pretell Annan C,1
+Fujita Y,Nakazawa K,1
+Fujita Y,Nakao K,1
+Fujita Y,Jiang S,1
+Fujita Y,Jeevakumar V,1
+Fujita Y,Hashimoto K,1
+Eskow Jaunarajs K,Pretell Annan C,1
+Eskow Jaunarajs K,Nakazawa K,1
+Eskow Jaunarajs K,Nakao K,1
+Bellizzi Y,Mata E,1
+Bellizzi Y,Zotta E,1
+Asorey L,Cutrera R,1
+Medina Villalon S,Paz R,1
+Alvarez R,Espindola S,1
+Alvarez R,Damianich A,1
+Alvarez R,Avale M,1
+Pizzo F,Roehri N,1
+Paz R,Roehri N,1
+Paz R,Pizzo F,1
+Medina Villalon S,Roehri N,1
+Medina Villalon S,Pizzo F,1
+Lagarde S,Roehri N,1
+Alvarez R,Gallo J,1
+Lagarde S,Pizzo F,1
+Lagarde S,Paz R,1
+Lagarde S,Medina Villalon S,1
+Colombet B,Roehri N,1
+Colombet B,Pizzo F,1
+Colombet B,Paz R,1
+Colombet B,Medina Villalon S,1
+Colombet B,Lagarde S,1
+Alvarez R,Ferrario J,1
+Alvarez R,Sartor M,1
+Blank V,Boggian D,1
+Belforte J,Sartor M,1
+Ferrario J,Gallo J,1
+Espindola S,Sartor M,1
+Espindola S,Gallo J,1
+Espindola S,Ferrario J,1
+Damianich A,Sartor M,1
+Damianich A,Gallo J,1
+Damianich A,Ferrario J,1
+Damianich A,Espindola S,1
+Belforte J,Gallo J,1
+Avale M,Belforte J,1
+Belforte J,Ferrario J,1
+Belforte J,Espindola S,1
+Belforte J,Damianich A,1
+Avale M,Sartor M,1
+Avale M,Gallo J,1
+Avale M,Ferrario J,1
+Avale M,Espindola S,1
+Avale M,Damianich A,1
+Carron R,Roehri N,1
+Carron R,Pizzo F,1
+Carron R,Paz R,1
+Boggian D,Zotta E,1
+Mata E,Roguin L,1
+Delpiccolo C,Zotta E,1
+Delpiccolo C,Roguin L,1
+Delpiccolo C,Mata E,1
+Cornier P,Zotta E,1
+Cornier P,Roguin L,1
+Cornier P,Mata E,1
+Cornier P,Delpiccolo C,1
+Boggian D,Roguin L,1
+Carron R,Medina Villalon S,1
+Boggian D,Mata E,1
+Boggian D,Delpiccolo C,1
+Boggian D,Cornier P,1
+Blank V,Zotta E,1
+Blank V,Roguin L,1
+Blank V,Mata E,1
+Blank V,Delpiccolo C,1
+Blank V,Cornier P,1
+Mata E,Zotta E,1
+Alejandra R,Alicia E D,1
+Alejandra R,Natalia S,1
+Alicia E D,Natalia S,1
+Carron R,Lagarde S,1
+Carron R,Colombet B,1
+Benar C,Roehri N,1
+Benar C,Pizzo F,1
+Benar C,Paz R,1
+Benar C,Medina Villalon S,1
+Benar C,Lagarde S,1
+Benar C,Colombet B,1
+Benar C,Carron R,1
+Bartolomei F,Roehri N,1
+Bartolomei F,Pizzo F,1
+Bartolomei F,Paz R,1
+Bartolomei F,Medina Villalon S,1
+Bartolomei F,Lagarde S,1
+Bartolomei F,Colombet B,1
+Bartolomei F,Carron R,1
+Bartolomei F,Benar C,1
+Asorey L,Gonzalez B,1
+Asorey L,Carbone S,1
+Gallo J,Sartor M,1
+Clapes S,Martinez N,1
+Damiano A,Roberts J,1
+Damiano A,Ramos M,1
+Clapes S,Viana M,1
+Clapes S,Teran E,1
+Clapes S,Sosa-Macias M,1
+Clapes S,Roberts J,1
+Clapes S,Ramos M,1
+Clapes S,RIVA-TREM,1
+Clapes S,Lima V,1
+Escudero C,Martinez N,1
+Clapes S,Giachini F,1
+Clapes S,Galaviz-Hernandez C,1
+Clapes S,Escudero C,1
+Clapes S,Damiano A,1
+Calderon-Dominguez M,Viana M,1
+Calderon-Dominguez M,Teran E,1
+Calderon-Dominguez M,Sosa-Macias M,1
+Calderon-Dominguez M,Roberts J,1
+Damiano A,Viana M,1
+Escudero C,Ramos M,1
+Martinez N,Viana M,1
+Lima V,Martinez N,1
+Martinez N,Sosa-Macias M,1
+Martinez N,Roberts J,1
+Martinez N,Ramos M,1
+Martinez N,RIVA-TREM,1
+Lima V,Viana M,1
+Lima V,Roberts J,1
+Lima V,Ramos M,1
+Lima V,RIVA-TREM,1
+Giachini F,Viana M,1
+Escudero C,Roberts J,1
+Giachini F,Roberts J,1
+Giachini F,Ramos M,1
+Giachini F,Martinez N,1
+Galaviz-Hernandez C,Viana M,1
+Galaviz-Hernandez C,Roberts J,1
+Galaviz-Hernandez C,Ramos M,1
+Galaviz-Hernandez C,Martinez N,1
+Escudero C,Viana M,1
+Calderon-Dominguez M,Ramos M,1
+Calderon-Dominguez M,RIVA-TREM,1
+Calderon-Dominguez M,Martinez N,1
+Asturizaga P,Ramos M,1
+Bueno J,Martinez N,1
+Bueno J,Galaviz-Hernandez C,1
+Bueno J,Clapes S,1
+Bueno J,Calderon-Dominguez M,1
+Asturizaga P,Viana M,1
+Asturizaga P,Teran E,1
+Asturizaga P,Sosa-Macias M,1
+Asturizaga P,Roberts J,1
+Asturizaga P,RIVA-TREM,1
+Calderon-Dominguez M,Lima V,1
+Asturizaga P,Martinez N,1
+Asturizaga P,Lima V,1
+Asturizaga P,Giachini F,1
+Asturizaga P,Galaviz-Hernandez C,1
+Asturizaga P,Escudero C,1
+Asturizaga P,Damiano A,1
+Asturizaga P,Clapes S,1
+Asturizaga P,Calderon-Dominguez M,1
+Bueno J,RIVA-TREM,1
+Bueno J,Ramos M,1
+Bueno J,Roberts J,1
+Bueno J,Sosa-Macias M,1
+Calderon-Dominguez M,Giachini F,1
+Calderon-Dominguez M,Galaviz-Hernandez C,1
+Calderon-Dominguez M,Escudero C,1
+Calderon-Dominguez M,Damiano A,1
+Calderon-Dominguez M,Clapes S,1
+Cadavid A,Viana M,1
+Cadavid A,Teran E,1
+Cadavid A,Sosa-Macias M,1
+Cadavid A,Roberts J,1
+Cadavid A,Ramos M,1
+Cadavid A,RIVA-TREM,1
+Cadavid A,Martinez N,1
+Cadavid A,Galaviz-Hernandez C,1
+Cadavid A,Clapes S,1
+Cadavid A,Calderon-Dominguez M,1
+Bueno J,Viana M,1
+Bueno J,Teran E,1
+Martinez N,Teran E,1
+RIVA-TREM,Ramos M,1
+Lopez Gonzalez M,Rivarola V,1
+Exeni R,Mejias M,1
+Bekinschtein P,Bussey T,1
+Palermo M,Ramos M,1
+Mejias M,Ramos M,1
+Ibarra C,Ramos M,1
+Fernandez Brando R,Ramos M,1
+Fernandez Brando R,Mejias M,1
+Exeni R,Ramos M,1
+Exeni R,Palermo M,1
+Exeni R,Ibarra C,1
+Bekinschtein P,Saksida L,1
+Exeni R,Fernandez Brando R,1
+Bruballa A,Ramos M,1
+Bruballa A,Fernandez Brando R,1
+Bruballa A,Exeni R,1
+Amaral M,Ramos M,1
+Amaral M,Exeni R,1
+Alvarez R,Ramos M,1
+Alvarez R,Fernandez Brando R,1
+Bekinschtein P,Kent B,1
+Bussey T,Gallo F,1
+RIVA-TREM,Roberts J,1
+Kent B,Weisstaub N,1
+Lopez Gonzalez M,Pizzoni A,1
+Ford P,Lopez Gonzalez M,1
+Di Giusto G,Lopez Gonzalez M,1
+Capurro C,Lopez Gonzalez M,1
+Capobianco E,Martinez N,1
+Saksida L,Weisstaub N,1
+Morici J,Saksida L,1
+Miranda M,Saksida L,1
+Kent B,Saksida L,1
+Bussey T,Kent B,1
+Kent B,Morici J,1
+Kent B,Miranda M,1
+Gallo F,Saksida L,1
+Gallo F,Kent B,1
+Bussey T,Weisstaub N,1
+Bussey T,Saksida L,1
+Bussey T,Morici J,1
+Bussey T,Miranda M,1
+Alvarez R,Exeni R,1
+Alconcher L,Ramos M,1
+Alconcher L,Palermo M,1
+Roberts J,Viana M,1
+Abrey Recalde M,Exeni R,1
+Abrey Recalde M,Bruballa A,1
+Abrey Recalde M,Amaral M,1
+Abrey Recalde M,Alvarez R,1
+Abrey Recalde M,Alconcher L,1
+Abrey Recalde M,Alberto F,1
+Teran E,Viana M,1
+Sosa-Macias M,Viana M,1
+Roberts J,Teran E,1
+Alconcher L,Mejias M,1
+Roberts J,Sosa-Macias M,1
+Ramos M,Viana M,1
+Ramos M,Teran E,1
+Ramos M,Sosa-Macias M,1
+Ramos M,Roberts J,1
+RIVA-TREM,Viana M,1
+RIVA-TREM,Teran E,1
+RIVA-TREM,Sosa-Macias M,1
+Abrey Recalde M,Fernandez Brando R,1
+Abrey Recalde M,Ibarra C,1
+Abrey Recalde M,Mejias M,1
+Abrey Recalde M,Palermo M,1
+Alconcher L,Ibarra C,1
+Alconcher L,Fernandez Brando R,1
+Alconcher L,Exeni R,1
+Alconcher L,Bruballa A,1
+Alconcher L,Amaral M,1
+Alconcher L,Alvarez R,1
+Alberto F,Ramos M,1
+Alberto F,Palermo M,1
+Alberto F,Mejias M,1
+Alberto F,Ibarra C,1
+Alberto F,Fernandez Brando R,1
+Alberto F,Exeni R,1
+Alberto F,Bruballa A,1
+Alberto F,Amaral M,1
+Alberto F,Alvarez R,1
+Alberto F,Alconcher L,1
+Abrey Recalde M,Ramos M,1
+Ferrario J,Sartor M,1
+Bekinschtein P,Zanoni B,1
+Moratalla R,Rela L,1
+Dos Santos-Rodrigues A,Mitchell C,1
+Albano J,Pickholz M,1
+Albano J,Mussini N,1
+Albano J,Ferraro M,1
+Albano J,Facelli J,1
+Mitchell C,Ventura A,1
+Faillace M,Ventura A,1
+Faillace M,Mitchell C,1
+Dos Santos-Rodrigues A,Ventura A,1
+Dos Santos-Rodrigues A,Faillace M,1
+Facelli J,Ferraro M,1
+Reppetti J,Seyahian A,1
+Medina Y,Seyahian A,1
+Di Paola M,Szpilbarg N,1
+Di Paola M,Seyahian A,1
+Di Paola M,Reppetti J,1
+Di Paola M,Medina Y,1
+Di Paola M,Martinez N,1
+Castro Parodi M,Szpilbarg N,1
+Albano J,Toriano R,1
+Facelli J,Mussini N,1
+Farina M,Szpilbarg N,1
+Bernal A,Piazza R,1
+Damiano A,Paola M,1
+Castro-Parodi M,Seyahian A,1
+Castro-Parodi M,Paola M,1
+Palermo M,Quintilio W,1
+Palermo M,Piazza R,1
+Moro A,Palermo M,1
+Luz D,Palermo M,1
+Bernal A,Quintilio W,1
+Bernal A,Moro A,1
+Facelli J,Pickholz M,1
+Bernal A,Luz D,1
+Pickholz M,Toriano R,1
+Mussini N,Toriano R,1
+Mussini N,Pickholz M,1
+Ferraro M,Toriano R,1
+Ferraro M,Pickholz M,1
+Ferraro M,Mussini N,1
+Facelli J,Toriano R,1
+Castro Parodi M,Seyahian A,1
+Castro Parodi M,Reppetti J,1
+Castro Parodi M,Martinez N,1
+Amaral M,Torres A,1
+Galli L,Torres A,1
+Galli L,Rojas-Lopez M,1
+Galli L,Kruger A,1
+Galli L,Goldstein J,1
+Bentancor L,Torres A,1
+Bentancor L,Rojas-Lopez M,1
+Bentancor L,Kruger A,1
+Bentancor L,Galli L,1
+Amaral M,Rojas-Lopez M,1
+Franchi A,Scalise M,1
+Amaral M,Kruger A,1
+Amaral M,Goldstein J,1
+Amaral M,Galli L,1
+Waschek J,Zotta E,1
+Vota D,Zotta E,1
+Vota D,Waschek J,1
+Ramhorst R,Zotta E,1
+Ramhorst R,Waschek J,1
+Goldstein J,Kruger A,1
+Goldstein J,Rojas-Lopez M,1
+Goldstein J,Torres A,1
+Kruger A,Rojas-Lopez M,1
+Burdet J,Scalise M,1
+Burdet J,Sacerdoti F,1
+Burdet J,Ibarra C,1
+Burdet J,Franchi A,1
+Amaral M,Burdet J,1
+Martinez N,Sarrible G,1
+Elia E,Sarrible G,1
+Elia E,Martinez N,1
+Beron de Astrada M,Sarrible G,1
+Beron de Astrada M,Martinez N,1
+Beron de Astrada M,Elia E,1
+Bazzano M,Sarrible G,1
+Bazzano M,Martinez N,1
+Bazzano M,Elia E,1
+Bazzano M,Beron de Astrada M,1
+Rojas-Lopez M,Torres A,1
+Kruger A,Torres A,1
+Farina M,Paola M,1
+Martinez N,Paola M,1
+Paparini D,Zotta E,1
+Capurro C,Rela L,1
+Berdasco C,Calabro V,1
+Arenas D,Pinto A,1
+Arenas D,Goldstein J,1
+Arenas D,Geoghegan P,1
+Arenas D,Evelson P,1
+Arenas D,Cangelosi A,1
+Arenas D,Calabro V,1
+Arenas D,Berdasco C,1
+Capurro C,Piantanida A,1
+Calabro V,Cangelosi A,1
+Capurro C,Greer C,1
+Brocardo L,Greer C,1
+Brocardo L,Capurro C,1
+Acosta L,Greer C,1
+Acosta L,Capurro C,1
+Reppetti J,Scalise M,1
+Ibarra C,Reppetti J,1
+Damiano A,Scalise M,1
+Berdasco C,Evelson P,1
+Calabro V,Evelson P,1
+Paola M,Seyahian A,1
+Escande M,Gershanik O,1
+Gomez G,Moratalla R,1
+Gershanik O,Suarez L,1
+Gershanik O,Rela L,1
+Gershanik O,Moratalla R,1
+Escande M,Suarez L,1
+Escande M,Rela L,1
+Escande M,Moratalla R,1
+Escande M,Gomez G,1
+Belforte J,Suarez L,1
+Calabro V,Geoghegan P,1
+Belforte J,Moratalla R,1
+Belforte J,Gershanik O,1
+Evelson P,Pinto A,1
+Evelson P,Goldstein J,1
+Evelson P,Geoghegan P,1
+Cangelosi A,Evelson P,1
+Calabro V,Pinto A,1
+Calabro V,Goldstein J,1
+Pinto A,Zotta E,1
+Palermo M,Pinto A,1
+Ochoa F,Pinto A,1
+Bentancor L,Pinto A,1
+Del Cogliano M,Pinto A,1
+Del Cogliano M,Palermo M,1
+Del Cogliano M,Ochoa F,1
+Del Cogliano M,Muniesa M,1
+Del Cogliano M,Goldstein J,1
+Del Cogliano M,Ghiringhelli P,1
+Del Cogliano M,Fernandez-Brando R,1
+Bentancor L,Zotta E,1
+Bentancor L,Ochoa F,1
+Ochoa F,Palermo M,1
+Bentancor L,Muniesa M,1
+Bentancor L,Ghiringhelli P,1
+Bentancor L,Del Cogliano M,1
+Etcheverry T,Leguizamon G,1
+Accialini P,Leguizamon G,1
+Aban C,Etcheverry T,1
+Aban C,Accialini P,1
+Paola M,Szpilbarg N,1
+Del Cogliano M,Zotta E,1
+Fernandez-Brando R,Ghiringhelli P,1
+Fernandez-Brando R,Goldstein J,1
+Fernandez-Brando R,Muniesa M,1
+Muniesa M,Zotta E,1
+Muniesa M,Pinto A,1
+Muniesa M,Palermo M,1
+Muniesa M,Ochoa F,1
+Goldstein J,Zotta E,1
+Goldstein J,Palermo M,1
+Goldstein J,Ochoa F,1
+Goldstein J,Muniesa M,1
+Ghiringhelli P,Zotta E,1
+Ghiringhelli P,Pinto A,1
+Ghiringhelli P,Palermo M,1
+Ghiringhelli P,Ochoa F,1
+Ghiringhelli P,Muniesa M,1
+Ghiringhelli P,Goldstein J,1
+Fernandez-Brando R,Zotta E,1
+Fernandez-Brando R,Pinto A,1
+Fernandez-Brando R,Ochoa F,1
+Ramhorst R,Vota D,1
+Paparini D,Waschek J,1
+Gallo F,Zanoni B,1
+Pizzoni A,Ramos-Mandujano G,1
+Barth S,Palermo M,1
+Barth S,Menge C,1
+Barth S,Martorelli L,1
+Barth S,Ibarra C,1
+Barth S,Garimano N,1
+Barth S,Garbaccio S,1
+Barth S,Fiorentino G,1
+Barth S,Cataldi A,1
+Perez-Dominguez M,Ramos-Mandujano G,1
+Cataldi A,Garbaccio S,1
+Perez-Dominguez M,Pizzoni A,1
+Pasantes-Morales H,Ramos-Mandujano G,1
+Pasantes-Morales H,Pizzoni A,1
+Pasantes-Morales H,Perez-Dominguez M,1
+Netti V,Ramos-Mandujano G,1
+Netti V,Perez-Dominguez M,1
+Netti V,Pasantes-Morales H,1
+Ford P,Ramos-Mandujano G,1
+Barth S,Vilte D,1
+Cataldi A,Menge C,1
+Bernabeu R,Sanchis P,1
+Garimano N,Martorelli L,1
+Bernabeu R,Paez N,1
+Menge C,Vilte D,1
+Menge C,Palermo M,1
+Martorelli L,Palermo M,1
+Martorelli L,Menge C,1
+Ibarra C,Menge C,1
+Garimano N,Vilte D,1
+Garimano N,Menge C,1
+Garbaccio S,Vilte D,1
+Fiorentino G,Garbaccio S,1
+Garbaccio S,Palermo M,1
+Garbaccio S,Menge C,1
+Garbaccio S,Martorelli L,1
+Garbaccio S,Ibarra C,1
+Garbaccio S,Garimano N,1
+Fiorentino G,Menge C,1
+Fiorentino G,Martorelli L,1
+Fiorentino G,Garimano N,1
+Ford P,Perez-Dominguez M,1
+Ford P,Pasantes-Morales H,1
+Capurro C,Ramos-Mandujano G,1
+Diaz A,Paz R,1
+Etchenique R,Tubert C,1
+Etchenique R,Stahl A,1
+Etchenique R,Rela L,1
+Etchenique R,Paz R,1
+Etchenique R,Murer M,1
+Diaz A,Tubert C,1
+Diaz A,Stahl A,1
+Diaz A,Rela L,1
+Diaz A,Murer M,1
+Capurro C,Perez-Dominguez M,1
+Diaz A,Etchenique R,1
+Medina J,Morici J,1
+Katche C,Morici J,1
+Gallo F,Medina J,1
+Gallo F,Katche C,1
+Weisstaub N,Zanoni B,1
+Morici J,Zanoni B,1
+Miranda M,Zanoni B,1
+Carbone S,Gobetto N,1
+Carbone S,Moguilevsky J,1
+Carbone S,Ponzo O,1
+Carbone S,Reynoso R,1
+Capurro C,Pasantes-Morales H,1
+Reynoso R,Samaniego Y,1
+Ponzo O,Samaniego Y,1
+Ponzo O,Reynoso R,1
+Moguilevsky J,Samaniego Y,1
+Moguilevsky J,Reynoso R,1
+Moguilevsky J,Ponzo O,1
+Gobetto N,Samaniego Y,1
+Gobetto N,Reynoso R,1
+Gobetto N,Ponzo O,1
+Gobetto N,Moguilevsky J,1
+Cutrera R,Samaniego Y,1
+Cutrera R,Reynoso R,1
+Cutrera R,Ponzo O,1
+Cutrera R,Moguilevsky J,1
+Cutrera R,Gobetto N,1
+Carbone S,Samaniego Y,1
+Bernabeu R,Pisera Fuster A,1
+Faillace M,Paez N,1
+Paparini D,Vota D,1
+Gallino L,Paparini D,1
+Hauk V,Paparini D,1
+Hauk V,Ochoa F,1
+Hauk V,Merech F,1
+Hauk V,Leiros C,1
+Gallino L,Zotta E,1
+Gallino L,Waschek J,1
+Gallino L,Vota D,1
+Gallino L,Ramhorst R,1
+Gallino L,Ochoa F,1
+Hauk V,Vota D,1
+Gallino L,Merech F,1
+Gallino L,Leiros C,1
+Gallino L,Hauk V,1
+Calo G,Zotta E,1
+Calo G,Waschek J,1
+Calo G,Vota D,1
+Calo G,Ramhorst R,1
+Calo G,Paparini D,1
+Hauk V,Ramhorst R,1
+Hauk V,Waschek J,1
+Faillace M,Pisera Fuster A,1
+Merech F,Ramhorst R,1
+Paparini D,Ramhorst R,1
+Ochoa F,Waschek J,1
+Ochoa F,Vota D,1
+Ochoa F,Ramhorst R,1
+Ochoa F,Paparini D,1
+Merech F,Zotta E,1
+Merech F,Waschek J,1
+Merech F,Vota D,1
+Merech F,Paparini D,1
+Hauk V,Zotta E,1
+Merech F,Ochoa F,1
+Leiros C,Zotta E,1
+Leiros C,Waschek J,1
+Leiros C,Vota D,1
+Leiros C,Ramhorst R,1
+Leiros C,Paparini D,1
+Leiros C,Ochoa F,1
+Leiros C,Merech F,1
+Calo G,Ochoa F,1
+Calo G,Merech F,1
+Calo G,Leiros C,1
+Collazo A,Isse L,1
+Costales-Collaguazo C,Liern M,1
+Costales-Collaguazo C,Isse L,1
+Costales-Collaguazo C,Fainboin A,1
+Collazo A,Zotta E,1
+Collazo A,Vallejo G,1
+Collazo A,Valencia M,1
+Collazo A,Ochoa F,1
+Collazo A,Liern M,1
+Collazo A,Fainboin A,1
+Calo G,Hauk V,1
+Collazo A,Costales-Collaguazo C,1
+Pisera Fuster A,Sanchis P,1
+Paez N,Sanchis P,1
+Paez N,Pisera Fuster A,1
+Medrano M,Sanchis P,1
+Medrano M,Pisera Fuster A,1
+Medrano M,Paez N,1
+Faillace M,Sanchis P,1
+Costales-Collaguazo C,Ochoa F,1
+Costales-Collaguazo C,Valencia M,1
+Costales-Collaguazo C,Vallejo G,1
+Fainboin A,Isse L,1
+Calo G,Gallino L,1
+Valencia M,Zotta E,1
+Valencia M,Vallejo G,1
+Ochoa F,Vallejo G,1
+Ochoa F,Valencia M,1
+Liern M,Valencia M,1
+Liern M,Ochoa F,1
+Isse L,Zotta E,1
+Isse L,Vallejo G,1
+Isse L,Valencia M,1
+Isse L,Ochoa F,1
+Isse L,Liern M,1
+Fainboin A,Zotta E,1
+Fainboin A,Vallejo G,1
+Fainboin A,Valencia M,1
+Fainboin A,Ochoa F,1
+Fainboin A,Liern M,1
+Asturizaga P,Cadavid A,1
+Asturizaga P,Bueno J,1
+Alcala M,Viana M,1
+Lopes da Cunha P,Villar M,1
+Escande M,Zold C,1
+Christensen M,Rivarola V,1
+Christensen M,Ford P,1
+Christensen M,Di Giusto G,1
+Capurro C,Christensen M,1
+Martinez M,Viola H,1
+Martinez M,Villar M,1
+Lopes da Cunha P,Viola H,1
+Lopes da Cunha P,Martinez M,1
+Feld M,Navarro N,1
+Ballarini F,Viola H,1
+Ballarini F,Villar M,1
+Ballarini F,Martinez M,1
+Ballarini F,Lopes da Cunha P,1
+Khelifa I,Politi M,1
+Khelifa I,Lagree P,1
+Ghigo A,Khelifa I,1
+Gaudric J,Khelifa I,1
+Taravini I,Zold C,1
+Feld M,Romano A,1
+Herlax V,Rubin De Celis E,1
+Damiano A,Rubin De Celis E,1
+Herlax V,Mate S,1
+Herlax V,Martinez N,1
+Herlax V,Levi L,1
+Farina M,Rubin De Celis E,1
+Farina M,Piehl L,1
+Farina M,Mate S,1
+Farina M,Levi L,1
+Farina M,Herlax V,1
+Damiano A,Piehl L,1
+Navarro N,Romano A,1
+Damiano A,Mate S,1
+Damiano A,Levi L,1
+Damiano A,Herlax V,1
+Castro-Parodi M,Rubin De Celis E,1
+Castro-Parodi M,Piehl L,1
+Castro-Parodi M,Mate S,1
+Castro-Parodi M,Levi L,1
+Castro-Parodi M,Herlax V,1
+Fullana J,Lagree P,1
+Fullana J,Khelifa I,1
+Fullana J,Ghigo A,1
+Medina J,Villar M,1
+Martinez N,Repetto M,1
+Martinez N,Maskin B,1
+Damiano A,Repetto M,1
+Damiano A,Maskin B,1
+Castro-Parodi M,Reppetti J,1
+Castro-Parodi M,Repetto M,1
+Castro-Parodi M,Maskin B,1
+Medina J,Viola H,1
+Igaz L,Villar M,1
+Fernandez J,Khelifa I,1
+Igaz L,Medina J,1
+Gonzalez M,Viola H,1
+Gonzalez M,Villar M,1
+Gonzalez M,Igaz L,1
+Urbano F,Weisstaub N,1
+Rivero-Echeto M,Weisstaub N,1
+Rivero-Echeto M,Urbano F,1
+Goitia B,Weisstaub N,1
+Maskin B,Repetto M,1
+Maskin B,Reppetti J,1
+Maskin B,Szpilbarg N,1
+Repetto M,Reppetti J,1
+Malleret G,Weisstaub N,1
+Malleret G,Morici J,1
+Gingrich J,Morici J,1
+Gingrich J,Malleret G,1
+Ciccia L,Weisstaub N,1
+Ciccia L,Morici J,1
+Ciccia L,Malleret G,1
+Ciccia L,Gingrich J,1
+Bekinschtein P,Malleret G,1
+Bekinschtein P,Gingrich J,1
+Bekinschtein P,Ciccia L,1
+McIntosh A,Villalta J,1
+Kovacevic N,Villalta J,1
+Kovacevic N,McIntosh A,1
+Della-Maggiore V,McIntosh A,1
+Della-Maggiore V,Kovacevic N,1
+Repetto M,Szpilbarg N,1
+Herlax V,Piehl L,1
+Levi L,Martinez N,1
+Goitia B,Rivero-Echeto M,1
+Aban C,Carou C,1
+Albamonte I,Franchi A,1
+Albamonte I,Farina M,1
+Albamonte I,Damiano A,1
+Albamonte I,Carou C,1
+Aban C,Trigubo D,1
+Aban C,Toro A,1
+Aban C,Seyahian A,1
+Aban C,Franchi A,1
+Aban C,Albamonte I,1
+Albamonte I,Martinez N,1
+Rodriguez V,Rubinstein M,1
+Noain D,Rubinstein M,1
+Noain D,Rodriguez V,1
+Murer M,Rubinstein M,1
+Murer M,Rodriguez V,1
+Murer M,Noain D,1
+Galinanes G,Rubinstein M,1
+Galinanes G,Rodriguez V,1
+Albamonte I,Leguizamon G,1
+Albamonte I,Seyahian A,1
+Levi L,Mate S,1
+Damiano A,Franchi A,1
+Franchi A,Seyahian A,1
+Franchi A,Martinez N,1
+Franchi A,Leguizamon G,1
+Farina M,Trigubo D,1
+Farina M,Toro A,1
+Farina M,Franchi A,1
+Damiano A,Trigubo D,1
+Damiano A,Toro A,1
+Carou C,Trigubo D,1
+Albamonte I,Toro A,1
+Carou C,Toro A,1
+Carou C,Seyahian A,1
+Carou C,Martinez N,1
+Carou C,Leguizamon G,1
+Carou C,Franchi A,1
+Carou C,Farina M,1
+Carou C,Damiano A,1
+Albamonte I,Trigubo D,1
+Galinanes G,Noain D,1
+Casey E,Rubinstein M,1
+Casey E,Rodriguez V,1
+Coll L,Piriz J,1
+Schinder A,Uchitel O,1
+Piriz J,Uchitel O,1
+Piriz J,Schinder A,1
+Lempel A,Uchitel O,1
+Lempel A,Schinder A,1
+Lempel A,Piriz J,1
+Coll L,Uchitel O,1
+Coll L,Schinder A,1
+Coll L,Lempel A,1
+Casey E,Noain D,1
+Piehl L,Rubin De Celis E,1
+Mate S,Rubin De Celis E,1
+Mate S,Piehl L,1
+Martinez N,Rubin De Celis E,1
+Martinez N,Piehl L,1
+Martinez N,Mate S,1
+Levi L,Rubin De Celis E,1
+Levi L,Piehl L,1
+Bello E,Belluscio M,1
+Bello E,Casas-Cordero R,1
+Bello E,Casey E,1
+Bello E,Galinanes G,1
+Casey E,Murer M,1
+Casey E,Galinanes G,1
+Casas-Cordero R,Rubinstein M,1
+Casas-Cordero R,Rodriguez V,1
+Casas-Cordero R,Noain D,1
+Casas-Cordero R,Murer M,1
+Casas-Cordero R,Galinanes G,1
+Casas-Cordero R,Casey E,1
+Belluscio M,Rubinstein M,1
+Belluscio M,Rodriguez V,1
+Belluscio M,Noain D,1
+Belluscio M,Galinanes G,1
+Belluscio M,Casey E,1
+Belluscio M,Casas-Cordero R,1
+Bello E,Rodriguez V,1
+Bello E,Noain D,1
+Bello E,Murer M,1
+Goitia B,Urbano F,1
+Gingrich J,Urbano F,1
+Alcala M,Teran E,1
+Amaral M,Cymeryng C,1
+Galinanes G,Taravini I,1
+Braz B,Taravini I,1
+Bordey A,Rela L,1
+Bordey A,Piantanida A,1
+Bordey A,Greer C,1
+Cymeryng C,Sacerdoti F,1
+Cymeryng C,Ibarra C,1
+Cymeryng C,Franchi A,1
+Aisemberg J,Sacerdoti F,1
+Fernandez E,Gershanik O,1
+Aisemberg J,Ibarra C,1
+Aisemberg J,Franchi A,1
+Aisemberg J,Cymeryng C,1
+Aisemberg J,Amaral M,1
+Mc Cabe S,Villalta J,1
+Gueugneau N,Villalta J,1
+Gueugneau N,Mc Cabe S,1
+Grafton S,Villalta J,1
+Fernandez E,Fresno C,1
+Fernandez E,Gomez G,1
+Gomez G,Saborido M,1
+Fresno C,Murer M,1
+Gomez G,Gonzalez G,1
+Gershanik O,Spaans F,1
+Gershanik O,Saborido M,1
+Gershanik O,Larramendy C,1
+Gershanik O,Gonzalez G,1
+Fresno C,Taravini I,1
+Fresno C,Spaans F,1
+Fresno C,Saborido M,1
+Fresno C,Larramendy C,1
+Fernandez E,Gonzalez G,1
+Fresno C,Gonzalez G,1
+Fresno C,Gomez G,1
+Fresno C,Gershanik O,1
+Fernandez E,Taravini I,1
+Fernandez E,Spaans F,1
+Fernandez E,Saborido M,1
+Fernandez E,Murer M,1
+Fernandez E,Larramendy C,1
+Grafton S,Mc Cabe S,1
+Grafton S,Gueugneau N,1
+Della-Maggiore V,Mc Cabe S,1
+Silberstein C,Velazquez N,1
+Cammarota M,Tomaiuolo M,1
+Cammarota M,Medina J,1
+Cammarota M,Kramar C,1
+Cammarota M,Katche C,1
+Cammarota M,Gonzalez M,1
+Igaz L,Pino N,1
+Alfieri J,Pino N,1
+Franchi A,Zotta E,1
+Repetto H,Velazquez N,1
+Della-Maggiore V,Gueugneau N,1
+Paton J,Velazquez N,1
+Paton J,Silberstein C,1
+Paton A,Velazquez N,1
+Paton A,Silberstein C,1
+Marquez L,Velazquez N,1
+Marquez L,Paton J,1
+Marquez L,Paton A,1
+Ibarra C,Velazquez N,1
+Cammarota M,Weisstaub N,1
+Gonzalez M,Katche C,1
+Gonzalez M,Kramar C,1
+Gonzalez M,Tomaiuolo M,1
+Della-Maggiore V,Grafton S,1
+Garcia H,Zotta E,1
+Garcia H,Ibarra C,1
+Garcia H,Gerhardt E,1
+Cataldi A,Garcia H,1
+Amigo N,Garcia H,1
+Albanese A,Gerhardt E,1
+Albanese A,Garcia H,1
+Albanese A,Amigo N,1
+Tomaiuolo M,Weisstaub N,1
+Medina J,Tomaiuolo M,1
+Kramar C,Weisstaub N,1
+Kramar C,Tomaiuolo M,1
+Kramar C,Medina J,1
+Katche C,Tomaiuolo M,1
+Katche C,Kramar C,1
+Gonzalez M,Weisstaub N,1
+Gomez G,Larramendy C,1
+Gomez G,Spaans F,1
+Gingrich J,Rivero-Echeto M,1
+Forrester M,Karl A,1
+Bustamante J,Czerniczyniec A,1
+Karl A,Zotta E,1
+Karl A,Trimarchi H,1
+Karl A,Schiel A,1
+Karl A,Rengel T,1
+Karl A,Pomeranz V,1
+Karl A,Muryan A,1
+Karl A,Lombi F,1
+Canzonieri R,Karl A,1
+Czerniczyniec A,Karadayian A,1
+Araoz A,Karl A,1
+Andrews J,Karl A,1
+Singh P,Zotta E,1
+Singh P,Vilte D,1
+Mercado E,Singh P,1
+Manning S,Zotta E,1
+Manning S,Vilte D,1
+Manning S,Singh P,1
+Cutrera R,Czerniczyniec A,1
+Czerniczyniec A,Lombardi P,1
+Gonzalez G,Larramendy C,1
+Bisagno V,Rivero-Echeto M,1
+Gingrich J,Goitia B,1
+Garcia-Rill E,Weisstaub N,1
+Garcia-Rill E,Urbano F,1
+Garcia-Rill E,Rivero-Echeto M,1
+Garcia-Rill E,Goitia B,1
+Garcia-Rill E,Gingrich J,1
+Bisagno V,Weisstaub N,1
+Bisagno V,Urbano F,1
+Bisagno V,Goitia B,1
+Czerniczyniec A,Lores-Arnaiz S,1
+Bisagno V,Gingrich J,1
+Bisagno V,Garcia-Rill E,1
+Damiano A,Dietrich V,1
+Rivera F,Sacerdoti F,1
+Repetto H,Rivera F,1
+Ibarra C,Rivera F,1
+Girard M,Rivera F,1
+Amaral M,Rivera F,1
+Manning S,Mercado E,1
+Larzabal M,Zotta E,1
+Larzabal M,Vilte D,1
+Saborido M,Spaans F,1
+Amigo N,Bentancor A,1
+Faillace M,Zwiller J,1
+Bernabeu R,Zwiller J,1
+Capurro C,Garvin J,1
+Cabral P,Garvin J,1
+Cabral P,Capurro C,1
+Spaans F,Taravini I,1
+Saborido M,Taravini I,1
+Murer M,Spaans F,1
+Larzabal M,Singh P,1
+Murer M,Saborido M,1
+Larramendy C,Taravini I,1
+Larramendy C,Spaans F,1
+Larramendy C,Saborido M,1
+Larramendy C,Murer M,1
+Gonzalez G,Taravini I,1
+Gonzalez G,Spaans F,1
+Gonzalez G,Saborido M,1
+Amigo N,Larzabal M,1
+Amigo N,Manning S,1
+Amigo N,Mercado E,1
+Amigo N,Singh P,1
+Larzabal M,Mercado E,1
+Larzabal M,Manning S,1
+Ibarra C,Singh P,1
+Ibarra C,Manning S,1
+Gerhardt E,Vilte D,1
+Gerhardt E,Singh P,1
+Gerhardt E,Mercado E,1
+Gerhardt E,Manning S,1
+Gerhardt E,Larzabal M,1
+Cataldi A,Singh P,1
+Cataldi A,Manning S,1
+Bentancor A,Zotta E,1
+Bentancor A,Singh P,1
+Bentancor A,Manning S,1
+Bentancor A,Larzabal M,1
+Bentancor A,Gerhardt E,1
+Amigo N,Vilte D,1
+Franchi A,Toro A,1
+Franchi A,Trigubo D,1
+Leguizamon G,Seyahian A,1
+Valino-Rivas L,Zotta E,1
+Bentancor L,Da Rocha M,1
+Bentancor L,Ciocchini A,1
+Bentancor L,Briones G,1
+Amaral M,Ugarte M,1
+Amaral M,Trelles J,1
+Amaral M,Landriel M,1
+Amaral M,Ciocchini A,1
+Amaral M,Briones G,1
+Trimarchi H,Valino-Rivas L,1
+Bentancor L,Landriel M,1
+Stern A,Valino-Rivas L,1
+Schiel A,Valino-Rivas L,1
+Sanchez-Nino M,Valino-Rivas L,1
+Rengel T,Valino-Rivas L,1
+Pomeranz V,Valino-Rivas L,1
+Politei J,Valino-Rivas L,1
+Paulero M,Valino-Rivas L,1
+Ortiz A,Valino-Rivas L,1
+Bentancor L,Ibarra C,1
+Bentancor L,Trelles J,1
+Fernandez-Brando R,Trelles J,1
+Ciocchini A,Fernandez-Brando R,1
+Da Rocha M,Ugarte M,1
+Da Rocha M,Trelles J,1
+Da Rocha M,Landriel M,1
+Ciocchini A,Ugarte M,1
+Ciocchini A,Trelles J,1
+Ciocchini A,Palermo M,1
+Ciocchini A,Landriel M,1
+Ciocchini A,Ibarra C,1
+Ciocchini A,Da Rocha M,1
+Bentancor L,Ugarte M,1
+Briones G,Ugarte M,1
+Briones G,Trelles J,1
+Briones G,Palermo M,1
+Briones G,Landriel M,1
+Briones G,Ibarra C,1
+Briones G,Fernandez-Brando R,1
+Briones G,Da Rocha M,1
+Briones G,Ciocchini A,1
+Muryan A,Valino-Rivas L,1
+Lombi F,Valino-Rivas L,1
+Lombi F,Sanchez-Nino M,1
+Costales-Collaguazo C,Iotti A,1
+Iotti A,Rengel T,1
+Iotti A,Pomeranz V,1
+Iotti A,Paulero M,1
+Iotti A,Muryan A,1
+Iotti A,Lombi F,1
+Iotti A,Iriarte R,1
+Gonzalez-Hoyos I,Iotti A,1
+Forrester M,Iotti A,1
+Canzonieri R,Iotti A,1
+Lombi F,Ortiz A,1
+Romano A,Salles A,1
+Krawczyk M,Salles A,1
+Freudenthal R,Salles A,1
+Freudenthal R,Romano A,1
+Freudenthal R,Krawczyk M,1
+Boccia M,Salles A,1
+Boccia M,Freudenthal R,1
+Blake M,Salles A,1
+Iotti A,Schiel A,1
+Iotti A,Stern A,1
+Iotti A,Trimarchi H,1
+Iotti A,Zotta E,1
+Iriarte R,Valino-Rivas L,1
+Forrester M,Valino-Rivas L,1
+Costales-Collaguazo C,Valino-Rivas L,1
+Canzonieri R,Valino-Rivas L,1
+Jozefkowicz C,Sutka M,1
+Jozefkowicz C,Ozu M,1
+Goldman R,Sutka M,1
+Goldman R,Ozu M,1
+Goldman R,Jozefkowicz C,1
+Canessa Fortuna A,Sutka M,1
+Canessa Fortuna A,Ozu M,1
+Canessa Fortuna A,Jozefkowicz C,1
+Canessa Fortuna A,Goldman R,1
+Alleva K,Sutka M,1
+Alleva K,Ozu M,1
+Alleva K,Jozefkowicz C,1
+Alleva K,Goldman R,1
+Fernandez-Brando R,Landriel M,1
+Fernandez-Brando R,Ugarte M,1
+Leguizamon G,Toro A,1
+Ibarra C,Rivas M,1
+Rivas M,Zolezzi G,1
+Rivas M,Vilte D,1
+Mercado E,Zolezzi G,1
+Mercado E,Rivas M,1
+Martorelli L,Zolezzi G,1
+Martorelli L,Rivas M,1
+Martorelli L,Mercado E,1
+Ibarra C,Zolezzi G,1
+Chinen I,Zolezzi G,1
+Hussain Shuler M,Levy J,1
+Chinen I,Vilte D,1
+Chinen I,Rivas M,1
+Chinen I,Mercado E,1
+Chinen I,Martorelli L,1
+Chinen I,Ibarra C,1
+Cataldi A,Zolezzi G,1
+Cataldi A,Rivas M,1
+Cataldi A,Chinen I,1
+Vilte D,Zolezzi G,1
+Hussain Shuler M,Namboodiri V,1
+Ibarra C,Landriel M,1
+Alcala M,Escudero C,1
+Alcala M,Sosa-Macias M,1
+Alcala M,Roberts J,1
+Alcala M,Ramos M,1
+Alcala M,RIVA-TREM,1
+Alcala M,Martinez N,1
+Alcala M,Lima V,1
+Alcala M,Giachini F,1
+Alcala M,Galaviz-Hernandez C,1
+Alcala M,Damiano A,1
+Hussain Shuler M,Zold C,1
+Alcala M,Clapes S,1
+Alcala M,Calderon-Dominguez M,1
+Alcala M,Cadavid A,1
+Alcala M,Bueno J,1
+Alcala M,Asturizaga P,1
+Namboodiri V,Zold C,1
+Levy J,Zold C,1
+Levy J,Namboodiri V,1
+Cantet R,Zolezzi G,1
+Cantet R,Vilte D,1
+Cantet R,Rivas M,1
+Battista A,Bernabeu R,1
+Bernabeu R,Venera G,1
+Bejarano C,Venera G,1
+Bejarano C,Medrano M,1
+Bejarano C,Faillace M,1
+Bejarano C,Bernabeu R,1
+Battista A,Venera G,1
+Battista A,Medrano M,1
+Battista A,Faillace M,1
+Battista A,Bejarano C,1
+Cantet R,Mercado E,1
+Trelles J,Ugarte M,1
+Palermo M,Ugarte M,1
+Palermo M,Trelles J,1
+Landriel M,Ugarte M,1
+Landriel M,Trelles J,1
+Landriel M,Palermo M,1
+Ibarra C,Ugarte M,1
+Ibarra C,Trelles J,1
+Faillace M,Venera G,1
+Medrano M,Venera G,1
+Alvarez R,Girard M,1
+Alvarez R,Repetto H,1
+Cantet R,Martorelli L,1
+Cantet R,Ibarra C,1
+Cantet R,Chinen I,1
+Cantet R,Cataldi A,1
+Bentancor A,Zolezzi G,1
+Bentancor A,Rivas M,1
+Bentancor A,Martorelli L,1
+Bentancor A,Chinen I,1
+Bentancor A,Cantet R,1
+Albanese A,Zolezzi G,1
+Albanese A,Rivas M,1
+Albanese A,Martorelli L,1
+Albanese A,Chinen I,1
+Albanese A,Cantet R,1
+Albanese A,Bentancor A,1
+Girard M,Paton J,1
+Girard M,Paton A,1
+Blake M,Freudenthal R,1
+Rela L,San Martin A,1
+Pagani M,Rela L,1
+Della-Maggiore V,Vargas C,1
+Amodeo G,Ozu M,1
+Amodeo G,Chara O,1
+Saunier G,Vargas C,1
+Rodrigues E,Vargas C,1
+Rodrigues E,Saunier G,1
+Nogueira-Campos A,Vargas C,1
+Nogueira-Campos A,Saunier G,1
+Nogueira-Campos A,Rodrigues E,1
+Della-Maggiore V,Saunier G,1
+Amodeo G,Vitali V,1
+Della-Maggiore V,Rodrigues E,1
+Della-Maggiore V,Nogueira-Campos A,1
+De Oliveira L,Vargas C,1
+De Oliveira L,Saunier G,1
+De Oliveira L,Rodrigues E,1
+De Oliveira L,Nogueira-Campos A,1
+De Oliveira L,Della-Maggiore V,1
+Tseng K,Tubert C,1
+Amodeo G,Sutka M,1
+Chara O,Ozu M,1
+Gelb B,Rela L,1
+Forrester M,Lombi M,1
+Lombi M,Sanchez-Nino M,1
+Lombi M,Rengel T,1
+Lombi M,Pomeranz V,1
+Lombi M,Politei J,1
+Lombi M,Paulero M,1
+Lombi M,Ortiz A,1
+Lombi M,Muryan A,1
+Iriarte R,Lombi M,1
+Costales-Collaguazo C,Lombi M,1
+Chara O,Sutka M,1
+Canzonieri R,Lombi M,1
+Andrews J,Sanchez-Nino M,1
+Andrews J,Ortiz A,1
+Andrews J,Lombi M,1
+Andrews J,Costales-Collaguazo C,1
+Sutka M,Vitali V,1
+Ozu M,Vitali V,1
+Chara O,Vitali V,1
+Taravini I,Tseng K,1
+Sanchez G,Tubert C,1
+Sanchez G,Tseng K,1
+Araoz A,Silberstein C,1
+Avale M,Rela L,1
+Avale M,Prost M,1
+Avale M,Murer M,1
+Avale M,Flores-Barrera E,1
+Mejias M,Sacerdoti F,1
+Bruballa A,Sacerdoti F,1
+Ibarra F,Repetto H,1
+Ibarra F,Marquez L,1
+Araoz A,Repetto H,1
+Sanchez G,Taravini I,1
+Araoz A,Marquez L,1
+Araoz A,Ibarra F,1
+Toro A,Trigubo D,1
+Seyahian A,Trigubo D,1
+Seyahian A,Toro A,1
+Martinez N,Trigubo D,1
+Martinez N,Toro A,1
+Leguizamon G,Trigubo D,1
+Avale M,Sanchez G,1
+Avale M,Taravini I,1
+Avale M,Tseng K,1
+Avale M,Tubert C,1
+Rela L,Tseng K,1
+Rela L,Sanchez G,1
+Prost M,Tubert C,1
+Prost M,Tseng K,1
+Prost M,Taravini I,1
+Prost M,Sanchez G,1
+Prost M,Rela L,1
+Murer M,Tseng K,1
+Murer M,Sanchez G,1
+Murer M,Prost M,1
+Flores-Barrera E,Tubert C,1
+Flores-Barrera E,Tseng K,1
+Flores-Barrera E,Taravini I,1
+Flores-Barrera E,Sanchez G,1
+Flores-Barrera E,Rela L,1
+Flores-Barrera E,Prost M,1
+Flores-Barrera E,Murer M,1
+Lombi M,Schiel A,1
+Lombi M,Stern A,1
+Lombi M,Trimarchi H,1
+Paton J,Seyahian E,1
+Kalstein M,Netti V,1
+Ford P,Kalstein M,1
+Fernandez J,Rivarola V,1
+Fernandez J,Pizzoni A,1
+Fernandez J,Kalstein M,1
+Di Giusto G,Kalstein M,1
+Capurro C,Kalstein M,1
+Alfieri J,Silva P,1
+Paton A,Seyahian E,1
+Melendi S,Seyahian E,1
+Oltra G,Zotta E,1
+Oltra G,Seyahian E,1
+Oltra G,Paton J,1
+Oltra G,Paton A,1
+Ochoa F,Seyahian E,1
+Ochoa F,Paton J,1
+Ochoa F,Paton A,1
+Ochoa F,Oltra G,1
+Kalstein M,Pizzoni A,1
+Kalstein M,Rivarola V,1
+Netti V,Rivarola V,1
+Bernabeu R,Bruno-Blanch L,1
+Martos Y,Murer M,1
+Braz B,Martos Y,1
+Belforte J,Martos Y,1
+Beccaria J,Martos Y,1
+Beccaria J,Braz B,1
+Bejarano A,Pisera-Fuster A,1
+Bejarano A,Medrano M,1
+Bejarano A,Faillace M,1
+Bejarano A,Bernabeu R,1
+Pisera-Fuster A,Talevi A,1
+Otero S,Talevi A,1
+Otero S,Pisera-Fuster A,1
+Bruno-Blanch L,Talevi A,1
+Bruno-Blanch L,Pisera-Fuster A,1
+Bruno-Blanch L,Otero S,1
+Bernabeu R,Talevi A,1
+Bernabeu R,Otero S,1
+Melendi S,Zotta E,1
+Melendi S,Paton J,1
+Lombi M,Zotta E,1
+Castro Parodi M,Zotta E,1
+Hermes R,Ibarra C,1
+Damiano A,Paton J,1
+Damiano A,Paton A,1
+Damiano A,Oltra G,1
+Damiano A,Ochoa F,1
+Damiano A,Melendi S,1
+Damiano A,Lago N,1
+Damiano A,Hermes R,1
+Castro Parodi M,Seyahian E,1
+Melendi S,Paton A,1
+Castro Parodi M,Paton J,1
+Castro Parodi M,Paton A,1
+Castro Parodi M,Oltra G,1
+Castro Parodi M,Ochoa F,1
+Castro Parodi M,Melendi S,1
+Castro Parodi M,Lago N,1
+Castro Parodi M,Ibarra C,1
+Castro Parodi M,Hermes R,1
+Hermes R,Lago N,1
+Hermes R,Melendi S,1
+Hermes R,Ochoa F,1
+Hermes R,Oltra G,1
+Melendi S,Oltra G,1
+Melendi S,Ochoa F,1
+Lago N,Zotta E,1
+Lago N,Seyahian E,1
+Lago N,Paton J,1
+Lago N,Paton A,1
+Lago N,Oltra G,1
+Lago N,Ochoa F,1
+Lago N,Melendi S,1
+Ibarra C,Oltra G,1
+Ibarra C,Ochoa F,1
+Ibarra C,Melendi S,1
+Ibarra C,Lago N,1
+Hermes R,Zotta E,1
+Hermes R,Seyahian E,1
+Hermes R,Paton J,1
+Hermes R,Paton A,1
+Gomez G,Suarez L,1
+Moratalla R,Suarez L,1
+Cavaliere Candedo V,Garcia C,1
+Dare S,Hu N,1
+Merlo E,Rodriguez Curt J,1
+Hu N,Rodriguez Curt J,1
+Hu N,Merlo E,1
+Ekanem P,Rodriguez Curt J,1
+Ekanem P,Merlo E,1
+Ekanem P,Hu N,1
+Dare S,Rodriguez Curt J,1
+Dare S,Merlo E,1
+Dare S,Ekanem P,1
+Amarillo Y,Paz R,1
+Berni J,Rodriguez Curt J,1
+Berni J,Merlo E,1
+Berni J,Hu N,1
+Berni J,Ekanem P,1
+Berni J,Dare S,1
+Luchelli L,Vila A,1
+Igaz L,Vila A,1
+Igaz L,Luchelli L,1
+Amarillo Y,Murer M,1
+Amarillo Y,Rela L,1
+Badin E,Montenegro M,1
+Amaral M,Sodero S,1
+Badin E,Larzabal M,1
+Badin E,Kim A,1
+Badin E,Ibarra C,1
+Badin E,Gonzalez D,1
+Badin E,Garimano N,1
+Badin E,Diaz Vergara L,1
+Badin E,Cataldi A,1
+Badin E,Bernal A,1
+Amaral M,Porporatto C,1
+Amarillo Y,Stahl A,1
+Amaral M,Montenegro M,1
+Amaral M,Lespinard A,1
+Amaral M,Larzabal M,1
+Amaral M,Kim A,1
+Amaral M,Gonzalez D,1
+Amaral M,Diaz Vergara L,1
+Amaral M,Badin E,1
+Amarillo Y,Tubert C,1
+Charif S,Vila A,1
+Charif S,Luchelli L,1
+Blaustein M,Vila A,1
+Bazzi Z,Capurro C,1
+Pizzoni A,Schwarzbaum P,1
+Ford P,Schwarzbaum P,1
+Di Giusto G,Schwarzbaum P,1
+Capurro C,Schwarzbaum P,1
+Bazzi Z,Rivarola V,1
+Bazzi Z,Pizzoni A,1
+Bazzi Z,Ford P,1
+Bazzi Z,Di Giusto G,1
+Alvarez C,Rivarola V,1
+Blaustein M,Luchelli L,1
+Alvarez C,Pizzoni A,1
+Alvarez C,Ford P,1
+Alvarez C,Di Giusto G,1
+Alvarez C,Capurro C,1
+Lerner G,Yeffal A,1
+Valli F,Zotta E,1
+Roguin L,Valli F,1
+Marino J,Zotta E,1
+Rivarola V,Schwarzbaum P,1
+Accialini P,Loureiro F,1
+Accialini P,Palligas M,1
+Accialini P,Saraco N,1
+Blaustein M,Igaz L,1
+Blaustein M,Charif S,1
+Camera A,Tomsic D,1
+Belluscio M,Tomsic D,1
+Belluscio M,Camera A,1
+Palligas M,Saraco N,1
+Martinez N,Saraco N,1
+Martinez N,Palligas M,1
+Loureiro F,Saraco N,1
+Loureiro F,Palligas M,1
+Loureiro F,Martinez N,1
+Farina M,Saraco N,1
+Farina M,Palligas M,1
+Farina M,Loureiro F,1
+Etcheverry T,Saraco N,1
+Etcheverry T,Palligas M,1
+Etcheverry T,Loureiro F,1
+Badin E,Lespinard A,1
+Badin E,Palermo M,1
+Marino J,Roguin L,1
+Kim A,Lespinard A,1
+Larzabal M,Palermo M,1
+Larzabal M,Montenegro M,1
+Larzabal M,Lespinard A,1
+Kim A,Sodero S,1
+Kim A,Sacerdoti F,1
+Kim A,Porporatto C,1
+Kim A,Palermo M,1
+Kim A,Montenegro M,1
+Kim A,Larzabal M,1
+Larzabal M,Sacerdoti F,1
+Ibarra C,Sodero S,1
+Ibarra C,Porporatto C,1
+Ibarra C,Montenegro M,1
+Ibarra C,Lespinard A,1
+Ibarra C,Kim A,1
+Gonzalez D,Sodero S,1
+Gonzalez D,Sacerdoti F,1
+Gonzalez D,Porporatto C,1
+Larzabal M,Porporatto C,1
+Larzabal M,Sodero S,1
+Badin E,Porporatto C,1
+Palermo M,Sodero S,1
+Collavini S,Pascariello G,1
+Collavini S,Nasimbera A,1
+Collavini S,Kochen S,1
+Collavini S,Donnelly-Kehoe P,1
+Collavini S,Deleglise A,1
+Sacerdoti F,Sodero S,1
+Porporatto C,Sodero S,1
+Porporatto C,Sacerdoti F,1
+Palermo M,Porporatto C,1
+Lespinard A,Montenegro M,1
+Montenegro M,Sodero S,1
+Montenegro M,Sacerdoti F,1
+Montenegro M,Porporatto C,1
+Montenegro M,Palermo M,1
+Lespinard A,Sodero S,1
+Lespinard A,Sacerdoti F,1
+Lespinard A,Porporatto C,1
+Lespinard A,Palermo M,1
+Gonzalez D,Palermo M,1
+Gonzalez D,Montenegro M,1
+Gonzalez D,Lespinard A,1
+Bernal A,Montenegro M,1
+Cataldi A,Porporatto C,1
+Cataldi A,Montenegro M,1
+Cataldi A,Lespinard A,1
+Cataldi A,Kim A,1
+Cataldi A,Gonzalez D,1
+Cataldi A,Diaz Vergara L,1
+Bernal A,Sodero S,1
+Bernal A,Porporatto C,1
+Bernal A,Lespinard A,1
+Gonzalez D,Larzabal M,1
+Bernal A,Larzabal M,1
+Bernal A,Kim A,1
+Bernal A,Gonzalez D,1
+Bernal A,Garimano N,1
+Bernal A,Diaz Vergara L,1
+Bernal A,Cataldi A,1
+Badin E,Sodero S,1
+Badin E,Sacerdoti F,1
+Cataldi A,Sodero S,1
+Diaz Vergara L,Garimano N,1
+Diaz Vergara L,Gonzalez D,1
+Diaz Vergara L,Ibarra C,1
+Gonzalez D,Kim A,1
+Gonzalez D,Ibarra C,1
+Garimano N,Sodero S,1
+Garimano N,Porporatto C,1
+Garimano N,Montenegro M,1
+Garimano N,Lespinard A,1
+Garimano N,Larzabal M,1
+Garimano N,Kim A,1
+Garimano N,Gonzalez D,1
+Diaz Vergara L,Sodero S,1
+Diaz Vergara L,Sacerdoti F,1
+Diaz Vergara L,Porporatto C,1
+Diaz Vergara L,Palermo M,1
+Diaz Vergara L,Montenegro M,1
+Diaz Vergara L,Lespinard A,1
+Diaz Vergara L,Larzabal M,1
+Diaz Vergara L,Kim A,1
+Marino J,Valli F,1
+Garcia Vior M,Zotta E,1
+Collavini S,Seoane P,1
+Alvarez A,Souto P,1
+Ayala-Ramirez P,Ribeiro I,1
+Ayala-Ramirez P,Lima V,1
+Ayala-Ramirez P,Ibarra C,1
+Ayala-Ramirez P,Cadavid A,1
+Ayala-Ramirez P,Bueno J,1
+Ayala-Ramirez P,Borbely A,1
+Alvarez A,Tanabe E,1
+Alvarez A,Szasz T,1
+Alvarez A,Sacerdoti F,1
+Ayala-Ramirez P,Sacerdoti F,1
+Alvarez A,Robles R,1
+Alvarez A,Ribeiro I,1
+Alvarez A,Lima V,1
+Alvarez A,Ibarra C,1
+Alvarez A,Giachini F,1
+Alvarez A,Escudero C,1
+Alvarez A,Cadavid A,1
+Alvarez A,Bueno J,1
+Ayala-Ramirez P,Robles R,1
+Ayala-Ramirez P,Souto P,1
+Cadavid A,Ibarra C,1
+Borbely A,Souto P,1
+Bueno J,Szasz T,1
+Bueno J,Souto P,1
+Bueno J,Sacerdoti F,1
+Bueno J,Robles R,1
+Bueno J,Ribeiro I,1
+Bueno J,Ibarra C,1
+Borbely A,Tanabe E,1
+Borbely A,Szasz T,1
+Borbely A,Sacerdoti F,1
+Ayala-Ramirez P,Szasz T,1
+Borbely A,Robles R,1
+Borbely A,Ribeiro I,1
+Borbely A,Lima V,1
+Borbely A,Ibarra C,1
+Borbely A,Escudero C,1
+Borbely A,Cadavid A,1
+Borbely A,Bueno J,1
+Ayala-Ramirez P,Tanabe E,1
+Alvarez A,Borbely A,1
+Agudelo O,Tanabe E,1
+Agudelo O,Szasz T,1
+Ferran J,Trotta M,1
+Pagani M,Ramos-Hryb A,1
+Pagani M,Ramirez M,1
+Lino-de-Oliveira C,Ramos-Hryb A,1
+Lino-de-Oliveira C,Ramirez M,1
+Lino-de-Oliveira C,Pagani M,1
+Tavella M,Trotta M,1
+Rubinstein M,Trotta M,1
+Rubinstein M,Tavella M,1
+Ferran J,Tavella M,1
+Agudelo O,Souto P,1
+Ferran J,Rubinstein M,1
+Bumaschny V,Tavella M,1
+Bumaschny V,Rubinstein M,1
+Bumaschny V,Ferran J,1
+Bello E,Trotta M,1
+Bello E,Tavella M,1
+Bello E,Ferran J,1
+Bello E,Bumaschny V,1
+Ramirez M,Ramos-Hryb A,1
+Cattaneo V,Gelb B,1
+Cattaneo V,Lew S,1
+Cattaneo V,Pagani M,1
+Agudelo O,Sacerdoti F,1
+Agudelo O,Robles R,1
+Agudelo O,Ribeiro I,1
+Agudelo O,Lima V,1
+Agudelo O,Ibarra C,1
+Agudelo O,Giachini F,1
+Agudelo O,Escudero C,1
+Agudelo O,Damiano A,1
+Agudelo O,Cadavid A,1
+Agudelo O,Bueno J,1
+Agudelo O,Borbely A,1
+Agudelo O,Ayala-Ramirez P,1
+Agudelo O,Alvarez A,1
+Lew S,San Martin A,1
+Lew S,Pagani M,1
+Gelb B,Lew S,1
+Cattaneo V,San Martin A,1
+Bueno J,Tanabe E,1
+Cadavid A,Ribeiro I,1
+Garcia Vior M,Valli F,1
+Basika T,Roguin L,1
+Bollati-Fogolin M,Roguin L,1
+Bollati-Fogolin M,Marino J,1
+Bollati-Fogolin M,Garcia Vior M,1
+Bollati-Fogolin M,Duhalde Vega M,1
+Bollati-Fogolin M,Daghero H,1
+Bollati-Fogolin M,Chiarante N,1
+Basika T,Zotta E,1
+Basika T,Valli F,1
+Basika T,Marino J,1
+Bollati-Fogolin M,Zotta E,1
+Basika T,Garcia Vior M,1
+Basika T,Duhalde Vega M,1
+Basika T,Daghero H,1
+Basika T,Chiarante N,1
+Basika T,Bollati-Fogolin M,1
+Szasz T,Tanabe E,1
+Souto P,Tanabe E,1
+Souto P,Szasz T,1
+Bollati-Fogolin M,Valli F,1
+Chiarante N,Daghero H,1
+Cadavid A,Robles R,1
+Daghero H,Valli F,1
+Garcia Vior M,Roguin L,1
+Garcia Vior M,Marino J,1
+Duhalde Vega M,Zotta E,1
+Duhalde Vega M,Valli F,1
+Duhalde Vega M,Roguin L,1
+Duhalde Vega M,Marino J,1
+Duhalde Vega M,Garcia Vior M,1
+Daghero H,Zotta E,1
+Daghero H,Roguin L,1
+Chiarante N,Duhalde Vega M,1
+Daghero H,Marino J,1
+Daghero H,Garcia Vior M,1
+Daghero H,Duhalde Vega M,1
+Chiarante N,Zotta E,1
+Chiarante N,Valli F,1
+Chiarante N,Roguin L,1
+Chiarante N,Marino J,1
+Chiarante N,Garcia Vior M,1
+Sacerdoti F,Tanabe E,1
+Sacerdoti F,Szasz T,1
+Sacerdoti F,Souto P,1
+Escudero C,Ribeiro I,1
+Giachini F,Sacerdoti F,1
+Giachini F,Robles R,1
+Giachini F,Ribeiro I,1
+Giachini F,Ibarra C,1
+Escudero C,Tanabe E,1
+Escudero C,Szasz T,1
+Escudero C,Sacerdoti F,1
+Escudero C,Robles R,1
+Escudero C,Ibarra C,1
+Robles R,Tanabe E,1
+Damiano A,Tanabe E,1
+Damiano A,Szasz T,1
+Damiano A,Robles R,1
+Damiano A,Ribeiro I,1
+Cadavid A,Tanabe E,1
+Cadavid A,Szasz T,1
+Cadavid A,Souto P,1
+Cadavid A,Sacerdoti F,1
+Giachini F,Szasz T,1
+Giachini F,Tanabe E,1
+Ibarra C,Lima V,1
+Ibarra C,Ribeiro I,1
+Robles R,Szasz T,1
+Robles R,Souto P,1
+Robles R,Sacerdoti F,1
+Ribeiro I,Tanabe E,1
+Ribeiro I,Szasz T,1
+Ribeiro I,Souto P,1
+Ribeiro I,Sacerdoti F,1
+Ribeiro I,Robles R,1
+Lima V,Tanabe E,1
+Lima V,Szasz T,1
+Lima V,Sacerdoti F,1
+Lima V,Robles R,1
+Lima V,Ribeiro I,1
+Ibarra C,Tanabe E,1
+Ibarra C,Szasz T,1
+Ibarra C,Souto P,1
+Ibarra C,Robles R,1
+Collavini S,Princich J,1
+Collavini S,Vallejo-Azar M,1
+Moratalla R,Taravini I,1
+Chevriau J,Toriano R,1
+Soto G,Zeida A,1
+Soto G,Toriano R,1
+Scochera F,Zerbetto De Palma G,1
+Scochera F,Zeida A,1
+Scochera F,Toriano R,1
+Scochera F,Soto G,1
+Chevriau J,Zerbetto De Palma G,1
+Chevriau J,Zeida A,1
+Chevriau J,Soto G,1
+Toriano R,Zeida A,1
+Chevriau J,Scochera F,1
+Canessa Fortuna A,Zerbetto De Palma G,1
+Canessa Fortuna A,Zeida A,1
+Canessa Fortuna A,Toriano R,1
+Canessa Fortuna A,Soto G,1
+Canessa Fortuna A,Scochera F,1
+Canessa Fortuna A,Chevriau J,1
+Alleva K,Zerbetto De Palma G,1
+Soto G,Zerbetto De Palma G,1
+Toriano R,Zerbetto De Palma G,1
+Garcia-Venzor A,Silberman D,1
+Brughera A,McAlpine D,1
+Capurro C,Toiber D,1
+Capurro C,Silberman D,1
+Capurro C,Sanhueza Salas L,1
+Capurro C,Garcia-Venzor A,1
+Beltramone N,Toiber D,1
+Beltramone N,Silberman D,1
+Beltramone N,Sanhueza Salas L,1
+Beltramone N,Garcia-Venzor A,1
+Ballestero J,McAlpine D,1
+Zeida A,Zerbetto De Palma G,1
+Ballestero J,Brughera A,1
+Gomez F,Zotta E,1
+Gomez F,Paton J,1
+Gomez F,Paton A,1
+Alvarez R,Zotta E,1
+Arrizurieta E,Vlachovsky S,1
+Arrizurieta E,Silberstein C,1
+Arrizurieta E,Goette N,1
+Alleva K,Zeida A,1
+Alleva K,Toriano R,1
+Alleva K,Soto G,1
+Bomfim G,Dela Justina V,1
+Damiano A,Dos Passos Junior R,1
+Damiano A,Dela Justina V,1
+Bomfim G,de Freitas R,1
+Bomfim G,Reppetti J,1
+Bomfim G,Medina Y,1
+Bomfim G,Lima V,1
+Bomfim G,Giachini F,1
+Bomfim G,Dos Passos Junior R,1
+Bomfim G,Damiano A,1
+Alleva K,Scochera F,1
+Bach C,de Freitas R,1
+Bach C,Reppetti J,1
+Bach C,Medina Y,1
+Bach C,Lima V,1
+Bach C,Giachini F,1
+Bach C,Dos Passos Junior R,1
+Bach C,Dela Justina V,1
+Bach C,Damiano A,1
+Damiano A,de Freitas R,1
+Dela Justina V,Dos Passos Junior R,1
+Dela Justina V,Giachini F,1
+Dela Justina V,Lima V,1
+Alleva K,Chevriau J,1
+Reppetti J,de Freitas R,1
+Medina Y,de Freitas R,1
+Lima V,de Freitas R,1
+Lima V,Reppetti J,1
+Lima V,Medina Y,1
+Giachini F,de Freitas R,1
+Giachini F,Reppetti J,1
+Giachini F,Medina Y,1
+Dos Passos Junior R,de Freitas R,1
+Dos Passos Junior R,Reppetti J,1
+Dos Passos Junior R,Medina Y,1
+Dos Passos Junior R,Lima V,1
+Dos Passos Junior R,Giachini F,1
+Dela Justina V,de Freitas R,1
+Dela Justina V,Reppetti J,1
+Dela Justina V,Medina Y,1
+Garcia-Venzor A,Sanhueza Salas L,1
+Garcia-Venzor A,Toiber D,1
+Melamud L,Netti V,1
+Casabona J,Cordoba M,1
+Casabona J,Pasquini J,1
+Casabona J,Murer M,1
+Casabona J,Mostoslavsky G,1
+Casabona J,Kauffman M,1
+Casabona J,Gonzalez Moron D,1
+Casabona J,Gonzalez J,1
+Casabona J,Garcia C,1
+Casabona J,Farias M,1
+Casabona J,Consalvo D,1
+Casabona J,Quinta H,1
+Casabona J,Cavaliere Candedo V,1
+Casabona J,Casalia M,1
+Quintilio W,Sidhu S,1
+Presta A,Sidhu S,1
+Presta A,Sacerdoti F,1
+Presta A,Quintilio W,1
+Piazza R,Presta A,1
+Moro A,Sidhu S,1
+Casabona J,Pitossi F,1
+Casabona J,Rela L,1
+Sanhueza Salas L,Silberman D,1
+Casalia M,Murer M,1
+Cavaliere Candedo V,Farias M,1
+Cavaliere Candedo V,Cordoba M,1
+Cavaliere Candedo V,Consalvo D,1
+Casalia M,Urbano F,1
+Casalia M,Rela L,1
+Casalia M,Quinta H,1
+Casalia M,Pitossi F,1
+Casalia M,Pasquini J,1
+Casalia M,Mostoslavsky G,1
+Casabona J,Urbano F,1
+Casalia M,Kauffman M,1
+Casalia M,Gonzalez Moron D,1
+Casalia M,Gonzalez J,1
+Casalia M,Garcia C,1
+Casalia M,Farias M,1
+Casalia M,Cordoba M,1
+Casalia M,Consalvo D,1
+Casalia M,Cavaliere Candedo V,1
+Moro A,Presta A,1
+Melo B,Sidhu S,1
+Melo B,Sacerdoti F,1
+Chen G,Presta A,1
+Gomez F,Guth B,1
+Ferreira R,Quintilio W,1
+Ferreira R,Presta A,1
+Ferreira R,Moro A,1
+Ferreira R,Melo B,1
+Ferreira R,Ibarra C,1
+Ferreira R,Guth B,1
+Chen G,Quintilio W,1
+Chen G,Moro A,1
+Melo B,Quintilio W,1
+Chen G,Melo B,1
+Chen G,Ibarra C,1
+Chen G,Guth B,1
+Amaral M,Presta A,1
+Amaral M,Melo B,1
+Amaral M,Guth B,1
+Silberman D,Toiber D,1
+Sanhueza Salas L,Toiber D,1
+Gomez F,Melo B,1
+Gomez F,Moro A,1
+Gomez F,Presta A,1
+Gomez F,Quintilio W,1
+Melo B,Presta A,1
+Melo B,Piazza R,1
+Melo B,Moro A,1
+Luz D,Presta A,1
+Luz D,Melo B,1
+Ibarra C,Sidhu S,1
+Ibarra C,Presta A,1
+Ibarra C,Melo B,1
+Guth B,Sidhu S,1
+Guth B,Sacerdoti F,1
+Guth B,Quintilio W,1
+Guth B,Presta A,1
+Guth B,Piazza R,1
+Guth B,Moro A,1
+Guth B,Melo B,1
+Guth B,Luz D,1
+Guth B,Ibarra C,1
+Bach C,Bomfim G,1
+Garcia-Miranda P,Netti V,1
+Collavini S,Veron Do Santos J,1
+Aguilar L,Souza G,1
+Asis S,Souza G,1
+Asis S,Oliveira de Souza J,1
+Asis S,Oliva G,1
+Asis S,Mellado M,1
+Asis S,Luczywo A,1
+Asis S,Guido R,1
+Asis S,Gonzalez L,1
+Asis S,Casal J,1
+Aguilar L,Oliveira de Souza J,1
+Casal J,Guido R,1
+Aguilar L,Oliva G,1
+Aguilar L,Mellado M,1
+Aguilar L,Luczywo A,1
+Aguilar L,Guido R,1
+Aguilar L,Gonzalez L,1
+Aguilar L,Casal J,1
+Aguilar L,Asis S,1
+Aguiar A,Souza G,1
+Casal J,Gonzalez L,1
+Casal J,Luczywo A,1
+Mellado M,Oliveira de Souza J,1
+Guido R,Luczywo A,1
+Luczywo A,Souza G,1
+Luczywo A,Oliveira de Souza J,1
+Luczywo A,Oliva G,1
+Luczywo A,Mellado M,1
+Guido R,Souza G,1
+Guido R,Oliveira de Souza J,1
+Guido R,Oliva G,1
+Guido R,Mellado M,1
+Gonzalez L,Souza G,1
+Casal J,Mellado M,1
+Gonzalez L,Oliveira de Souza J,1
+Gonzalez L,Oliva G,1
+Gonzalez L,Mellado M,1
+Gonzalez L,Luczywo A,1
+Gonzalez L,Guido R,1
+Casal J,Souza G,1
+Casal J,Oliveira de Souza J,1
+Casal J,Oliva G,1
+Aguiar A,Oliva G,1
+Aguiar A,Mellado M,1
+Aguiar A,Luczywo A,1
+Donnelly-Kehoe P,Pascariello G,1
+Kochen S,Seoane P,1
+Kochen S,Princich J,1
+Kochen S,Pascariello G,1
+Kochen S,Nasimbera A,1
+Donnelly-Kehoe P,Veron Do Santos J,1
+Donnelly-Kehoe P,Vallejo-Azar M,1
+Donnelly-Kehoe P,Seoane P,1
+Donnelly-Kehoe P,Princich J,1
+Donnelly-Kehoe P,Nasimbera A,1
+Aguiar A,Guido R,1
+Donnelly-Kehoe P,Kochen S,1
+Deleglise A,Veron Do Santos J,1
+Deleglise A,Vallejo-Azar M,1
+Deleglise A,Seoane P,1
+Deleglise A,Princich J,1
+Deleglise A,Pascariello G,1
+Deleglise A,Nasimbera A,1
+Deleglise A,Kochen S,1
+Kochen S,Vallejo-Azar M,1
+Kochen S,Veron Do Santos J,1
+Nasimbera A,Pascariello G,1
+Nasimbera A,Princich J,1
+Aguiar A,Gonzalez L,1
+Aguiar A,Casal J,1
+Aguiar A,Asis S,1
+Aguiar A,Aguilar L,1
+Vallejo-Azar M,Veron Do Santos J,1
+Seoane P,Veron Do Santos J,1
+Seoane P,Vallejo-Azar M,1
+Princich J,Veron Do Santos J,1
+Princich J,Vallejo-Azar M,1
+Princich J,Seoane P,1
+Pascariello G,Veron Do Santos J,1
+Pascariello G,Vallejo-Azar M,1
+Pascariello G,Seoane P,1
+Pascariello G,Princich J,1
+Nasimbera A,Veron Do Santos J,1
+Nasimbera A,Vallejo-Azar M,1
+Nasimbera A,Seoane P,1
+Mellado M,Oliva G,1
+Mellado M,Souza G,1
+Garcia-Miranda P,Melamud L,1
+Hattab C,Ostuni M,1
+Molineris M,Schwarzbaum P,1
+Molineris M,Schachter J,1
+Molineris M,Rinaldi D,1
+Molineris M,Ostuni M,1
+Hattab C,Sevigny J,1
+Hattab C,Schwarzbaum P,1
+Hattab C,Schachter J,1
+Hattab C,Rinaldi D,1
+Hattab C,Molineris M,1
+Ostuni M,Rinaldi D,1
+Gonzalez-Lebrero R,Sevigny J,1
+Gonzalez-Lebrero R,Schwarzbaum P,1
+Gonzalez-Lebrero R,Schachter J,1
+Gonzalez-Lebrero R,Rinaldi D,1
+Gonzalez-Lebrero R,Ostuni M,1
+Gonzalez-Lebrero R,Molineris M,1
+Gonzalez-Lebrero R,Hattab C,1
+Faillace M,Sevigny J,1
+Molineris M,Sevigny J,1
+Ostuni M,Schachter J,1
+Oliva G,Oliveira de Souza J,1
+Di Giusto G,Garcia-Miranda P,1
+Ford P,Melamud L,1
+Ford P,Garcia-Miranda P,1
+Fernandez J,Melamud L,1
+Fernandez J,Garcia-Miranda P,1
+Echevarria M,Melamud L,1
+Echevarria M,Garcia-Miranda P,1
+Echevarria M,Fernandez J,1
+Di Giusto G,Melamud L,1
+Capurro C,Melamud L,1
+Ostuni M,Schwarzbaum P,1
+Capurro C,Garcia-Miranda P,1
+Schwarzbaum P,Sevigny J,1
+Schachter J,Sevigny J,1
+Schachter J,Schwarzbaum P,1
+Rinaldi D,Sevigny J,1
+Rinaldi D,Schwarzbaum P,1
+Rinaldi D,Schachter J,1
+Ostuni M,Sevigny J,1
+Faillace M,Schwarzbaum P,1
+Faillace M,Schachter J,1
+Faillace M,Rinaldi D,1
+Alvarez C,Corradi G,1
+Alvarez C,Sevigny J,1
+Alvarez C,Schachter J,1
+Alvarez C,Rinaldi D,1
+Alvarez C,Ostuni M,1
+Alvarez C,Molineris M,1
+Alvarez C,Hattab C,1
+Alvarez C,Gonzalez-Lebrero R,1
+Alvarez C,Faillace M,1
+Amaral M,Silberstein C,1
+Faillace M,Ostuni M,1
+Amaral M,Sanchez D,1
+Amaral M,Fischer Sigel L,1
+Pafundo D,Pretell Annan C,1
+Fulginiti N,Pretell Annan C,1
+Fulginiti N,Pafundo D,1
+Belforte J,Fulginiti N,1
+Oliveira de Souza J,Souza G,1
+Oliva G,Souza G,1
+Bazzi Z,Corradi G,1
+Bazzi Z,Faillace M,1
+Bazzi Z,Gonzalez-Lebrero R,1
+Bazzi Z,Hattab C,1
+Faillace M,Molineris M,1
+Faillace M,Hattab C,1
+Faillace M,Gonzalez-Lebrero R,1
+Corradi G,Sevigny J,1
+Corradi G,Schwarzbaum P,1
+Corradi G,Schachter J,1
+Corradi G,Rinaldi D,1
+Corradi G,Ostuni M,1
+Corradi G,Molineris M,1
+Corradi G,Hattab C,1
+Corradi G,Gonzalez-Lebrero R,1
+Corradi G,Faillace M,1
+Bazzi Z,Sevigny J,1
+Bazzi Z,Schachter J,1
+Bazzi Z,Rinaldi D,1
+Bazzi Z,Ostuni M,1
+Bazzi Z,Molineris M,1
+Alsina R,Tavella M,1
+Alsina R,Rubinstein M,1
+Alsina R,Ferran J,1
+Gomez G,Olguin-Albuerne M,1
+Gomez G,Schellino R,1
+Gomez G,Roig-Puiggros S,1
+Gomez G,Ribeiro M,1
+Gomez G,Ramos-Hryb A,1
+Gomez G,Radiske A,1
+Gomez G,Pradhan J,1
+Gomez G,Paraiso-Luna J,1
+Gomez G,Oliveira M,1
+Gomez G,Meier S,1
+Gomez G,Singh S,1
+Gomez G,Mazengenya P,1
+Gomez G,Lunghi G,1
+Gomez G,Lopez M,1
+Gomez G,Kiffer F,1
+Gomez G,Karikari T,1
+Gomez G,Hoque A,1
+Gomez G,Grassi S,1
+Davimes J,Vigouroux R,1
+Gomez G,Selles M,1
+Gomez G,Theotokis P,1
+Grassi S,Vigouroux R,1
+Grassi S,Paraiso-Luna J,1
+Grassi S,Singh S,1
+Grassi S,Selles M,1
+Grassi S,Schellino R,1
+Grassi S,Roig-Puiggros S,1
+Grassi S,Ribeiro M,1
+Grassi S,Ramos-Hryb A,1
+Grassi S,Radiske A,1
+Grassi S,Pradhan J,1
+Grassi S,Oliveira M,1
+Gomez G,Vigouroux R,1
+Grassi S,Olguin-Albuerne M,1
+Grassi S,Meier S,1
+Grassi S,Mazengenya P,1
+Grassi S,Lunghi G,1
+Grassi S,Lopez M,1
+Grassi S,Kiffer F,1
+Grassi S,Karikari T,1
+Grassi S,Hoque A,1
+Davimes J,Theotokis P,1
+Davimes J,Singh S,1
+Davimes J,Selles M,1
+Chiou B,Olguin-Albuerne M,1
+Chiou B,Schellino R,1
+Chiou B,Roig-Puiggros S,1
+Chiou B,Ribeiro M,1
+Chiou B,Ramos-Hryb A,1
+Chiou B,Radiske A,1
+Chiou B,Pradhan J,1
+Chiou B,Paraiso-Luna J,1
+Chiou B,Oliveira M,1
+Chiou B,Meier S,1
+Davimes J,Schellino R,1
+Chiou B,Mazengenya P,1
+Chiou B,Lunghi G,1
+Chiou B,Lopez M,1
+Chiou B,Kiffer F,1
+Chiou B,Karikari T,1
+Chiou B,Hoque A,1
+Chiou B,Grassi S,1
+Chiou B,Gomez G,1
+Chiou B,Selles M,1
+Chiou B,Singh S,1
+Chiou B,Theotokis P,1
+Chiou B,Vigouroux R,1
+Davimes J,Roig-Puiggros S,1
+Davimes J,Ribeiro M,1
+Davimes J,Ramos-Hryb A,1
+Davimes J,Radiske A,1
+Davimes J,Pradhan J,1
+Davimes J,Paraiso-Luna J,1
+Davimes J,Oliveira M,1
+Davimes J,Olguin-Albuerne M,1
+Davimes J,Meier S,1
+Davimes J,Mazengenya P,1
+Davimes J,Lunghi G,1
+Davimes J,Lopez M,1
+Davimes J,Kiffer F,1
+Davimes J,Karikari T,1
+Davimes J,Hoque A,1
+Davimes J,Grassi S,1
+Davimes J,Gomez G,1
+Grassi S,Theotokis P,1
+Hoque A,Karikari T,1
+Chedotal A,Vigouroux R,1
+Lopez M,Lunghi G,1
+Lopez M,Ramos-Hryb A,1
+Lopez M,Radiske A,1
+Lopez M,Pradhan J,1
+Lopez M,Paraiso-Luna J,1
+Lopez M,Oliveira M,1
+Lopez M,Olguin-Albuerne M,1
+Lopez M,Meier S,1
+Lopez M,Mazengenya P,1
+Kiffer F,Vigouroux R,1
+Lopez M,Roig-Puiggros S,1
+Kiffer F,Theotokis P,1
+Kiffer F,Singh S,1
+Kiffer F,Selles M,1
+Kiffer F,Schellino R,1
+Kiffer F,Roig-Puiggros S,1
+Kiffer F,Ribeiro M,1
+Kiffer F,Ramos-Hryb A,1
+Kiffer F,Radiske A,1
+Lopez M,Ribeiro M,1
+Lopez M,Schellino R,1
+Hoque A,Kiffer F,1
+Lunghi G,Radiske A,1
+Lunghi G,Vigouroux R,1
+Lunghi G,Theotokis P,1
+Lunghi G,Singh S,1
+Lunghi G,Selles M,1
+Lunghi G,Schellino R,1
+Lunghi G,Roig-Puiggros S,1
+Lunghi G,Ribeiro M,1
+Lunghi G,Ramos-Hryb A,1
+Lunghi G,Pradhan J,1
+Lopez M,Selles M,1
+Lunghi G,Paraiso-Luna J,1
+Lunghi G,Oliveira M,1
+Lunghi G,Olguin-Albuerne M,1
+Lunghi G,Meier S,1
+Lunghi G,Mazengenya P,1
+Lopez M,Vigouroux R,1
+Lopez M,Theotokis P,1
+Lopez M,Singh S,1
+Kiffer F,Pradhan J,1
+Kiffer F,Paraiso-Luna J,1
+Kiffer F,Oliveira M,1
+Hoque A,Ramos-Hryb A,1
+Karikari T,Kiffer F,1
+Hoque A,Vigouroux R,1
+Hoque A,Theotokis P,1
+Hoque A,Singh S,1
+Hoque A,Selles M,1
+Hoque A,Schellino R,1
+Hoque A,Roig-Puiggros S,1
+Hoque A,Ribeiro M,1
+Hoque A,Radiske A,1
+Kiffer F,Olguin-Albuerne M,1
+Hoque A,Pradhan J,1
+Hoque A,Paraiso-Luna J,1
+Hoque A,Oliveira M,1
+Hoque A,Olguin-Albuerne M,1
+Hoque A,Meier S,1
+Hoque A,Mazengenya P,1
+Hoque A,Lunghi G,1
+Hoque A,Lopez M,1
+Karikari T,Lopez M,1
+Karikari T,Lunghi G,1
+Karikari T,Mazengenya P,1
+Karikari T,Meier S,1
+Kiffer F,Meier S,1
+Kiffer F,Mazengenya P,1
+Kiffer F,Lunghi G,1
+Kiffer F,Lopez M,1
+Karikari T,Vigouroux R,1
+Karikari T,Theotokis P,1
+Karikari T,Singh S,1
+Karikari T,Selles M,1
+Karikari T,Schellino R,1
+Karikari T,Roig-Puiggros S,1
+Karikari T,Ribeiro M,1
+Karikari T,Ramos-Hryb A,1
+Karikari T,Radiske A,1
+Karikari T,Pradhan J,1
+Karikari T,Paraiso-Luna J,1
+Karikari T,Oliveira M,1
+Karikari T,Olguin-Albuerne M,1
+Chiou B,Davimes J,1
+Chedotal A,Theotokis P,1
+Alsina R,Bello E,1
+Fernandez J,Ventre J,1
+Bortman G,Sanjuan N,1
+Bortman G,Ochoa F,1
+Bortman G,Netti V,1
+Bortman G,Morales C,1
+Politi M,Ventre J,1
+Lagree P,Ventre J,1
+Ghigo A,Ventre J,1
+Gaudric J,Ventre J,1
+Capurro C,Ventre J,1
+Capurro C,Ochoa F,1
+Capurro C,Lagree P,1
+Capurro C,Ghigo A,1
+Armentano R,Ventre J,1
+Armentano R,Politi M,1
+Armentano R,Lagree P,1
+Armentano R,Ghigo A,1
+Armentano R,Gaudric J,1
+Armentano R,Fernandez J,1
+Capurro C,Morales C,1
+Capurro C,Sanjuan N,1
+Martinez N,Seyahian E,1
+Netti V,Piazza A,1
+Damiano A,Reca A,1
+Politi M,Sanjuan N,1
+Piazza A,Sanjuan N,1
+Ochoa F,Sanjuan N,1
+Ochoa F,Politi M,1
+Ochoa F,Piazza A,1
+Netti V,Sanjuan N,1
+Netti V,Politi M,1
+Netti V,Ochoa F,1
+Ferreyra R,Morales C,1
+Morales C,Sanjuan N,1
+Morales C,Politi M,1
+Morales C,Piazza A,1
+Morales C,Ochoa F,1
+Morales C,Netti V,1
+Ferreyra R,Sanjuan N,1
+Ferreyra R,Ochoa F,1
+Ferreyra R,Netti V,1
+Armentano R,Capurro C,1
+Carre E,Politi M,1
+Carre E,Gaudric J,1
+Armando I,Sanchez D,1
+Keifman E,Ruiz-DeDiego I,1
+Keifman E,Pafundo D,1
+Fischer Sigel L,Vlachovsky S,1
+Fischer Sigel L,Oddo E,1
+Fischer Sigel L,Ibarra F,1
+Azurmendi P,Fischer Sigel L,1
+Armando I,Vlachovsky S,1
+Armando I,Silberstein C,1
+Armando I,Oddo E,1
+Carre E,Fullana J,1
+Armando I,Ibarra F,1
+Armando I,Fischer Sigel L,1
+Armando I,Azurmendi P,1
+Merlo E,Pagani M,1
+Gonzalez-Hoyos I,Politei J,1
+Suarez L,Taravini I,1
+Rela L,Suarez L,1
+Murer M,Suarez L,1
+Keifman E,Solis O,1
+Moratalla R,Pafundo D,1
+Moratalla R,Paz R,1
+Moratalla R,Ruiz-DeDiego I,1
+Carre E,Fernandez J,1
+Capurro C,Fullana J,1
+Capurro C,Carre E,1
+Nieva G,Silva P,1
+Feld M,Millan J,1
+Reppetti J,Sierra M,1
+Martinez N,Sierra M,1
+Farina M,Sierra M,1
+Etcheverry T,Sierra M,1
+Ruiz-DeDiego I,Solis O,1
+Paz R,Solis O,1
+Paz R,Ruiz-DeDiego I,1
+Pafundo D,Solis O,1
+Pafundo D,Ruiz-DeDiego I,1
+Pafundo D,Paz R,1
+Murer M,Ruiz-DeDiego I,1
+Murer M,Pafundo D,1
+Martinez N,Reca A,1
+Medina Y,Reca A,1
+Chedotal A,Singh S,1
+Bocai N,Pradhan J,1
+Bocai N,Theotokis P,1
+Bocai N,Singh S,1
+Bocai N,Selles M,1
+Bocai N,Schellino R,1
+Bocai N,Roig-Puiggros S,1
+Bocai N,Ribeiro M,1
+Bocai N,Ramos-Hryb A,1
+Bocai N,Radiske A,1
+Bocai N,Paraiso-Luna J,1
+Chedotal A,Chiou B,1
+Bocai N,Oliveira M,1
+Bocai N,Olguin-Albuerne M,1
+Bocai N,Meier S,1
+Bocai N,Mazengenya P,1
+Bocai N,Lunghi G,1
+Bocai N,Lopez M,1
+Bocai N,Kiffer F,1
+Bocai N,Karikari T,1
+Bocai N,Vigouroux R,1
+Chedotal A,Davimes J,1
+Medina Y,Seyahian E,1
+Chedotal A,Oliveira M,1
+Chedotal A,Selles M,1
+Chedotal A,Schellino R,1
+Chedotal A,Roig-Puiggros S,1
+Chedotal A,Ribeiro M,1
+Chedotal A,Ramos-Hryb A,1
+Chedotal A,Radiske A,1
+Chedotal A,Pradhan J,1
+Chedotal A,Paraiso-Luna J,1
+Chedotal A,Olguin-Albuerne M,1
+Chedotal A,Gomez G,1
+Chedotal A,Meier S,1
+Chedotal A,Mazengenya P,1
+Chedotal A,Lunghi G,1
+Chedotal A,Lopez M,1
+Chedotal A,Kiffer F,1
+Chedotal A,Karikari T,1
+Chedotal A,Hoque A,1
+Chedotal A,Grassi S,1
+Bocai N,Hoque A,1
+Bocai N,Grassi S,1
+Bocai N,Gomez G,1
+Pizzoni A,White A,1
+Beckman D,Hoque A,1
+Beckman D,Grassi S,1
+Beckman D,Gomez G,1
+Beckman D,Davimes J,1
+Beckman D,Chiou B,1
+Beckman D,Chedotal A,1
+Beckman D,Bocai N,1
+Rivarola V,White A,1
+Ford P,White A,1
+Bocai N,Davimes J,1
+Di Giusto G,White A,1
+Capurro C,White A,1
+Beltramone N,White A,1
+Seyahian E,Szpilbarg N,1
+Reppetti J,Seyahian E,1
+Reca A,Szpilbarg N,1
+Reca A,Seyahian E,1
+Reca A,Reppetti J,1
+Beckman D,Karikari T,1
+Beckman D,Kiffer F,1
+Beckman D,Lopez M,1
+Beckman D,Lunghi G,1
+Bocai N,Chiou B,1
+Bocai N,Chedotal A,1
+Beckman D,Vigouroux R,1
+Beckman D,Theotokis P,1
+Beckman D,Singh S,1
+Beckman D,Selles M,1
+Beckman D,Schellino R,1
+Beckman D,Roig-Puiggros S,1
+Beckman D,Ribeiro M,1
+Beckman D,Ramos-Hryb A,1
+Beckman D,Radiske A,1
+Beckman D,Pradhan J,1
+Beckman D,Paraiso-Luna J,1
+Beckman D,Oliveira M,1
+Beckman D,Olguin-Albuerne M,1
+Beckman D,Meier S,1
+Beckman D,Mazengenya P,1
+Mazengenya P,Meier S,1
+Mazengenya P,Olguin-Albuerne M,1
+Mazengenya P,Oliveira M,1
+Alvarez R,Zold C,1
+Bartke A,Mccallum G,1
+Bartke A,Matzkin M,1
+Bartke A,Gonzalez L,1
+Bartke A,Frungieri M,1
+Bartke A,Freund T,1
+Bartke A,Fang Y,1
+Bartke A,Cicconi N,1
+Pafundo D,Zold C,1
+Alvarez R,Pafundo D,1
+Bartke A,Miquet J,1
+Shadmehr R,Villalta J,1
+Lerner G,Villalta J,1
+Jacobacci F,Villalta J,1
+Jacobacci F,Shadmehr R,1
+Caffaro P,Villalta J,1
+Caffaro P,Shadmehr R,1
+Caffaro P,Jacobacci F,1
+Albert S,Villalta J,1
+Bartke A,Micucci G,1
+Bartke A,Muia N,1
+Fang Y,Matzkin M,1
+Cicconi N,Micucci G,1
+Fang Y,Frungieri M,1
+Fang Y,Freund T,1
+Cicconi N,Zotta E,1
+Cicconi N,Valquinta S,1
+Cicconi N,Sotelo A,1
+Cicconi N,Piazza V,1
+Cicconi N,Muia N,1
+Cicconi N,Miquet J,1
+Cicconi N,Mccallum G,1
+Bartke A,Piazza V,1
+Cicconi N,Matzkin M,1
+Cicconi N,Gonzalez L,1
+Cicconi N,Frungieri M,1
+Cicconi N,Freund T,1
+Cicconi N,Fang Y,1
+Bartke A,Zotta E,1
+Bartke A,Valquinta S,1
+Bartke A,Sotelo A,1
+Albert S,Jacobacci F,1
+Albert S,Caffaro P,1
+Sosa-Macias M,Souto P,1
+Garcia-Violini D,Herreras O,1
+Herreras O,Sanchez-Pena R,1
+Herreras O,Piriz J,1
+Herreras O,Mosqueira A,1
+Herreras O,Makarova J,1
+Garcia-Violini D,Sanchez-Pena R,1
+Garcia-Violini D,Piriz J,1
+Garcia-Violini D,Mosqueira A,1
+Garcia-Violini D,Makarova J,1
+Bertone-Cueto N,Sanchez-Pena R,1
+Martinez-Aguilar G,Souto P,1
+Bertone-Cueto N,Piriz J,1
+Bertone-Cueto N,Mosqueira A,1
+Bertone-Cueto N,Makarova J,1
+Bertone-Cueto N,Herreras O,1
+Bertone-Cueto N,Garcia-Violini D,1
+Belluscio M,Sanchez-Pena R,1
+Belluscio M,Piriz J,1
+Belluscio M,Mosqueira A,1
+Makarova J,Mosqueira A,1
+Makarova J,Piriz J,1
+Makarova J,Sanchez-Pena R,1
+Mosqueira A,Piriz J,1
+Martinez-Aguilar G,Sosa-Macias M,1
+Lima V,Martinez-Aguilar G,1
+Giachini F,Martinez-Aguilar G,1
+Galaviz-Hernandez C,Souto P,1
+Galaviz-Hernandez C,Martinez-Aguilar G,1
+Escudero C,Martinez-Aguilar G,1
+Damiano A,Martinez-Aguilar G,1
+Blanco-Castaneda R,Souto P,1
+Blanco-Castaneda R,Martinez-Aguilar G,1
+Blanco-Castaneda R,Lima V,1
+Barragan-Zuniga L,Souto P,1
+Barragan-Zuniga L,Martinez-Aguilar G,1
+Barragan-Zuniga L,Lima V,1
+Nunez-Goluboay K,Pinto A,1
+Goldstein J,Nunez-Goluboay K,1
+Piriz J,Sanchez-Pena R,1
+Mosqueira A,Sanchez-Pena R,1
+Fang Y,Gonzalez L,1
+Fang Y,Mccallum G,1
+Mazengenya P,Paraiso-Luna J,1
+Micucci G,Muia N,1
+Miquet J,Valquinta S,1
+Miquet J,Sotelo A,1
+Miquet J,Piazza V,1
+Miquet J,Muia N,1
+Micucci G,Zotta E,1
+Micucci G,Valquinta S,1
+Micucci G,Sotelo A,1
+Micucci G,Piazza V,1
+Micucci G,Miquet J,1
+Muia N,Piazza V,1
+Mccallum G,Zotta E,1
+Mccallum G,Valquinta S,1
+Mccallum G,Sotelo A,1
+Mccallum G,Piazza V,1
+Mccallum G,Muia N,1
+Mccallum G,Miquet J,1
+Mccallum G,Micucci G,1
+Matzkin M,Zotta E,1
+Miquet J,Zotta E,1
+Muia N,Sotelo A,1
+Fang Y,Micucci G,1
+Ballarini F,Canepa E,1
+Chertoff M,Igaz L,1
+Canepa E,Igaz L,1
+Canepa E,Chertoff M,1
+Berardino B,Igaz L,1
+Berardino B,Chertoff M,1
+Berardino B,Canepa E,1
+Ballarini F,Igaz L,1
+Ballarini F,Chertoff M,1
+Ballarini F,Berardino B,1
+Muia N,Valquinta S,1
+Di Ciano L,Sanchez D,1
+Valquinta S,Zotta E,1
+Sotelo A,Zotta E,1
+Sotelo A,Valquinta S,1
+Piazza V,Zotta E,1
+Piazza V,Valquinta S,1
+Piazza V,Sotelo A,1
+Muia N,Zotta E,1
+Matzkin M,Valquinta S,1
+Matzkin M,Sotelo A,1
+Matzkin M,Piazza V,1
+Freund T,Mccallum G,1
+Frungieri M,Gonzalez L,1
+Freund T,Zotta E,1
+Freund T,Valquinta S,1
+Freund T,Sotelo A,1
+Freund T,Piazza V,1
+Freund T,Muia N,1
+Freund T,Miquet J,1
+Freund T,Micucci G,1
+Freund T,Matzkin M,1
+Matzkin M,Muia N,1
+Freund T,Gonzalez L,1
+Freund T,Frungieri M,1
+Fang Y,Zotta E,1
+Fang Y,Valquinta S,1
+Fang Y,Sotelo A,1
+Fang Y,Piazza V,1
+Fang Y,Muia N,1
+Fang Y,Miquet J,1
+Frungieri M,Matzkin M,1
+Frungieri M,Mccallum G,1
+Frungieri M,Micucci G,1
+Frungieri M,Miquet J,1
+Matzkin M,Miquet J,1
+Matzkin M,Micucci G,1
+Matzkin M,Mccallum G,1
+Gonzalez L,Zotta E,1
+Gonzalez L,Valquinta S,1
+Gonzalez L,Sotelo A,1
+Gonzalez L,Piazza V,1
+Gonzalez L,Muia N,1
+Gonzalez L,Miquet J,1
+Gonzalez L,Micucci G,1
+Gonzalez L,Mccallum G,1
+Gonzalez L,Matzkin M,1
+Frungieri M,Zotta E,1
+Frungieri M,Valquinta S,1
+Frungieri M,Sotelo A,1
+Frungieri M,Piazza V,1
+Frungieri M,Muia N,1
+Belluscio M,Makarova J,1
+Belluscio M,Herreras O,1
+Belluscio M,Garcia-Violini D,1
+Paraiso-Luna J,Selles M,1
+Pradhan J,Schellino R,1
+Pradhan J,Roig-Puiggros S,1
+Pradhan J,Ribeiro M,1
+Pradhan J,Ramos-Hryb A,1
+Pradhan J,Radiske A,1
+Paraiso-Luna J,Vigouroux R,1
+Paraiso-Luna J,Theotokis P,1
+Paraiso-Luna J,Singh S,1
+Paraiso-Luna J,Schellino R,1
+Pradhan J,Singh S,1
+Paraiso-Luna J,Roig-Puiggros S,1
+Paraiso-Luna J,Ribeiro M,1
+Paraiso-Luna J,Ramos-Hryb A,1
+Paraiso-Luna J,Radiske A,1
+Paraiso-Luna J,Pradhan J,1
+Oliveira M,Vigouroux R,1
+Oliveira M,Theotokis P,1
+Oliveira M,Singh S,1
+Pradhan J,Selles M,1
+Pradhan J,Theotokis P,1
+Belluscio M,Bertone-Cueto N,1
+Ramos-Hryb A,Roig-Puiggros S,1
+Ribeiro M,Selles M,1
+Ribeiro M,Schellino R,1
+Ribeiro M,Roig-Puiggros S,1
+Ramos-Hryb A,Vigouroux R,1
+Ramos-Hryb A,Theotokis P,1
+Ramos-Hryb A,Singh S,1
+Ramos-Hryb A,Selles M,1
+Ramos-Hryb A,Schellino R,1
+Ramos-Hryb A,Ribeiro M,1
+Pradhan J,Vigouroux R,1
+Radiske A,Vigouroux R,1
+Radiske A,Theotokis P,1
+Radiske A,Singh S,1
+Radiske A,Selles M,1
+Radiske A,Schellino R,1
+Radiske A,Roig-Puiggros S,1
+Radiske A,Ribeiro M,1
+Radiske A,Ramos-Hryb A,1
+Oliveira M,Selles M,1
+Oliveira M,Schellino R,1
+Oliveira M,Roig-Puiggros S,1
+Mazengenya P,Vigouroux R,1
+Meier S,Roig-Puiggros S,1
+Meier S,Ribeiro M,1
+Meier S,Ramos-Hryb A,1
+Meier S,Radiske A,1
+Meier S,Pradhan J,1
+Meier S,Paraiso-Luna J,1
+Meier S,Oliveira M,1
+Meier S,Olguin-Albuerne M,1
+Mazengenya P,Theotokis P,1
+Oliveira M,Ribeiro M,1
+Mazengenya P,Singh S,1
+Mazengenya P,Selles M,1
+Mazengenya P,Schellino R,1
+Mazengenya P,Roig-Puiggros S,1
+Mazengenya P,Ribeiro M,1
+Mazengenya P,Ramos-Hryb A,1
+Mazengenya P,Radiske A,1
+Mazengenya P,Pradhan J,1
+Meier S,Schellino R,1
+Meier S,Selles M,1
+Meier S,Singh S,1
+Meier S,Theotokis P,1
+Oliveira M,Ramos-Hryb A,1
+Oliveira M,Radiske A,1
+Oliveira M,Pradhan J,1
+Oliveira M,Paraiso-Luna J,1
+Olguin-Albuerne M,Vigouroux R,1
+Olguin-Albuerne M,Theotokis P,1
+Olguin-Albuerne M,Singh S,1
+Olguin-Albuerne M,Selles M,1
+Olguin-Albuerne M,Schellino R,1
+Olguin-Albuerne M,Roig-Puiggros S,1
+Olguin-Albuerne M,Ribeiro M,1
+Olguin-Albuerne M,Ramos-Hryb A,1
+Olguin-Albuerne M,Radiske A,1
+Olguin-Albuerne M,Pradhan J,1
+Olguin-Albuerne M,Paraiso-Luna J,1
+Olguin-Albuerne M,Oliveira M,1
+Meier S,Vigouroux R,1
+Ribeiro M,Singh S,1
+Ribeiro M,Theotokis P,1
+Ribeiro M,Vigouroux R,1
+Granado N,Solis O,1
+Maldonado R,Trullas R,1
+Maldonado R,Solis O,1
+Maldonado R,Sanz-Magro A,1
+Maldonado R,Podlesniy P,1
+Maldonado R,Murer M,1
+Maldonado R,Moratalla R,1
+Maldonado R,Martin A,1
+Granado N,Trullas R,1
+Granado N,Sanz-Magro A,1
+Garcia-Sanz P,Martin A,1
+Granado N,Podlesniy P,1
+Granado N,Martin A,1
+Granado N,Maldonado R,1
+Garcia-Sanz P,Trullas R,1
+Garcia-Sanz P,Solis O,1
+Garcia-Sanz P,Sanz-Magro A,1
+Garcia-Sanz P,Podlesniy P,1
+Garcia-Sanz P,Murer M,1
+Martin A,Moratalla R,1
+Martin A,Murer M,1
+Martin A,Podlesniy P,1
+Martin A,Sanz-Magro A,1
+Cacciagiu L,Zotta E,1
+Cacciagiu L,Seyahian E,1
+Cacciagiu L,Damiano A,1
+Solis O,Trullas R,1
+Sanz-Magro A,Trullas R,1
+Sanz-Magro A,Solis O,1
+Podlesniy P,Trullas R,1
+Podlesniy P,Solis O,1
+Podlesniy P,Sanz-Magro A,1
+Murer M,Trullas R,1
+Murer M,Sanz-Magro A,1
+Murer M,Podlesniy P,1
+Moratalla R,Trullas R,1
+Moratalla R,Sanz-Magro A,1
+Moratalla R,Podlesniy P,1
+Martin A,Trullas R,1
+Martin A,Solis O,1
+Garcia-Sanz P,Moratalla R,1
+Garcia-Sanz P,Maldonado R,1
+Roig-Puiggros S,Schellino R,1
+Selles M,Theotokis P,1
+Bekinschtein T,Canales-Johnson A,1
+Arzi A,Merlo E,1
+Arzi A,Canales-Johnson A,1
+Arzi A,Bekinschtein T,1
+Theotokis P,Vigouroux R,1
+Singh S,Vigouroux R,1
+Singh S,Theotokis P,1
+Selles M,Vigouroux R,1
+Selles M,Singh S,1
+Garcia-Sanz P,Granado N,1
+Schellino R,Vigouroux R,1
+Schellino R,Theotokis P,1
+Schellino R,Singh S,1
+Schellino R,Selles M,1
+Roig-Puiggros S,Vigouroux R,1
+Roig-Puiggros S,Theotokis P,1
+Roig-Puiggros S,Singh S,1
+Roig-Puiggros S,Selles M,1
+Bekinschtein T,Merlo E,1
+Canales-Johnson A,Merlo E,1
+Alvarez R,Garimano N,1
+Garimano N,Jancic C,1
+Porta M,Rivarola V,1
+Pizzoni A,Porta M,1
+Mazzocchi M,Rivarola V,1
+Mazzocchi M,Porta M,1
+Mazzocchi M,Pizzoni A,1
+Ford P,Porta M,1
+Ford P,Mazzocchi M,1
+Di Giusto G,Porta M,1
+Di Giusto G,Mazzocchi M,1
+Capurro C,Porta M,1
+Capurro C,Mazzocchi M,1
+Beltramone N,Porta M,1
+Beltramone N,Mazzocchi M,1
+Jancic C,Paton J,1
+Jancic C,Paton A,1
+Garimano N,Paton J,1
+Garimano N,Paton A,1
+Possin K,Sabbagh M,1
