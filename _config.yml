@@ -1,0 +1,37 @@
+title: IFIBIO Scientific Landscape
+description: >-
+  Interactive exploration of IFIBIO publications, scientific themes and collaboration networks.
+theme: just-the-docs
+color_scheme: dark
+
+search_enabled: true
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+
+nav_sort: case_insensitive
+
+footer_content: >-
+  IFIBIO — Instituto de Fisiología y Biofísica Bernardo Houssay. Source on
+  <a href="https://github.com/juanjosecas/ifibio">GitHub</a>.
+
+aux_links:
+  "IFIBIO on GitHub":
+    - "https://github.com/juanjosecas/ifibio"
+aux_links_new_tab: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - FullNetwork.ipynb
+  - README.md
+  - LICENSE
+  - vendor
+  - node_modules

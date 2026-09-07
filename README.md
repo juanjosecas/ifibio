@@ -18,35 +18,47 @@ Current interface:
 - Scientific-landscape views
 - Methods/architecture page
 
-## Data currently consumed by the frontend
+## Site framework
+
+The site is built with [Jekyll](https://jekyllrb.com) using the [Just the Docs](https://just-the-docs.com) theme. Each section (Overview, Publications, Author Network, Compare Authors, MeSH & Keywords, Scientific Landscape, Methods) is a plain Markdown page at the repository root, with front matter controlling its title and navigation order. Editing the text/structure of a page only requires editing that Markdown file — no HTML templating knowledge needed.
+
+The interactive parts (Plotly charts, Cytoscape networks) are still plain client-side JavaScript, split per page under `assets/js/` and shared helpers in `assets/js/common.js`. Jekyll only handles the page templating/navigation layer; it copies `assets/`, `ml_pubmed_ifibio/` and the rest of the data as static files, so those scripts fetch and render the CSV/JSON/GEXF exports in the browser exactly as before.
+
+Data currently consumed by the frontend:
 
 - `ml_pubmed_ifibio/analysis_summary.json`
 - `ml_pubmed_ifibio/integrated_paper_ml_dataset.csv`
 - `ml_pubmed_ifibio/coauthor_network.gexf`
+- `ml_pubmed_ifibio/mesh_network.gexf`
+- `ml_pubmed_ifibio/keyword_network.gexf`
 
 The remaining `.pkl`, `.gexf`, `.csv` and figures remain as reproducibility/source outputs and can be progressively exposed through lighter web-specific JSON files.
 
-## Deployment
-
-This site is static and must be served over HTTP to load the generated dataset files in the browser. If you open `index.html` directly from the filesystem, browsers block the `fetch()` calls used to read the CSV/JSON/GEXF assets.
-
-For local testing:
+## Local development
 
 ```bash
 cd /home/juan/Documents/ifibio
-python3 -m http.server 8000
+bundle install
+bundle exec jekyll serve
 ```
 
-Then open `http://localhost:8000`.
+Then open `http://localhost:4000`. (Requires Ruby with development headers, e.g. `sudo apt install ruby-dev`, before `bundle install` will succeed.)
 
-For GitHub Pages:
+## Deployment
+
+The site is deployed with a GitHub Actions workflow ([.github/workflows/pages.yml](.github/workflows/pages.yml)) that builds the Jekyll site and publishes it with the official `actions/deploy-pages` action on every push to `main`.
+
+One-time setup required in the repository:
 
 1. Open **Settings → Pages**.
-2. Choose **Deploy from a branch**.
-3. Select branch `main` and folder `/ (root)`.
-4. Save.
+2. Under **Build and deployment → Source**, select **GitHub Actions** (instead of "Deploy from a branch").
+3. Push to `main` — the workflow builds and deploys automatically. No manual `index.html` editing is required for future updates.
 
-The site entry point is `index.html`.
+## Updating the data
+
+1. Re-run `FullNetwork.ipynb` to regenerate the exports in `ml_pubmed_ifibio/`.
+2. Commit the updated CSV/JSON/GEXF files and push to `main`.
+3. The GitHub Actions workflow rebuilds and redeploys the site automatically.
 
 ## Architecture
 
@@ -58,10 +70,10 @@ ml_pubmed_ifibio/
   precomputed results
         |
         v
-index.html + assets/app.js
+Jekyll pages (*.md) + assets/js/*.js
         |
         v
-GitHub Pages / browser
+GitHub Actions build -> GitHub Pages / browser
 ```
 
-Heavy computation stays reproducible in Python; presentation and exploration run entirely client-side using Plotly and Cytoscape.
+Heavy computation stays reproducible in Python; presentation and exploration run entirely client-side using Plotly and Cytoscape. Jekyll adds only the page templating, navigation and Markdown-based content editing on top.
