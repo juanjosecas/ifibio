@@ -23,7 +23,7 @@ Observed coauthorship network with configurable visibility and labeling threshol
   <div class="range-grid">
     <label><span>Minimum publications <b id="min-pubs-value">4</b></span><input id="min-pubs" type="range" min="1" max="20" value="4" step="1" /></label>
     <label><span>Minimum collaborations <b id="min-degree-value">2</b></span><input id="min-degree" type="range" min="0" max="30" value="2" step="1" /></label>
-    <label><span>Show labels from <b id="label-pubs-value">4</b> publications</span><input id="label-pubs" type="range" min="1" max="20" value="5" step="1" /></label>
+    <label><span>Show labels from <b id="label-pubs-value">5</b> publications</span><input id="label-pubs" type="range" min="1" max="20" value="5" step="1" /></label>
   </div>
   <div class="toggle-row">
     <label class="toggle"><input id="labels-all" type="checkbox" /><span>Show all visible labels</span></label>
