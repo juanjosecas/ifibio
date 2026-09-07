@@ -1,16 +1,17 @@
 title: IFIBIO Scientific Landscape
 description: >-
   Interactive exploration of IFIBIO publications, scientific themes and collaboration networks.
+
+# The site is built exclusively by Jekyll through GitHub Actions.
 remote_theme: just-the-docs/just-the-docs@v0.8.0
 plugins:
   - jekyll-remote-theme
-color_scheme: dark
 
+color_scheme: dark
 search_enabled: true
 heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
-
 nav_sort: case_insensitive
 
 footer_content: >-
@@ -29,13 +30,25 @@ defaults:
     values:
       layout: default
 
+# Keep the analysis repository and the published Jekyll site separate.
+# Only browser-consumed CSV/JSON/GEXF files are copied to _site; Python
+# intermediates, notebooks and rendered analysis figures stay in Git only.
 exclude:
   - Gemfile
   - Gemfile.lock
   - FullNetwork.ipynb
+  - all_pubmed_metadata_ifibio.csv
   - README.md
   - LICENSE
   - vendor
   - node_modules
-  # Raw data-folder notes; not meant to be a standalone navigable page.
+  - .ipynb_checkpoints
+  - .virtual_documents
+  - .claude
+  - .idea
+  - .vscode
+  - ml_pubmed_ifibio/**/*.pkl
+  - ml_pubmed_ifibio/**/*.png
+  - ml_pubmed_ifibio/**/*.graphml
   - ml_pubmed_ifibio/filiaciones/README.md
+  - ml_pubmed_ifibio/filiaciones/filiaciones_llm.json
