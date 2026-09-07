@@ -15,191 +15,146 @@
   --ifibio-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
 }
 
-/* Just the Docs is intentionally narrow for prose. This site is a data portal,
-   so give dashboards enough horizontal space while preserving the sidebar. */
-.main-content-wrap { max-width: none !important; }
-.main-content {
-  max-width: 1540px !important;
-  width: calc(100% - 2rem);
-  padding-left: 2rem !important;
-  padding-right: 2rem !important;
+/* Desktop-first data portal. Just the Docs limits .main itself to a prose width;
+   overriding only .main-content is not enough. */
+@media (min-width: 66.5rem) {
+  .main {
+    max-width: none !important;
+    width: calc(100% - 264px) !important;
+  }
+  .main-content-wrap { max-width: none !important; width: 100% !important; }
+  .main-content {
+    max-width: none !important;
+    width: 100% !important;
+    padding-left: clamp(1.5rem, 2vw, 2.75rem) !important;
+    padding-right: clamp(1.5rem, 2vw, 2.75rem) !important;
+  }
 }
 .site-header, .site-nav { border-right-color: #e2e8f0; }
 .site-title { font-weight: 700; letter-spacing: -0.02em; }
 
-.ifibio-app { margin-top: 6px; color: var(--ifibio-text); }
+.ifibio-app { margin-top: 6px; color: var(--ifibio-text); width: 100%; }
 .ifibio-app * { box-sizing: border-box; }
 .ifibio-app button, .ifibio-app input, .ifibio-app select { font: inherit; }
+.ifibio-app .section-tag { font-size: .68rem; letter-spacing: .12em; font-weight: 800; color: var(--ifibio-accent); margin: 0 0 6px; text-transform: uppercase; }
 
-.ifibio-app .section-tag {
-  font-size: 0.68rem; letter-spacing: 0.12em; font-weight: 800; color: var(--ifibio-accent); margin: 0 0 6px; text-transform: uppercase;
-}
+.ifibio-app .kpi-grid { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:16px; margin:14px 0 26px; }
+.ifibio-app .kpi { padding:19px 20px 17px; border-radius:var(--ifibio-radius); background:var(--ifibio-bg-panel); border:1px solid var(--ifibio-line); color:var(--ifibio-text); box-shadow:var(--ifibio-shadow); }
+.ifibio-app .kpi span,.ifibio-app .kpi small { display:block; color:var(--ifibio-muted); }
+.ifibio-app .kpi span { font-size:.7rem; text-transform:uppercase; letter-spacing:.08em; }
+.ifibio-app .kpi strong { display:block; font-size:2rem; letter-spacing:-.04em; margin:8px 0 4px; color:var(--ifibio-text); }
+.ifibio-app .kpi small { font-size:.72rem; }
+.ifibio-app .grid { display:grid; gap:18px; margin-top:18px; }
+.ifibio-app .grid.two { grid-template-columns:repeat(2,minmax(0,1fr)); }
+.ifibio-app .grid.three { grid-template-columns:repeat(3,minmax(0,1fr)); }
+.ifibio-app .panel { background:var(--ifibio-bg-panel); border:1px solid var(--ifibio-line); border-radius:var(--ifibio-radius); padding:20px; min-width:0; color:var(--ifibio-text); box-shadow:var(--ifibio-shadow); }
+.ifibio-app .panel-head { display:flex; justify-content:space-between; gap:16px; align-items:flex-start; margin-bottom:8px; }
+.ifibio-app .panel h3 { margin:2px 0 4px; font-size:1.05rem; color:var(--ifibio-text); }
+.ifibio-app .panel p { color:var(--ifibio-muted); }
+.ifibio-app .chart { height:420px; min-height:420px; }
+.ifibio-app .chart.compact { height:260px; min-height:260px; }
+.ifibio-app .chart.tall { height:680px; min-height:680px; }
+.ifibio-app .chart-note { margin:8px 2px 0; font-size:.76rem; color:var(--ifibio-muted); line-height:1.5; }
+.ifibio-app .spotlight { display:flex; flex-direction:column; justify-content:center; min-height:240px; }
+.ifibio-app .signal-list { display:grid; gap:10px; margin-top:10px; }
+.ifibio-app .signal-list div { padding:12px 0; border-bottom:1px solid var(--ifibio-line); display:flex; justify-content:space-between; gap:20px; }
+.ifibio-app .signal-list span { color:var(--ifibio-muted); }
+.ifibio-app .signal-list strong { text-align:right; color:var(--ifibio-text); }
 
-.ifibio-app .kpi-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; margin: 14px 0 26px; }
-.ifibio-app .kpi {
-  padding: 19px 20px 17px; border-radius: var(--ifibio-radius);
-  background: var(--ifibio-bg-panel); border: 1px solid var(--ifibio-line); color: var(--ifibio-text); box-shadow: var(--ifibio-shadow);
-}
-.ifibio-app .kpi span, .ifibio-app .kpi small { display: block; color: var(--ifibio-muted); }
-.ifibio-app .kpi span { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.08em; }
-.ifibio-app .kpi strong { display: block; font-size: 2rem; letter-spacing: -0.04em; margin: 8px 0 4px; color: var(--ifibio-text); }
-.ifibio-app .kpi small { font-size: 0.72rem; }
+.ifibio-app .toolbar { display:flex; gap:10px; flex-wrap:wrap; margin-bottom:16px; }
+.ifibio-app .toolbar input,.ifibio-app .toolbar select { min-height:42px; border:1px solid var(--ifibio-line-strong); border-radius:9px; background:#fff; color:var(--ifibio-text); padding:0 12px; outline:none; }
+.ifibio-app .toolbar input:focus,.ifibio-app .toolbar select:focus { border-color:#93c5fd; box-shadow:0 0 0 3px rgba(37,99,235,.10); }
+.ifibio-app .toolbar input { min-width:min(340px,100%); flex:1; }
+.ifibio-app .toolbar select { min-width:150px; }
+.ifibio-app .hint { font-size:.76rem; color:var(--ifibio-muted); }
+.ifibio-app .table-wrap { overflow:auto; max-height:620px; }
+.ifibio-app table { width:100%; border-collapse:collapse; min-width:720px; }
+.ifibio-app th,.ifibio-app td { padding:11px 10px; border-bottom:1px solid var(--ifibio-line); text-align:left; font-size:.82rem; vertical-align:top; }
+.ifibio-app th { position:sticky; top:0; background:#f8fafc; color:#475569; font-size:.72rem; letter-spacing:.05em; text-transform:uppercase; }
+.ifibio-app tbody tr { cursor:pointer; }
+.ifibio-app tbody tr:hover { background:#f8fbff; }
 
-.ifibio-app .grid { display: grid; gap: 18px; margin-top: 18px; }
-.ifibio-app .grid.two { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-.ifibio-app .grid.three { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.ifibio-app .control-panel { background:var(--ifibio-bg-soft); border:1px solid var(--ifibio-line); border-radius:var(--ifibio-radius); padding:18px; margin-bottom:18px; }
+.ifibio-app .network-toolbar { margin-bottom:12px; }
+.ifibio-app .range-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:14px 20px; }
+.ifibio-app .range-grid label { display:block; font-size:.8rem; color:var(--ifibio-muted); }
+.ifibio-app .range-grid input[type="range"] { width:100%; margin-top:6px; }
+.ifibio-app .range-grid b { color:var(--ifibio-text); }
+.ifibio-app .toggle-row { display:flex; align-items:center; gap:18px; flex-wrap:wrap; margin-top:14px; }
+.ifibio-app .toggle { display:flex; align-items:center; gap:6px; font-size:.82rem; color:var(--ifibio-muted); }
+.ifibio-app .button { cursor:pointer; color:#fff; background:var(--ifibio-accent); font-weight:700; border:1px solid var(--ifibio-accent); border-radius:9px; padding:9px 16px; font-size:.8rem; }
+.ifibio-app .button:hover { background:#1d4ed8; border-color:#1d4ed8; }
+.ifibio-app .button.ghost { background:#fff; color:var(--ifibio-text); border:1px solid var(--ifibio-line-strong); }
 
-.ifibio-app .panel {
-  background: var(--ifibio-bg-panel); border: 1px solid var(--ifibio-line); border-radius: var(--ifibio-radius);
-  padding: 20px; min-width: 0; color: var(--ifibio-text); box-shadow: var(--ifibio-shadow);
-}
-.ifibio-app .panel-head { display: flex; justify-content: space-between; gap: 16px; align-items: flex-start; margin-bottom: 8px; }
-.ifibio-app .panel h3 { margin: 2px 0 4px; font-size: 1.05rem; color: var(--ifibio-text); }
-.ifibio-app .panel p { color: var(--ifibio-muted); }
+/* Network pages: graph is the primary content. Inspector is deliberately narrow. */
+.ifibio-app .network-layout { display:grid; grid-template-columns:minmax(0,1fr) minmax(260px,300px); gap:18px; width:100%; }
+.ifibio-app .network-panel { padding:0; overflow:hidden; min-width:0; }
+.ifibio-app .network { height:clamp(760px,78vh,1080px); min-height:760px; width:100%; background:radial-gradient(circle at 50% 42%,rgba(219,234,254,.85),rgba(248,250,252,.35) 42%,#fff 76%); }
+.ifibio-app .mini-network { height:500px; min-height:500px; }
+.ifibio-app .inspector { min-height:240px; }
+.ifibio-app .inspector-stat { display:flex; justify-content:space-between; border-bottom:1px solid var(--ifibio-line); padding:10px 0; }
+.ifibio-app .inspector-stat span { color:var(--ifibio-muted); }
+.ifibio-app .availability-note { margin-top:10px; font-size:.72rem; color:var(--ifibio-muted); line-height:1.5; }
 
-.ifibio-app .chart { height: 390px; min-height: 390px; }
-.ifibio-app .chart.compact { height: 250px; min-height: 250px; }
-.ifibio-app .chart.tall { height: 620px; min-height: 620px; }
-.ifibio-app .chart-note { margin: 8px 2px 0; font-size: 0.76rem; color: var(--ifibio-muted); line-height: 1.5; }
+.ifibio-app .top-authors-panel { margin-top:14px; padding-top:14px; border-top:1px solid var(--ifibio-line); }
+.ifibio-app .top-authors-head { display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:10px; color:var(--ifibio-muted); font-size:.76rem; }
+.ifibio-app .top-authors-head b { color:var(--ifibio-text); font-size:.78rem; }
+.ifibio-app .top-authors-list { display:flex; gap:7px; overflow-x:auto; padding:3px 2px 8px; }
+.ifibio-app .top-author-chip { flex:0 0 auto; display:grid; grid-template-columns:9px auto minmax(90px,auto) auto; align-items:center; gap:6px; border:1px solid var(--ifibio-line); background:#fff; color:var(--ifibio-text); border-radius:999px; padding:7px 9px; cursor:pointer; }
+.ifibio-app .top-author-chip:hover { background:#f8fafc; border-color:#bfdbfe; }
+.ifibio-app .top-author-chip i { width:9px; height:9px; border-radius:50%; }
+.ifibio-app .top-author-chip span { color:var(--ifibio-muted); font-size:.68rem; }
+.ifibio-app .top-author-chip b { font-size:.72rem; font-weight:650; white-space:nowrap; }
+.ifibio-app .top-author-chip em { font-style:normal; color:var(--ifibio-accent); font-size:.68rem; }
 
-.ifibio-app .spotlight { display: flex; flex-direction: column; justify-content: center; min-height: 240px; }
-.ifibio-app .signal-list { display: grid; gap: 10px; margin-top: 10px; }
-.ifibio-app .signal-list div { padding: 12px 0; border-bottom: 1px solid var(--ifibio-line); display: flex; justify-content: space-between; gap: 20px; }
-.ifibio-app .signal-list span { color: var(--ifibio-muted); }
-.ifibio-app .signal-list strong { text-align: right; color: var(--ifibio-text); }
+.ifibio-app .compare-selectors { display:flex; align-items:center; gap:16px; margin-bottom:18px; flex-wrap:wrap; }
+.ifibio-app .compare-selectors label { flex:1; min-width:220px; display:block; font-size:.8rem; color:var(--ifibio-muted); }
+.ifibio-app .compare-selectors select { width:100%; margin-top:6px; min-height:42px; border:1px solid var(--ifibio-line-strong); border-radius:9px; background:#fff; color:var(--ifibio-text); padding:0 12px; }
+.ifibio-app .compare-vs { font-weight:800; color:var(--ifibio-accent); }
+.ifibio-app .empty-state { color:var(--ifibio-muted); padding:30px; text-align:center; }
+.ifibio-app .hidden { display:none; }
+.ifibio-app .author-card h3 { margin:0 0 10px; }
+.ifibio-app .metric-row { display:grid; grid-template-columns:repeat(3,1fr); gap:10px; }
+.ifibio-app .metric { padding:10px; border-radius:10px; background:var(--ifibio-bg-soft); border:1px solid var(--ifibio-line); }
+.ifibio-app .metric span { display:block; color:var(--ifibio-muted); font-size:.68rem; }
+.ifibio-app .metric strong { display:block; margin-top:4px; color:var(--ifibio-text); }
+.ifibio-app .chip-cloud { display:flex; flex-wrap:wrap; gap:8px; }
+.ifibio-app .chip { padding:6px 10px; border-radius:999px; background:#eff6ff; color:#1d4ed8; font-size:.74rem; border:1px solid #dbeafe; }
+.ifibio-app .chip-button { cursor:pointer; font:inherit; }
+.ifibio-app .chip-button:hover { background:#dbeafe; border-color:#bfdbfe; }
+.ifibio-app .word-cloud { display:flex; flex-wrap:wrap; align-items:center; gap:10px 14px; padding:10px; min-height:200px; }
+.ifibio-app .cloud-word { background:none; border:none; color:var(--ifibio-accent-2); cursor:pointer; font-weight:700; line-height:1; }
+.ifibio-app .cloud-word:hover { color:var(--ifibio-accent); }
+.ifibio-app .term-network { height:clamp(700px,72vh,980px); min-height:700px; }
+.ifibio-app .terms-layout .network-layout { grid-template-columns:minmax(0,1fr) minmax(260px,300px); }
+.ifibio-app .term-related { display:flex; flex-wrap:wrap; gap:6px; margin-top:10px; }
 
-.ifibio-app .toolbar { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 16px; }
-.ifibio-app .toolbar input, .ifibio-app .toolbar select {
-  min-height: 42px; border: 1px solid var(--ifibio-line-strong); border-radius: 9px;
-  background: #fff; color: var(--ifibio-text); padding: 0 12px; outline: none;
-}
-.ifibio-app .toolbar input:focus, .ifibio-app .toolbar select:focus { border-color: #93c5fd; box-shadow: 0 0 0 3px rgba(37, 99, 235, .10); }
-.ifibio-app .toolbar input { min-width: min(340px, 100%); flex: 1; }
-.ifibio-app .toolbar select { min-width: 150px; }
-.ifibio-app .hint { font-size: 0.76rem; color: var(--ifibio-muted); }
+.ifibio-app .methods-grid .method strong { font-size:1.8rem; color:var(--ifibio-accent); opacity:.9; }
+.ifibio-app .method h3 { margin-top:14px; }
+.ifibio-app .note { margin:16px 0; border-color:#bfdbfe; background:#f8fbff; }
+.ifibio-app .note p,.ifibio-app .method p,.ifibio-app .inspector p { color:var(--ifibio-muted); line-height:1.6; }
+.ifibio-app .note em { color:var(--ifibio-text); font-style:normal; font-weight:600; }
+.ifibio-app .note a { color:var(--ifibio-accent); text-decoration:underline; }
+.ifibio-app dialog { width:min(720px,calc(100% - 28px)); border:1px solid var(--ifibio-line); border-radius:16px; background:#fff; color:var(--ifibio-text); padding:26px; box-shadow:0 24px 80px rgba(15,23,42,.18); }
+.ifibio-app dialog::backdrop { background:rgba(15,23,42,.28); }
+.ifibio-app .dialog-close { position:absolute; right:12px; top:10px; border:0; background:transparent; color:var(--ifibio-muted); font-size:1.6rem; cursor:pointer; }
+.ifibio-app .paper-meta { display:flex; gap:8px; flex-wrap:wrap; margin:10px 0 18px; }
+.ifibio-app .paper-meta span { padding:6px 10px; border-radius:999px; background:#eff6ff; color:#1d4ed8; font-size:.72rem; }
+.ifibio-app .paper-dialog-title { font-size:1.4rem; line-height:1.25; margin:6px 30px 8px 0; }
+.ifibio-app .paper-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:10px; }
+.ifibio-app .paper-grid div { padding:10px; border-radius:10px; background:var(--ifibio-bg-soft); border:1px solid var(--ifibio-line); }
+.ifibio-app .paper-grid span { display:block; color:var(--ifibio-muted); font-size:.7rem; }
+.ifibio-app .paper-grid strong { display:block; margin-top:4px; }
 
-.ifibio-app .table-wrap { overflow: auto; max-height: 620px; }
-.ifibio-app table { width: 100%; border-collapse: collapse; min-width: 720px; }
-.ifibio-app th, .ifibio-app td { padding: 11px 10px; border-bottom: 1px solid var(--ifibio-line); text-align: left; font-size: 0.82rem; vertical-align: top; }
-.ifibio-app th { position: sticky; top: 0; background: #f8fafc; color: #475569; font-size: 0.72rem; letter-spacing: 0.05em; text-transform: uppercase; }
-.ifibio-app tbody tr { cursor: pointer; }
-.ifibio-app tbody tr:hover { background: #f8fbff; }
-
-.ifibio-app .control-panel {
-  background: var(--ifibio-bg-soft); border: 1px solid var(--ifibio-line); border-radius: var(--ifibio-radius); padding: 18px; margin-bottom: 18px;
-}
-.ifibio-app .network-toolbar { margin-bottom: 12px; }
-.ifibio-app .range-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px 20px; }
-.ifibio-app .range-grid label { display: block; font-size: 0.8rem; color: var(--ifibio-muted); }
-.ifibio-app .range-grid input[type="range"] { width: 100%; margin-top: 6px; }
-.ifibio-app .range-grid b { color: var(--ifibio-text); }
-.ifibio-app .toggle-row { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; margin-top: 14px; }
-.ifibio-app .toggle { display: flex; align-items: center; gap: 6px; font-size: 0.82rem; color: var(--ifibio-muted); }
-
-.ifibio-app .button {
-  cursor: pointer; color: #fff; background: var(--ifibio-accent); font-weight: 700; border: 1px solid var(--ifibio-accent);
-  border-radius: 9px; padding: 9px 16px; font-size: 0.8rem;
-}
-.ifibio-app .button:hover { background: #1d4ed8; border-color: #1d4ed8; }
-.ifibio-app .button.ghost { background: #fff; color: var(--ifibio-text); border: 1px solid var(--ifibio-line-strong); }
-
-/* Networks get substantially more room than prose pages. */
-.ifibio-app .network-layout { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 18px; }
-.ifibio-app .network-panel { padding: 0; overflow: hidden; min-width: 0; }
-.ifibio-app .network {
-  height: clamp(720px, 72vh, 980px); min-height: 720px;
-  background: radial-gradient(circle at 50% 42%, rgba(219, 234, 254, .85), rgba(248, 250, 252, .35) 42%, #ffffff 76%);
-}
-.ifibio-app .mini-network { height: 430px; min-height: 430px; }
-.ifibio-app .inspector { min-height: 240px; }
-.ifibio-app .inspector-stat { display: flex; justify-content: space-between; border-bottom: 1px solid var(--ifibio-line); padding: 10px 0; }
-.ifibio-app .inspector-stat span { color: var(--ifibio-muted); }
-.ifibio-app .availability-note { margin-top: 10px; font-size: 0.72rem; color: var(--ifibio-muted); line-height: 1.5; }
-
-.ifibio-app .top-authors-panel { margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--ifibio-line); }
-.ifibio-app .top-authors-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 10px; color: var(--ifibio-muted); font-size: 0.76rem; }
-.ifibio-app .top-authors-head b { color: var(--ifibio-text); font-size: 0.78rem; }
-.ifibio-app .top-authors-list { display: flex; gap: 7px; overflow-x: auto; padding: 3px 2px 8px; }
-.ifibio-app .top-author-chip {
-  flex: 0 0 auto; display: grid; grid-template-columns: 9px auto minmax(90px, auto) auto; align-items: center; gap: 6px;
-  border: 1px solid var(--ifibio-line); background: #fff; color: var(--ifibio-text); border-radius: 999px; padding: 7px 9px; cursor: pointer;
-}
-.ifibio-app .top-author-chip:hover { background: #f8fafc; border-color: #bfdbfe; }
-.ifibio-app .top-author-chip i { width: 9px; height: 9px; border-radius: 50%; }
-.ifibio-app .top-author-chip span { color: var(--ifibio-muted); font-size: 0.68rem; }
-.ifibio-app .top-author-chip b { font-size: 0.72rem; font-weight: 650; white-space: nowrap; }
-.ifibio-app .top-author-chip em { font-style: normal; color: var(--ifibio-accent); font-size: 0.68rem; }
-
-.ifibio-app .compare-selectors { display: flex; align-items: center; gap: 16px; margin-bottom: 18px; flex-wrap: wrap; }
-.ifibio-app .compare-selectors label { flex: 1; min-width: 220px; display: block; font-size: 0.8rem; color: var(--ifibio-muted); }
-.ifibio-app .compare-selectors select { width: 100%; margin-top: 6px; min-height: 42px; border: 1px solid var(--ifibio-line-strong); border-radius: 9px; background: #fff; color: var(--ifibio-text); padding: 0 12px; }
-.ifibio-app .compare-vs { font-weight: 800; color: var(--ifibio-accent); }
-.ifibio-app .empty-state { color: var(--ifibio-muted); padding: 30px; text-align: center; }
-.ifibio-app .hidden { display: none; }
-.ifibio-app .author-card h3 { margin: 0 0 10px; }
-.ifibio-app .metric-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
-.ifibio-app .metric { padding: 10px; border-radius: 10px; background: var(--ifibio-bg-soft); border: 1px solid var(--ifibio-line); }
-.ifibio-app .metric span { display: block; color: var(--ifibio-muted); font-size: 0.68rem; }
-.ifibio-app .metric strong { display: block; margin-top: 4px; color: var(--ifibio-text); }
-
-.ifibio-app .chip-cloud { display: flex; flex-wrap: wrap; gap: 8px; }
-.ifibio-app .chip {
-  padding: 6px 10px; border-radius: 999px; background: #eff6ff; color: #1d4ed8;
-  font-size: 0.74rem; border: 1px solid #dbeafe;
-}
-.ifibio-app .chip-button { cursor: pointer; font: inherit; }
-.ifibio-app .chip-button:hover { background: #dbeafe; border-color: #bfdbfe; }
-
-.ifibio-app .word-cloud { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px; padding: 10px; min-height: 200px; }
-.ifibio-app .cloud-word { background: none; border: none; color: var(--ifibio-accent-2); cursor: pointer; font-weight: 700; line-height: 1; }
-.ifibio-app .cloud-word:hover { color: var(--ifibio-accent); }
-.ifibio-app .term-network { height: clamp(650px, 65vh, 860px); min-height: 650px; }
-.ifibio-app .terms-layout .network-layout { grid-template-columns: minmax(0, 1fr) 320px; }
-.ifibio-app .term-related { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
-
-.ifibio-app .methods-grid .method strong { font-size: 1.8rem; color: var(--ifibio-accent); opacity: 0.9; }
-.ifibio-app .method h3 { margin-top: 14px; }
-.ifibio-app .note { margin: 16px 0; border-color: #bfdbfe; background: #f8fbff; }
-.ifibio-app .note p, .ifibio-app .method p, .ifibio-app .inspector p { color: var(--ifibio-muted); line-height: 1.6; }
-.ifibio-app .note em { color: var(--ifibio-text); font-style: normal; font-weight: 600; }
-.ifibio-app .note a { color: var(--ifibio-accent); text-decoration: underline; }
-
-.ifibio-app dialog {
-  width: min(720px, calc(100% - 28px)); border: 1px solid var(--ifibio-line); border-radius: 16px;
-  background: #fff; color: var(--ifibio-text); padding: 26px; box-shadow: 0 24px 80px rgba(15, 23, 42, .18);
-}
-.ifibio-app dialog::backdrop { background: rgba(15, 23, 42, 0.28); }
-.ifibio-app .dialog-close { position: absolute; right: 12px; top: 10px; border: 0; background: transparent; color: var(--ifibio-muted); font-size: 1.6rem; cursor: pointer; }
-.ifibio-app .paper-meta { display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0 18px; }
-.ifibio-app .paper-meta span { padding: 6px 10px; border-radius: 999px; background: #eff6ff; color: #1d4ed8; font-size: 0.72rem; }
-.ifibio-app .paper-dialog-title { font-size: 1.4rem; line-height: 1.25; margin: 6px 30px 8px 0; }
-.ifibio-app .paper-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
-.ifibio-app .paper-grid div { padding: 10px; border-radius: 10px; background: var(--ifibio-bg-soft); border: 1px solid var(--ifibio-line); }
-.ifibio-app .paper-grid span { display: block; color: var(--ifibio-muted); font-size: 0.7rem; }
-.ifibio-app .paper-grid strong { display: block; margin-top: 4px; }
-
-@media (min-width: 1700px) {
-  .main-content { max-width: 1680px !important; }
-  .ifibio-app .network-layout { grid-template-columns: minmax(0, 1fr) 340px; }
-}
-
+/* Preserve usability on smaller screens, but desktop is the design priority. */
 @media (max-width: 1100px) {
-  .main-content { width: calc(100% - 1rem); padding-left: 1.25rem !important; padding-right: 1.25rem !important; }
-  .ifibio-app .network-layout, .ifibio-app .terms-layout .network-layout { grid-template-columns: 1fr; }
-  .ifibio-app .inspector { order: -1; }
-  .ifibio-app .network { height: 720px; min-height: 720px; }
+  .ifibio-app .network-layout,.ifibio-app .terms-layout .network-layout { grid-template-columns:minmax(0,1fr) 260px; }
 }
-
 @media (max-width: 900px) {
-  .ifibio-app .kpi-grid { grid-template-columns: repeat(2, 1fr); }
-  .ifibio-app .grid.two, .ifibio-app .grid.three { grid-template-columns: 1fr; }
-  .ifibio-app .metric-row { grid-template-columns: 1fr; }
-  .ifibio-app .chart { height: 340px; min-height: 340px; }
-}
-
-@media (max-width: 600px) {
-  .main-content { width: 100%; padding-left: 1rem !important; padding-right: 1rem !important; }
-  .ifibio-app .kpi-grid { grid-template-columns: 1fr; }
-  .ifibio-app .network, .ifibio-app .term-network { height: 600px; min-height: 600px; }
-  .ifibio-app .paper-grid { grid-template-columns: 1fr; }
+  .ifibio-app .kpi-grid { grid-template-columns:repeat(2,1fr); }
+  .ifibio-app .grid.two,.ifibio-app .grid.three { grid-template-columns:1fr; }
+  .ifibio-app .network-layout,.ifibio-app .terms-layout .network-layout { grid-template-columns:1fr; }
+  .ifibio-app .inspector { order:-1; }
+  .ifibio-app .metric-row { grid-template-columns:1fr; }
+  .ifibio-app .network { min-height:620px; height:70vh; }
 }
