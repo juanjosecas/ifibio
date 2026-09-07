@@ -45,6 +45,7 @@
 .ifibio-app .chart { height: 320px; }
 .ifibio-app .chart.compact { height: 210px; }
 .ifibio-app .chart.tall { height: 500px; }
+.ifibio-app .chart-note { margin: 8px 2px 0; font-size: 0.74rem; color: var(--ifibio-muted); line-height: 1.5; }
 
 .ifibio-app .spotlight { display: flex; flex-direction: column; justify-content: center; min-height: 240px; }
 .ifibio-app .signal-list { display: grid; gap: 10px; margin-top: 10px; }

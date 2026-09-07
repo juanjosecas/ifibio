@@ -9,6 +9,7 @@ const DATA = {
   paperSimilarity: `${BASEURL}/ml_pubmed_ifibio/paper_nlp_network.gexf`,
   affiliationCatalog: `${BASEURL}/ml_pubmed_ifibio/filiaciones/catalogo_filiaciones.csv`,
   affiliationEdges: `${BASEURL}/ml_pubmed_ifibio/filiaciones/red_filiaciones_aristas.csv`,
+  affiliationCooccurrence: `${BASEURL}/ml_pubmed_ifibio/affiliation_affiliation_cooccurrence.csv`,
 };
 
 const plotConfig = { responsive: true, displaylogo: false, modeBarButtonsToRemove: ['lasso2d', 'select2d'] };
@@ -66,6 +67,16 @@ function normalizePapers(rows) {
     UMAP2: num(r.UMAP2),
     Paper_PageRank: num(r.Paper_PageRank),
     Paper_Betweenness: num(r.Paper_Betweenness),
+    Paper_Degree: num(r.Paper_Degree),
+    Paper_WeightedDegree: num(r.Paper_WeightedDegree),
+    Paper_Clustering: num(r.Paper_Clustering),
+    Mean_Author_Publications: num(r.Mean_Author_Publications),
+    Max_Author_Publications: num(r.Max_Author_Publications),
+    Mean_Author_Degree: num(r.Mean_Author_Degree),
+    Max_Author_Degree: num(r.Max_Author_Degree),
+    Years_From_First: num(r.Years_From_First),
+    Social_Cluster: num(r.Social_Cluster),
+    N_Social_Clusters: num(r.N_Social_Clusters),
   })).filter(r => r.PMID && r.Title);
 }
 

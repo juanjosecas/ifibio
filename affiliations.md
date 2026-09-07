@@ -20,6 +20,12 @@ Explore the raw affiliation texts declared across the corpus and how they co-occ
 
 <article class="panel"><div class="panel-head"><div><span class="section-tag">Frequency</span><h3>Most-mentioned affiliation texts</h3></div></div><div id="affiliation-bar" class="chart tall"></div></article>
 
+<article class="panel">
+  <div class="panel-head"><div><span class="section-tag">Co-occurrence</span><h3>Most frequent affiliation pairs</h3></div></div>
+  <div id="affiliation-pairs-chart" class="chart tall"></div>
+  <p class="chart-note">Top pairs of affiliation texts listed together on the same paper (any author), from the raw paper-level co-occurrence table — a complementary, denser view of the same underlying idea as the network below, which instead links affiliations through a single shared author.</p>
+</article>
+
 <div class="toolbar">
   <select id="affiliation-select"><option value="">Select an affiliation…</option></select>
 </div>

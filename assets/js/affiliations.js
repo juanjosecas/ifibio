@@ -4,6 +4,20 @@
 
   function shortText(t, n = 70) { const s = String(t || ''); return s.length > n ? s.slice(0, n - 1) + '…' : s }
 
+  // Raw free-text affiliation pairs co-listed on the same paper (separate from the author-declared network above).
+  async function renderCooccurrenceBar() {
+    try {
+      const rows = await loadCSV(DATA.affiliationCooccurrence);
+      const top = rows.map(r => ({ a: r.Affiliation1, b: r.Affiliation2, weight: num(r.Weight) || 0 })).sort((a, b) => b.weight - a.weight).slice(0, 20);
+      Plotly.newPlot('affiliation-pairs-chart', [{
+        x: top.map(r => r.weight).reverse(), y: top.map(r => `${shortText(r.a, 34)}  ↔  ${shortText(r.b, 34)}`).reverse(), type: 'bar', orientation: 'h',
+        marker: { color: '#6ee7b7' }, hovertemplate: '<b>%{y}</b><br>%{x} shared papers<extra></extra>',
+      }], { ...plotLayout, margin: { l: 340, r: 20, t: 10, b: 40 }, xaxis: { ...plotLayout.xaxis, title: 'Papers where both affiliation texts appear together' }, yaxis: { ...plotLayout.yaxis, automargin: true } }, plotConfig);
+    } catch (err) {
+      console.error(err);
+    }
+  }
+
   function populateAffiliationSelect(nodeIds) {
     const rows = nodeIds.map(id => state.catalog.get(id)).filter(Boolean).sort((a, b) => (b.n_papers || 0) - (a.n_papers || 0));
     $('affiliation-select').insertAdjacentHTML('beforeend', rows.map(r => `<option value="${esc(r.id)}">${esc(shortText(r.texto, 90))} (${r.n_papers} papers)</option>`).join(''));
@@ -36,6 +50,7 @@
     const status = $('data-status');
     try {
       if (status) status.textContent = 'Loading affiliations…';
+      renderCooccurrenceBar();
       const [catalogRows, edgeRows] = await Promise.all([loadCSV(DATA.affiliationCatalog), loadCSV(DATA.affiliationEdges)]);
       catalogRows.forEach(r => state.catalog.set(r.id, { id: r.id, texto: r.texto, n_papers: num(r.n_papers) || 0, n_autores: num(r.n_autores) || 0 }));
 
