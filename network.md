@@ -16,7 +16,7 @@ Observed coauthorship network with configurable visibility and labeling threshol
 <div class="control-panel">
   <div class="toolbar network-toolbar">
     <input id="author-search" type="search" placeholder="Find researcher…" />
-    <select id="network-layout"><option value="cose">Organic layout</option><option value="concentric">Concentric</option><option value="circle">Circle</option><option value="grid">Grid</option></select>
+    <select id="network-layout"><option value="fcose">Organic layout</option><option value="concentric">Concentric</option><option value="circle">Circle</option><option value="grid">Grid</option></select>
     <button id="fit-network" class="button">Fit network</button>
     <button id="reset-network" class="button ghost">Reset</button>
   </div>

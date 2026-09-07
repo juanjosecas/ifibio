@@ -110,6 +110,8 @@
       setNetworkMetric(nodes);
       state.cy = cytoscape({
         container: $('cy'), elements: [...nodes, ...edges],
+        // Large graph (900+ nodes / 6000+ edges): trade some rendering fidelity for pan/zoom speed.
+        hideEdgesOnViewport: true, textureOnViewport: true, motionBlur: false, pixelRatio: 1, wheelSensitivity: 0.25,
         style: [
           { selector: 'node', style: { 'background-color': '#7dd3fc', 'width': 'mapData(degree,0,80,8,38)', 'height': 'mapData(degree,0,80,8,38)', 'border-width': 1, 'border-color': '#08101f', 'label': '', 'font-size': 9, 'color': '#e6f7ff', 'text-outline-width': 2, 'text-outline-color': '#08101f', 'text-valign': 'center', 'text-halign': 'center' } },
           { selector: 'edge', style: { 'line-color': '#334155', 'opacity': .22, 'width': 'mapData(weight,1,10,.5,4)', 'curve-style': 'haystack' } },
@@ -118,7 +120,9 @@
           { selector: '.selected-node', style: { 'background-color': '#fbbf24', 'border-width': 3, 'border-color': '#fff' } },
           { selector: '.hidden-by-filter', style: { 'display': 'none' } },
         ],
-        layout: { name: 'cose', animate: false, nodeRepulsion: 5000, idealEdgeLength: 65, randomize: true },
+        // fcose (spectral + incremental) instead of plain 'cose': avoids the O(n^2) synchronous
+        // repulsion pass that froze the tab on graphs of this size.
+        layout: { name: 'fcose', quality: 'default', animate: false, randomize: true, nodeRepulsion: 4500, idealEdgeLength: 60, numIter: 1500, tile: true, fit: true, padding: 30 },
       });
       state.cy.on('tap', 'node', e => inspectAuthor(e.target));
       applyNetworkFilters();
