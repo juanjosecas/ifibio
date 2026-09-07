@@ -2,12 +2,14 @@ title: IFIBIO Scientific Landscape
 description: >-
   Interactive exploration of IFIBIO publications, scientific themes and collaboration networks.
 
-# The site is built exclusively by Jekyll through GitHub Actions.
+# Jekyll is the single presentation layer. Just the Docs provides a stable,
+# accessible and highly customizable shell; dashboard styling lives in
+# assets/css/custom.css.
 remote_theme: just-the-docs/just-the-docs@v0.8.0
 plugins:
   - jekyll-remote-theme
 
-color_scheme: dark
+color_scheme: light
 search_enabled: true
 heading_anchors: true
 back_to_top: true
