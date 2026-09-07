@@ -1,0 +1,89 @@
+/* Desktop-first layout overrides for Just the Docs.
+   Keep the theme/navigation, but disable its wide-screen prose centering so
+   scientific dashboards and networks can use the full browser width. */
+
+@media (min-width: 50rem) {
+  .side-bar {
+    width: 264px !important;
+    min-width: 264px !important;
+    max-width: 264px !important;
+  }
+
+  .site-header,
+  .site-nav {
+    width: 264px !important;
+    min-width: 264px !important;
+    max-width: 264px !important;
+  }
+
+  .main {
+    margin-left: 264px !important;
+    max-width: none !important;
+    width: calc(100% - 264px) !important;
+  }
+
+  .main-content-wrap {
+    width: 100% !important;
+    max-width: none !important;
+  }
+
+  .main-content {
+    width: 100% !important;
+    max-width: none !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: clamp(1.25rem, 2vw, 2.5rem) !important;
+    padding-right: clamp(1.25rem, 2vw, 2.5rem) !important;
+  }
+}
+
+/* Networks are the primary content. Details belong below the graph instead of
+   permanently consuming horizontal space. This applies consistently to author,
+   term, affiliation and paper-similarity network layouts. */
+.ifibio-app .network-layout,
+.ifibio-app .terms-layout .network-layout {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) !important;
+  gap: 16px !important;
+  width: 100% !important;
+}
+
+.ifibio-app .network-panel {
+  width: 100% !important;
+  min-width: 0 !important;
+}
+
+.ifibio-app .network,
+.ifibio-app .term-network {
+  width: 100% !important;
+  min-height: 760px !important;
+  height: clamp(760px, 78vh, 1080px) !important;
+}
+
+.ifibio-app .inspector {
+  width: 100% !important;
+  min-height: 0 !important;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px 24px;
+  align-items: start;
+}
+
+.ifibio-app .inspector > .section-tag,
+.ifibio-app .inspector > h3,
+.ifibio-app .inspector > p,
+.ifibio-app .inspector > .availability-note {
+  grid-column: 1 / -1;
+}
+
+@media (max-width: 49.99rem) {
+  .ifibio-app .network,
+  .ifibio-app .term-network {
+    min-height: 560px !important;
+    height: 70vh !important;
+  }
+
+  .ifibio-app .inspector {
+    display: block;
+  }
+}
