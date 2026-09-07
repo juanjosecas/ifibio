@@ -1,6 +1,7 @@
 /* Interactive coauthor network page (cytoscape) with top-25 author highlighting. */
 (function () {
   const TOP_AUTHOR_COLORS = ['#ff6b6b', '#f59e0b', '#facc15', '#84cc16', '#22c55e', '#10b981', '#14b8a6', '#06b6d4', '#0ea5e9', '#3b82f6', '#6366f1', '#8b5cf6', '#a855f7', '#d946ef', '#ec4899', '#f43f5e', '#fb7185', '#fdba74', '#fde047', '#bef264', '#6ee7b7', '#67e8f9', '#93c5fd', '#c4b5fd', '#f0abfc'];
+  const DEFAULTS = { minPublications: 4, minCollaborations: 2, labelFrom: 5 };
   const state = { cy: null, authorMetric: 'degree', authorMetricLabel: 'network degree' };
   let top25Ids = new Set();
 
@@ -110,7 +111,6 @@
       setNetworkMetric(nodes);
       state.cy = cytoscape({
         container: $('cy'), elements: [...nodes, ...edges],
-        // Large graph (900+ nodes / 6000+ edges): trade some rendering fidelity for pan/zoom speed.
         hideEdgesOnViewport: true, textureOnViewport: true, motionBlur: false, pixelRatio: 1, wheelSensitivity: 0.25,
         style: [
           { selector: 'node', style: { 'background-color': '#7dd3fc', 'width': 'mapData(degree,0,80,8,38)', 'height': 'mapData(degree,0,80,8,38)', 'border-width': 1, 'border-color': '#08101f', 'label': '', 'font-size': 9, 'color': '#e6f7ff', 'text-outline-width': 2, 'text-outline-color': '#08101f', 'text-valign': 'center', 'text-halign': 'center' } },
@@ -120,8 +120,6 @@
           { selector: '.selected-node', style: { 'background-color': '#fbbf24', 'border-width': 3, 'border-color': '#fff' } },
           { selector: '.hidden-by-filter', style: { 'display': 'none' } },
         ],
-        // fcose (spectral + incremental) instead of plain 'cose': avoids the O(n^2) synchronous
-        // repulsion pass that froze the tab on graphs of this size.
         layout: { name: 'fcose', quality: 'default', animate: false, randomize: true, nodeRepulsion: 4500, idealEdgeLength: 60, numIter: 1500, tile: true, fit: true, padding: 30 },
       });
       state.cy.on('tap', 'node', e => inspectAuthor(e.target));
@@ -131,8 +129,12 @@
       $('network-layout').addEventListener('change', () => state.cy?.layout({ name: $('network-layout').value, animate: false }).run());
       $('fit-network').addEventListener('click', () => state.cy?.fit(state.cy.elements(':visible'), 30));
       $('reset-network').addEventListener('click', () => {
-        ['min-pubs', 'min-degree', 'label-pubs'].forEach((id, i) => $(id).value = [1, 0, 5][i]);
-        $('labels-all').checked = false; $('hide-isolates').checked = true;
+        $('min-pubs').value = DEFAULTS.minPublications;
+        $('min-degree').value = DEFAULTS.minCollaborations;
+        $('label-pubs').value = DEFAULTS.labelFrom;
+        $('labels-all').checked = false;
+        $('hide-isolates').checked = true;
+        $('highlight-top25').checked = true;
         state.cy?.elements().removeClass('dim selected-neighborhood selected-node');
         applyNetworkFilters();
       });
