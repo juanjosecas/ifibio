@@ -19,6 +19,11 @@ Search and inspect the corpus. Filters update both the table and semantic projec
   <select id="cluster-filter"><option value="all">All clusters</option></select>
 </div>
 
+<div class="panel note">
+  <span class="section-tag">How to read this (in plain terms)</span>
+  <p>Each dot below is one paper. A model reads every abstract and places similar-sounding papers close together on the map; colors are automatically detected topic clusters. Only <em>local</em> closeness matters — two clusters on opposite sides of the plot are not "twice as different" as two next to each other, and empty space carries no meaning. For an actual similarity score between two specific papers, see the <a href="similarity.html">Paper Similarity</a> network.</p>
+</div>
+
 <div class="panel">
   <div class="panel-head"><div><span class="section-tag">Semantic space</span><h3>UMAP projection of abstracts</h3></div><span class="hint">Click a point to inspect the paper</span></div>
   <div id="umap-chart" class="chart tall"></div>

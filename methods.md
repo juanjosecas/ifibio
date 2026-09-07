@@ -1,6 +1,6 @@
 ---
 title: Methods
-nav_order: 7
+nav_order: 9
 description: "How this portal is built — architecture and data sources."
 ---
 

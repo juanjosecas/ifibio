@@ -40,4 +40,4 @@ Interactive overview of publication output, scientific structure and collaborati
 
 </div>
 
-See [Publications](publications.html) to browse and search the corpus, [Author Network](network.html) to explore collaboration, [Compare Authors](compare.html) for pairwise comparisons, [MeSH & Keywords](terms.html) for terminology, and [Scientific Landscape](landscape.html) for additional descriptive views.
+See [Publications](publications.html) to browse and search the corpus, [Author Network](network.html) to explore collaboration, [Compare Authors](compare.html) for pairwise comparisons, [MeSH & Keywords](terms.html) for terminology, [Affiliations](affiliations.html) for institutional co-declarations, [Paper Similarity](similarity.html) for abstract-level similarity between individual papers, and [Scientific Landscape](landscape.html) for additional descriptive views.

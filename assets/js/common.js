@@ -6,6 +6,9 @@ const DATA = {
   network: `${BASEURL}/ml_pubmed_ifibio/coauthor_network.gexf`,
   mesh: `${BASEURL}/ml_pubmed_ifibio/mesh_network.gexf`,
   keyword: `${BASEURL}/ml_pubmed_ifibio/keyword_network.gexf`,
+  paperSimilarity: `${BASEURL}/ml_pubmed_ifibio/paper_nlp_network.gexf`,
+  affiliationCatalog: `${BASEURL}/ml_pubmed_ifibio/filiaciones/catalogo_filiaciones.csv`,
+  affiliationEdges: `${BASEURL}/ml_pubmed_ifibio/filiaciones/red_filiaciones_aristas.csv`,
 };
 
 const plotConfig = { responsive: true, displaylogo: false, modeBarButtonsToRemove: ['lasso2d', 'select2d'] };

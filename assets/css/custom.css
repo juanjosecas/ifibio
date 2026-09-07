@@ -124,6 +124,8 @@
   padding: 6px 10px; border-radius: 999px; background: rgba(125, 211, 252, 0.08); color: var(--ifibio-accent);
   font-size: 0.74rem; border: 1px solid rgba(125, 211, 252, 0.16);
 }
+.ifibio-app .chip-button { cursor: pointer; font: inherit; }
+.ifibio-app .chip-button:hover { background: rgba(125, 211, 252, 0.16); border-color: rgba(125, 211, 252, 0.32); }
 
 .ifibio-app .word-cloud { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px; padding: 10px; min-height: 200px; }
 .ifibio-app .cloud-word {
@@ -136,8 +138,10 @@
 
 .ifibio-app .methods-grid .method strong { font-size: 1.8rem; color: var(--ifibio-accent); opacity: 0.8; }
 .ifibio-app .method h3 { margin-top: 14px; }
-.ifibio-app .note { margin-top: 16px; }
+.ifibio-app .note { margin: 16px 0; border-color: rgba(125, 211, 252, 0.22); background: linear-gradient(180deg, rgba(125, 211, 252, 0.06), rgba(11, 18, 30, 0.7)); }
 .ifibio-app .note p, .ifibio-app .method p, .ifibio-app .inspector p { color: var(--ifibio-muted); line-height: 1.6; }
+.ifibio-app .note em { color: var(--ifibio-text); font-style: normal; font-weight: 600; }
+.ifibio-app .note a { color: var(--ifibio-accent); text-decoration: underline; }
 
 .ifibio-app dialog {
   width: min(680px, calc(100% - 28px)); border: 1px solid var(--ifibio-line); border-radius: 20px;

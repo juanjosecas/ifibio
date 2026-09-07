@@ -35,3 +35,5 @@ exclude:
   - LICENSE
   - vendor
   - node_modules
+  # Raw data-folder notes; not meant to be a standalone navigable page.
+  - ml_pubmed_ifibio/filiaciones/README.md

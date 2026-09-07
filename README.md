@@ -13,8 +13,12 @@ Current interface:
 - Integrated scientific-cluster distribution
 - IFIBIO participation overview
 - Interactive publication explorer
-- Abstract UMAP projection with paper inspection
+- Abstract UMAP projection with paper inspection (with an in-page explainer of what the plot means)
 - Interactive Cytoscape coauthorship network
+- Pairwise author comparison
+- MeSH / keyword frequency, word cloud and co-occurrence network
+- Affiliation co-declaration network with a picker to inspect a single affiliation
+- Paper similarity network (abstract-embedding graph) with a paper picker to find related work
 - Scientific-landscape views
 - Methods/architecture page
 
@@ -31,8 +35,11 @@ Data currently consumed by the frontend:
 - `ml_pubmed_ifibio/coauthor_network.gexf`
 - `ml_pubmed_ifibio/mesh_network.gexf`
 - `ml_pubmed_ifibio/keyword_network.gexf`
+- `ml_pubmed_ifibio/paper_nlp_network.gexf`
+- `ml_pubmed_ifibio/filiaciones/catalogo_filiaciones.csv`
+- `ml_pubmed_ifibio/filiaciones/red_filiaciones_aristas.csv`
 
-The remaining `.pkl`, `.gexf`, `.csv` and figures remain as reproducibility/source outputs and can be progressively exposed through lighter web-specific JSON files.
+The remaining `.pkl`, `.gexf`, `.csv` and figures remain as reproducibility/source outputs and can be progressively exposed through lighter web-specific JSON files. The other files under `ml_pubmed_ifibio/filiaciones/` (its `README.md`, `filiaciones_llm.json`, per-author/per-paper CSVs, the `.graphml` and `.png`) are reproducibility artifacts and are excluded from the built site (see `exclude` in `_config.yml`) so they don't show up as a stray navigable page.
 
 ## Local development
 
