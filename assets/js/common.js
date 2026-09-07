@@ -16,11 +16,11 @@ const plotConfig = { responsive: true, displaylogo: false, modeBarButtonsToRemov
 const plotLayout = {
   paper_bgcolor: 'rgba(0,0,0,0)',
   plot_bgcolor: 'rgba(0,0,0,0)',
-  font: { color: '#cbd5e1', family: 'Inter, system-ui, sans-serif', size: 12 },
-  margin: { l: 45, r: 20, t: 20, b: 45 },
-  xaxis: { gridcolor: 'rgba(255,255,255,.06)', zerolinecolor: 'rgba(255,255,255,.08)' },
-  yaxis: { gridcolor: 'rgba(255,255,255,.06)', zerolinecolor: 'rgba(255,255,255,.08)' },
-  hoverlabel: { bgcolor: '#0f172a', bordercolor: 'rgba(255,255,255,.12)', font: { color: '#f8fafc' } },
+  font: { color: '#334155', family: 'Inter, system-ui, sans-serif', size: 12 },
+  margin: { l: 55, r: 24, t: 24, b: 55 },
+  xaxis: { gridcolor: '#e2e8f0', zerolinecolor: '#cbd5e1', linecolor: '#cbd5e1' },
+  yaxis: { gridcolor: '#e2e8f0', zerolinecolor: '#cbd5e1', linecolor: '#cbd5e1' },
+  hoverlabel: { bgcolor: '#ffffff', bordercolor: '#cbd5e1', font: { color: '#172033' } },
 };
 
 const $ = id => document.getElementById(id);
@@ -138,7 +138,7 @@ function renderUMAP(target, rows, opts = {}) {
       x: pts.map(p => p.UMAP1), y: pts.map(p => p.UMAP2), type: 'scattergl', mode: 'markers',
       name: cluster == null ? 'Unassigned' : `Cluster ${cluster}`,
       ids: pts.map(p => p.PMID), customdata: pts.map(p => [p.Title, p.Year, p.PMID]),
-      marker: { size: 9, opacity: .78, color: `hsl(${(idx * 47 + 190) % 360} 72% 66%)`, line: { width: .5, color: '#08101f' } },
+      marker: { size: 9, opacity: .82, color: `hsl(${(idx * 47 + 190) % 360} 64% 52%)`, line: { width: .5, color: '#ffffff' } },
       hovertemplate: '<b>%{customdata[0]}</b><br>%{customdata[1]} · PMID %{customdata[2]}<extra></extra>',
     };
   });
