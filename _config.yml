@@ -1,7 +1,9 @@
 title: IFIBIO Scientific Landscape
 description: >-
   Interactive exploration of IFIBIO publications, scientific themes and collaboration networks.
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.8.0
+plugins:
+  - jekyll-remote-theme
 color_scheme: dark
 
 search_enabled: true
