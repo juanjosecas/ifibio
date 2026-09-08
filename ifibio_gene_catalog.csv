@@ -1,0 +1,241 @@
+GeneID,Symbol,Description,TaxID,Organism,Papers,Mentions,Text_mentions
+2054,STX2,syntaxin 2,,Homo sapiens,15,82,"['Stx2', 'Stx2a', 'stx2']"
+361,AQP4,aquaporin 4,,Homo sapiens,11,67,"['AQP4', 'AQUAPORIN-4', 'Aquaporin 4', 'Aquaporin-4', 'aquaporin-4']"
+358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,10,28,"['AQP1', 'AQP1/4', 'Aquaporin 1', 'Aquaporin-1', 'aquaporin-1']"
+360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,7,52,"['AQP3', 'Aquaporin 3', 'aquaporin 3', 'aquaporin-3']"
+14281,Fos,"Fos proto-oncogene, AP-1 transcription factor subunit",,Mus musculus,7,11,"['C-FOS', 'c-Fos']"
+13489,Drd2,dopamine receptor D2,,Mus musculus,6,37,"['D2 receptor', 'D2R', 'Dopamine D2 receptor', 'Drd2', 'dopamine D2 receptor']"
+366,AQP9,aquaporin 9,,Homo sapiens,6,32,"['AQP9', 'AQUAPORIN-9', 'Aquaporin-9']"
+230908,Tardbp,TAR DNA binding protein,,Mus musculus,6,25,"['TAR DNA-binding protein 43', 'TDP-43']"
+6804,STX1A,syntaxin 1A,,Homo sapiens,6,18,"['Stx1', 'stx1']"
+857,CAV1,caveolin 1,,Homo sapiens,6,13,"['Cav-1', 'Caveolin-1', 'caveolin-1']"
+59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,5,38,"['TRPV4', 'Transient Receptor Potential Vanilloid 4', 'transient receptor potential vanilloid 4']"
+23435,TARDBP,TAR DNA binding protein,,Homo sapiens,5,23,"['TAR DNA-binding protein 43', 'TAR-DNA-binding protein-43', 'TDP 43', 'TDP-43', 'transactive response DNA-binding protein of 43 kDa']"
+13488,Drd1,dopamine receptor D1,,Mus musculus,5,5,"['D1 receptor', 'Drd1', 'dopamine D1 and D2 receptors', 'dopamine D1 receptor', 'dopamine D1/D5 receptor']"
+519148,STX2,syntaxin 2,,Bos taurus,4,21,"['Stx2', 'stx2']"
+7124,TNF,tumor necrosis factor,,Homo sapiens,4,17,"['TNF-alpha', 'Tumor Necrosis Factor-Alpha', 'tumor necrosis factor-alpha']"
+19293,Pvalb,parvalbumin,,Mus musculus,4,12,"['PV', 'parvalbumin']"
+53947,A4GALT,"alpha 1,4-galactosyltransferase (P1PK blood group)",,Homo sapiens,4,8,"['GB3', 'Gb3']"
+581,BAX,"BCL2 associated X, apoptosis regulator",,Homo sapiens,4,6,['Bax']
+359,AQP2,aquaporin 2,,Homo sapiens,3,28,"['AQP2', 'Aquaporin 2', 'Aquaporin-2']"
+14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,3,19,"['Grin1', 'N-methyl-D-aspartate receptor', 'NMDA receptors', 'NMDAR', 'NMDAr']"
+25130,Stx2,syntaxin 2,,Rattus norvegicus,3,17,['Stx2']
+3091,HIF1A,hypoxia inducible factor 1 subunit alpha,,Homo sapiens,3,13,"['HIF-1alpha', 'hypoxia inducible factor (HIF)-1alpha', 'hypoxia inducible factor-1 alpha']"
+6548,SLC9A1,solute carrier family 9 member A1,,Homo sapiens,3,9,"['NHE1', 'Na(+)/H(+) exchanger (NHE)-1', 'Na+ /H+ exchanger isoform 1']"
+26417,Mapk3,mitogen-activated protein kinase 3,,Mus musculus,3,6,['ERK1/2']
+12367,Casp3,caspase 3,,Mus musculus,3,5,['caspase-3']
+14580,Gfap,glial fibrillary acidic protein,,Mus musculus,3,5,"['GFAP', 'glial fibrillary acidic protein']"
+7431,VIM,vimentin,,Homo sapiens,3,5,"['Vimentin', 'vimentin']"
+13852,Stx2,syntaxin 2,,Mus musculus,3,4,['Stx2']
+596,BCL2,BCL2 apoptosis regulator,,Homo sapiens,3,4,['Bcl-2']
+18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,2,42,"['POMC', 'Pomc', 'Proopiomelanocortin', 'proopiomelanocortin']"
+25386,Aqp2,aquaporin 2,,Rattus norvegicus,2,16,"['AQP2', 'Aquaporin-2']"
+6696,SPP1,secreted phosphoprotein 1,,Homo sapiens,2,12,"['OPN', 'Osteopontin', 'Spp1']"
+15558,Htr2a,5-hydroxytryptamine (serotonin) receptor 2A,,Mus musculus,2,11,"['5-HT2A', '5-HT2A -/-', '5-HT2A receptors', 'htr2a']"
+20604,Sst,somatostatin,,Mus musculus,2,11,"['SOM', 'Somatostatin', 'somatostatin']"
+25240,Aqp1,aquaporin 1,,Rattus norvegicus,2,11,"['AQP1', 'aquaporin 1', 'aquaporin-1']"
+7442,TRPV1,transient receptor potential cation channel subfamily V member 1,,Homo sapiens,2,10,"['TRPV-1', 'Transient receptor potential vanilloid 1', 'transient receptor potential vanilloid 1']"
+6531,SLC6A3,solute carrier family 6 member 3,,Homo sapiens,2,8,"['DAT', 'dopamine transporter']"
+6549,SLC9A2,solute carrier family 9 member A2,,Homo sapiens,2,7,"['NHE-2', 'NHE2']"
+7054,TH,tyrosine hydroxylase,,Homo sapiens,2,7,"['TH', 'TH+', 'tyrosine hydroxylase']"
+11346,SYNPO,synaptopodin,,Homo sapiens,2,6,['synaptopodin']
+16491,Kcna3,"potassium voltage-gated channel, shaker-related subfamily, member 3",,Mus musculus,2,6,['Kv1.3']
+2706,GJB2,gap junction protein beta 2,,Homo sapiens,2,6,"['Cx26', 'GJB2']"
+7422,VEGFA,vascular endothelial growth factor A,,Homo sapiens,2,6,"['VEGF', 'VEGFA']"
+13492,Drd5,dopamine receptor D5,,Mus musculus,2,5,"['D5R', 'Drd5', 'dopamine D5 receptor']"
+2353,FOS,"Fos proto-oncogene, AP-1 transcription factor subunit",,Homo sapiens,2,5,"['c-Fos', 'c-fos']"
+24932,Cd4,Cd4 molecule,,Rattus norvegicus,2,5,['CD4']
+24699,Ptprc,"protein tyrosine phosphatase, receptor type, C",,Rattus norvegicus,2,4,['CD45']
+24835,Tnf,tumor necrosis factor,,Rattus norvegicus,2,4,"['TNF-alpha', 'Tumor necrosis factor-alpha']"
+3354888,rl,rolled,,Drosophila melanogaster,2,4,"['ERK1/2', 'mitogen-activated protein kinase']"
+4313,MMP2,matrix metallopeptidase 2,,Homo sapiens,2,4,"['MMP-2', 'matrix metalloproteinase-2']"
+573997,zgc:113984,zgc:113984,,Danio rerio,2,4,['histone']
+836,CASP3,caspase 3,,Homo sapiens,2,4,"['caspase 3', 'caspase-3']"
+,,,,,2,4,"['HIF', 'Ig', 'hypoxia-inducible factor', 'lactate dehydrogenase']"
+12043,Bcl2,B cell leukemia/lymphoma 2,,Mus musculus,2,3,['Bcl-2']
+30682,vegfaa,vascular endothelial growth factor Aa,,Danio rerio,2,3,"['VEGF', 'vascular endothelial growth factor', 'vegfaa']"
+52897,Rbfox3,"RNA binding protein, fox-1 homolog (C. elegans) 3",,Mus musculus,2,3,['NeuN']
+63888,A4galt,"alpha 1,4-galactosyltransferase",,Rattus norvegicus,2,3,['Gb3']
+920,CD4,CD4 molecule,,Homo sapiens,2,3,"['CD4', 'CD4+']"
+11545,Parp1,"poly (ADP-ribose) polymerase family, member 1",,Mus musculus,2,2,"['PARP-1', 'poly(ADP-ribose) polymerase']"
+21926,Tnf,tumor necrosis factor,,Mus musculus,2,2,"['TNFalpha', 'tumor necrosis factor-alpha']"
+394066,lin28ab,lin-28 homolog Ab,,Danio rerio,2,2,['lin28a']
+5329,PLAUR,"plasminogen activator, urokinase receptor",,Homo sapiens,1,11,"['uPAR', 'urokinase-type Plasminogen Activator Receptor']"
+135,ADORA2A,adenosine A2a receptor,,Homo sapiens,1,10,"[' receptor', 'ADORA2A']"
+33569,Thor,thor,,Drosophila melanogaster,1,10,"['4E-BP', '4EBP', 'Thor']"
+66026,Trpv4,"transient receptor potential cation channel, subfamily V, member 4",,Rattus norvegicus,1,10,['TRPV4']
+7056,THBD,thrombomodulin,,Homo sapiens,1,10,"['THBD', 'Thrombomodulin', 'thrombomodulin']"
+22353,Vip,vasoactive intestinal polypeptide,,Mus musculus,1,9,"['VIP', 'Vasoactive intestinal peptide']"
+4137,MAPT,microtubule associated protein tau,,Homo sapiens,1,9,"['Tau', 'microtubule-associated protein tau', 'tau']"
+100003922,p2ry1,purinergic receptor P2Y1,,Danio rerio,1,7,['P2RY1']
+109648,Npy,neuropeptide Y,,Mus musculus,1,7,"['NPY', 'Neuropeptide Y', 'Npy', 'neuropeptide Y']"
+20544,Slc9a1,"solute carrier family 9 (sodium/hydrogen exchanger), member 1",,Mus musculus,1,7,"['NHE1', 'Na+/H+ exchanger isoform 1']"
+387298,p2rx7,"purinergic receptor P2X, ligand-gated ion channel, 7",,Danio rerio,1,7,['P2RX7']
+5420,PODXL,podocalyxin like,,Homo sapiens,1,7,['podocalyxin']
+7038,TG,thyroglobulin,,Homo sapiens,1,7,"['TG', 'thyroglobulin']"
+14599,Gh,growth hormone,,Mus musculus,1,6,"['GH', 'growth hormone']"
+14609,Gja1,"gap junction protein, alpha 1",,Mus musculus,1,6,"['Cx43', 'connexin 43']"
+18033,Nfkb1,"nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105",,Mus musculus,1,6,['NF-kappa B']
+24782,Slc9a1,solute carrier family 9 member A1,,Rattus norvegicus,1,6,"['NHE1', 'Na+/H+ exchanger isoform 1']"
+42490,Mvl,Malvolio,,Drosophila melanogaster,1,6,"['Malvolio', 'Mvl']"
+50721,Sirt6,sirtuin 6,,Mus musculus,1,6,['SIRT6']
+79213,Slc6a11,solute carrier family 6 member 11,,Rattus norvegicus,1,6,['GAT-3']
+11828,Aqp3,aquaporin 3,,Mus musculus,1,5,['AQP3']
+15550,Htr1a,5-hydroxytryptamine (serotonin) receptor 1A,,Mus musculus,1,5,['5-HT1A']
+2852,GPER1,G protein-coupled estrogen receptor 1,,Homo sapiens,1,5,"['G protein-coupled estrogen receptor 1', 'G protein-coupled estrogen receptor-1', 'GPER-1']"
+54323,Arc,activity-regulated cytoskeleton-associated protein,,Rattus norvegicus,1,5,"['Arc', 'activity-regulated cytoskeletal-associated protein']"
+569250,ehmt2,euchromatic histone-lysine N-methyltransferase 2,,Danio rerio,1,5,['G9a']
+83629,Slc12a2,solute carrier family 12 member 2,,Rattus norvegicus,1,5,"['NKCC1', 'Na+ -K+ -2Cl- cotransporter 1']"
+941,CD80,CD80 molecule,,Homo sapiens,1,5,"['B7-1', 'CD80']"
+100102,Pcsk9,proprotein convertase subtilisin/kexin type 9,,Mus musculus,1,4,['Pc9']
+11827,Aqp2,aquaporin 2,,Mus musculus,1,4,"['AQP2', 'Aquaporin-2']"
+11829,Aqp4,aquaporin 4,,Mus musculus,1,4,"['AQP4', 'Aquaporin-4']"
+20682,Sox9,SRY (sex determining region Y)-box 9,,Mus musculus,1,4,['SOX9']
+2099,ESR1,estrogen receptor 1,,Homo sapiens,1,4,"['ERalpha', 'estrogen receptor alpha', 'estrogen receptor-alpha']"
+24225,Bdnf,brain-derived neurotrophic factor,,Rattus norvegicus,1,4,"['BDNF', 'brain-derived neurotrophic factor']"
+29517,Sgk1,serum/glucocorticoid regulated kinase 1,,Rattus norvegicus,1,4,"['SGK1', 'serum/glucocorticoid-regulated kinase 1']"
+3687,ITGAX,integrin subunit alpha X,,Homo sapiens,1,4,"['CD11c', 'Cd11c', 'Itgax']"
+5594,MAPK1,mitogen-activated protein kinase 1,,Homo sapiens,1,4,['ERK']
+66849,Ppp1r2,"protein phosphatase 1, regulatory inhibitor subunit 2",,Mus musculus,1,4,['Ppp1r2']
+775,CACNA1C,calcium voltage-gated channel subunit alpha1 C,,Homo sapiens,1,4,['Cav1.2']
+83785,Vegfa,vascular endothelial growth factor A,,Rattus norvegicus,1,4,"['VEGF', 'vascular endothelial growth factor']"
+9314,KLF4,KLF transcription factor 4,,Homo sapiens,1,4,['KLF4']
+10725,NFAT5,nuclear factor of activated T cells 5,,Homo sapiens,1,3,['TonEBP']
+12978,Csf1r,colony stimulating factor 1 receptor,,Mus musculus,1,3,"['CSF-1R', 'Colony-stimulating factor-1 receptor', 'colony-stimulating factor-1 receptor']"
+1499,CTNNB1,catenin beta 1,,Homo sapiens,1,3,['beta-catenin']
+170496,Lcn2,lipocalin 2,,Rattus norvegicus,1,3,"['NGAL', 'neutrophil gelatinase-associated lipocalin']"
+171049,Folr1,folate receptor alpha,,Rattus norvegicus,1,3,"['Folr1', 'folate receptor-alpha']"
+17708,COX1,cytochrome c oxidase subunit I,,Mus musculus,1,3,['COX1']
+17709,COX2,cytochrome c oxidase subunit II,,Mus musculus,1,3,['COX2']
+18783,Pla2g4a,"phospholipase A2, group IVA (cytosolic, calcium-dependent)",,Mus musculus,1,3,['cPLA2alpha']
+2321,FLT1,fms related receptor tyrosine kinase 1,,Homo sapiens,1,3,['FLT-1']
+308760,Rccd1,RCC1 domain containing 1,,Rattus norvegicus,1,3,['RCCD1']
+3586,IL10,interleukin 10,,Homo sapiens,1,3,['IL-10']
+4846,NOS3,nitric oxide synthase 3,,Homo sapiens,1,3,['eNOS']
+566096,hp,haptoglobin,,Danio rerio,1,3,['hpl']
+10536,P3H3,prolyl 3-hydroxylase 3,,Homo sapiens,1,2,['P3H3']
+11423,Ache,acetylcholinesterase,,Mus musculus,1,2,"['Acetylcholinesterase', 'acetylcholinesterase']"
+114737,Iba1,induction of brown adipocytes 1,,Mus musculus,1,2,['Iba1']
+11838,Arc,activity regulated cytoskeletal-associated protein,,Mus musculus,1,2,"['Arc', 'activity-regulated cytoskeleton-associated protein']"
+11998,Avp,arginine vasopressin,,Mus musculus,1,2,['AVP']
+14617,Gjd2,"gap junction protein, delta 2",,Mus musculus,1,2,"['Connexins', 'connexins']"
+1644,DDC,dopa decarboxylase,,Homo sapiens,1,2,"['AADC', 'aromatic L-amino acid decarboxylase']"
+170913,Abcb1a,ATP binding cassette subfamily B member 1A,,Rattus norvegicus,1,2,['Abcb1a']
+17196,Mbp,myelin basic protein,,Mus musculus,1,2,['MBP']
+18125,Nos1,"nitric oxide synthase 1, neuronal",,Mus musculus,1,2,"['nNOS', 'neuronal nitric oxide synthase']"
+18429,Oxt,oxytocin,,Mus musculus,1,2,['Oxytocin']
+1958,EGR1,early growth response 1,,Homo sapiens,1,2,['Egr1']
+20259,Scin,scinderin,,Mus musculus,1,2,['SCIN']
+22348,Slc32a1,"solute carrier family 32 (GABA vesicular transporter), member 1",,Mus musculus,1,2,"['VGAT', 'vesicular GABA transporter']"
+23237,ARC,activity regulated cytoskeleton associated protein,,Homo sapiens,1,2,"['Arc', 'arc']"
+24646,Abcb1b,"ATP-binding cassette, sub-family B member 1B",,Rattus norvegicus,1,2,['Abcb1b']
+24768,Scnn1g,sodium channel epithelial 1 subunit gamma,,Rattus norvegicus,1,2,['ENaC']
+26413,Mapk1,mitogen-activated protein kinase 1,,Mus musculus,1,2,"['ERK', 'extracellular signal-regulated kinase']"
+280846,LTF,lactotransferrin,,Bos taurus,1,2,['lactoferrin']
+30659,dnmt3bb.2,"DNA (cytosine-5-)-methyltransferase 3 beta, duplicate b.2",,Danio rerio,1,2,"['DNA methyltransferase', 'DNMTs']"
+3552,IL1A,interleukin 1 alpha,,Homo sapiens,1,2,"['IL-1', 'IL1A']"
+3576,CXCL8,C-X-C motif chemokine ligand 8,,Homo sapiens,1,2,['IL-8']
+3916,LAMP1,lysosome associated membrane protein 1,,Homo sapiens,1,2,['CD107a']
+402974,pitx3,paired-like homeodomain 3,,Danio rerio,1,2,['Pitx3']
+43149,Nf1,Neurofibromin 1,,Drosophila melanogaster,1,2,['NF1']
+43580,sima,similar,,Drosophila melanogaster,1,2,['Sima']
+4790,NFKB1,nuclear factor kappa B subunit 1,,Homo sapiens,1,2,['NF-kappaB']
+5228,PGF,placental growth factor,,Homo sapiens,1,2,"['PGF', 'placental growth factor']"
+54263,Kcnn3,potassium calcium-activated channel subfamily N member 3,,Rattus norvegicus,1,2,['SK3']
+56262,LRRC8A,leucine rich repeat containing 8 VRAC subunit A,,Homo sapiens,1,2,"['LRRC8', 'leucine-rich repeat containing 8']"
+59272,ACE2,angiotensin converting enzyme 2,,Homo sapiens,1,2,"['ACE2', 'angiotensin-converting enzyme 2']"
+6347,CCL2,C-C motif chemokine ligand 2,,Homo sapiens,1,2,"['CCL2', 'monocyte chemoattractant protein-1']"
+6348,CCL3,C-C motif chemokine ligand 3,,Homo sapiens,1,2,"['CCL3', 'macrophage inflammatory protein-1 alpha']"
+6352,CCL5,C-C motif chemokine ligand 5,,Homo sapiens,1,2,"['CCL5', 'chemokine (C-C motif) ligand 5']"
+6571,SLC18A2,solute carrier family 18 member A2,,Homo sapiens,1,2,"['VMAT2', 'vesicular monoamine transporter 2']"
+7432,VIP,vasoactive intestinal peptide,,Homo sapiens,1,2,"['VIP', 'vasoactive intestinal peptide']"
+84577,Hdac2,histone deacetylase 2,,Rattus norvegicus,1,2,"['HDAC2', 'histone deacetylase 2']"
+8842,PROM1,prominin 1,,Homo sapiens,1,2,['CD133']
+91433,RCCD1,RCC1 domain containing 1,,Homo sapiens,1,2,['RCCD1']
+959,CD40LG,CD40 ligand,,Homo sapiens,1,2,"['CD40 Ligand', 'CD40 ligand']"
+10457,GPNMB,glycoprotein nmb,,Homo sapiens,1,1,['Gpnmb']
+108058,Camk2d,"calcium/calmodulin-dependent protein kinase II, delta",,Mus musculus,1,1,['CaMKII']
+12048,Bcl2l1,BCL2-like 1,,Mus musculus,1,1,['Bcl-XL']
+12122,Bid,BH3 interacting domain death agonist,,Mus musculus,1,1,['Bid']
+12370,Casp8,caspase 8,,Mus musculus,1,1,['caspase-8']
+12371,Casp9,caspase 9,,Mus musculus,1,1,['caspase-9']
+1268,CNR1,cannabinoid receptor 1,,Homo sapiens,1,1,['CB1']
+12857,Cox4i1,cytochrome c oxidase subunit 4I1,,Mus musculus,1,1,['COX']
+1302,COL11A2,collagen type XI alpha 2 chain,,Homo sapiens,1,1,['PARP']
+13370,Dio1,"deiodinase, iodothyronine, type I",,Mus musculus,1,1,['D1/D5']
+1401,CRP,C-reactive protein,,Homo sapiens,1,1,['C-reactive protein']
+1440,CSF3,colony stimulating factor 3,,Homo sapiens,1,1,['CSF3']
+14645,Glul,glutamate-ammonia ligase,,Mus musculus,1,1,['glutamine synthetase']
+15530,Hspg2,perlecan (heparan sulfate proteoglycan 2),,Mus musculus,1,1,['PLC']
+15978,Ifng,interferon gamma,,Mus musculus,1,1,['interferon-gamma']
+16183,Il2,interleukin 2,,Mus musculus,1,1,['IL-2']
+16783,Lamp1,lysosomal-associated membrane protein 1,,Mus musculus,1,1,['CD107a']
+171144,Slco4a1,"solute carrier organic anion transporter family, member 4a1",,Rattus norvegicus,1,1,['Slco4A1']
+17395,Mmp9,matrix metallopeptidase 9,,Mus musculus,1,1,['matrix metalloproteinase 9']
+1791,DNTT,DNA nucleotidylexotransferase,,Homo sapiens,1,1,['Terminal Deoxynucleotidyltransferase']
+1812,DRD1,dopamine receptor D1,,Homo sapiens,1,1,['dopamine D1/D5 receptors']
+18538,Pcna,proliferating cell nuclear antigen,,Mus musculus,1,1,['proliferating cell nuclear antigen']
+192302,hdac1,histone deacetylase 1,,Danio rerio,1,1,['HDAC-1']
+2069,EREG,epiregulin,,Homo sapiens,1,1,['ER']
+2100,ESR2,estrogen receptor 2,,Homo sapiens,1,1,['ERbeta']
+212541,Rho,rhodopsin,,Mus musculus,1,1,['rhodopsin']
+2166,FAAH,fatty acid amide hydrolase,,Homo sapiens,1,1,['FAAH']
+22035,Tnfsf10,"tumor necrosis factor (ligand) superfamily, member 10",,Mus musculus,1,1,['TRAIL']
+2302,FOXJ1,forkhead box J1,,Homo sapiens,1,1,['FoxJ1']
+23621,BACE1,beta-secretase 1,,Homo sapiens,1,1,['ASP2']
+23673,STX12,syntaxin 12,,Homo sapiens,1,1,['Stx1/2']
+24523,Klk1,kallikrein 1,,Rattus norvegicus,1,1,['Klk1']
+24954,Insr,insulin receptor,,Rattus norvegicus,1,1,['insulin receptor']
+2717,GLA,galactosidase alpha,,Homo sapiens,1,1,['alpha-galactosidase A']
+27303,RBMS3,RNA binding motif single stranded interacting protein 3,,Homo sapiens,1,1,['RNA binding protein']
+2921,CXCL3,C-X-C motif chemokine ligand 3,,Homo sapiens,1,1,['CXCL3']
+29723,Slc19a1,solute carrier family 19 member 1,,Rattus norvegicus,1,1,['Slc19A1']
+30466,ascl1a,achaete-scute family bHLH transcription factor 1a,,Danio rerio,1,1,['ascl1a']
+30646,gfap,glial fibrillary acidic protein,,Danio rerio,1,1,['glial fibrillary acidic protein']
+30725,chrna1,"cholinergic receptor, nicotinic, alpha 1 (muscle)",,Danio rerio,1,1,['Nicotinic receptor']
+32260,Fer3HCH,Ferritin 3 heavy chain homologue,,Drosophila melanogaster,1,1,['Fer3HCH']
+3439,IFNA1,interferon alpha 1,,Homo sapiens,1,1,['IFN']
+3458,IFNG,interferon gamma,,Homo sapiens,1,1,['IFN-gamma']
+3569,IL6,interleukin 6,,Homo sapiens,1,1,['IL-6']
+3627,CXCL10,C-X-C motif chemokine ligand 10,,Homo sapiens,1,1,['CXCL10']
+3688,ITGB1,integrin subunit beta 1,,Homo sapiens,1,1,['integrin beta1']
+3759,KCNJ2,potassium inwardly rectifying channel subfamily J member 2,,Homo sapiens,1,1,['KCNJ2']
+3791,KDR,kinase insert domain receptor,,Homo sapiens,1,1,['KDR']
+3805,KIR2DL4,"killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 4",,Homo sapiens,1,1,['Kir']
+389118,CDHR4,cadherin related family member 4,,Homo sapiens,1,1,['Cdhr4']
+405785,tnfa,"tumor necrosis factor a (TNF superfamily, member 2)",,Danio rerio,1,1,['tnfalpha']
+41709,foxo,"forkhead box, sub-group O",,Drosophila melanogaster,1,1,['Foxo']
+46415,Fer1HCH,Ferritin 1 heavy chain homologue,,Drosophila melanogaster,1,1,['ferritin']
+4681,NBL1,"NBL1, DAN family BMP antagonist",,Homo sapiens,1,1,['NBL1']
+4907,NT5E,5'-nucleotidase ecto,,Homo sapiens,1,1,"[""ecto-5'-nucleotidase""]"
+50719,Slc7a5,solute carrier family 7 member 5,,Rattus norvegicus,1,1,['Slc7A5']
+51284,TLR7,toll like receptor 7,,Homo sapiens,1,1,['TLR7']
+5291,PIK3CB,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",,Homo sapiens,1,1,['PI3K']
+5295,PIK3R1,phosphoinositide-3-kinase regulatory subunit 1,,Homo sapiens,1,1,['phosphatidylinositol-3-kinase']
+54768,HYDIN,HYDIN axonemal central pair apparatus protein,,Homo sapiens,1,1,['Hydin']
+5806,PTX3,pentraxin 3,,Homo sapiens,1,1,['TNFAIP5']
+5992,RFX4,regulatory factor X4,,Homo sapiens,1,1,['Rfx4']
+6097,RORC,RAR related orphan receptor C,,Homo sapiens,1,1,['TOR']
+6550,SLC9A3,solute carrier family 9 member A3,,Homo sapiens,1,1,['NHE-3']
+6853,SYN1,synapsin I,,Homo sapiens,1,1,['synapsin-1']
+7099,TLR4,toll like receptor 4,,Homo sapiens,1,1,['TLR4']
+7130,TNFAIP6,TNF alpha induced protein 6,,Homo sapiens,1,1,['TNFAIP6']
+7357,UGCG,UDP-glucose ceramide glucosyltransferase,,Homo sapiens,1,1,['glucosylceramide synthase']
+776,CACNA1D,calcium voltage-gated channel subunit alpha1 D,,Homo sapiens,1,1,['Cav1.3']
+793,CALB1,calbindin 1,,Homo sapiens,1,1,['calbindin']
+79582,SPAG16,sperm associated antigen 16,,Homo sapiens,1,1,['Spag16']
+79689,STEAP4,STEAP4 metalloreductase,,Homo sapiens,1,1,['TNFAIP9']
+797150,hif1aa,hypoxia inducible factor 1 subunit alpha a,,Danio rerio,1,1,['hif1alpha']
+79846,CFAP69,cilia and flagella associated protein 69,,Homo sapiens,1,1,['Cfap69']
+80129,CCDC170,coiled-coil domain containing 170,,Homo sapiens,1,1,['Ccdc170']
+80217,CFAP43,cilia and flagella associated protein 43,,Homo sapiens,1,1,['Cfap43']
+8128,ST8SIA2,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2",,Homo sapiens,1,1,['Stx']
+81646,Creb1,cAMP responsive element binding protein 1,,Rattus norvegicus,1,1,['CREB']
+818,CAMK2G,calcium/calmodulin dependent protein kinase II gamma,,Homo sapiens,1,1,['CaMKII']
+81818,Vim,vimentin,,Rattus norvegicus,1,1,['vimentin']
+83626,Ugcg,UDP-glucose ceramide glucosyltransferase,,Rattus norvegicus,1,1,['glucosylceramide synthase']
+84557,MAP1LC3A,microtubule associated protein 1 light chain 3 alpha,,Homo sapiens,1,1,['LC3']
+9467,SH3BP5,SH3 domain binding protein 5,,Homo sapiens,1,1,['sab']
+953,ENTPD1,ectonucleoside triphosphate diphosphohydrolase 1,,Homo sapiens,1,1,['ecto-nucleoside triphosphate diphosphohydrolase-1 and -2']
+968,CD68,CD68 molecule,,Homo sapiens,1,1,['Cd68']
+969,CD69,CD69 molecule,,Homo sapiens,1,1,['CD69']

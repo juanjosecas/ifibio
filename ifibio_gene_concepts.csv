@@ -1,0 +1,208 @@
+GeneConcept,Papers,Mentions,N_GeneIDs,GeneIDs,Symbols,N_species,TaxIDs,Organisms,Text_mentions
+STX2,23,124,4,"['13852', '2054', '25130', '519148']","['STX2', 'Stx2']",1,[''],"['Bos taurus', 'Homo sapiens', 'Mus musculus', 'Rattus norvegicus']","['Stx2', 'Stx2a', 'stx2']"
+AQP4,12,71,2,"['11829', '361']","['AQP4', 'Aqp4']",1,[''],"['Homo sapiens', 'Mus musculus']","['AQP4', 'AQUAPORIN-4', 'Aquaporin 4', 'Aquaporin-4', 'aquaporin-4']"
+AQP1,12,39,2,"['25240', '358']","['AQP1', 'Aqp1']",1,[''],"['Homo sapiens', 'Rattus norvegicus']","['AQP1', 'AQP1/4', 'Aquaporin 1', 'Aquaporin-1', 'aquaporin 1', 'aquaporin-1']"
+TARDBP,9,48,2,"['230908', '23435']","['TARDBP', 'Tardbp']",1,[''],"['Homo sapiens', 'Mus musculus']","['TAR DNA-binding protein 43', 'TAR-DNA-binding protein-43', 'TDP 43', 'TDP-43', 'transactive response DNA-binding protein of 43 kDa']"
+FOS,9,16,2,"['14281', '2353']","['FOS', 'Fos']",1,[''],"['Homo sapiens', 'Mus musculus']","['C-FOS', 'c-Fos', 'c-fos']"
+AQP3,8,57,2,"['11828', '360']","['AQP3', 'Aqp3']",1,[''],"['Homo sapiens', 'Mus musculus']","['AQP3', 'Aquaporin 3', 'aquaporin 3', 'aquaporin-3']"
+TNF,7,23,3,"['21926', '24835', '7124']","['TNF', 'Tnf']",1,[''],"['Homo sapiens', 'Mus musculus', 'Rattus norvegicus']","['TNF-alpha', 'TNFalpha', 'Tumor Necrosis Factor-Alpha', 'Tumor necrosis factor-alpha', 'tumor necrosis factor-alpha']"
+TRPV4,6,48,2,"['59341', '66026']","['TRPV4', 'Trpv4']",1,[''],"['Homo sapiens', 'Rattus norvegicus']","['TRPV4', 'Transient Receptor Potential Vanilloid 4', 'transient receptor potential vanilloid 4']"
+DRD2,6,37,1,['13489'],['Drd2'],1,[''],['Mus musculus'],"['D2 receptor', 'D2R', 'Dopamine D2 receptor', 'Drd2', 'dopamine D2 receptor']"
+AQP9,6,32,1,['366'],['AQP9'],1,[''],['Homo sapiens'],"['AQP9', 'AQUAPORIN-9', 'Aquaporin-9']"
+STX1A,6,18,1,['6804'],['STX1A'],1,[''],['Homo sapiens'],"['Stx1', 'stx1']"
+CAV1,6,13,1,['857'],['CAV1'],1,[''],['Homo sapiens'],"['Cav-1', 'Caveolin-1', 'caveolin-1']"
+A4GALT,6,11,2,"['53947', '63888']","['A4GALT', 'A4galt']",1,[''],"['Homo sapiens', 'Rattus norvegicus']","['GB3', 'Gb3']"
+DRD1,6,6,2,"['13488', '1812']","['DRD1', 'Drd1']",1,[''],"['Homo sapiens', 'Mus musculus']","['D1 receptor', 'Drd1', 'dopamine D1 and D2 receptors', 'dopamine D1 receptor', 'dopamine D1/D5 receptor', 'dopamine D1/D5 receptors']"
+AQP2,5,48,3,"['11827', '25386', '359']","['AQP2', 'Aqp2']",1,[''],"['Homo sapiens', 'Mus musculus', 'Rattus norvegicus']","['AQP2', 'Aquaporin 2', 'Aquaporin-2']"
+CASP3,5,9,2,"['12367', '836']","['CASP3', 'Casp3']",1,[''],"['Homo sapiens', 'Mus musculus']","['caspase 3', 'caspase-3']"
+BCL2,5,7,2,"['12043', '596']","['BCL2', 'Bcl2']",1,[''],"['Homo sapiens', 'Mus musculus']",['Bcl-2']
+SLC9A1,4,22,3,"['20544', '24782', '6548']","['SLC9A1', 'Slc9a1']",1,[''],"['Homo sapiens', 'Mus musculus', 'Rattus norvegicus']","['NHE1', 'Na(+)/H(+) exchanger (NHE)-1', 'Na+ /H+ exchanger isoform 1', 'Na+/H+ exchanger isoform 1']"
+PVALB,4,12,1,['19293'],['Pvalb'],1,[''],['Mus musculus'],"['PV', 'parvalbumin']"
+CD4,4,8,2,"['24932', '920']","['CD4', 'Cd4']",1,[''],"['Homo sapiens', 'Rattus norvegicus']","['CD4', 'CD4+']"
+BAX,4,6,1,['581'],['BAX'],1,[''],['Homo sapiens'],['Bax']
+GFAP,4,6,2,"['14580', '30646']","['Gfap', 'gfap']",1,[''],"['Danio rerio', 'Mus musculus']","['GFAP', 'glial fibrillary acidic protein']"
+VIM,4,6,2,"['7431', '81818']","['VIM', 'Vim']",1,[''],"['Homo sapiens', 'Rattus norvegicus']","['Vimentin', 'vimentin']"
+GRIN1,3,19,1,['14810'],['Grin1'],1,[''],['Mus musculus'],"['Grin1', 'N-methyl-D-aspartate receptor', 'NMDA receptors', 'NMDAR', 'NMDAr']"
+HIF1A,3,13,1,['3091'],['HIF1A'],1,[''],['Homo sapiens'],"['HIF-1alpha', 'hypoxia inducible factor (HIF)-1alpha', 'hypoxia inducible factor-1 alpha']"
+VEGFA,3,10,2,"['7422', '83785']","['VEGFA', 'Vegfa']",1,[''],"['Homo sapiens', 'Rattus norvegicus']","['VEGF', 'VEGFA', 'vascular endothelial growth factor']"
+ARC,3,9,3,"['11838', '23237', '54323']","['ARC', 'Arc']",1,[''],"['Homo sapiens', 'Mus musculus', 'Rattus norvegicus']","['Arc', 'activity-regulated cytoskeletal-associated protein', 'activity-regulated cytoskeleton-associated protein', 'arc']"
+MAPK3,3,6,1,['26417'],['Mapk3'],1,[''],['Mus musculus'],['ERK1/2']
+POMC,2,42,1,['18976'],['Pomc'],1,[''],['Mus musculus'],"['POMC', 'Pomc', 'Proopiomelanocortin', 'proopiomelanocortin']"
+SPP1,2,12,1,['6696'],['SPP1'],1,[''],['Homo sapiens'],"['OPN', 'Osteopontin', 'Spp1']"
+HTR2A,2,11,1,['15558'],['Htr2a'],1,[''],['Mus musculus'],"['5-HT2A', '5-HT2A -/-', '5-HT2A receptors', 'htr2a']"
+SST,2,11,1,['20604'],['Sst'],1,[''],['Mus musculus'],"['SOM', 'Somatostatin', 'somatostatin']"
+VIP,2,11,2,"['22353', '7432']","['VIP', 'Vip']",1,[''],"['Homo sapiens', 'Mus musculus']","['VIP', 'Vasoactive intestinal peptide', 'vasoactive intestinal peptide']"
+TRPV1,2,10,1,['7442'],['TRPV1'],1,[''],['Homo sapiens'],"['TRPV-1', 'Transient receptor potential vanilloid 1', 'transient receptor potential vanilloid 1']"
+NFKB1,2,8,2,"['18033', '4790']","['NFKB1', 'Nfkb1']",1,[''],"['Homo sapiens', 'Mus musculus']","['NF-kappa B', 'NF-kappaB']"
+SLC6A3,2,8,1,['6531'],['SLC6A3'],1,[''],['Homo sapiens'],"['DAT', 'dopamine transporter']"
+SLC9A2,2,7,1,['6549'],['SLC9A2'],1,[''],['Homo sapiens'],"['NHE-2', 'NHE2']"
+TH,2,7,1,['7054'],['TH'],1,[''],['Homo sapiens'],"['TH', 'TH+', 'tyrosine hydroxylase']"
+GJB2,2,6,1,['2706'],['GJB2'],1,[''],['Homo sapiens'],"['Cx26', 'GJB2']"
+KCNA3,2,6,1,['16491'],['Kcna3'],1,[''],['Mus musculus'],['Kv1.3']
+MAPK1,2,6,2,"['26413', '5594']","['MAPK1', 'Mapk1']",1,[''],"['Homo sapiens', 'Mus musculus']","['ERK', 'extracellular signal-regulated kinase']"
+SYNPO,2,6,1,['11346'],['SYNPO'],1,[''],['Homo sapiens'],['synaptopodin']
+DRD5,2,5,1,['13492'],['Drd5'],1,[''],['Mus musculus'],"['D5R', 'Drd5', 'dopamine D5 receptor']"
+RCCD1,2,5,2,"['308760', '91433']","['RCCD1', 'Rccd1']",1,[''],"['Homo sapiens', 'Rattus norvegicus']",['RCCD1']
+MMP2,2,4,1,['4313'],['MMP2'],1,[''],['Homo sapiens'],"['MMP-2', 'matrix metalloproteinase-2']"
+PTPRC,2,4,1,['24699'],['Ptprc'],1,[''],['Rattus norvegicus'],['CD45']
+RL,2,4,1,['3354888'],['rl'],1,[''],['Drosophila melanogaster'],"['ERK1/2', 'mitogen-activated protein kinase']"
+ZGC:113984,2,4,1,['573997'],['zgc:113984'],1,[''],['Danio rerio'],['histone']
+LAMP1,2,3,2,"['16783', '3916']","['LAMP1', 'Lamp1']",1,[''],"['Homo sapiens', 'Mus musculus']",['CD107a']
+RBFOX3,2,3,1,['52897'],['Rbfox3'],1,[''],['Mus musculus'],['NeuN']
+VEGFAA,2,3,1,['30682'],['vegfaa'],1,[''],['Danio rerio'],"['VEGF', 'vascular endothelial growth factor', 'vegfaa']"
+IFNG,2,2,2,"['15978', '3458']","['IFNG', 'Ifng']",1,[''],"['Homo sapiens', 'Mus musculus']","['IFN-gamma', 'interferon-gamma']"
+LIN28AB,2,2,1,['394066'],['lin28ab'],1,[''],['Danio rerio'],['lin28a']
+PARP1,2,2,1,['11545'],['Parp1'],1,[''],['Mus musculus'],"['PARP-1', 'poly(ADP-ribose) polymerase']"
+UGCG,2,2,2,"['7357', '83626']","['UGCG', 'Ugcg']",1,[''],"['Homo sapiens', 'Rattus norvegicus']",['glucosylceramide synthase']
+PLAUR,1,11,1,['5329'],['PLAUR'],1,[''],['Homo sapiens'],"['uPAR', 'urokinase-type Plasminogen Activator Receptor']"
+ADORA2A,1,10,1,['135'],['ADORA2A'],1,[''],['Homo sapiens'],"[' receptor', 'ADORA2A']"
+THBD,1,10,1,['7056'],['THBD'],1,[''],['Homo sapiens'],"['THBD', 'Thrombomodulin', 'thrombomodulin']"
+THOR,1,10,1,['33569'],['Thor'],1,[''],['Drosophila melanogaster'],"['4E-BP', '4EBP', 'Thor']"
+MAPT,1,9,1,['4137'],['MAPT'],1,[''],['Homo sapiens'],"['Tau', 'microtubule-associated protein tau', 'tau']"
+NPY,1,7,1,['109648'],['Npy'],1,[''],['Mus musculus'],"['NPY', 'Neuropeptide Y', 'Npy', 'neuropeptide Y']"
+P2RX7,1,7,1,['387298'],['p2rx7'],1,[''],['Danio rerio'],['P2RX7']
+P2RY1,1,7,1,['100003922'],['p2ry1'],1,[''],['Danio rerio'],['P2RY1']
+PODXL,1,7,1,['5420'],['PODXL'],1,[''],['Homo sapiens'],['podocalyxin']
+TG,1,7,1,['7038'],['TG'],1,[''],['Homo sapiens'],"['TG', 'thyroglobulin']"
+GH,1,6,1,['14599'],['Gh'],1,[''],['Mus musculus'],"['GH', 'growth hormone']"
+GJA1,1,6,1,['14609'],['Gja1'],1,[''],['Mus musculus'],"['Cx43', 'connexin 43']"
+MVL,1,6,1,['42490'],['Mvl'],1,[''],['Drosophila melanogaster'],"['Malvolio', 'Mvl']"
+SIRT6,1,6,1,['50721'],['Sirt6'],1,[''],['Mus musculus'],['SIRT6']
+SLC6A11,1,6,1,['79213'],['Slc6a11'],1,[''],['Rattus norvegicus'],['GAT-3']
+CD80,1,5,1,['941'],['CD80'],1,[''],['Homo sapiens'],"['B7-1', 'CD80']"
+EHMT2,1,5,1,['569250'],['ehmt2'],1,[''],['Danio rerio'],['G9a']
+GPER1,1,5,1,['2852'],['GPER1'],1,[''],['Homo sapiens'],"['G protein-coupled estrogen receptor 1', 'G protein-coupled estrogen receptor-1', 'GPER-1']"
+HTR1A,1,5,1,['15550'],['Htr1a'],1,[''],['Mus musculus'],['5-HT1A']
+SLC12A2,1,5,1,['83629'],['Slc12a2'],1,[''],['Rattus norvegicus'],"['NKCC1', 'Na+ -K+ -2Cl- cotransporter 1']"
+BDNF,1,4,1,['24225'],['Bdnf'],1,[''],['Rattus norvegicus'],"['BDNF', 'brain-derived neurotrophic factor']"
+CACNA1C,1,4,1,['775'],['CACNA1C'],1,[''],['Homo sapiens'],['Cav1.2']
+ESR1,1,4,1,['2099'],['ESR1'],1,[''],['Homo sapiens'],"['ERalpha', 'estrogen receptor alpha', 'estrogen receptor-alpha']"
+ITGAX,1,4,1,['3687'],['ITGAX'],1,[''],['Homo sapiens'],"['CD11c', 'Cd11c', 'Itgax']"
+KLF4,1,4,1,['9314'],['KLF4'],1,[''],['Homo sapiens'],['KLF4']
+PCSK9,1,4,1,['100102'],['Pcsk9'],1,[''],['Mus musculus'],['Pc9']
+PPP1R2,1,4,1,['66849'],['Ppp1r2'],1,[''],['Mus musculus'],['Ppp1r2']
+SGK1,1,4,1,['29517'],['Sgk1'],1,[''],['Rattus norvegicus'],"['SGK1', 'serum/glucocorticoid-regulated kinase 1']"
+SOX9,1,4,1,['20682'],['Sox9'],1,[''],['Mus musculus'],['SOX9']
+COX1,1,3,1,['17708'],['COX1'],1,[''],['Mus musculus'],['COX1']
+COX2,1,3,1,['17709'],['COX2'],1,[''],['Mus musculus'],['COX2']
+CSF1R,1,3,1,['12978'],['Csf1r'],1,[''],['Mus musculus'],"['CSF-1R', 'Colony-stimulating factor-1 receptor', 'colony-stimulating factor-1 receptor']"
+CTNNB1,1,3,1,['1499'],['CTNNB1'],1,[''],['Homo sapiens'],['beta-catenin']
+FLT1,1,3,1,['2321'],['FLT1'],1,[''],['Homo sapiens'],['FLT-1']
+FOLR1,1,3,1,['171049'],['Folr1'],1,[''],['Rattus norvegicus'],"['Folr1', 'folate receptor-alpha']"
+HP,1,3,1,['566096'],['hp'],1,[''],['Danio rerio'],['hpl']
+IL10,1,3,1,['3586'],['IL10'],1,[''],['Homo sapiens'],['IL-10']
+LCN2,1,3,1,['170496'],['Lcn2'],1,[''],['Rattus norvegicus'],"['NGAL', 'neutrophil gelatinase-associated lipocalin']"
+NFAT5,1,3,1,['10725'],['NFAT5'],1,[''],['Homo sapiens'],['TonEBP']
+NOS3,1,3,1,['4846'],['NOS3'],1,[''],['Homo sapiens'],['eNOS']
+PLA2G4A,1,3,1,['18783'],['Pla2g4a'],1,[''],['Mus musculus'],['cPLA2alpha']
+ABCB1A,1,2,1,['170913'],['Abcb1a'],1,[''],['Rattus norvegicus'],['Abcb1a']
+ABCB1B,1,2,1,['24646'],['Abcb1b'],1,[''],['Rattus norvegicus'],['Abcb1b']
+ACE2,1,2,1,['59272'],['ACE2'],1,[''],['Homo sapiens'],"['ACE2', 'angiotensin-converting enzyme 2']"
+ACHE,1,2,1,['11423'],['Ache'],1,[''],['Mus musculus'],"['Acetylcholinesterase', 'acetylcholinesterase']"
+AVP,1,2,1,['11998'],['Avp'],1,[''],['Mus musculus'],['AVP']
+CCL2,1,2,1,['6347'],['CCL2'],1,[''],['Homo sapiens'],"['CCL2', 'monocyte chemoattractant protein-1']"
+CCL3,1,2,1,['6348'],['CCL3'],1,[''],['Homo sapiens'],"['CCL3', 'macrophage inflammatory protein-1 alpha']"
+CCL5,1,2,1,['6352'],['CCL5'],1,[''],['Homo sapiens'],"['CCL5', 'chemokine (C-C motif) ligand 5']"
+CD40LG,1,2,1,['959'],['CD40LG'],1,[''],['Homo sapiens'],"['CD40 Ligand', 'CD40 ligand']"
+CXCL8,1,2,1,['3576'],['CXCL8'],1,[''],['Homo sapiens'],['IL-8']
+DDC,1,2,1,['1644'],['DDC'],1,[''],['Homo sapiens'],"['AADC', 'aromatic L-amino acid decarboxylase']"
+DNMT3BB.2,1,2,1,['30659'],['dnmt3bb.2'],1,[''],['Danio rerio'],"['DNA methyltransferase', 'DNMTs']"
+EGR1,1,2,1,['1958'],['EGR1'],1,[''],['Homo sapiens'],['Egr1']
+GJD2,1,2,1,['14617'],['Gjd2'],1,[''],['Mus musculus'],"['Connexins', 'connexins']"
+HDAC2,1,2,1,['84577'],['Hdac2'],1,[''],['Rattus norvegicus'],"['HDAC2', 'histone deacetylase 2']"
+IBA1,1,2,1,['114737'],['Iba1'],1,[''],['Mus musculus'],['Iba1']
+IL1A,1,2,1,['3552'],['IL1A'],1,[''],['Homo sapiens'],"['IL-1', 'IL1A']"
+KCNN3,1,2,1,['54263'],['Kcnn3'],1,[''],['Rattus norvegicus'],['SK3']
+LRRC8A,1,2,1,['56262'],['LRRC8A'],1,[''],['Homo sapiens'],"['LRRC8', 'leucine-rich repeat containing 8']"
+LTF,1,2,1,['280846'],['LTF'],1,[''],['Bos taurus'],['lactoferrin']
+MBP,1,2,1,['17196'],['Mbp'],1,[''],['Mus musculus'],['MBP']
+NF1,1,2,1,['43149'],['Nf1'],1,[''],['Drosophila melanogaster'],['NF1']
+NOS1,1,2,1,['18125'],['Nos1'],1,[''],['Mus musculus'],"['nNOS', 'neuronal nitric oxide synthase']"
+OXT,1,2,1,['18429'],['Oxt'],1,[''],['Mus musculus'],['Oxytocin']
+P3H3,1,2,1,['10536'],['P3H3'],1,[''],['Homo sapiens'],['P3H3']
+PGF,1,2,1,['5228'],['PGF'],1,[''],['Homo sapiens'],"['PGF', 'placental growth factor']"
+PITX3,1,2,1,['402974'],['pitx3'],1,[''],['Danio rerio'],['Pitx3']
+PROM1,1,2,1,['8842'],['PROM1'],1,[''],['Homo sapiens'],['CD133']
+SCIN,1,2,1,['20259'],['Scin'],1,[''],['Mus musculus'],['SCIN']
+SCNN1G,1,2,1,['24768'],['Scnn1g'],1,[''],['Rattus norvegicus'],['ENaC']
+SIMA,1,2,1,['43580'],['sima'],1,[''],['Drosophila melanogaster'],['Sima']
+SLC18A2,1,2,1,['6571'],['SLC18A2'],1,[''],['Homo sapiens'],"['VMAT2', 'vesicular monoamine transporter 2']"
+SLC32A1,1,2,1,['22348'],['Slc32a1'],1,[''],['Mus musculus'],"['VGAT', 'vesicular GABA transporter']"
+ASCL1A,1,1,1,['30466'],['ascl1a'],1,[''],['Danio rerio'],['ascl1a']
+BACE1,1,1,1,['23621'],['BACE1'],1,[''],['Homo sapiens'],['ASP2']
+BCL2L1,1,1,1,['12048'],['Bcl2l1'],1,[''],['Mus musculus'],['Bcl-XL']
+BID,1,1,1,['12122'],['Bid'],1,[''],['Mus musculus'],['Bid']
+CACNA1D,1,1,1,['776'],['CACNA1D'],1,[''],['Homo sapiens'],['Cav1.3']
+CALB1,1,1,1,['793'],['CALB1'],1,[''],['Homo sapiens'],['calbindin']
+CAMK2D,1,1,1,['108058'],['Camk2d'],1,[''],['Mus musculus'],['CaMKII']
+CAMK2G,1,1,1,['818'],['CAMK2G'],1,[''],['Homo sapiens'],['CaMKII']
+CASP8,1,1,1,['12370'],['Casp8'],1,[''],['Mus musculus'],['caspase-8']
+CASP9,1,1,1,['12371'],['Casp9'],1,[''],['Mus musculus'],['caspase-9']
+CCDC170,1,1,1,['80129'],['CCDC170'],1,[''],['Homo sapiens'],['Ccdc170']
+CD68,1,1,1,['968'],['CD68'],1,[''],['Homo sapiens'],['Cd68']
+CD69,1,1,1,['969'],['CD69'],1,[''],['Homo sapiens'],['CD69']
+CDHR4,1,1,1,['389118'],['CDHR4'],1,[''],['Homo sapiens'],['Cdhr4']
+CFAP43,1,1,1,['80217'],['CFAP43'],1,[''],['Homo sapiens'],['Cfap43']
+CFAP69,1,1,1,['79846'],['CFAP69'],1,[''],['Homo sapiens'],['Cfap69']
+CHRNA1,1,1,1,['30725'],['chrna1'],1,[''],['Danio rerio'],['Nicotinic receptor']
+CNR1,1,1,1,['1268'],['CNR1'],1,[''],['Homo sapiens'],['CB1']
+COL11A2,1,1,1,['1302'],['COL11A2'],1,[''],['Homo sapiens'],['PARP']
+COX4I1,1,1,1,['12857'],['Cox4i1'],1,[''],['Mus musculus'],['COX']
+CREB1,1,1,1,['81646'],['Creb1'],1,[''],['Rattus norvegicus'],['CREB']
+CRP,1,1,1,['1401'],['CRP'],1,[''],['Homo sapiens'],['C-reactive protein']
+CSF3,1,1,1,['1440'],['CSF3'],1,[''],['Homo sapiens'],['CSF3']
+CXCL10,1,1,1,['3627'],['CXCL10'],1,[''],['Homo sapiens'],['CXCL10']
+CXCL3,1,1,1,['2921'],['CXCL3'],1,[''],['Homo sapiens'],['CXCL3']
+DIO1,1,1,1,['13370'],['Dio1'],1,[''],['Mus musculus'],['D1/D5']
+DNTT,1,1,1,['1791'],['DNTT'],1,[''],['Homo sapiens'],['Terminal Deoxynucleotidyltransferase']
+ENTPD1,1,1,1,['953'],['ENTPD1'],1,[''],['Homo sapiens'],['ecto-nucleoside triphosphate diphosphohydrolase-1 and -2']
+EREG,1,1,1,['2069'],['EREG'],1,[''],['Homo sapiens'],['ER']
+ESR2,1,1,1,['2100'],['ESR2'],1,[''],['Homo sapiens'],['ERbeta']
+FAAH,1,1,1,['2166'],['FAAH'],1,[''],['Homo sapiens'],['FAAH']
+FER1HCH,1,1,1,['46415'],['Fer1HCH'],1,[''],['Drosophila melanogaster'],['ferritin']
+FER3HCH,1,1,1,['32260'],['Fer3HCH'],1,[''],['Drosophila melanogaster'],['Fer3HCH']
+FOXJ1,1,1,1,['2302'],['FOXJ1'],1,[''],['Homo sapiens'],['FoxJ1']
+FOXO,1,1,1,['41709'],['foxo'],1,[''],['Drosophila melanogaster'],['Foxo']
+GLA,1,1,1,['2717'],['GLA'],1,[''],['Homo sapiens'],['alpha-galactosidase A']
+GLUL,1,1,1,['14645'],['Glul'],1,[''],['Mus musculus'],['glutamine synthetase']
+GPNMB,1,1,1,['10457'],['GPNMB'],1,[''],['Homo sapiens'],['Gpnmb']
+HDAC1,1,1,1,['192302'],['hdac1'],1,[''],['Danio rerio'],['HDAC-1']
+HIF1AA,1,1,1,['797150'],['hif1aa'],1,[''],['Danio rerio'],['hif1alpha']
+HSPG2,1,1,1,['15530'],['Hspg2'],1,[''],['Mus musculus'],['PLC']
+HYDIN,1,1,1,['54768'],['HYDIN'],1,[''],['Homo sapiens'],['Hydin']
+IFNA1,1,1,1,['3439'],['IFNA1'],1,[''],['Homo sapiens'],['IFN']
+IL2,1,1,1,['16183'],['Il2'],1,[''],['Mus musculus'],['IL-2']
+IL6,1,1,1,['3569'],['IL6'],1,[''],['Homo sapiens'],['IL-6']
+INSR,1,1,1,['24954'],['Insr'],1,[''],['Rattus norvegicus'],['insulin receptor']
+ITGB1,1,1,1,['3688'],['ITGB1'],1,[''],['Homo sapiens'],['integrin beta1']
+KCNJ2,1,1,1,['3759'],['KCNJ2'],1,[''],['Homo sapiens'],['KCNJ2']
+KDR,1,1,1,['3791'],['KDR'],1,[''],['Homo sapiens'],['KDR']
+KIR2DL4,1,1,1,['3805'],['KIR2DL4'],1,[''],['Homo sapiens'],['Kir']
+KLK1,1,1,1,['24523'],['Klk1'],1,[''],['Rattus norvegicus'],['Klk1']
+MAP1LC3A,1,1,1,['84557'],['MAP1LC3A'],1,[''],['Homo sapiens'],['LC3']
+MMP9,1,1,1,['17395'],['Mmp9'],1,[''],['Mus musculus'],['matrix metalloproteinase 9']
+NBL1,1,1,1,['4681'],['NBL1'],1,[''],['Homo sapiens'],['NBL1']
+NT5E,1,1,1,['4907'],['NT5E'],1,[''],['Homo sapiens'],"[""ecto-5'-nucleotidase""]"
+PCNA,1,1,1,['18538'],['Pcna'],1,[''],['Mus musculus'],['proliferating cell nuclear antigen']
+PIK3CB,1,1,1,['5291'],['PIK3CB'],1,[''],['Homo sapiens'],['PI3K']
+PIK3R1,1,1,1,['5295'],['PIK3R1'],1,[''],['Homo sapiens'],['phosphatidylinositol-3-kinase']
+PTX3,1,1,1,['5806'],['PTX3'],1,[''],['Homo sapiens'],['TNFAIP5']
+RBMS3,1,1,1,['27303'],['RBMS3'],1,[''],['Homo sapiens'],['RNA binding protein']
+RFX4,1,1,1,['5992'],['RFX4'],1,[''],['Homo sapiens'],['Rfx4']
+RHO,1,1,1,['212541'],['Rho'],1,[''],['Mus musculus'],['rhodopsin']
+RORC,1,1,1,['6097'],['RORC'],1,[''],['Homo sapiens'],['TOR']
+SH3BP5,1,1,1,['9467'],['SH3BP5'],1,[''],['Homo sapiens'],['sab']
+SLC19A1,1,1,1,['29723'],['Slc19a1'],1,[''],['Rattus norvegicus'],['Slc19A1']
+SLC7A5,1,1,1,['50719'],['Slc7a5'],1,[''],['Rattus norvegicus'],['Slc7A5']
+SLC9A3,1,1,1,['6550'],['SLC9A3'],1,[''],['Homo sapiens'],['NHE-3']
+SLCO4A1,1,1,1,['171144'],['Slco4a1'],1,[''],['Rattus norvegicus'],['Slco4A1']
+SPAG16,1,1,1,['79582'],['SPAG16'],1,[''],['Homo sapiens'],['Spag16']
+ST8SIA2,1,1,1,['8128'],['ST8SIA2'],1,[''],['Homo sapiens'],['Stx']
+STEAP4,1,1,1,['79689'],['STEAP4'],1,[''],['Homo sapiens'],['TNFAIP9']
+STX12,1,1,1,['23673'],['STX12'],1,[''],['Homo sapiens'],['Stx1/2']
+SYN1,1,1,1,['6853'],['SYN1'],1,[''],['Homo sapiens'],['synapsin-1']
+TLR4,1,1,1,['7099'],['TLR4'],1,[''],['Homo sapiens'],['TLR4']
+TLR7,1,1,1,['51284'],['TLR7'],1,[''],['Homo sapiens'],['TLR7']
+TNFA,1,1,1,['405785'],['tnfa'],1,[''],['Danio rerio'],['tnfalpha']
+TNFAIP6,1,1,1,['7130'],['TNFAIP6'],1,[''],['Homo sapiens'],['TNFAIP6']
+TNFSF10,1,1,1,['22035'],['Tnfsf10'],1,[''],['Mus musculus'],['TRAIL']

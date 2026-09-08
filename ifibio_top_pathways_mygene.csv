@@ -1,0 +1,1783 @@
+PathwaySource,PathwayID,PathwayName,Genes
+kegg,hsa05200,Pathways in cancer - Homo sapiens (human),21
+wikipathways,WP4754,IL-18 signaling pathway,21
+kegg,hsa05417,Lipid and atherosclerosis - Homo sapiens (human),20
+kegg,hsa04151,PI3K-Akt signaling pathway - Homo sapiens (human),17
+kegg,hsa04933,AGE-RAGE signaling pathway in diabetic complications - Homo sapiens (human),17
+kegg,hsa05164,Influenza A - Homo sapiens (human),17
+kegg,hsa05205,Proteoglycans in cancer - Homo sapiens (human),17
+kegg,hsa05418,Fluid shear stress and atherosclerosis - Homo sapiens (human),17
+kegg,mmu04024,cAMP signaling pathway - Mus musculus (mouse),17
+kegg,mmu05022,Pathways of neurodegeneration - multiple diseases - Mus musculus (mouse),17
+wikipathways,WP3888,VEGFA-VEGFR2 Signaling Pathway,17
+kegg,hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human),16
+kegg,hsa05022,Pathways of neurodegeneration - multiple diseases - Homo sapiens (human),16
+wikipathways,WP1449,Regulation of toll-like receptor signaling pathway,16
+wikipathways,WP4172,PI3K-Akt signaling pathway,16
+wikipathways,WP706,Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways,16
+wikipathways,WP75,Toll-like Receptor Signaling Pathway,16
+kegg,hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human),15
+kegg,hsa05152,Tuberculosis - Homo sapiens (human),15
+kegg,hsa05163,Human cytomegalovirus infection - Homo sapiens (human),15
+kegg,hsa05171,Coronavirus disease - COVID-19 - Homo sapiens (human),15
+kegg,mmu05200,Pathways in cancer - Mus musculus (mouse),15
+wikipathways,WP2431,Spinal Cord Injury,15
+kegg,hsa04010,MAPK signaling pathway - Homo sapiens (human),14
+kegg,hsa05142,Chagas disease - Homo sapiens (human),14
+kegg,hsa05167,Kaposi sarcoma-associated herpesvirus infection - Homo sapiens (human),14
+kegg,hsa05323,Rheumatoid arthritis - Homo sapiens (human),14
+kegg,mmu05417,Lipid and atherosclerosis - Mus musculus (mouse),14
+wikipathways,WP3932,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,14
+wikipathways,WP4298,Acute viral myocarditis,14
+kegg,hsa04066,HIF-1 signaling pathway - Homo sapiens (human),13
+kegg,hsa05010,Alzheimer disease - Homo sapiens (human),13
+kegg,hsa05020,Prion disease - Homo sapiens (human),13
+kegg,hsa05132,Salmonella infection - Homo sapiens (human),13
+kegg,hsa05135,Yersinia infection - Homo sapiens (human),13
+kegg,hsa05161,Hepatitis B - Homo sapiens (human),13
+kegg,mmu04080,Neuroactive ligand-receptor interaction - Mus musculus (mouse),13
+kegg,mmu04210,Apoptosis - Mus musculus (mouse),13
+kegg,mmu05010,Alzheimer disease - Mus musculus (mouse),13
+kegg,mmu05161,Hepatitis B - Mus musculus (mouse),13
+wikipathways,WP4659,Gastrin signaling pathway,13
+wikipathways,WP4666,Hepatitis B infection,13
+kegg,hsa04024,cAMP signaling pathway - Homo sapiens (human),12
+kegg,hsa04510,Focal adhesion - Homo sapiens (human),12
+kegg,hsa04657,IL-17 signaling pathway - Homo sapiens (human),12
+kegg,hsa04668,TNF signaling pathway - Homo sapiens (human),12
+kegg,hsa05162,Measles - Homo sapiens (human),12
+kegg,hsa05165,Human papillomavirus infection - Homo sapiens (human),12
+kegg,hsa05168,Herpes simplex virus 1 infection - Homo sapiens (human),12
+kegg,hsa05169,Epstein-Barr virus infection - Homo sapiens (human),12
+kegg,hsa05170,Human immunodeficiency virus 1 infection - Homo sapiens (human),12
+kegg,mmu05014,Amyotrophic lateral sclerosis - Mus musculus (mouse),12
+kegg,mmu05152,Tuberculosis - Mus musculus (mouse),12
+wikipathways,WP306,Focal Adhesion,12
+kegg,hsa04015,Rap1 signaling pathway - Homo sapiens (human),11
+kegg,hsa04621,NOD-like receptor signaling pathway - Homo sapiens (human),11
+kegg,hsa05031,Amphetamine addiction - Homo sapiens (human),11
+kegg,hsa05131,Shigellosis - Homo sapiens (human),11
+kegg,hsa05133,Pertussis - Homo sapiens (human),11
+kegg,hsa05146,Amoebiasis - Homo sapiens (human),11
+kegg,hsa05160,Hepatitis C - Homo sapiens (human),11
+kegg,mmu05170,Human immunodeficiency virus 1 infection - Mus musculus (mouse),11
+pid,ap1_pathway,AP-1 transcription factor network,11
+wikipathways,WP2380,Brain-derived neurotrophic factor (BDNF) signaling pathway,11
+kegg,hsa04062,Chemokine signaling pathway - Homo sapiens (human),10
+kegg,hsa04218,Cellular senescence - Homo sapiens (human),10
+kegg,hsa04660,T cell receptor signaling pathway - Homo sapiens (human),10
+kegg,hsa04915,Estrogen signaling pathway - Homo sapiens (human),10
+kegg,hsa04932,Non-alcoholic fatty liver disease - Homo sapiens (human),10
+kegg,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),10
+kegg,hsa05145,Toxoplasmosis - Homo sapiens (human),10
+kegg,hsa05166,Human T-cell leukemia virus 1 infection - Homo sapiens (human),10
+kegg,mmu04217,Necroptosis - Mus musculus (mouse),10
+kegg,mmu05145,Toxoplasmosis - Mus musculus (mouse),10
+kegg,mmu05164,Influenza A - Mus musculus (mouse),10
+netpath,Pathway_EGFR1,EGFR1,10
+wikipathways,WP2328,Allograft Rejection,10
+wikipathways,WP3624,Lung fibrosis,10
+wikipathways,WP4396,Nonalcoholic fatty liver disease,10
+kegg,hsa04020,Calcium signaling pathway - Homo sapiens (human),9
+kegg,hsa04061,Viral protein interaction with cytokine and cytokine receptor - Homo sapiens (human),9
+kegg,hsa04210,Apoptosis - Homo sapiens (human),9
+kegg,hsa04725,Cholinergic synapse - Homo sapiens (human),9
+kegg,hsa04728,Dopaminergic synapse - Homo sapiens (human),9
+kegg,hsa05012,Parkinson disease - Homo sapiens (human),9
+kegg,hsa05140,Leishmaniasis - Homo sapiens (human),9
+kegg,hsa05144,Malaria - Homo sapiens (human),9
+kegg,hsa05210,Colorectal cancer - Homo sapiens (human),9
+kegg,hsa05235,PD-L1 expression and PD-1 checkpoint pathway in cancer - Homo sapiens (human),9
+kegg,mmu04151,PI3K-Akt signaling pathway - Mus musculus (mouse),9
+kegg,mmu04657,IL-17 signaling pathway - Mus musculus (mouse),9
+kegg,mmu04932,Non-alcoholic fatty liver disease - Mus musculus (mouse),9
+kegg,mmu05012,Parkinson disease - Mus musculus (mouse),9
+kegg,mmu05020,Prion disease - Mus musculus (mouse),9
+kegg,mmu05132,Salmonella infection - Mus musculus (mouse),9
+kegg,mmu05160,Hepatitis C - Mus musculus (mouse),9
+kegg,mmu05162,Measles - Mus musculus (mouse),9
+kegg,mmu05168,Herpes simplex virus 1 infection - Mus musculus (mouse),9
+pid,atf2_pathway,ATF-2 transcription factor network,9
+reactome,R-RNO-382551,Transport of small molecules,9
+wikipathways,WP2355,Corticotropin-releasing hormone signaling pathway,9
+wikipathways,WP2374,Oncostatin M Signaling Pathway,9
+wikipathways,WP2882,Nuclear Receptors Meta-Pathway,9
+wikipathways,WP382,MAPK Signaling Pathway,9
+wikipathways,WP4329,miRNAs involvement in the immune response in sepsis,9
+wikipathways,WP4341,"Non-genomic actions of 1,25 dihydroxyvitamin D3",9
+wikipathways,WP4891,COVID-19 adverse outcome pathway,9
+wikipathways,WP5039,SARS-CoV-2 innate immunity evasion and cell-specific immune response,9
+wikipathways,WP615,Senescence and Autophagy in Cancer,9
+kegg,hsa04014,Ras signaling pathway - Homo sapiens (human),8
+kegg,hsa04071,Sphingolipid signaling pathway - Homo sapiens (human),8
+kegg,hsa04217,Necroptosis - Homo sapiens (human),8
+kegg,hsa04380,Osteoclast differentiation - Homo sapiens (human),8
+kegg,hsa04630,JAK-STAT signaling pathway - Homo sapiens (human),8
+kegg,hsa04659,Th17 cell differentiation - Homo sapiens (human),8
+kegg,hsa04917,Prolactin signaling pathway - Homo sapiens (human),8
+kegg,hsa04926,Relaxin signaling pathway - Homo sapiens (human),8
+kegg,hsa04929,GnRH secretion - Homo sapiens (human),8
+kegg,hsa05206,MicroRNAs in cancer - Homo sapiens (human),8
+kegg,hsa05224,Breast cancer - Homo sapiens (human),8
+kegg,hsa05321,Inflammatory bowel disease - Homo sapiens (human),8
+kegg,mmu04010,MAPK signaling pathway - Mus musculus (mouse),8
+kegg,mmu04668,TNF signaling pathway - Mus musculus (mouse),8
+kegg,mmu05142,Chagas disease - Mus musculus (mouse),8
+kegg,mmu05163,Human cytomegalovirus infection - Mus musculus (mouse),8
+kegg,mmu05167,Kaposi sarcoma-associated herpesvirus infection - Mus musculus (mouse),8
+kegg,mmu05205,Proteoglycans in cancer - Mus musculus (mouse),8
+pid,lysophospholipid_pathway,LPA receptor mediated events,8
+pid,reg_gr_pathway,Glucocorticoid receptor regulatory network,8
+pid,vegfr1_2_pathway,Signaling events mediated by VEGFR1 and VEGFR2,8
+pid,vegfr1_pathway,VEGFR1 specific signals,8
+wikipathways,WP2572,Primary focal segmental glomerulosclerosis (FSGS),8
+wikipathways,WP3617,Photodynamic therapy-induced NF-kB survival signaling,8
+wikipathways,WP3929,Chemokine signaling pathway,8
+wikipathways,WP4806,EGFR Tyrosine Kinase Inhibitor Resistance,8
+wikipathways,WP69,T-cell receptor (TCR) signaling pathway,8
+biocarta,vegfpathway,vegf hypoxia and angiogenesis,7
+kegg,hsa04064,NF-kappa B signaling pathway - Homo sapiens (human),7
+kegg,hsa04613,Neutrophil extracellular trap formation - Homo sapiens (human),7
+kegg,hsa04625,C-type lectin receptor signaling pathway - Homo sapiens (human),7
+kegg,hsa04650,Natural killer cell mediated cytotoxicity - Homo sapiens (human),7
+kegg,hsa04722,Neurotrophin signaling pathway - Homo sapiens (human),7
+kegg,hsa04919,Thyroid hormone signaling pathway - Homo sapiens (human),7
+kegg,hsa04921,Oxytocin signaling pathway - Homo sapiens (human),7
+kegg,hsa05034,Alcoholism - Homo sapiens (human),7
+kegg,hsa05134,Legionellosis - Homo sapiens (human),7
+kegg,hsa05222,Small cell lung cancer - Homo sapiens (human),7
+kegg,mmu04014,Ras signaling pathway - Mus musculus (mouse),7
+kegg,mmu04380,Osteoclast differentiation - Mus musculus (mouse),7
+kegg,mmu04540,Gap junction - Mus musculus (mouse),7
+kegg,mmu04621,NOD-like receptor signaling pathway - Mus musculus (mouse),7
+kegg,mmu04650,Natural killer cell mediated cytotoxicity - Mus musculus (mouse),7
+kegg,mmu04660,T cell receptor signaling pathway - Mus musculus (mouse),7
+kegg,mmu05016,Huntington disease - Mus musculus (mouse),7
+kegg,mmu05166,Human T-cell leukemia virus 1 infection - Mus musculus (mouse),7
+kegg,mmu05169,Epstein-Barr virus infection - Mus musculus (mouse),7
+kegg,mmu05208,Chemical carcinogenesis - reactive oxygen species - Mus musculus (mouse),7
+kegg,mmu05415,Diabetic cardiomyopathy - Mus musculus (mouse),7
+netpath,Pathway_AndrogenReceptor,AndrogenReceptor,7
+netpath,Pathway_TCR,TCR,7
+pid,angiopoietinreceptor_pathway,Angiopoietin receptor Tie2-mediated signaling,7
+pid,fra_pathway,Validated transcriptional targets of AP1 family members Fra1 and Fra2,7
+pid,il23pathway,IL23-mediated signaling events,7
+pid,nfat_tfpathway,Calcineurin-regulated NFAT-dependent transcription in lymphocytes,7
+wikipathways,WP1533,Vitamin B12 metabolism,7
+wikipathways,WP2036,TNF related weak inducer of apoptosis (TWEAK) Signaling Pathway,7
+wikipathways,WP2037,Prolactin Signaling Pathway,7
+wikipathways,WP2059,"Alzheimer,s disease",7
+wikipathways,WP231,TNF-alpha signaling pathway,7
+wikipathways,WP3303,RAC1-PAK1-p38-MMP2 Pathway,7
+wikipathways,WP3646,Hepatitis C and Hepatocellular Carcinoma,7
+wikipathways,WP3863,T-Cell antigen Receptor (TCR) pathway during Staphylococcus aureus infection,7
+wikipathways,WP4136,Fibrin Complement Receptor 3 Signaling Pathway,7
+wikipathways,WP4217,Ebola Virus Pathway on Host,7
+wikipathways,WP4262,Breast cancer pathway,7
+wikipathways,WP4559,Interactions between immune cells and microRNAs in tumor microenvironment,7
+wikipathways,WP4658,Small cell lung cancer,7
+wikipathways,WP4747,Netrin-UNC5B signaling pathway,7
+wikipathways,WP530,Cytokines and Inflammatory Response,7
+wikipathways,WP710,DNA damage response (only ATM dependent),7
+biocarta,no1pathway,actions of nitric oxide in the heart,6
+kegg,hsa04140,Autophagy - animal - Homo sapiens (human),6
+kegg,hsa04261,Adrenergic signaling in cardiomyocytes - Homo sapiens (human),6
+kegg,hsa04370,VEGF signaling pathway - Homo sapiens (human),6
+kegg,hsa04640,Hematopoietic cell lineage - Homo sapiens (human),6
+kegg,hsa04726,Serotonergic synapse - Homo sapiens (human),6
+kegg,hsa04810,Regulation of actin cytoskeleton - Homo sapiens (human),6
+kegg,hsa04912,GnRH signaling pathway - Homo sapiens (human),6
+kegg,hsa04930,Type II diabetes mellitus - Homo sapiens (human),6
+kegg,hsa04931,Insulin resistance - Homo sapiens (human),6
+kegg,hsa04935,"Growth hormone synthesis, secretion and action - Homo sapiens (human)",6
+kegg,hsa05030,Cocaine addiction - Homo sapiens (human),6
+kegg,hsa05202,Transcriptional misregulation in cancer - Homo sapiens (human),6
+kegg,hsa05203,Viral carcinogenesis - Homo sapiens (human),6
+kegg,hsa05212,Pancreatic cancer - Homo sapiens (human),6
+kegg,hsa05215,Prostate cancer - Homo sapiens (human),6
+kegg,hsa05226,Gastric cancer - Homo sapiens (human),6
+kegg,hsa05415,Diabetic cardiomyopathy - Homo sapiens (human),6
+kegg,mmu04020,Calcium signaling pathway - Mus musculus (mouse),6
+kegg,mmu04060,Cytokine-cytokine receptor interaction - Mus musculus (mouse),6
+kegg,mmu04066,HIF-1 signaling pathway - Mus musculus (mouse),6
+kegg,mmu04071,Sphingolipid signaling pathway - Mus musculus (mouse),6
+kegg,mmu04115,p53 signaling pathway - Mus musculus (mouse),6
+kegg,mmu04215,Apoptosis - multiple species - Mus musculus (mouse),6
+kegg,mmu04620,Toll-like receptor signaling pathway - Mus musculus (mouse),6
+kegg,mmu04625,C-type lectin receptor signaling pathway - Mus musculus (mouse),6
+kegg,mmu04630,JAK-STAT signaling pathway - Mus musculus (mouse),6
+kegg,mmu04658,Th1 and Th2 cell differentiation - Mus musculus (mouse),6
+kegg,mmu04659,Th17 cell differentiation - Mus musculus (mouse),6
+kegg,mmu04713,Circadian entrainment - Mus musculus (mouse),6
+kegg,mmu04725,Cholinergic synapse - Mus musculus (mouse),6
+kegg,mmu04726,Serotonergic synapse - Mus musculus (mouse),6
+kegg,mmu04915,Estrogen signaling pathway - Mus musculus (mouse),6
+kegg,mmu04921,Oxytocin signaling pathway - Mus musculus (mouse),6
+kegg,mmu04926,Relaxin signaling pathway - Mus musculus (mouse),6
+kegg,mmu04933,AGE-RAGE signaling pathway in diabetic complications - Mus musculus (mouse),6
+kegg,mmu05034,Alcoholism - Mus musculus (mouse),6
+kegg,mmu05133,Pertussis - Mus musculus (mouse),6
+kegg,mmu05135,Yersinia infection - Mus musculus (mouse),6
+kegg,mmu05140,Leishmaniasis - Mus musculus (mouse),6
+kegg,mmu05165,Human papillomavirus infection - Mus musculus (mouse),6
+kegg,mmu05171,Coronavirus disease - COVID-19 - Mus musculus (mouse),6
+kegg,mmu05203,Viral carcinogenesis - Mus musculus (mouse),6
+kegg,mmu05206,MicroRNAs in cancer - Mus musculus (mouse),6
+kegg,mmu05210,Colorectal cancer - Mus musculus (mouse),6
+kegg,mmu05215,Prostate cancer - Mus musculus (mouse),6
+kegg,mmu05418,Fluid shear stress and atherosclerosis - Mus musculus (mouse),6
+netpath,Pathway_BCR,BCR,6
+netpath,Pathway_Gastrin,Gastrin,6
+netpath,Pathway_TGF_beta_Receptor,TGF_beta_Receptor,6
+netpath,Pathway_TNFalpha,TNFalpha,6
+pid,avb3_integrin_pathway,Integrins in angiogenesis,6
+pid,avb3_opn_pathway,Osteopontin-mediated events,6
+pid,bcr_5pathway,BCR signaling pathway,6
+pid,cd8tcrdownstreampathway,Downstream signaling in na&#xef;ve CD8+ T cells,6
+pid,erbb1_downstream_pathway,ErbB1 downstream signaling,6
+pid,shp2_pathway,SHP2 signaling,6
+pid,syndecan_2_pathway,Syndecan-2-mediated signaling events,6
+reactome,R-RNO-1430728,Metabolism,6
+wikipathways,WP15,Selenium Micronutrient Network,6
+wikipathways,WP1544,MicroRNAs in cardiomyocyte hypertrophy,6
+wikipathways,WP176,Folate Metabolism,6
+wikipathways,WP2034,Leptin signaling pathway,6
+wikipathways,WP2324,AGE-RAGE pathway,6
+wikipathways,WP254,Apoptosis,6
+wikipathways,WP286,IL-3 signaling pathway,6
+wikipathways,WP3287,Overview of nanoparticle effects,6
+wikipathways,WP3865,Novel intracellular components of RIG-I-like receptor (RLR) pathway,6
+wikipathways,WP4008,NO-cGMP-PKG mediated Neuroprotection,6
+wikipathways,WP4155,Endometrial cancer,6
+wikipathways,WP4216,Chromosomal and microsatellite instability in colorectal cancer,6
+wikipathways,WP4223,Ras signaling,6
+wikipathways,WP4239,Epithelial to mesenchymal transition in colorectal cancer,6
+wikipathways,WP4263,Pancreatic adenocarcinoma pathway,6
+wikipathways,WP4481,Resistin as a regulator of inflammation,6
+wikipathways,WP4541,Hippo-Merlin Signaling Dysregulation,6
+wikipathways,WP4673,Male infertility,6
+wikipathways,WP4685,Melanoma,6
+wikipathways,WP4816,TGF-beta receptor signaling in skeletal dysplasias,6
+wikipathways,WP4969,RAS and bradykinin pathways in COVID-19,6
+wikipathways,WP560,TGF-beta Receptor Signaling,6
+wikipathways,WP712,Estrogen signaling pathway,6
+wikipathways,WP727,Monoamine Transport,6
+biocarta,il1rpathway,signal transduction through il1r,5
+kegg,hsa04012,ErbB signaling pathway - Homo sapiens (human),5
+kegg,hsa04068,FoxO signaling pathway - Homo sapiens (human),5
+kegg,hsa04080,Neuroactive ligand-receptor interaction - Homo sapiens (human),5
+kegg,hsa04360,Axon guidance - Homo sapiens (human),5
+kegg,hsa04371,Apelin signaling pathway - Homo sapiens (human),5
+kegg,hsa04550,Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human),5
+kegg,hsa04611,Platelet activation - Homo sapiens (human),5
+kegg,hsa04622,RIG-I-like receptor signaling pathway - Homo sapiens (human),5
+kegg,hsa04623,Cytosolic DNA-sensing pathway - Homo sapiens (human),5
+kegg,hsa04658,Th1 and Th2 cell differentiation - Homo sapiens (human),5
+kegg,hsa04662,B cell receptor signaling pathway - Homo sapiens (human),5
+kegg,hsa04670,Leukocyte transendothelial migration - Homo sapiens (human),5
+kegg,hsa04713,Circadian entrainment - Homo sapiens (human),5
+kegg,hsa04723,Retrograde endocannabinoid signaling - Homo sapiens (human),5
+kegg,hsa04750,Inflammatory mediator regulation of TRP channels - Homo sapiens (human),5
+kegg,hsa04934,Cushing syndrome - Homo sapiens (human),5
+kegg,hsa04976,Bile secretion - Homo sapiens (human),5
+kegg,hsa05014,Amyotrophic lateral sclerosis - Homo sapiens (human),5
+kegg,hsa05100,Bacterial invasion of epithelial cells - Homo sapiens (human),5
+kegg,hsa05120,Epithelial cell signaling in Helicobacter pylori infection - Homo sapiens (human),5
+kegg,hsa05211,Renal cell carcinoma - Homo sapiens (human),5
+kegg,hsa05213,Endometrial cancer - Homo sapiens (human),5
+kegg,hsa05214,Glioma - Homo sapiens (human),5
+kegg,hsa05220,Chronic myeloid leukemia - Homo sapiens (human),5
+kegg,hsa05225,Hepatocellular carcinoma - Homo sapiens (human),5
+kegg,hsa05231,Choline metabolism in cancer - Homo sapiens (human),5
+kegg,hsa05320,Autoimmune thyroid disease - Homo sapiens (human),5
+kegg,hsa05322,Systemic lupus erythematosus - Homo sapiens (human),5
+kegg,hsa05330,Allograft rejection - Homo sapiens (human),5
+kegg,hsa05332,Graft-versus-host disease - Homo sapiens (human),5
+kegg,hsa05410,Hypertrophic cardiomyopathy - Homo sapiens (human),5
+kegg,mmu04015,Rap1 signaling pathway - Mus musculus (mouse),5
+kegg,mmu04064,NF-kappa B signaling pathway - Mus musculus (mouse),5
+kegg,mmu04140,Autophagy - animal - Mus musculus (mouse),5
+kegg,mmu04261,Adrenergic signaling in cardiomyocytes - Mus musculus (mouse),5
+kegg,mmu04722,Neurotrophin signaling pathway - Mus musculus (mouse),5
+kegg,mmu04724,Glutamatergic synapse - Mus musculus (mouse),5
+kegg,mmu04728,Dopaminergic synapse - Mus musculus (mouse),5
+kegg,mmu04919,Thyroid hormone signaling pathway - Mus musculus (mouse),5
+kegg,mmu04935,"Growth hormone synthesis, secretion and action - Mus musculus (mouse)",5
+kegg,mmu05031,Amphetamine addiction - Mus musculus (mouse),5
+kegg,mmu05134,Legionellosis - Mus musculus (mouse),5
+kegg,mmu05207,Chemical carcinogenesis - receptor activation - Mus musculus (mouse),5
+kegg,mmu05212,Pancreatic cancer - Mus musculus (mouse),5
+kegg,mmu05222,Small cell lung cancer - Mus musculus (mouse),5
+kegg,mmu05235,PD-L1 expression and PD-1 checkpoint pathway in cancer - Mus musculus (mouse),5
+netpath,Pathway_Alpha6Beta4Integrin,Alpha6Beta4Integrin,5
+netpath,Pathway_IL2,IL2,5
+netpath,Pathway_IL6,IL6,5
+netpath,Pathway_Leptin,Leptin,5
+netpath,Pathway_Oncostatin_M,Oncostatin_M,5
+netpath,Pathway_Prolactin,Prolactin,5
+pid,caspase_pathway,Caspase Cascade in Apoptosis,5
+pid,ceramide_pathway,Ceramide signaling pathway,5
+pid,er_nongenomic_pathway,Plasma membrane estrogen receptor signaling,5
+pid,fgf_pathway,FGF signaling pathway,5
+pid,il12_2pathway,IL12-mediated signaling events,5
+pid,il2_1pathway,IL2-mediated signaling events,5
+pid,integrin1_pathway,Beta1 integrin cell surface interactions,5
+pid,p53downstreampathway,Direct p53 effectors,5
+pid,tcptp_pathway,Signaling events mediated by TCPTP,5
+pid,telomerasepathway,Regulation of Telomerase,5
+reactome,R-DME-168256,Immune System,5
+reactome,R-RNO-162582,Signal Transduction,5
+reactome,R-RNO-168256,Immune System,5
+wikipathways,WP127,IL-5 signaling pathway,5
+wikipathways,WP1539,Angiogenesis,5
+wikipathways,WP1772,Apoptosis Modulation and Signaling,5
+wikipathways,WP195,IL-1 signaling pathway,5
+wikipathways,WP1984,Integrated breast cancer pathway,5
+wikipathways,WP2586,Aryl Hydrocarbon Receptor Netpath,5
+wikipathways,WP262,Ebstein-Barr virus LMP1 signaling,5
+wikipathways,WP2828,Bladder cancer,5
+wikipathways,WP2877,Vitamin D Receptor Pathway,5
+wikipathways,WP289,Myometrial relaxation and contraction pathways,5
+wikipathways,WP304,Kit receptor signaling pathway,5
+wikipathways,WP364,IL-6 signaling pathway,5
+wikipathways,WP366,TGF-beta Signaling Pathway,5
+wikipathways,WP4018,Pathways in clear cell renal cell carcinoma,5
+wikipathways,WP4255,Non-small cell lung cancer,5
+wikipathways,WP437,EGF-EGFR signaling pathway,5
+wikipathways,WP4493,Cells and molecules involved in local acute inflammatory response,5
+wikipathways,WP4496,Signal transduction through IL1R,5
+wikipathways,WP4539,Synaptic signaling pathways associated with autism spectrum disorder,5
+wikipathways,WP4655,Cytosolic DNA-sensing pathway,5
+wikipathways,WP4674,Head and Neck Squamous Cell Carcinoma,5
+wikipathways,WP481,Insulin Signaling,5
+wikipathways,WP49,IL-2 signaling pathway,5
+wikipathways,WP673,ErbB signaling pathway,5
+biocarta,biopeptidespathway,bioactive peptide induced signaling pathway,4
+biocarta,ceramidepathway,ceramide signaling pathway,4
+biocarta,her2pathway,role of erbb2 in signal transduction and oncology,4
+biocarta,hsp27pathway,stress induction of hsp regulation,4
+biocarta,il10pathway,il-10 anti-inflammatory signaling pathway,4
+biocarta,il2rbpathway,il-2 receptor beta chain in t cell activation,4
+biocarta,keratinocytepathway,keratinocyte differentiation,4
+biocarta,nfkbpathway,nf-kb signaling pathway,4
+biocarta,tffpathway,trefoil factors initiate mucosal healing,4
+kegg,hsa04022,cGMP-PKG signaling pathway - Homo sapiens (human),4
+kegg,hsa04072,Phospholipase D signaling pathway - Homo sapiens (human),4
+kegg,hsa04145,Phagosome - Homo sapiens (human),4
+kegg,hsa04150,mTOR signaling pathway - Homo sapiens (human),4
+kegg,hsa04211,Longevity regulating pathway - Homo sapiens (human),4
+kegg,hsa04270,Vascular smooth muscle contraction - Homo sapiens (human),4
+kegg,hsa04350,TGF-beta signaling pathway - Homo sapiens (human),4
+kegg,hsa04514,Cell adhesion molecules - Homo sapiens (human),4
+kegg,hsa04612,Antigen processing and presentation - Homo sapiens (human),4
+kegg,hsa04664,Fc epsilon RI signaling pathway - Homo sapiens (human),4
+kegg,hsa04672,Intestinal immune network for IgA production - Homo sapiens (human),4
+kegg,hsa04721,Synaptic vesicle cycle - Homo sapiens (human),4
+kegg,hsa04911,Insulin secretion - Homo sapiens (human),4
+kegg,hsa04924,Renin secretion - Homo sapiens (human),4
+kegg,hsa04928,"Parathyroid hormone synthesis, secretion and action - Homo sapiens (human)",4
+kegg,hsa04940,Type I diabetes mellitus - Homo sapiens (human),4
+kegg,hsa05143,African trypanosomiasis - Homo sapiens (human),4
+kegg,hsa05218,Melanoma - Homo sapiens (human),4
+kegg,hsa05219,Bladder cancer - Homo sapiens (human),4
+kegg,hsa05221,Acute myeloid leukemia - Homo sapiens (human),4
+kegg,hsa05223,Non-small cell lung cancer - Homo sapiens (human),4
+kegg,hsa05230,Central carbon metabolism in cancer - Homo sapiens (human),4
+kegg,hsa05412,Arrhythmogenic right ventricular cardiomyopathy - Homo sapiens (human),4
+kegg,hsa05414,Dilated cardiomyopathy - Homo sapiens (human),4
+kegg,hsa05416,Viral myocarditis - Homo sapiens (human),4
+kegg,mmu04061,Viral protein interaction with cytokine and cytokine receptor - Mus musculus (mouse),4
+kegg,mmu04072,Phospholipase D signaling pathway - Mus musculus (mouse),4
+kegg,mmu04260,Cardiac muscle contraction - Mus musculus (mouse),4
+kegg,mmu04270,Vascular smooth muscle contraction - Mus musculus (mouse),4
+kegg,mmu04350,TGF-beta signaling pathway - Mus musculus (mouse),4
+kegg,mmu04370,VEGF signaling pathway - Mus musculus (mouse),4
+kegg,mmu04371,Apelin signaling pathway - Mus musculus (mouse),4
+kegg,mmu04662,B cell receptor signaling pathway - Mus musculus (mouse),4
+kegg,mmu04664,Fc epsilon RI signaling pathway - Mus musculus (mouse),4
+kegg,mmu04666,Fc gamma R-mediated phagocytosis - Mus musculus (mouse),4
+kegg,mmu04714,Thermogenesis - Mus musculus (mouse),4
+kegg,mmu04720,Long-term potentiation - Mus musculus (mouse),4
+kegg,mmu04730,Long-term depression - Mus musculus (mouse),4
+kegg,mmu04810,Regulation of actin cytoskeleton - Mus musculus (mouse),4
+kegg,mmu04912,GnRH signaling pathway - Mus musculus (mouse),4
+kegg,mmu04916,Melanogenesis - Mus musculus (mouse),4
+kegg,mmu04917,Prolactin signaling pathway - Mus musculus (mouse),4
+kegg,mmu04920,Adipocytokine signaling pathway - Mus musculus (mouse),4
+kegg,mmu04928,"Parathyroid hormone synthesis, secretion and action - Mus musculus (mouse)",4
+kegg,mmu04934,Cushing syndrome - Mus musculus (mouse),4
+kegg,mmu04936,Alcoholic liver disease - Mus musculus (mouse),4
+kegg,mmu04962,Vasopressin-regulated water reabsorption - Mus musculus (mouse),4
+kegg,mmu05030,Cocaine addiction - Mus musculus (mouse),4
+kegg,mmu05146,Amoebiasis - Mus musculus (mouse),4
+kegg,mmu05202,Transcriptional misregulation in cancer - Mus musculus (mouse),4
+kegg,mmu05220,Chronic myeloid leukemia - Mus musculus (mouse),4
+kegg,mmu05221,Acute myeloid leukemia - Mus musculus (mouse),4
+kegg,mmu05231,Choline metabolism in cancer - Mus musculus (mouse),4
+kegg,mmu05321,Inflammatory bowel disease - Mus musculus (mouse),4
+kegg,mmu05416,Viral myocarditis - Mus musculus (mouse),4
+netpath,Pathway_Ghrelin,Ghrelin,4
+netpath,Pathway_IL1,IL1,4
+netpath,Pathway_IL3,IL3,4
+pid,amb2_neutrophils_pathway,amb2 Integrin signaling,4
+pid,betacatenin_nuc_pathway,Regulation of nuclear beta catenin signaling and target gene transcription,4
+pid,cd40_pathway,CD40/CD40L signaling,4
+pid,cxcr3pathway,CXCR3-mediated signaling events,4
+pid,endothelinpathway,Endothelins,4
+pid,erbb2erbb3pathway,ErbB2/ErbB3 signaling events,4
+pid,fcer1pathway,Fc-epsilon receptor I signaling in mast cells,4
+pid,gmcsf_pathway,GMCSF-mediated signaling events,4
+pid,hif1_tfpathway,HIF-1-alpha transcription factor network,4
+pid,hif2pathway,HIF-2-alpha transcription factor network,4
+pid,hivnefpathway,HIV-1 Nef: Negative effector of Fas and TNF-alpha,4
+pid,ifngpathway,IFN-gamma pathway,4
+pid,il12_stat4pathway,IL12 signaling mediated by STAT4,4
+pid,il2_pi3kpathway,IL2 signaling events mediated by PI3K,4
+pid,il6_7pathway,IL6-mediated signaling events,4
+pid,integrin3_pathway,Beta3 integrin cell surface interactions,4
+pid,mapktrkpathway,Trk receptor signaling mediated by the MAPK pathway,4
+pid,met_pathway,Signaling events mediated by Hepatocyte Growth Factor Receptor (c-Met),4
+pid,myc_represspathway,Validated targets of C-MYC transcriptional repression,4
+pid,ncadherinpathway,N-cadherin signaling events,4
+pid,pdgfrbpathway,PDGFR-beta signaling pathway,4
+pid,rhoa_pathway,RhoA signaling pathway,4
+pid,vegf_vegfr_pathway,VEGF and VEGFR signaling network,4
+reactome,R-DME-162582,Signal Transduction,4
+reactome,R-DME-168249,Innate Immune System,4
+reactome,R-DME-6798695,Neutrophil degranulation,4
+reactome,R-DRE-109582,Hemostasis,4
+reactome,R-DRE-162582,Signal Transduction,4
+reactome,R-RNO-168249,Innate Immune System,4
+reactome,R-RNO-425407,SLC-mediated transmembrane transport,4
+wikipathways,WP185,Integrin-mediated Cell Adhesion,4
+wikipathways,WP2018,RANKL-RANK signaling pathway,4
+wikipathways,WP2032,Thyroid stimulating hormone (TSH) signaling pathway,4
+wikipathways,WP2064,Neural Crest Differentiation,4
+wikipathways,WP2118,Arrhythmogenic Right Ventricular Cardiomyopathy,4
+wikipathways,WP2203,Thymic Stromal LymphoPoietin (TSLP) Signaling Pathway,4
+wikipathways,WP2267,Synaptic Vesicle Pathway,4
+wikipathways,WP236,Adipogenesis,4
+wikipathways,WP2371,"Parkinson,s disease pathway",4
+wikipathways,WP2447,Amyotrophic lateral sclerosis (ALS),4
+wikipathways,WP2806,Complement system,4
+wikipathways,WP2817,Mammary gland development pathway - Pregnancy and lactation (Stage 3 of 4),4
+wikipathways,WP2855,Dopaminergic Neurogenesis,4
+wikipathways,WP2864,Apoptosis-related network due to altered Notch3 in ovarian cancer,4
+wikipathways,WP314,Fas ligand pathway and stress induction of heat shock proteins,4
+wikipathways,WP3286,Copper homeostasis,4
+wikipathways,WP3527,Pre-implantation embryo,4
+wikipathways,WP3858,Toll-like Receptor Signaling related to MyD88,4
+wikipathways,WP3877,Simplified Depiction of MYD88 Distinct Input-Output Pathway,4
+wikipathways,WP3941,Oxidative Damage,4
+wikipathways,WP395,IL-4 signaling pathway,4
+wikipathways,WP3995,Prion disease pathway,4
+wikipathways,WP4300,Extracellular vesicles in the crosstalk of cardiac cells,4
+wikipathways,WP4352,Ciliary landscape,4
+wikipathways,WP4484,Control of immune tolerance by vasoactive intestinal peptide,4
+wikipathways,WP4494,Selective expression of chemokine receptors during T-cell polarization,4
+wikipathways,WP4549,Fragile X Syndrome,4
+wikipathways,WP455,"GPCRs, Class A Rhodopsin-like",4
+wikipathways,WP4787,Osteoblast differentiation,4
+wikipathways,WP4823,Genes controlling nephrogenesis,4
+wikipathways,WP4864,Host-pathogen interaction of human coronaviruses - apoptosis,4
+wikipathways,WP4875,Disruption of postsynaptic signaling by CNV,4
+wikipathways,WP4884,Pathogenesis of SARS-CoV-2 Mediated by nsp9-nsp10 Complex,4
+wikipathways,WP4970,Galanin receptor pathway,4
+wikipathways,WP51,Regulation of Actin Cytoskeleton,4
+wikipathways,WP536,Calcium Regulation in the Cardiac Cell,4
+wikipathways,WP61,Notch Signaling Pathway Netpath,4
+biocarta,badpathway,regulation of bad phosphorylation,3
+biocarta,bcellsurvivalpathway,b cell survival pathway,3
+biocarta,cdmacpathway,cadmium induces dna synthesis and proliferation in macrophages,3
+biocarta,chemicalpathway,apoptotic signaling in response to dna damage,3
+biocarta,crebpathway,transcription factor creb and its extracellular signals,3
+biocarta,ecmpathway,erk and pi-3 kinase are necessary for collagen binding in corneal epithelia,3
+biocarta,fcer1pathway,fc epsilon receptor i signaling in mast cells,3
+biocarta,gcrpathway,corticosteroids and cardioprotection,3
+biocarta,gleevecpathway,inhibition of cellular proliferation by gleevec,3
+biocarta,gsk3pathway,inactivation of gsk3 by akt causes accumulation of b-catenin in alveolar macrophages,3
+biocarta,hifpathway,hypoxia-inducible factor in the cardivascular system,3
+biocarta,hivnefpathway,hiv-1 nef: negative effector of fas and tnf,3
+biocarta,raccpathway,ion channels and their functional role in vascular endothelium,3
+biocarta,tcrpathway,t cell receptor signaling pathway,3
+biocarta,tollpathway,toll-like receptor pathway,3
+kegg,hsa04115,p53 signaling pathway - Homo sapiens (human),3
+kegg,hsa04142,Lysosome - Homo sapiens (human),3
+kegg,hsa04215,Apoptosis - multiple species - Homo sapiens (human),3
+kegg,hsa04260,Cardiac muscle contraction - Homo sapiens (human),3
+kegg,hsa04530,Tight junction - Homo sapiens (human),3
+kegg,hsa04610,Complement and coagulation cascades - Homo sapiens (human),3
+kegg,hsa04666,Fc gamma R-mediated phagocytosis - Homo sapiens (human),3
+kegg,hsa04720,Long-term potentiation - Homo sapiens (human),3
+kegg,hsa04724,Glutamatergic synapse - Homo sapiens (human),3
+kegg,hsa04910,Insulin signaling pathway - Homo sapiens (human),3
+kegg,hsa04914,Progesterone-mediated oocyte maturation - Homo sapiens (human),3
+kegg,hsa04916,Melanogenesis - Homo sapiens (human),3
+kegg,hsa04925,Aldosterone synthesis and secretion - Homo sapiens (human),3
+kegg,hsa04960,Aldosterone-regulated sodium reabsorption - Homo sapiens (human),3
+kegg,hsa04962,Vasopressin-regulated water reabsorption - Homo sapiens (human),3
+kegg,hsa04971,Gastric acid secretion - Homo sapiens (human),3
+kegg,hsa04973,Carbohydrate digestion and absorption - Homo sapiens (human),3
+kegg,hsa04974,Protein digestion and absorption - Homo sapiens (human),3
+kegg,hsa05016,Huntington disease - Homo sapiens (human),3
+kegg,hsa05216,Thyroid cancer - Homo sapiens (human),3
+kegg,hsa05310,Asthma - Homo sapiens (human),3
+kegg,mmu00190,Oxidative phosphorylation - Mus musculus (mouse),3
+kegg,mmu04012,ErbB signaling pathway - Mus musculus (mouse),3
+kegg,mmu04062,Chemokine signaling pathway - Mus musculus (mouse),3
+kegg,mmu04068,FoxO signaling pathway - Mus musculus (mouse),3
+kegg,mmu04114,Oocyte meiosis - Mus musculus (mouse),3
+kegg,mmu04150,mTOR signaling pathway - Mus musculus (mouse),3
+kegg,mmu04218,Cellular senescence - Mus musculus (mouse),3
+kegg,mmu04360,Axon guidance - Mus musculus (mouse),3
+kegg,mmu04510,Focal adhesion - Mus musculus (mouse),3
+kegg,mmu04611,Platelet activation - Mus musculus (mouse),3
+kegg,mmu04613,Neutrophil extracellular trap formation - Mus musculus (mouse),3
+kegg,mmu04622,RIG-I-like receptor signaling pathway - Mus musculus (mouse),3
+kegg,mmu04723,Retrograde endocannabinoid signaling - Mus musculus (mouse),3
+kegg,mmu04750,Inflammatory mediator regulation of TRP channels - Mus musculus (mouse),3
+kegg,mmu04930,Type II diabetes mellitus - Mus musculus (mouse),3
+kegg,mmu04940,Type I diabetes mellitus - Mus musculus (mouse),3
+kegg,mmu04971,Gastric acid secretion - Mus musculus (mouse),3
+kegg,mmu05213,Endometrial cancer - Mus musculus (mouse),3
+kegg,mmu05214,Glioma - Mus musculus (mouse),3
+kegg,mmu05219,Bladder cancer - Mus musculus (mouse),3
+kegg,mmu05223,Non-small cell lung cancer - Mus musculus (mouse),3
+kegg,mmu05224,Breast cancer - Mus musculus (mouse),3
+kegg,mmu05225,Hepatocellular carcinoma - Mus musculus (mouse),3
+kegg,mmu05226,Gastric cancer - Mus musculus (mouse),3
+kegg,mmu05230,Central carbon metabolism in cancer - Mus musculus (mouse),3
+kegg,mmu05323,Rheumatoid arthritis - Mus musculus (mouse),3
+kegg,mmu05330,Allograft rejection - Mus musculus (mouse),3
+kegg,mmu05332,Graft-versus-host disease - Mus musculus (mouse),3
+mousecyc,PWY-3781,aerobic respiration -- electron donor II,3
+netpath,Pathway_Fibroblast__growth__factor-1,Fibroblast growth factor-1,3
+netpath,Pathway_IL4,IL4,3
+netpath,Pathway_IL5,IL5,3
+netpath,Pathway_Notch,Notch,3
+netpath,Pathway_RAGE,RAGE,3
+netpath,Pathway_TWEAK,TWEAK,3
+pid,a6b1_a6b4_integrin_pathway,a6b1 and a6b4 Integrin signaling,3
+pid,ar_nongenomic_pathway,Nongenotropic Androgen signaling,3
+pid,cdc42_pathway,CDC42 signaling events,3
+pid,cxcr4_pathway,CXCR4-mediated signaling events,3
+pid,epopathway,EPO signaling pathway,3
+pid,erbb4_pathway,ErbB4 signaling events,3
+pid,fak_pathway,Signaling events mediated by focal adhesion kinase,3
+pid,faspathway,FAS (CD95) signaling pathway,3
+pid,foxm1pathway,FOXM1 transcription factor network,3
+pid,hes_heypathway,Notch-mediated HES/HEY network,3
+pid,il1pathway,IL1-mediated signaling events,3
+pid,il27pathway,IL27-mediated signaling events,3
+pid,il4_2pathway,IL4-mediated signaling events,3
+pid,integrin2_pathway,Beta2 integrin cell surface interactions,3
+pid,integrin_a9b1_pathway,Alpha9 beta1 integrin signaling events,3
+pid,lymphangiogenesis_pathway,VEGFR3 signaling in lymphatic endothelium,3
+pid,nfat_3pathway,Role of Calcineurin-dependent NFAT signaling in lymphocytes,3
+pid,pdgfrapathway,PDGFR-alpha signaling pathway,3
+pid,pi3kplctrkpathway,Trk receptor signaling mediated by PI3K and PLC-gamma,3
+pid,prlsignalingeventspathway,Signaling events mediated by PRL,3
+pid,ps1pathway,Presenilin action in Notch and Wnt signaling,3
+pid,reelinpathway,Reelin signaling pathway,3
+pid,s1p_s1p1_pathway,S1P1 pathway,3
+pid,s1p_s1p2_pathway,S1P2 pathway,3
+pid,s1p_s1p3_pathway,S1P3 pathway,3
+pid,smad2_3nuclearpathway,Regulation of nuclear SMAD2/3 signaling,3
+pid,syndecan_1_pathway,Syndecan-1-mediated signaling events,3
+pid,tcrcalciumpathway,Calcium signaling in the CD4+ TCR pathway,3
+pid,tnfpathway,TNF receptor signaling pathway ,3
+pid,trail_pathway,TRAIL signaling pathway,3
+reactome,R-DME-2262752,Cellular responses to stress,3
+reactome,R-DME-382551,Transport of small molecules,3
+reactome,R-DME-392499,Metabolism of proteins,3
+reactome,R-DME-5683057,MAPK family signaling cascades,3
+reactome,R-DME-8953897,Cellular responses to stimuli,3
+reactome,R-DME-917937,Iron uptake and transport,3
+reactome,R-RNO-112316,Neuronal System,3
+reactome,R-RNO-1280215,Cytokine Signaling in Immune system,3
+reactome,R-RNO-9006934,Signaling by Receptor Tyrosine Kinases,3
+smpdb,SMP00078,Chlorothiazide Action Pathway,3
+smpdb,SMP00080,Polythiazide Action Pathway,3
+smpdb,SMP00081,Methyclothiazide Action Pathway,3
+smpdb,SMP00088,Bumetanide Action Pathway,3
+smpdb,SMP00090,Bendroflumethiazide Action Pathway,3
+smpdb,SMP00091,Quinethazone Action Pathway,3
+smpdb,SMP00097,Ethacrynic Acid Action Pathway,3
+smpdb,SMP00100,Hydrochlorothiazide Action Pathway,3
+smpdb,SMP00103,Cyclothiazide Action Pathway,3
+smpdb,SMP00105,Metolazone Action Pathway,3
+smpdb,SMP00108,Hydroflumethiazide Action Pathway,3
+smpdb,SMP00110,Indapamide Action Pathway,3
+smpdb,SMP00115,Furosemide Action Pathway,3
+smpdb,SMP00118,Torsemide Action Pathway,3
+smpdb,SMP00121,Trichlormethiazide Action Pathway,3
+smpdb,SMP00122,Chlorthalidone Action Pathway,3
+smpdb,SMP00132,Triamterene Action Pathway,3
+smpdb,SMP00133,Amiloride Action Pathway,3
+smpdb,SMP00134,Spironolactone Action Pathway,3
+smpdb,SMP00135,Eplerenone Action Pathway,3
+smpdb,SMP00184,Glucose Transporter Defect (SGLT2),3
+smpdb,SMP00189,Hartnup Disorder,3
+smpdb,SMP00193,Iminoglycinuria,3
+smpdb,SMP00197,Lysinuric Protein Intolerance,3
+smpdb,SMP00245,Glucose Transporter Defect (SGLT2),3
+smpdb,SMP00320,Intracellular Signalling Through Adenosine Receptor A2a and Adenosine,3
+smpdb,SMP00358,Fc Epsilon Receptor I Signaling in Mast Cells,3
+smpdb,SMP00420,Bevacizumab Action Pathway,3
+smpdb,SMP00483,Kidney Function,3
+smpdb,SMP00583,Blue diaper syndrome,3
+smpdb,SMP00585,Lysinuric protein intolerance (LPI),3
+smpdb,SMP00723,Cystinuria,3
+wikipathways,WP138,Androgen receptor signaling pathway,3
+wikipathways,WP1434,Osteopontin Signaling,3
+wikipathways,WP1591,Heart Development,3
+wikipathways,WP1602,Nicotine Activity on Dopaminergic Neurons,3
+wikipathways,WP170,Nuclear receptors,3
+wikipathways,WP2261,Glioblastoma signaling pathways,3
+wikipathways,WP2272,Pathogenic Escherichia coli infection,3
+wikipathways,WP23,B Cell Receptor Signaling Pathway,3
+wikipathways,WP2332,Interleukin-11 Signaling Pathway,3
+wikipathways,WP2507,Nanomaterial induced apoptosis,3
+wikipathways,WP2637,Structural Pathway of Interleukin 1 (IL-1),3
+wikipathways,WP2795,Cardiac Hypertrophic Response,3
+wikipathways,WP2848,Differentiation Pathway,3
+wikipathways,WP2858,Ectoderm Differentiation,3
+wikipathways,WP2865,IL1 and megakaryocytes in obesity,3
+wikipathways,WP2873,Aryl Hydrocarbon Receptor Pathway,3
+wikipathways,WP2880,Glucocorticoid Receptor Pathway,3
+wikipathways,WP313,Signaling of Hepatocyte Growth Factor Receptor,3
+wikipathways,WP3614,Photodynamic therapy-induced HIF-1 survival signaling,3
+wikipathways,WP3844,PI3K-AKT-mTOR signaling pathway and therapeutic opportunities,3
+wikipathways,WP3850,Factors and pathways affecting insulin-like growth factor (IGF1)-Akt signaling,3
+wikipathways,WP3851,TLR4 Signaling and Tolerance,3
+wikipathways,WP3869,Cannabinoid receptor signaling,3
+wikipathways,WP3893,Development and heterogeneity of the ILC family,3
+wikipathways,WP3915,Angiopoietin Like Protein 8 Regulatory Pathway,3
+wikipathways,WP3931,ESC Pluripotency Pathways,3
+wikipathways,WP3945,TYROBP causal network in microglia,3
+wikipathways,WP3947,Serotonin and anxiety,3
+wikipathways,WP4331,Neovascularisation processes,3
+wikipathways,WP4480,Role of Altered Glycolysation of MUC1 in Tumour Microenvironment,3
+wikipathways,WP4482,Vitamin D in inflammatory diseases,3
+wikipathways,WP4483,"Relationship between inflammation, COX-2 and EGFR",3
+wikipathways,WP4495,IL-10 Anti-inflammatory Signaling Pathway,3
+wikipathways,WP453,Inflammatory Response Pathway,3
+wikipathways,WP4540,Pathways Regulating Hippo Signaling,3
+wikipathways,WP4558,Overview of interferons-mediated signaling pathway,3
+wikipathways,WP4564,Neural Crest Cell Migration during Development,3
+wikipathways,WP4565,Neural Crest Cell Migration in Cancer,3
+wikipathways,WP4566,Translation inhibitors in chronically activated PDGFRA cells,3
+wikipathways,WP4582,Cancer immunotherapy by CTLA4 blockade,3
+wikipathways,WP4585,Cancer immunotherapy by PD-1 blockade,3
+wikipathways,WP4707,Aspirin and miRNAs,3
+wikipathways,WP4871,Kisspeptin-kisspeptin receptor system in the ovary,3
+wikipathways,WP4877,Host-pathogen interaction of human coronaviruses - MAPK signaling,3
+wikipathways,WP4880,Host-pathogen interaction of human coronaviruses - interferon induction,3
+wikipathways,WP5065,SARS-CoV-2 altering angiogenesis via NRP1,3
+wikipathways,WP516,Hypertrophy Model,3
+biocarta,agrpathway,agrin in postsynaptic differentiation,2
+biocarta,at1rpathway,angiotensin ii mediated activation of jnk pathway via pyk2 dependent signaling,2
+biocarta,cardiacegfpathway,role of egf receptor transactivation by gpcrs in cardiac hypertrophy,2
+biocarta,cb1rpathway,metabolism of anandamide an endogenous cannabinoid,2
+biocarta,ccr5pathway,pertussis toxin-insensitive ccr5 signaling in macrophage,2
+biocarta,cdk5pathway,phosphorylation of mek1 by cdk5/p35 down regulates the map kinase pathway,2
+biocarta,ctla4pathway,the co-stimulatory signal during t-cell activation,2
+biocarta,edg1pathway,phospholipids as signalling intermediaries,2
+biocarta,eif4pathway,regulation of eif-4e and p70s6 kinase,2
+biocarta,erk5pathway,role of erk5 in neuronal survival pathway,2
+biocarta,hcmvpathway,human cytomegalovirus and map kinase pathways,2
+biocarta,igf1pathway,igf-1 signaling pathway,2
+biocarta,il7pathway,il-7 signal transduction,2
+biocarta,integrinpathway,integrin signaling pathway,2
+biocarta,mapkpathway,mapkinase signaling pathway,2
+biocarta,mcalpainpathway,mcalpain and friends in cell motility,2
+biocarta,melanocytepathway,melanocyte development and pigmentation pathway,2
+biocarta,mitochondriapathway,role of mitochondria in apoptotic signaling,2
+biocarta,nfatpathway,nfat and hypertrophy of the heart ,2
+biocarta,ngfpathway,nerve growth factor pathway (ngf),2
+biocarta,nthipathway,nfkb activation by nontypeable hemophilus influenzae,2
+biocarta,p53hypoxiapathway,hypoxia and p53 in the cardiovascular system,2
+biocarta,pdgfpathway,pdgf signaling pathway,2
+biocarta,plk3pathway,regulation of cell cycle progression by plk3,2
+biocarta,pparapathway,mechanism of gene regulation by peroxisome proliferators via ppara,2
+biocarta,ptenpathway,pten dependent cell cycle arrest and apoptosis,2
+biocarta,raccycdpathway,influence of ras and rho proteins on g1 to s transition,2
+biocarta,tnfr1pathway,tnfr1 signaling pathway,2
+biocarta,tpopathway,tpo signaling pathway,2
+biocarta,tsp1pathway,tsp-1 induced apoptosis in microvascular endothelial cell,2
+humancyc,PWY-6352,3-phosphoinositide biosynthesis,2
+humancyc,PWY-6371,superpathway of inositol phosphate compounds,2
+humancyc,PWY66-301,catecholamine biosynthesis,2
+kegg,hsa00230,Purine metabolism - Homo sapiens (human),2
+kegg,hsa00240,Pyrimidine metabolism - Homo sapiens (human),2
+kegg,hsa00350,Tyrosine metabolism - Homo sapiens (human),2
+kegg,hsa00600,Sphingolipid metabolism - Homo sapiens (human),2
+kegg,hsa00603,Glycosphingolipid biosynthesis - globo and isoglobo series - Homo sapiens (human),2
+kegg,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),2
+kegg,hsa04114,Oocyte meiosis - Homo sapiens (human),2
+kegg,hsa04130,SNARE interactions in vesicular transport - Homo sapiens (human),2
+kegg,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),2
+kegg,hsa04152,AMPK signaling pathway - Homo sapiens (human),2
+kegg,hsa04213,Longevity regulating pathway - multiple species - Homo sapiens (human),2
+kegg,hsa04310,Wnt signaling pathway - Homo sapiens (human),2
+kegg,hsa04512,ECM-receptor interaction - Homo sapiens (human),2
+kegg,hsa04520,Adherens junction - Homo sapiens (human),2
+kegg,hsa04540,Gap junction - Homo sapiens (human),2
+kegg,hsa04727,GABAergic synapse - Homo sapiens (human),2
+kegg,hsa04920,Adipocytokine signaling pathway - Homo sapiens (human),2
+kegg,hsa04923,Regulation of lipolysis in adipocytes - Homo sapiens (human),2
+kegg,hsa04927,Cortisol synthesis and secretion - Homo sapiens (human),2
+kegg,hsa04961,Endocrine and other factor-regulated calcium reabsorption - Homo sapiens (human),2
+kegg,hsa04964,Proximal tubule bicarbonate reclamation - Homo sapiens (human),2
+kegg,hsa05017,Spinocerebellar ataxia - Homo sapiens (human),2
+kegg,hsa05217,Basal cell carcinoma - Homo sapiens (human),2
+kegg,hsa05340,Primary immunodeficiency - Homo sapiens (human),2
+kegg,mmu00220,Arginine biosynthesis - Mus musculus (mouse),2
+kegg,mmu00564,Glycerophospholipid metabolism - Mus musculus (mouse),2
+kegg,mmu03410,Base excision repair - Mus musculus (mouse),2
+kegg,mmu04022,cGMP-PKG signaling pathway - Mus musculus (mouse),2
+kegg,mmu04145,Phagosome - Mus musculus (mouse),2
+kegg,mmu04520,Adherens junction - Mus musculus (mouse),2
+kegg,mmu04550,Signaling pathways regulating pluripotency of stem cells - Mus musculus (mouse),2
+kegg,mmu04612,Antigen processing and presentation - Mus musculus (mouse),2
+kegg,mmu04640,Hematopoietic cell lineage - Mus musculus (mouse),2
+kegg,mmu04721,Synaptic vesicle cycle - Mus musculus (mouse),2
+kegg,mmu04727,GABAergic synapse - Mus musculus (mouse),2
+kegg,mmu04910,Insulin signaling pathway - Mus musculus (mouse),2
+kegg,mmu04914,Progesterone-mediated oocyte maturation - Mus musculus (mouse),2
+kegg,mmu04925,Aldosterone synthesis and secretion - Mus musculus (mouse),2
+kegg,mmu04929,GnRH secretion - Mus musculus (mouse),2
+kegg,mmu04931,Insulin resistance - Mus musculus (mouse),2
+kegg,mmu04960,Aldosterone-regulated sodium reabsorption - Mus musculus (mouse),2
+kegg,mmu04970,Salivary secretion - Mus musculus (mouse),2
+kegg,mmu04976,Bile secretion - Mus musculus (mouse),2
+kegg,mmu05032,Morphine addiction - Mus musculus (mouse),2
+kegg,mmu05033,Nicotine addiction - Mus musculus (mouse),2
+kegg,mmu05143,African trypanosomiasis - Mus musculus (mouse),2
+kegg,mmu05144,Malaria - Mus musculus (mouse),2
+kegg,mmu05211,Renal cell carcinoma - Mus musculus (mouse),2
+kegg,mmu05216,Thyroid cancer - Mus musculus (mouse),2
+kegg,mmu05218,Melanoma - Mus musculus (mouse),2
+kegg,mmu05322,Systemic lupus erythematosus - Mus musculus (mouse),2
+netpath,Pathway_BDNF,BDNF,2
+netpath,Pathway_CRH,CRH,2
+netpath,Pathway_IL-7,IL-7,2
+netpath,Pathway_IL11,IL11,2
+netpath,Pathway_KitReceptor,KitReceptor,2
+netpath,Pathway_TSLP,TSLP,2
+pid,ajdiss_2pathway,Posttranslational regulation of adherens junction stability and dissassembly,2
+pid,alk1pathway,ALK1 signaling events,2
+pid,alphasynuclein_pathway,Alpha-synuclein signaling,2
+pid,anthraxpathway,Cellular roles of Anthrax toxin,2
+pid,arf6_traffickingpathway,Arf6 trafficking events,2
+pid,arf6downstreampathway,Arf6 downstream pathway,2
+pid,cmyb_pathway,C-MYB transcription factor network,2
+pid,ecadherin_keratinocyte_pathway,E-cadherin signaling in keratinocytes,2
+pid,ecadherin_nascentaj_pathway,E-cadherin signaling in the nascent adherens junction,2
+pid,ecadherin_stabilization_pathway,Stabilization and expansion of the E-cadherin adherens junction,2
+pid,ephbfwdpathway,EPHB forward signaling,2
+pid,era_genomic_pathway,Validated nuclear estrogen receptor alpha network,2
+pid,erbb1_internalization_pathway,Internalization of ErbB1,2
+pid,glypican_1pathway,Glypican 1 network,2
+pid,hdac_classi_pathway,Signaling events mediated by HDAC Class I,2
+pid,hnf3apathway,FOXA1 transcription factor network,2
+pid,il2_stat5pathway,IL2 signaling events mediated by STAT5,2
+pid,insulin_pathway,Insulin Pathway,2
+pid,integrin_a4b1_pathway,Alpha4 beta1 integrin signaling events,2
+pid,kitpathway,Signaling events mediated by Stem cell factor receptor (c-Kit),2
+pid,lkb1_pathway,LKB1 signaling events,2
+pid,nectin_pathway,Nectin adhesion pathway,2
+pid,nephrin_neph1_pathway,Nephrin/Neph1 signaling in the kidney podocyte,2
+pid,netrin_pathway,Netrin-mediated signaling events,2
+pid,nfkappabatypicalpathway,Atypical NF-kappaB pathway,2
+pid,nfkappabcanonicalpathway,Canonical NF-kappaB pathway,2
+pid,p38alphabetadownstreampathway,Signaling mediated by p38-alpha and p38-beta,2
+pid,p75ntrpathway,p75(NTR)-mediated signaling,2
+pid,pi3kcipathway,Class I PI3K signaling events,2
+pid,plexind1_pathway,Plexin-D1 Signaling,2
+pid,ptp1bpathway,Signaling events mediated by PTP1B,2
+pid,ret_pathway,Signaling events regulated by Ret tyrosine kinase,2
+pid,rxr_vdr_pathway,RXR and RAR heterodimerization with other nuclear receptor,2
+pid,syndecan_4_pathway,Syndecan-4-mediated signaling events,2
+pid,tcr_pathway,TCR signaling in na&#xef;ve CD4+ T cells,2
+pid,tcrraspathway,Ras signaling in the CD4+ TCR pathway,2
+pid,tgfbrpathway,TGF-beta receptor signaling,2
+pid,thrombin_par1_pathway,PAR1-mediated thrombin signaling events,2
+pid,trkrpathway,Neurotrophic factor-mediated Trk receptor signaling,2
+pid,upa_upar_pathway,Urokinase-type plasminogen activator (uPA) and uPAR-mediated signaling,2
+pid,wnt_canonical_pathway,Canonical Wnt signaling pathway,2
+reactome,R-DME-110526,Insulin receptor mediated signaling,2
+reactome,R-DME-1181150,Signaling by NODAL,2
+reactome,R-DME-1266738,Developmental Biology,2
+reactome,R-DME-1280215,Cytokine Signaling in Immune system,2
+reactome,R-DME-199991,Membrane Trafficking,2
+reactome,R-DME-199992,trans-Golgi Network Vesicle Budding,2
+reactome,R-DME-212436,Generic Transcription Pathway,2
+reactome,R-DME-432722,Golgi Associated Vesicle Biogenesis,2
+reactome,R-DME-5252538,Drosophila signaling pathways,2
+reactome,R-DME-5653656,Vesicle-mediated transport,2
+reactome,R-DME-5673001,RAF/MAP kinase cascade,2
+reactome,R-DME-5684996,MAPK1/MAPK3 signaling,2
+reactome,R-DME-597592,Post-translational protein modification,2
+reactome,R-DME-73857,RNA Polymerase II Transcription,2
+reactome,R-DME-74160,Gene expression (Transcription),2
+reactome,R-DME-8939211,ESR-mediated signaling,2
+reactome,R-DME-9006931,Signaling by Nuclear Receptors,2
+reactome,R-DME-9009391,Extra-nuclear estrogen signaling,2
+reactome,R-DME-9634638,Estrogen-dependent nuclear events downstream of ESR-membrane signaling,2
+reactome,R-DRE-168256,Immune System,2
+reactome,R-DRE-212436,Generic Transcription Pathway,2
+reactome,R-DRE-2262752,Cellular responses to stress,2
+reactome,R-DRE-3247509,Chromatin modifying enzymes,2
+reactome,R-DRE-3700989,Transcriptional Regulation by TP53,2
+reactome,R-DRE-392499,Metabolism of proteins,2
+reactome,R-DRE-4839726,Chromatin organization,2
+reactome,R-DRE-5633007,Regulation of TP53 Activity,2
+reactome,R-DRE-597592,Post-translational protein modification,2
+reactome,R-DRE-73857,RNA Polymerase II Transcription,2
+reactome,R-DRE-74160,Gene expression (Transcription),2
+reactome,R-DRE-76002,"Platelet activation, signaling and aggregation",2
+reactome,R-DRE-8953897,Cellular responses to stimuli,2
+reactome,R-RNO-109582,Hemostasis,2
+reactome,R-RNO-112315,Transmission across Chemical Synapses,2
+reactome,R-RNO-1257604,PIP3 activates AKT signaling,2
+reactome,R-RNO-1266738,Developmental Biology,2
+reactome,R-RNO-1280218,Adaptive Immune System,2
+reactome,R-RNO-1660662,Glycosphingolipid metabolism,2
+reactome,R-RNO-166520,Signaling by NTRKs,2
+reactome,R-RNO-199991,Membrane Trafficking,2
+reactome,R-RNO-202403,TCR signaling,2
+reactome,R-RNO-202427,Phosphorylation of CD3 and TCR zeta chains,2
+reactome,R-RNO-2672351,Stimuli-sensing channels,2
+reactome,R-RNO-422475,Axon guidance,2
+reactome,R-RNO-428157,Sphingolipid metabolism,2
+reactome,R-RNO-432040,Vasopressin regulates renal water homeostasis via Aquaporins,2
+reactome,R-RNO-432047,Passive transport by Aquaporins,2
+reactome,R-RNO-445717,Aquaporin-mediated transport,2
+reactome,R-RNO-449147,Signaling by Interleukins,2
+reactome,R-RNO-556833,Metabolism of lipids,2
+reactome,R-RNO-5653656,Vesicle-mediated transport,2
+reactome,R-RNO-6798695,Neutrophil degranulation,2
+reactome,R-RNO-6803157,Antimicrobial peptides,2
+reactome,R-RNO-71291,Metabolism of amino acids and derivatives,2
+reactome,R-RNO-9006925,Intracellular signaling by second messengers,2
+reactome,R-RNO-9675108,Nervous system development,2
+reactome,R-RNO-983712,Ion channel transport,2
+reactome,R-RNO-9840309,Glycosphingolipid biosynthesis,2
+smpdb,SMP00012,Catecholamine Biosynthesis,2
+smpdb,SMP00034,Sphingolipid Metabolism,2
+smpdb,SMP00170,Aromatic L-Aminoacid Decarboxylase Deficiency,2
+smpdb,SMP00296,Acebutolol Action Pathway,2
+smpdb,SMP00297,Alprenolol Action Pathway,2
+smpdb,SMP00298,Atenolol Action Pathway,2
+smpdb,SMP00299,Betaxolol Action Pathway,2
+smpdb,SMP00300,Bisoprolol Action Pathway,2
+smpdb,SMP00301,Esmolol Action Pathway,2
+smpdb,SMP00302,Metoprolol Action Pathway,2
+smpdb,SMP00303,Nadolol Action Pathway,2
+smpdb,SMP00304,Oxprenolol Action Pathway,2
+smpdb,SMP00305,Penbutolol Action Pathway,2
+smpdb,SMP00306,Pindolol Action Pathway,2
+smpdb,SMP00307,Propranolol Action Pathway,2
+smpdb,SMP00321,Intracellular Signalling Through Adenosine Receptor A2b and Adenosine,2
+smpdb,SMP00323,Quinidine Action Pathway,2
+smpdb,SMP00324,Procainamide (Antiarrhythmic) Action Pathway,2
+smpdb,SMP00325,Disopyramide Action Pathway,2
+smpdb,SMP00326,Fosphenytoin (Antiarrhythmic) Action Pathway,2
+smpdb,SMP00327,Phenytoin (Antiarrhythmic) Action Pathway,2
+smpdb,SMP00328,Lidocaine (Antiarrhythmic) Action Pathway,2
+smpdb,SMP00329,Mexiletine Action Pathway,2
+smpdb,SMP00330,Tocainide Action Pathway,2
+smpdb,SMP00331,Flecainide Action Pathway,2
+smpdb,SMP00332,Ibutilide Action Pathway,2
+smpdb,SMP00347,Metachromatic Leukodystrophy (MLD),2
+smpdb,SMP00348,Globoid Cell Leukodystrophy,2
+smpdb,SMP00349,Gaucher Disease,2
+smpdb,SMP00359,Diltiazem Action Pathway,2
+smpdb,SMP00366,Nebivolol Action Pathway,2
+smpdb,SMP00367,Carvedilol Action Pathway,2
+smpdb,SMP00368,Labetalol Action Pathway,2
+smpdb,SMP00375,Verapamil Action Pathway,2
+smpdb,SMP00376,Amlodipine Action Pathway,2
+smpdb,SMP00377,Felodipine Action Pathway,2
+smpdb,SMP00378,Isradipine Action Pathway,2
+smpdb,SMP00379,Nifedipine Action Pathway,2
+smpdb,SMP00380,Nimodipine Action Pathway,2
+smpdb,SMP00381,Nisoldipine Action Pathway,2
+smpdb,SMP00382,Nitrendipine Action Pathway,2
+smpdb,SMP00392,Benzocaine Action Pathway,2
+smpdb,SMP00393,Bupivacaine Action Pathway,2
+smpdb,SMP00394,Chloroprocaine Action Pathway,2
+smpdb,SMP00395,Cocaine Action Pathway,2
+smpdb,SMP00396,Dibucaine Action Pathway,2
+smpdb,SMP00397,Levobupivacaine Action Pathway,2
+smpdb,SMP00398,Lidocaine (Local Anaesthetic) Action Pathway,2
+smpdb,SMP00399,Mepivacaine Action Pathway,2
+smpdb,SMP00400,Oxybuprocaine Action Pathway,2
+smpdb,SMP00401,Prilocaine Action Pathway,2
+smpdb,SMP00402,Procaine Action Pathway,2
+smpdb,SMP00403,Proparacaine Action Pathway,2
+smpdb,SMP00404,Ropivacaine Action Pathway,2
+smpdb,SMP00405,Codeine Action Pathway,2
+smpdb,SMP00406,Morphine Action Pathway,2
+smpdb,SMP00407,Heroin Action Pathway,2
+smpdb,SMP00408,Methadone Action Pathway,2
+smpdb,SMP00409,Oxycodone Action Pathway,2
+smpdb,SMP00410,Hydromorphone Action Pathway,2
+smpdb,SMP00411,Hydrocodone Action Pathway,2
+smpdb,SMP00412,Oxymorphone Action Pathway,2
+smpdb,SMP00413,Alfentanil Action Pathway,2
+smpdb,SMP00414,Carfentanil Action Pathway,2
+smpdb,SMP00415,Fentanyl Action Pathway,2
+smpdb,SMP00416,Remifentanil Action Pathway,2
+smpdb,SMP00417,Sufentanil Action Pathway,2
+smpdb,SMP00422,Imipramine Action Pathway,2
+smpdb,SMP00423,Desipramine Action Pathway,2
+smpdb,SMP00424,Citalopram Action Pathway,2
+smpdb,SMP00425,Escitalopram Action Pathway,2
+smpdb,SMP00426,Fluoxetine Action Pathway,2
+smpdb,SMP00431,Nicotine Action Pathway,2
+smpdb,SMP00497,Tyrosine hydroxylase deficiency,2
+smpdb,SMP00525,Fabry disease,2
+smpdb,SMP00526,Krabbe disease,2
+smpdb,SMP00588,Muscle/Heart Contraction,2
+smpdb,SMP00657,Bopindolol Action Pathway,2
+smpdb,SMP00658,Carteolol Action Pathway,2
+smpdb,SMP00659,Timolol Action Pathway,2
+smpdb,SMP00660,Sotalol Action Pathway,2
+smpdb,SMP00661,Epinephrine Action Pathway,2
+smpdb,SMP00662,Dobutamine Action Pathway,2
+smpdb,SMP00663,Isoprenaline Action Pathway,2
+smpdb,SMP00664,Arbutamine Action Pathway,2
+smpdb,SMP00665,Amiodarone Action Pathway,2
+smpdb,SMP00666,Levobunolol Action Pathway,2
+smpdb,SMP00667,Metipranolol Action Pathway,2
+smpdb,SMP00668,Bevantolol Action Pathway,2
+smpdb,SMP00669,Practolol Action Pathway,2
+smpdb,SMP00670,Bupranolol Action Pathway,2
+smpdb,SMP00671,Tramadol Action Action Pathway,2
+smpdb,SMP00672,Propoxyphene Action Pathway,2
+smpdb,SMP00673,Levorphanol Action Pathway,2
+smpdb,SMP00674,Anileridine Action Pathway,2
+smpdb,SMP00675,Diphenoxylate Action Pathway,2
+smpdb,SMP00676,Dezocine Action Pathway,2
+smpdb,SMP00677,Levomethadyl Acetate Action Action Pathway,2
+smpdb,SMP00678,Methadyl Acetate Action Pathway,2
+smpdb,SMP00679,3-Methylthiofentanyl Action Pathway,2
+smpdb,SMP00680,Dimethylthiambutene Action Pathway,2
+smpdb,SMP00681,Ethylmorphine Action Pathway,2
+smpdb,SMP00683,Levallorphan Action Pathway,2
+smpdb,SMP00684,Buprenorphine Action Pathway,2
+smpdb,SMP00685,Alvimopan Action Pathway,2
+smpdb,SMP00686,Pentazocine Action Pathway,2
+smpdb,SMP00687,Naltrexone Action Pathway,2
+smpdb,SMP00688,Naloxone Action Pathway,2
+smpdb,SMP00689,Dihydromorphine Action Pathway,2
+smpdb,SMP00690,Ketobemidone  Action Pathway,2
+smpdb,SMP00691,Nalbuphine Action Pathway,2
+wikipathways,WP117,"GPCRs, Other",2
+wikipathways,WP12,Osteoclast Signaling,2
+wikipathways,WP129,Matrix Metalloproteinases,2
+wikipathways,WP1403,AMP-activated protein kinase (AMPK) signaling,2
+wikipathways,WP1528,Physiological and pathological hypertrophy of the heart,2
+wikipathways,WP1530,miRNA regulation of DNA damage response,2
+wikipathways,WP1584,Type II diabetes mellitus,2
+wikipathways,WP1742,TP53 network,2
+wikipathways,WP205,IL-7 signaling pathway,2
+wikipathways,WP2112,IL17 signaling pathway,2
+wikipathways,WP2197,Endothelin Pathways,2
+wikipathways,WP22,IL-9 signaling pathway,2
+wikipathways,WP2436,Dopamine metabolism,2
+wikipathways,WP244,Alpha 6 Beta 4 signaling pathway,2
+wikipathways,WP2509,Nanoparticle triggered autophagic cell death,2
+wikipathways,WP2526,PDGF Pathway,2
+wikipathways,WP2636,Common Pathways Underlying Drug Addiction,2
+wikipathways,WP2813,Mammary gland development pathway - Embryonic development (Stage 1 of 4),2
+wikipathways,WP2814,Mammary gland development pathway - Puberty (Stage 2 of 4),2
+wikipathways,WP2870,Extracellular vesicle-mediated signaling in recipient cells,2
+wikipathways,WP2884,NRF2 pathway,2
+wikipathways,WP3299,let-7 inhibition of ES cell reprogramming,2
+wikipathways,WP34,Ovarian infertility,2
+wikipathways,WP3593,MicroRNA for Targeting Cancer Growth and Vascularization in Glioblastoma,2
+wikipathways,WP3599,Transcription factor regulation in adipogenesis,2
+wikipathways,WP363,Wnt Signaling Pathway,2
+wikipathways,WP3630,"NAD metabolism, sirtuins and aging",2
+wikipathways,WP3676,BDNF-TrkB Signaling,2
+wikipathways,WP3680,Association Between Physico-Chemical Features and Toxicity Associated Pathways,2
+wikipathways,WP384,Apoptosis Modulation by HSP70,2
+wikipathways,WP3849,MAPK and NFkB signaling pathways inhibited by Yersinia YopJ,2
+wikipathways,WP3853,"ERK Pathway in Huntington,s Disease",2
+wikipathways,WP3859,TGF-B Signaling in Thyroid Cells for Epithelial-Mesenchymal Transition,2
+wikipathways,WP3872,Regulation of apoptosis by parathyroid hormone-related protein,2
+wikipathways,WP3890,Nanomaterial-induced inflammasome activation,2
+wikipathways,WP3925,Amino Acid metabolism,2
+wikipathways,WP3937,Microglia Pathogen Phagocytosis Pathway,2
+wikipathways,WP3943,Robo4 and VEGF Signaling Pathways Crosstalk,2
+wikipathways,WP3944,Serotonin and anxiety-related events,2
+wikipathways,WP3971,Role of Osx and miRNAs in tooth development,2
+wikipathways,WP3982,miRNA regulation of p53 pathway in prostate cancer,2
+wikipathways,WP408,Oxidative Stress,2
+wikipathways,WP4141,PI3K-AKT-mTOR - VitD3 signaling,2
+wikipathways,WP4148,Splicing factor NOVA regulated synaptic proteins,2
+wikipathways,WP4222,Phosphodiesterases in neuronal function,2
+wikipathways,WP4241,Type 2 papillary renal cell carcinoma,2
+wikipathways,WP428,Wnt signaling,2
+wikipathways,WP4336,ncRNAs involved in Wnt signaling in hepatocellular carcinoma,2
+wikipathways,WP4337,ncRNAs involved in STAT3 signaling in hepatocellular carcinoma,2
+wikipathways,WP4479,Supression of HMGB1 mediated inflammation by THBD,2
+wikipathways,WP4534,Mechanoregulation and pathology of YAP-TAZ via Hippo and non-Hippo mechanisms,2
+wikipathways,WP4657,22q11.2 copy number variation syndrome,2
+wikipathways,WP4698,Vitamin D-sensitive calcium signaling in depression,2
+wikipathways,WP474,Endochondral Ossification,2
+wikipathways,WP4758,Nephrotic syndrome,2
+wikipathways,WP4790,FGF23 signaling in hypophosphatemic rickets and related disorders,2
+wikipathways,WP4808,Endochondral Ossification with Skeletal Dysplasias,2
+wikipathways,WP4829,mBDNF and proBDNF regulation of GABA neurotransmission,2
+wikipathways,WP4838,Regucalcin in proximal tubule epithelial kidney cells,2
+wikipathways,WP4844,The influence of laminopathies on Wnt signaling,2
+wikipathways,WP4873,Peroxiredoxin 2 induced ovarian failure,2
+wikipathways,WP4874,CAMKK2 Pathway,2
+wikipathways,WP4879,The Overlap Between Signal Transduction Pathways that Contribute to a Range of LMNA Laminopathies,2
+wikipathways,WP4912,SARS coronavirus and innate immunity,2
+wikipathways,WP4917,Proximal tubule transport,2
+wikipathways,WP4919,Neuroinflammation,2
+wikipathways,WP4949,16p11.2 proximal deletion syndrome,2
+wikipathways,WP4963,p53 transcriptional gene network,2
+wikipathways,WP5038,SARS-CoV-2 mitochondrial interactions,2
+wikipathways,WP5053,Development of ureteric collection system,2
+wikipathways,WP5072,Modulators of TCR signaling and T cell activation,2
+wikipathways,WP550,Biogenic Amine Synthesis,2
+wikipathways,WP554,ACE Inhibitor Pathway,2
+wikipathways,WP558,Complement and Coagulation Cascades,2
+wikipathways,WP619,Type II interferon signaling (IFNG),2
+wikipathways,WP707,DNA damage response,2
+wikipathways,WP734,Serotonin Receptor 4-6-7 and NR3C Signaling,2
+biocarta,41bbpathway,the 41bb-dependent immune response,1
+biocarta,achpathway,role of nicotinic acetylcholine receptors in the regulation of apoptosis,1
+biocarta,aktpathway,akt signaling pathway,1
+biocarta,apppathway,generation of amyloid b-peptide by ps1,1
+biocarta,arenrf2pathway,oxidative stress induced gene expression via nrf2,1
+biocarta,arfpathway,tumor suppressor arf inhibits ribosomal biogenesis,1
+biocarta,barrestinsrcpathway,roles of  arrestin dependent recruitment of src kinases in gpcr signaling,1
+biocarta,barrmapkpathway,role of -arrestins in the activation and targeting of map kinases,1
+biocarta,bcrpathway,bcr signaling pathway,1
+biocarta,cacampathway,ca-calmodulin-dependent protein kinase activation,1
+biocarta,carm1pathway,transcription regulation by methyltransferase of carm1,1
+biocarta,carmerpathway,carm1 and regulation of the estrogen receptor,1
+biocarta,caspasepathway,caspase cascade in apoptosis,1
+biocarta,ccr3pathway,ccr3 signaling in eosinophils,1
+biocarta,cd40pathway,cd40l signaling pathway,1
+biocarta,cdc42racpathway,role of pi3k subunit p85 in regulation of actin organization and cell migration,1
+biocarta,ck1pathway,regulation of ck1/cdk5 by type 1 glutamate receptors,1
+biocarta,cskpathway,activation of csk by camp-dependent protein kinase inhibits signaling through the t cell receptor,1
+biocarta,ctcfpathway,ctcf: first multivalent nuclear factor,1
+biocarta,cxcr4pathway,cxcr4 signaling pathway,1
+biocarta,d4gdipathway,d4gdi signaling pathway,1
+biocarta,deathpathway,induction of apoptosis through dr3 and dr4/5 death receptors,1
+biocarta,dnafragmentpathway,apoptotic dna-fragmentation and tissue homeostasis,1
+biocarta,dreampathway,repression of pain sensation by the transcriptional regulator dream,1
+biocarta,efppathway,estrogen responsive protein efp controls cell cycle and breast tumors growth,1
+biocarta,egfpathway,egf signaling pathway,1
+biocarta,eponfkbpathway,erythropoietin mediated neuroprotection through nf-kb,1
+biocarta,erkpathway,erk1/erk2 mapk signaling pathway,1
+biocarta,etspathway,mets affect on macrophage differentiation,1
+biocarta,faspathway,fas signaling pathway (cd95),1
+biocarta,fmlppathway,fmlp induced chemokine gene expression in hmc-1 cells,1
+biocarta,gata3pathway,gata3 participate in activating the th2 cytokine genes expression,1
+biocarta,ghpathway,growth hormone signaling pathway,1
+biocarta,hbxpathway,calcium signaling by hbx of hepatitis b virus,1
+biocarta,hdacpathway,control of skeletal myogenesis by hdac and calcium/calmodulin-dependent kinase (camk),1
+biocarta,hespathway,segmentation clock,1
+biocarta,ifnapathway,ifn alpha signaling pathway,1
+biocarta,ifngpathway,ifn gamma signaling pathway,1
+biocarta,igf1mtorpathway,skeletal muscle hypertrophy is regulated via akt-mtor pathway,1
+biocarta,igf1rpathway,multiple antiapoptotic pathways from igf-1r signaling lead to bad phosphorylation,1
+biocarta,il12pathway,il12 and stat4 dependent signaling pathway in th1 development,1
+biocarta,il3pathway,il 3 signaling pathway,1
+biocarta,il6pathway,il 6 signaling pathway,1
+biocarta,insulinpathway,insulin signaling pathway,1
+biocarta,irespathway,internal ribosome entry pathway,1
+biocarta,longevitypathway,the igf-1 receptor and longevity,1
+biocarta,malpathway,role of mal in rho-mediated activation of srf,1
+biocarta,mef2dpathway,role of mef2d in t-cell apoptosis,1
+biocarta,mprpathway,how progesterone initiates the oocyte maturation,1
+biocarta,mta3pathway,downregulated of mta-3 in er-negative breast tumors,1
+biocarta,mtorpathway,mtor signaling pathway,1
+biocarta,nkcellspathway,ras-independent pathway in nk cell-mediated cytotoxicity,1
+biocarta,no2il12pathway,no2-dependent il-12 pathway in nk cells,1
+biocarta,npp1pathway,regulators of bone mineralization,1
+biocarta,p35alzheimerspathway,deregulation of cdk5 in alzheimers disease,1
+biocarta,p53pathway,p53 signaling pathway,1
+biocarta,par1pathway,thrombin signaling and protease-activated receptors,1
+biocarta,pelp1pathway,pelp1 modulation of estrogen receptor activity,1
+biocarta,pgc1apathway,regulation of pgc-1a,1
+biocarta,pitx2pathway,multi-step regulation of transcription by pitx2,1
+biocarta,plcpathway,phospholipase c signaling pathway,1
+biocarta,prionpathway,prion pathway,1
+biocarta,pyk2pathway,links between pyk2 and map kinases,1
+biocarta,rac1pathway,rac1 cell motility signaling pathway,1
+biocarta,ranklpathway,bone remodeling,1
+biocarta,raspathway,ras signaling pathway,1
+biocarta,reckpathway,inhibition of matrix metalloproteinases,1
+biocarta,rnapathway,double stranded rna induced gene expression,1
+biocarta,sam68pathway,regulation of splicing through sam68,1
+biocarta,setpathway,granzyme a mediated apoptosis pathway,1
+biocarta,soddpathway,sodd/tnfr1 signaling pathway,1
+biocarta,sppapathway,aspirin blocks signaling pathway involved in platelet activation,1
+biocarta,sprypathway,sprouty regulation of tyrosine kinase signals,1
+biocarta,stat3pathway,stat3 signaling pathway,1
+biocarta,stathminpathway,stathmin and breast cancer resistance to antimicrotubule agents,1
+biocarta,stresspathway,tnf/stress related signaling,1
+biocarta,tcrapathway,lck and fyn tyrosine kinases in initiation of tcr activation,1
+biocarta,telpathway,telomeres telomerase cellular aging and immortality,1
+biocarta,tertpathway,overview of telomerase protein component gene htert transcriptional regulation,1
+biocarta,tidpathway,chaperones modulate interferon signaling pathway,1
+biocarta,trkapathway,trka receptor signaling pathway,1
+biocarta,ucalpainpathway,ucalpain and friends in cell spread,1
+biocarta,vifpathway,hiv-1 defeats host-mediated resistance by cem15,1
+biocarta,vobesitypathway,visceral fat deposits and the metabolic syndrome,1
+biocarta,wntpathway,wnt signaling pathway,1
+biocarta,wnvpathway,west nile virus,1
+humancyc,PWY-4983,citrulline-nitric oxide cycle,1
+humancyc,PWY-5695,"urate biosynthesis/inosine 5,-phosphate degradation",1
+humancyc,PWY-6030,serotonin and melatonin biosynthesis,1
+humancyc,PWY-6307,"tryptophan degradation X (mammalian, via tryptamine)",1
+humancyc,PWY-6353,purine nucleotides degradation,1
+humancyc,PWY-7177,UTP and CTP dephosphorylation II,1
+humancyc,PWY-7434,terminal <i>O</i>-glycans residues modification,1
+humancyc,PWY66-14,MAP kinase cascade,1
+humancyc,PWY66-401,superpathway of tryptophan utilization,1
+humancyc,PWY6666-1,anandamide degradation,1
+humancyc,SALVADEHYPOX-PWY,adenosine nucleotides degradation,1
+kegg,hsa00052,Galactose metabolism - Homo sapiens (human),1
+kegg,hsa00220,Arginine biosynthesis - Homo sapiens (human),1
+kegg,hsa00330,Arginine and proline metabolism - Homo sapiens (human),1
+kegg,hsa00360,Phenylalanine metabolism - Homo sapiens (human),1
+kegg,hsa00380,Tryptophan metabolism - Homo sapiens (human),1
+kegg,hsa00561,Glycerolipid metabolism - Homo sapiens (human),1
+kegg,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),1
+kegg,hsa00601,Glycosphingolipid biosynthesis - lacto and neolacto series - Homo sapiens (human),1
+kegg,hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human),1
+kegg,hsa00790,Folate biosynthesis - Homo sapiens (human),1
+kegg,hsa03013,RNA transport - Homo sapiens (human),1
+kegg,hsa03015,mRNA surveillance pathway - Homo sapiens (human),1
+kegg,hsa03050,Proteasome - Homo sapiens (human),1
+kegg,hsa03450,Non-homologous end-joining - Homo sapiens (human),1
+kegg,hsa04137,Mitophagy - animal - Homo sapiens (human),1
+kegg,hsa04144,Endocytosis - Homo sapiens (human),1
+kegg,hsa04216,Ferroptosis - Homo sapiens (human),1
+kegg,hsa04340,Hedgehog signaling pathway - Homo sapiens (human),1
+kegg,hsa04390,Hippo signaling pathway - Homo sapiens (human),1
+kegg,hsa04614,Renin-angiotensin system - Homo sapiens (human),1
+kegg,hsa04710,Circadian rhythm - Homo sapiens (human),1
+kegg,hsa04714,Thermogenesis - Homo sapiens (human),1
+kegg,hsa04730,Long-term depression - Homo sapiens (human),1
+kegg,hsa04740,Olfactory transduction - Homo sapiens (human),1
+kegg,hsa04742,Taste transduction - Homo sapiens (human),1
+kegg,hsa04918,Thyroid hormone synthesis - Homo sapiens (human),1
+kegg,hsa04922,Glucagon signaling pathway - Homo sapiens (human),1
+kegg,hsa04970,Salivary secretion - Homo sapiens (human),1
+kegg,hsa04972,Pancreatic secretion - Homo sapiens (human),1
+kegg,hsa04978,Mineral absorption - Homo sapiens (human),1
+kegg,hsa05032,Morphine addiction - Homo sapiens (human),1
+kegg,hsa05150,Staphylococcus aureus infection - Homo sapiens (human),1
+kegg,mmu00250,"Alanine, aspartate and glutamate metabolism - Mus musculus (mouse)",1
+kegg,mmu00330,Arginine and proline metabolism - Mus musculus (mouse),1
+kegg,mmu00565,Ether lipid metabolism - Mus musculus (mouse),1
+kegg,mmu00590,Arachidonic acid metabolism - Mus musculus (mouse),1
+kegg,mmu00591,Linoleic acid metabolism - Mus musculus (mouse),1
+kegg,mmu00592,alpha-Linolenic acid metabolism - Mus musculus (mouse),1
+kegg,mmu00630,Glyoxylate and dicarboxylate metabolism - Mus musculus (mouse),1
+kegg,mmu00760,Nicotinate and nicotinamide metabolism - Mus musculus (mouse),1
+kegg,mmu00910,Nitrogen metabolism - Mus musculus (mouse),1
+kegg,mmu03015,mRNA surveillance pathway - Mus musculus (mouse),1
+kegg,mmu03030,DNA replication - Mus musculus (mouse),1
+kegg,mmu03050,Proteasome - Mus musculus (mouse),1
+kegg,mmu03420,Nucleotide excision repair - Mus musculus (mouse),1
+kegg,mmu03430,Mismatch repair - Mus musculus (mouse),1
+kegg,mmu04110,Cell cycle - Mus musculus (mouse),1
+kegg,mmu04130,SNARE interactions in vesicular transport - Mus musculus (mouse),1
+kegg,mmu04137,Mitophagy - animal - Mus musculus (mouse),1
+kegg,mmu04141,Protein processing in endoplasmic reticulum - Mus musculus (mouse),1
+kegg,mmu04142,Lysosome - Mus musculus (mouse),1
+kegg,mmu04211,Longevity regulating pathway - Mus musculus (mouse),1
+kegg,mmu04310,Wnt signaling pathway - Mus musculus (mouse),1
+kegg,mmu04340,Hedgehog signaling pathway - Mus musculus (mouse),1
+kegg,mmu04512,ECM-receptor interaction - Mus musculus (mouse),1
+kegg,mmu04530,Tight junction - Mus musculus (mouse),1
+kegg,mmu04623,Cytosolic DNA-sensing pathway - Mus musculus (mouse),1
+kegg,mmu04670,Leukocyte transendothelial migration - Mus musculus (mouse),1
+kegg,mmu04672,Intestinal immune network for IgA production - Mus musculus (mouse),1
+kegg,mmu04740,Olfactory transduction - Mus musculus (mouse),1
+kegg,mmu04742,Taste transduction - Mus musculus (mouse),1
+kegg,mmu04744,Phototransduction - Mus musculus (mouse),1
+kegg,mmu04911,Insulin secretion - Mus musculus (mouse),1
+kegg,mmu04913,Ovarian steroidogenesis - Mus musculus (mouse),1
+kegg,mmu04922,Glucagon signaling pathway - Mus musculus (mouse),1
+kegg,mmu04923,Regulation of lipolysis in adipocytes - Mus musculus (mouse),1
+kegg,mmu04927,Cortisol synthesis and secretion - Mus musculus (mouse),1
+kegg,mmu04972,Pancreatic secretion - Mus musculus (mouse),1
+kegg,mmu04979,Cholesterol metabolism - Mus musculus (mouse),1
+kegg,mmu05017,Spinocerebellar ataxia - Mus musculus (mouse),1
+kegg,mmu05310,Asthma - Mus musculus (mouse),1
+kegg,mmu05320,Autoimmune thyroid disease - Mus musculus (mouse),1
+kegg,mmu05410,Hypertrophic cardiomyopathy - Mus musculus (mouse),1
+kegg,mmu05412,Arrhythmogenic right ventricular cardiomyopathy - Mus musculus (mouse),1
+kegg,mmu05414,Dilated cardiomyopathy - Mus musculus (mouse),1
+mousecyc,GLUTAMINE-SYN2-PWY,glutamine biosynthesis II,1
+mousecyc,LIPASYN-PWY,phospholipases,1
+mousecyc,PWY-4983,citrulline-nitric oxide cycle,1
+mousecyc,PWY-5004,superpathway of citrulline metabolism,1
+mousecyc,PWY-6260,thyroid hormone metabolism I (via deiodination),1
+netpath,Pathway_Hedgehog,Hedgehog,1
+netpath,Pathway_ID,ID,1
+netpath,Pathway_IL9,IL9,1
+netpath,Pathway_RANKL,RANKL,1
+netpath,Pathway_Wnt,Wnt,1
+pid,a4b7_pathway,a4b7 Integrin signaling,1
+pid,ar_pathway,Coregulation of Androgen receptor activity,1
+pid,ar_tf_pathway,Regulation of Androgen receptor activity,1
+pid,arf_3pathway,Arf1 pathway,1
+pid,aurora_b_pathway,Aurora B signaling,1
+pid,betacatenin_deg_pathway,Degradation of beta catenin,1
+pid,bmppathway,BMP receptor signaling,1
+pid,botulinumtoxinpathway,Effects of Botulinum toxin,1
+pid,cd8tcrpathway,TCR signaling in na&#xef;ve CD8+ T cells,1
+pid,deltanp63pathway,Validated transcriptional targets of deltaNp63 isoforms,1
+pid,dnapk_pathway,DNA-PK pathway in nonhomologous end joining,1
+pid,epha2_fwdpathway,EPHA2 forward signaling,1
+pid,ephrinbrevpathway,Ephrin B reverse signaling,1
+pid,erb_genomic_pathway,Validated nuclear estrogen receptor beta network,1
+pid,erbb_network_pathway,ErbB receptor signaling network,1
+pid,foxopathway,FoxO family signaling,1
+pid,hdac_classii_pathway,Signaling events mediated by HDAC Class II,1
+pid,hdac_classiii_pathway,Signaling events mediated by HDAC Class III,1
+pid,hedgehog_2pathway,Signaling events mediated by the Hedgehog family,1
+pid,hif1apathway,Hypoxic and oxygen homeostasis regulation of HIF-1-alpha,1
+pid,igf1_pathway,IGF1 pathway,1
+pid,il3_pathway,IL3-mediated signaling events,1
+pid,il5_pathway,IL5-mediated signaling events,1
+pid,il8cxcr1_pathway,IL8- and CXCR1-mediated signaling events,1
+pid,il8cxcr2_pathway,IL8- and CXCR2-mediated signaling events,1
+pid,ilk_pathway,Integrin-linked kinase signaling,1
+pid,integrin5_pathway,Beta5 beta6 beta7 and beta8 integrin cell surface interactions,1
+pid,mtor_4pathway,mTOR signaling pathway,1
+pid,myc_activpathway,Validated targets of C-MYC transcriptional activation,1
+pid,nfkappabalternativepathway,Alternative NF-kappaB pathway,1
+pid,p38_mk2pathway,p38 signaling mediated by MAPKAP kinases,1
+pid,p38gammadeltapathway,Signaling mediated by p38-gamma and p38-delta,1
+pid,p73pathway,p73 transcription factor network,1
+pid,pi3kcibpathway,Class IB PI3K non-lipid kinase events,1
+pid,rac1_pathway,RAC1 signaling pathway,1
+pid,retinoic_acid_pathway,Retinoic acid receptors-mediated signaling,1
+pid,s1p_s1p4_pathway,S1P4 pathway,1
+pid,smad2_3pathway,Regulation of cytoplasmic and nuclear SMAD2/3 signaling,1
+pid,syndecan_3_pathway,Syndecan-3-mediated signaling events,1
+pid,tap63pathway,Validated transcriptional targets of TAp63 isoforms,1
+pid,toll_endogenous_pathway,Endogenous TLR signaling,1
+pid,txa2pathway,Thromboxane A2 receptor signaling,1
+reactome,R-BTA-168249,Innate Immune System,1
+reactome,R-BTA-168256,Immune System,1
+reactome,R-BTA-6798695,Neutrophil degranulation,1
+reactome,R-BTA-6799990,Metal sequestration by antimicrobial proteins,1
+reactome,R-BTA-6803157,Antimicrobial peptides,1
+reactome,R-DME-109581,Apoptosis,1
+reactome,R-DME-109606,Intrinsic Pathway for Apoptosis,1
+reactome,R-DME-110056,MAPK3 (ERK1) activation,1
+reactome,R-DME-110478,Insulin signaling pathway,1
+reactome,R-DME-110523,TOR signaling pathway,1
+reactome,R-DME-111458,Formation of apoptosome,1
+reactome,R-DME-111461,Cytochrome c-mediated apoptotic response,1
+reactome,R-DME-111471,Apoptotic factor-mediated response,1
+reactome,R-DME-112409,RAF-independent MAPK1/3 activation,1
+reactome,R-DME-112411,MAPK1 (ERK2) activation,1
+reactome,R-DME-1222556,ROS and RNS production in phagocytes,1
+reactome,R-DME-1234158,Regulation of gene expression by Hypoxia-inducible Factor,1
+reactome,R-DME-1234174,Cellular response to hypoxia,1
+reactome,R-DME-1234176,Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha,1
+reactome,R-DME-1257604,PIP3 activates AKT signaling,1
+reactome,R-DME-1295596,Spry regulation of FGF signaling,1
+reactome,R-DME-1502540,Signaling by Activin,1
+reactome,R-DME-162658,Golgi Cisternae Pericentriolar Stack Reorganization,1
+reactome,R-DME-1640170,Cell Cycle,1
+reactome,R-DME-165159,MTOR signalling,1
+reactome,R-DME-166016,Toll Like Receptor 4 (TLR4) Cascade,1
+reactome,R-DME-166058,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,1
+reactome,R-DME-166166,MyD88-independent TLR4 cascade ,1
+reactome,R-DME-166208,mTORC1-mediated signalling,1
+reactome,R-DME-166520,Signaling by NTRKs,1
+reactome,R-DME-168138,Toll Like Receptor 9 (TLR9) Cascade,1
+reactome,R-DME-168142,Toll Like Receptor 10 (TLR10) Cascade,1
+reactome,R-DME-168164,Toll Like Receptor 3 (TLR3) Cascade,1
+reactome,R-DME-168176,Toll Like Receptor 5 (TLR5) Cascade,1
+reactome,R-DME-168179,Toll Like Receptor TLR1:TLR2 Cascade,1
+reactome,R-DME-168181,Toll Like Receptor 7/8 (TLR7/8) Cascade,1
+reactome,R-DME-168188,Toll Like Receptor TLR6:TLR2 Cascade,1
+reactome,R-DME-168898,Toll-like Receptor Cascades,1
+reactome,R-DME-169893,Prolonged ERK activation events,1
+reactome,R-DME-170834,Signaling by TGF-beta Receptor Complex,1
+reactome,R-DME-170968,Frs2-mediated activation,1
+reactome,R-DME-181438,Toll Like Receptor 2 (TLR2) Cascade,1
+reactome,R-DME-186712,Regulation of beta-cell development,1
+reactome,R-DME-187037,Signaling by NTRK1 (TRKA),1
+reactome,R-DME-187687,Signalling to ERKs,1
+reactome,R-DME-190236,Signaling by FGFR,1
+reactome,R-DME-194315,Signaling by Rho GTPases,1
+reactome,R-DME-195258,RHO GTPase Effectors,1
+reactome,R-DME-198693,AKT phosphorylates targets in the nucleus,1
+reactome,R-DME-198725,Nuclear Events (kinase and transcription factor activation),1
+reactome,R-DME-198753,ERK/MAPK targets,1
+reactome,R-DME-202670,ERKs are inactivated,1
+reactome,R-DME-2029480,Fcgamma receptor (FCGR) dependent phagocytosis,1
+reactome,R-DME-2029482,Regulation of actin dynamics for phagocytic cup formation,1
+reactome,R-DME-210745,Regulation of gene expression in beta cells,1
+reactome,R-DME-211163,AKT-mediated inactivation of FOXO1A,1
+reactome,R-DME-2173793,Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer,1
+reactome,R-DME-2173795,Downregulation of SMAD2/3:SMAD4 transcriptional activity,1
+reactome,R-DME-2173796,SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription,1
+reactome,R-DME-2454202,Fc epsilon receptor (FCERI) signaling,1
+reactome,R-DME-2559580,Oxidative Stress Induced Senescence,1
+reactome,R-DME-2559582,Senescence-Associated Secretory Phenotype (SASP),1
+reactome,R-DME-2559583,Cellular Senescence,1
+reactome,R-DME-2559585,Oncogene Induced Senescence,1
+reactome,R-DME-2871796,FCERI mediated MAPK activation,1
+reactome,R-DME-3371453,Regulation of HSF1-mediated heat shock response,1
+reactome,R-DME-3371556,Cellular response to heat stress,1
+reactome,R-DME-372790,Signaling by GPCR,1
+reactome,R-DME-373760,L1CAM interactions,1
+reactome,R-DME-375165,NCAM signaling for neurite out-growth,1
+reactome,R-DME-388396,GPCR downstream signalling,1
+reactome,R-DME-416476,G alpha (q) signalling events,1
+reactome,R-DME-422475,Axon guidance,1
+reactome,R-DME-425407,SLC-mediated transmembrane transport,1
+reactome,R-DME-425410,Metal ion SLC transporters,1
+reactome,R-DME-437239,Recycling pathway of L1,1
+reactome,R-DME-445144,Signal transduction by L1,1
+reactome,R-DME-448424,Interleukin-17 signaling,1
+reactome,R-DME-449147,Signaling by Interleukins,1
+reactome,R-DME-450282,MAPK targets/ Nuclear events mediated by MAP kinases,1
+reactome,R-DME-450294,MAP kinase activation,1
+reactome,R-DME-450341,Activation of the AP-1 family of transcription factors,1
+reactome,R-DME-5357801,Programmed Cell Death,1
+reactome,R-DME-5654726,Negative regulation of FGFR1 signaling,1
+reactome,R-DME-5654727,Negative regulation of FGFR2 signaling,1
+reactome,R-DME-5654732,Negative regulation of FGFR3 signaling,1
+reactome,R-DME-5654733,Negative regulation of FGFR4 signaling,1
+reactome,R-DME-5654736,Signaling by FGFR1,1
+reactome,R-DME-5654738,Signaling by FGFR2,1
+reactome,R-DME-5654741,Signaling by FGFR3,1
+reactome,R-DME-5654743,Signaling by FGFR4,1
+reactome,R-DME-5658442,Regulation of RAS by GAPs,1
+reactome,R-DME-5663213,RHO GTPases Activate WASPs and WAVEs,1
+reactome,R-DME-5674135,MAP2K and MAPK activation,1
+reactome,R-DME-5674499,Negative feedback regulation of MAPK pathway,1
+reactome,R-DME-5675221,Negative regulation of MAPK pathway,1
+reactome,R-DME-5687128,MAPK6/MAPK4 signaling,1
+reactome,R-DME-5688426,Deubiquitination,1
+reactome,R-DME-5689880,Ub-specific processing proteases,1
+reactome,R-DME-6803157,Antimicrobial peptides,1
+reactome,R-DME-6803544,Ion influx/efflux at host-pathogen interface,1
+reactome,R-DME-68875,Mitotic Prophase,1
+reactome,R-DME-68886,M Phase,1
+reactome,R-DME-69278,"Cell Cycle, Mitotic",1
+reactome,R-DME-72613,Eukaryotic Translation Initiation,1
+reactome,R-DME-72662,"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",1
+reactome,R-DME-72737,Cap-dependent Translation Initiation,1
+reactome,R-DME-72766,Translation,1
+reactome,R-DME-74749,Signal attenuation,1
+reactome,R-DME-74751,Insulin receptor signalling cascade,1
+reactome,R-DME-74752,Signaling by Insulin receptor,1
+reactome,R-DME-877300,Interferon gamma signaling,1
+reactome,R-DME-881907,Gastrin-CREB signalling pathway via PKC and MAPK,1
+reactome,R-DME-8951664,Neddylation,1
+reactome,R-DME-9006925,Intracellular signaling by second messengers,1
+reactome,R-DME-9006934,Signaling by Receptor Tyrosine Kinases,1
+reactome,R-DME-9006936,Signaling by TGFB family members,1
+reactome,R-DME-913531,Interferon Signaling,1
+reactome,R-DME-937061,TRIF (TICAM1)-mediated TLR4 signaling ,1
+reactome,R-DME-9607240,FLT3 Signaling,1
+reactome,R-DME-9614085,FOXO-mediated transcription,1
+reactome,R-DME-9614399,Regulation of localization of FOXO transcription factors,1
+reactome,R-DME-9617629,Regulation of FOXO transcriptional activity by acetylation,1
+reactome,R-DME-9617828,FOXO-mediated transcription of cell cycle genes,1
+reactome,R-DME-9627069,Regulation of the apoptosome activity,1
+reactome,R-DME-9634635,Estrogen-stimulated signaling through PRKCZ,1
+reactome,R-DME-9675108,Nervous system development,1
+reactome,R-DME-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",1
+reactome,R-DME-9730414,MITF-M-regulated melanocyte development,1
+reactome,R-DME-975138,TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,1
+reactome,R-DME-975155,MyD88 dependent cascade initiated on endosome,1
+reactome,R-DME-975871,MyD88 cascade initiated on plasma membrane,1
+reactome,R-DME-9841251,Mitochondrial unfolded protein response (UPRmt),1
+reactome,R-DME-9856649,Transcriptional and post-translational regulation of MITF-M expression and activity,1
+reactome,R-DRE-112314,Neurotransmitter receptors and postsynaptic signal transmission,1
+reactome,R-DRE-112315,Transmission across Chemical Synapses,1
+reactome,R-DRE-112316,Neuronal System,1
+reactome,R-DRE-114608,Platelet degranulation ,1
+reactome,R-DRE-1234158,Regulation of gene expression by Hypoxia-inducible Factor,1
+reactome,R-DRE-1234174,Cellular response to hypoxia,1
+reactome,R-DRE-1234176,Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha,1
+reactome,R-DRE-1257604,PIP3 activates AKT signaling,1
+reactome,R-DRE-1266738,Developmental Biology,1
+reactome,R-DRE-1280215,Cytokine Signaling in Immune system,1
+reactome,R-DRE-139853,Elevation of cytosolic Ca2+ levels,1
+reactome,R-DRE-1538133,G0 and Early G1,1
+reactome,R-DRE-1640170,Cell Cycle,1
+reactome,R-DRE-168249,Innate Immune System,1
+reactome,R-DRE-168643,"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",1
+reactome,R-DRE-181431,Acetylcholine binding and downstream events,1
+reactome,R-DRE-194138,Signaling by VEGF,1
+reactome,R-DRE-194313,VEGF ligand-receptor interactions,1
+reactome,R-DRE-195399,VEGF binds to VEGFR leading to receptor dimerization,1
+reactome,R-DRE-195721,Signaling by WNT,1
+reactome,R-DRE-201681,TCF dependent signaling in response to WNT,1
+reactome,R-DRE-201722,Formation of the beta-catenin:TCF transactivating complex,1
+reactome,R-DRE-2559582,Senescence-Associated Secretory Phenotype (SASP),1
+reactome,R-DRE-2559583,Cellular Senescence,1
+reactome,R-DRE-2990846,SUMOylation,1
+reactome,R-DRE-3108232,SUMO E3 ligases SUMOylate target proteins,1
+reactome,R-DRE-3214815,HDACs deacetylate histones,1
+reactome,R-DRE-3214841,PKMTs methylate histone lysines,1
+reactome,R-DRE-372790,Signaling by GPCR,1
+reactome,R-DRE-373076,Class A/1 (Rhodopsin-like receptors),1
+reactome,R-DRE-388396,GPCR downstream signalling,1
+reactome,R-DRE-392518,Signal amplification,1
+reactome,R-DRE-416476,G alpha (q) signalling events,1
+reactome,R-DRE-417957,P2Y receptors,1
+reactome,R-DRE-418038,Nucleotide-like (purinergic) receptors,1
+reactome,R-DRE-418346,Platelet homeostasis,1
+reactome,R-DRE-418360,Platelet calcium homeostasis,1
+reactome,R-DRE-418592,ADP signalling through P2Y purinoceptor 1,1
+reactome,R-DRE-4420097,VEGFA-VEGFR2 Pathway,1
+reactome,R-DRE-453279,Mitotic G1 phase and G1/S transition,1
+reactome,R-DRE-4551638,SUMOylation of chromatin organization proteins,1
+reactome,R-DRE-500792,GPCR ligand binding,1
+reactome,R-DRE-5218921,VEGFR2 mediated cell proliferation,1
+reactome,R-DRE-5357786,TNFR1-induced proapoptotic signaling,1
+reactome,R-DRE-5357905,Regulation of TNFR1 signaling,1
+reactome,R-DRE-5357956,TNFR1-induced NF-kappa-B signaling pathway,1
+reactome,R-DRE-5626978,TNFR1-mediated ceramide production,1
+reactome,R-DRE-5668541,TNFR2 non-canonical NF-kB pathway,1
+reactome,R-DRE-5669034,TNFs bind their physiological receptors,1
+reactome,R-DRE-622312,Inflammasomes,1
+reactome,R-DRE-622323,Presynaptic nicotinic acetylcholine receptors,1
+reactome,R-DRE-622327,Postsynaptic nicotinic acetylcholine receptors,1
+reactome,R-DRE-629594,Highly calcium permeable postsynaptic nicotinic acetylcholine receptors,1
+reactome,R-DRE-629597,Highly calcium permeable nicotinic acetylcholine receptors,1
+reactome,R-DRE-6804758,Regulation of TP53 Activity through Acetylation,1
+reactome,R-DRE-6804760,Regulation of TP53 Activity through Methylation,1
+reactome,R-DRE-6807070,PTEN Regulation,1
+reactome,R-DRE-69278,"Cell Cycle, Mitotic",1
+reactome,R-DRE-73887,Death Receptor Signaling,1
+reactome,R-DRE-75893,TNF signaling,1
+reactome,R-DRE-76005,Response to elevated platelet cytosolic Ca2+,1
+reactome,R-DRE-844456,The NLRP3 inflammasome,1
+reactome,R-DRE-8878171,Transcriptional regulation by RUNX1,1
+reactome,R-DRE-8936459,RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function,1
+reactome,R-DRE-8939211,ESR-mediated signaling,1
+reactome,R-DRE-8943724,Regulation of PTEN gene transcription,1
+reactome,R-DRE-8951664,Neddylation,1
+reactome,R-DRE-8953750,Transcriptional Regulation by E2F6,1
+reactome,R-DRE-8986944,Transcriptional Regulation by MECP2,1
+reactome,R-DRE-9006925,Intracellular signaling by second messengers,1
+reactome,R-DRE-9006931,Signaling by Nuclear Receptors,1
+reactome,R-DRE-9006934,Signaling by Receptor Tyrosine Kinases,1
+reactome,R-DRE-9018519,Estrogen-dependent gene expression,1
+reactome,R-DRE-9022692,Regulation of MECP2 expression and activity,1
+reactome,R-DRE-9730414,MITF-M-regulated melanocyte development,1
+reactome,R-DRE-9824594,Regulation of MITF-M-dependent genes involved in apoptosis,1
+reactome,R-DRE-9825892,Regulation of MITF-M-dependent genes involved in cell cycle and proliferation,1
+reactome,R-DRE-983231,Factors involved in megakaryocyte development and platelet production,1
+reactome,R-DRE-9856651,MITF-M-dependent gene expression,1
+reactome,R-DRE-9932444,ATP-dependent chromatin remodelers,1
+reactome,R-DRE-9937848,CHD chromatin remodelers,1
+reactome,R-DRE-9937850,NuRD complex assembly,1
+reactome,R-DRE-9940951,Interaction of NuRD complexes with transcription factors,1
+reactome,R-DRE-9943965,"CHD3, CHD4, CHD5 subfamily",1
+reactome,R-HSA-1474244,Extracellular matrix organization,1
+reactome,R-HSA-1474290,Collagen formation,1
+reactome,R-HSA-162582,Signal Transduction,1
+reactome,R-HSA-163841,"Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation",1
+reactome,R-HSA-1650814,Collagen biosynthesis and modifying enzymes,1
+reactome,R-HSA-168249,Innate Immune System,1
+reactome,R-HSA-168256,Immune System,1
+reactome,R-HSA-1852241,Organelle biogenesis and maintenance,1
+reactome,R-HSA-382551,Transport of small molecules,1
+reactome,R-HSA-392499,Metabolism of proteins,1
+reactome,R-HSA-425407,SLC-mediated transmembrane transport,1
+reactome,R-HSA-425410,Metal ion SLC transporters,1
+reactome,R-HSA-425986,Sodium/Proton exchangers,1
+reactome,R-HSA-5617833,Cilium Assembly,1
+reactome,R-HSA-597592,Post-translational protein modification,1
+reactome,R-HSA-6798695,Neutrophil degranulation,1
+reactome,R-HSA-8848021,Signaling by PTK6,1
+reactome,R-HSA-8857538,PTK6 promotes HIF1A stabilization,1
+reactome,R-HSA-9006927,Signaling by Non-Receptor Tyrosine Kinases,1
+reactome,R-HSA-9629569,Protein hydroxylation,1
+reactome,R-HSA-9945556,Transcriptional regulation of multiciliogenesis,1
+reactome,R-HSA-9975924,Assembly of the 9+2 motile cilia,1
+reactome,R-MMU-112316,Neuronal System,1
+reactome,R-MMU-1296071,Potassium Channels,1
+reactome,R-MMU-1296072,Voltage gated Potassium channels,1
+reactome,R-RNO-109581,Apoptosis,1
+reactome,R-RNO-111465,Apoptotic cleavage of cellular proteins,1
+reactome,R-RNO-112310,Neurotransmitter release cycle,1
+reactome,R-RNO-112314,Neurotransmitter receptors and postsynaptic signal transmission,1
+reactome,R-RNO-114608,Platelet degranulation ,1
+reactome,R-RNO-1237044,Erythrocytes take up carbon dioxide and release oxygen,1
+reactome,R-RNO-1247673,Erythrocytes take up oxygen and release carbon dioxide,1
+reactome,R-RNO-1296052,Ca2+ activated K+ channels,1
+reactome,R-RNO-1296071,Potassium Channels,1
+reactome,R-RNO-1461973,Defensins,1
+reactome,R-RNO-1462054,Alpha-defensins,1
+reactome,R-RNO-1480926,O2/CO2 exchange in erythrocytes,1
+reactome,R-RNO-1630316,Glycosaminoglycan metabolism,1
+reactome,R-RNO-1632852,Macroautophagy,1
+reactome,R-RNO-166016,Toll Like Receptor 4 (TLR4) Cascade,1
+reactome,R-RNO-166058,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,1
+reactome,R-RNO-166166,MyD88-independent TLR4 cascade ,1
+reactome,R-RNO-168138,Toll Like Receptor 9 (TLR9) Cascade,1
+reactome,R-RNO-168142,Toll Like Receptor 10 (TLR10) Cascade,1
+reactome,R-RNO-168164,Toll Like Receptor 3 (TLR3) Cascade,1
+reactome,R-RNO-168176,Toll Like Receptor 5 (TLR5) Cascade,1
+reactome,R-RNO-168179,Toll Like Receptor TLR1:TLR2 Cascade,1
+reactome,R-RNO-168181,Toll Like Receptor 7/8 (TLR7/8) Cascade,1
+reactome,R-RNO-168188,Toll Like Receptor TLR6:TLR2 Cascade,1
+reactome,R-RNO-168898,Toll-like Receptor Cascades,1
+reactome,R-RNO-181438,Toll Like Receptor 2 (TLR2) Cascade,1
+reactome,R-RNO-187037,Signaling by NTRK1 (TRKA),1
+reactome,R-RNO-194138,Signaling by VEGF,1
+reactome,R-RNO-194313,VEGF ligand-receptor interactions,1
+reactome,R-RNO-194315,Signaling by Rho GTPases,1
+reactome,R-RNO-195399,VEGF binds to VEGFR leading to receptor dimerization,1
+reactome,R-RNO-196757,Metabolism of folate and pterines,1
+reactome,R-RNO-196849,Metabolism of water-soluble vitamins and cofactors,1
+reactome,R-RNO-196854,Metabolism of vitamins and cofactors,1
+reactome,R-RNO-198693,AKT phosphorylates targets in the nucleus,1
+reactome,R-RNO-198725,Nuclear Events (kinase and transcription factor activation),1
+reactome,R-RNO-199418,Negative regulation of the PI3K/AKT network,1
+reactome,R-RNO-199920,CREB phosphorylation,1
+reactome,R-RNO-199977,ER to Golgi Anterograde Transport,1
+reactome,R-RNO-202424,Downstream TCR signaling,1
+reactome,R-RNO-202430,Translocation of ZAP-70 to Immunological synapse,1
+reactome,R-RNO-202433,Generation of second messenger molecules,1
+reactome,R-RNO-202733,Cell surface interactions at the vascular wall,1
+reactome,R-RNO-204005,COPII-mediated vesicle transport,1
+reactome,R-RNO-210991,Basigin interactions,1
+reactome,R-RNO-2142845,Hyaluronan metabolism,1
+reactome,R-RNO-2160916,Hyaluronan degradation,1
+reactome,R-RNO-264870,Caspase-mediated cleavage of cytoskeletal proteins,1
+reactome,R-RNO-3295583,TRP channels,1
+reactome,R-RNO-352230,Amino acid transport across the plasma membrane,1
+reactome,R-RNO-372790,Signaling by GPCR,1
+reactome,R-RNO-373755,Semaphorin interactions,1
+reactome,R-RNO-375165,NCAM signaling for neurite out-growth,1
+reactome,R-RNO-388396,GPCR downstream signalling,1
+reactome,R-RNO-388841,Regulation of T cell activation by CD28 family,1
+reactome,R-RNO-389948,Co-inhibition by PD-1,1
+reactome,R-RNO-390522,Striated Muscle Contraction,1
+reactome,R-RNO-392499,Metabolism of proteins,1
+reactome,R-RNO-397014,Muscle contraction,1
+reactome,R-RNO-416476,G alpha (q) signalling events,1
+reactome,R-RNO-416700,Other semaphorin interactions,1
+reactome,R-RNO-425410,Metal ion SLC transporters,1
+reactome,R-RNO-425986,Sodium/Proton exchangers,1
+reactome,R-RNO-426117,Cation-coupled Chloride cotransporters,1
+reactome,R-RNO-438064,Post NMDA receptor activation events,1
+reactome,R-RNO-4420097,VEGFA-VEGFR2 Pathway,1
+reactome,R-RNO-442660,SLC-mediated transport of neurotransmitters,1
+reactome,R-RNO-442742,CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling,1
+reactome,R-RNO-442755,Activation of NMDA receptors and postsynaptic events,1
+reactome,R-RNO-446203,Asparagine N-linked glycosylation,1
+reactome,R-RNO-448424,Interleukin-17 signaling,1
+reactome,R-RNO-449836,Other interleukin signaling,1
+reactome,R-RNO-450282,MAPK targets/ Nuclear events mediated by MAP kinases,1
+reactome,R-RNO-450294,MAP kinase activation,1
+reactome,R-RNO-5218921,VEGFR2 mediated cell proliferation,1
+reactome,R-RNO-5357786,TNFR1-induced proapoptotic signaling,1
+reactome,R-RNO-5357801,Programmed Cell Death,1
+reactome,R-RNO-5357905,Regulation of TNFR1 signaling,1
+reactome,R-RNO-5357956,TNFR1-induced NF-kappa-B signaling pathway,1
+reactome,R-RNO-5626978,TNFR1-mediated ceramide production,1
+reactome,R-RNO-5668541,TNFR2 non-canonical NF-kB pathway,1
+reactome,R-RNO-5694530,Cargo concentration in the ER,1
+reactome,R-RNO-597592,Post-translational protein modification,1
+reactome,R-RNO-6799990,Metal sequestration by antimicrobial proteins,1
+reactome,R-RNO-6807878,COPI-mediated anterograde transport,1
+reactome,R-RNO-6811558,"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",1
+reactome,R-RNO-71240,Tryptophan catabolism,1
+reactome,R-RNO-71288,Creatine metabolism,1
+reactome,R-RNO-71387,Metabolism of carbohydrates and carbohydrate derivatives,1
+reactome,R-RNO-73887,Death Receptor Signaling,1
+reactome,R-RNO-75153,Apoptotic execution phase,1
+reactome,R-RNO-75893,TNF signaling,1
+reactome,R-RNO-76002,"Platelet activation, signaling and aggregation",1
+reactome,R-RNO-76005,Response to elevated platelet cytosolic Ca2+,1
+reactome,R-RNO-881907,Gastrin-CREB signalling pathway via PKC and MAPK,1
+reactome,R-RNO-8856825,Cargo recognition for clathrin-mediated endocytosis,1
+reactome,R-RNO-8856828,Clathrin-mediated endocytosis,1
+reactome,R-RNO-888590,"GABA synthesis, release, reuptake and degradation",1
+reactome,R-RNO-888593,Reuptake of GABA,1
+reactome,R-RNO-8939211,ESR-mediated signaling,1
+reactome,R-RNO-8953897,Cellular responses to stimuli,1
+reactome,R-RNO-9006115,Signaling by NTRK2 (TRKB),1
+reactome,R-RNO-9006931,Signaling by Nuclear Receptors,1
+reactome,R-RNO-9009391,Extra-nuclear estrogen signaling,1
+reactome,R-RNO-9012999,RHO GTPase cycle,1
+reactome,R-RNO-9013422,RHOBTB1 GTPase cycle,1
+reactome,R-RNO-9026527,Activated NTRK2 signals through PLCG1,1
+reactome,R-RNO-9028731,Activated NTRK2 signals through FRS2 and FRS3,1
+reactome,R-RNO-9031628,NGF-stimulated transcription,1
+reactome,R-RNO-9032500,Activated NTRK2 signals through FYN,1
+reactome,R-RNO-9032759,NTRK2 activates RAC1,1
+reactome,R-RNO-917937,Iron uptake and transport,1
+reactome,R-RNO-937061,TRIF (TICAM1)-mediated TLR4 signaling ,1
+reactome,R-RNO-948021,Transport to the Golgi and subsequent modification,1
+reactome,R-RNO-9612973,Autophagy,1
+reactome,R-RNO-9634638,Estrogen-dependent nuclear events downstream of ESR-membrane signaling,1
+reactome,R-RNO-9646399,Aggrephagy,1
+reactome,R-RNO-9663891,Selective autophagy,1
+reactome,R-RNO-9706574,RHOBTB GTPase Cycle,1
+reactome,R-RNO-9709957,Sensory Perception,1
+reactome,R-RNO-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",1
+reactome,R-RNO-9717189,Sensory perception of taste,1
+reactome,R-RNO-9730628,Sensory perception of salty taste,1
+reactome,R-RNO-975138,TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,1
+reactome,R-RNO-975155,MyD88 dependent cascade initiated on endosome,1
+reactome,R-RNO-975871,MyD88 cascade initiated on plasma membrane,1
+reactome,R-RNO-9855142,Cellular responses to mechanical stimuli,1
+reactome,R-RNO-9856530,High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells,1
+reactome,R-RNO-9860931,Response of endothelial cells to shear stress,1
+reactome,R-RNO-9958790,SLC-mediated transport of inorganic anions,1
+reactome,R-RNO-9958863,SLC-mediated transport of amino acids,1
+smpdb,SMP00006,Tyrosine Metabolism,1
+smpdb,SMP00043,Galactose Metabolism,1
+smpdb,SMP00063,Tryptophan Metabolism,1
+smpdb,SMP00169,Alkaptonuria,1
+smpdb,SMP00182,Galactosemia,1
+smpdb,SMP00190,Hawkinsinuria,1
+smpdb,SMP00218,Tyrosinemia Type I,1
+smpdb,SMP00308,Dopamine Activation of Neurological Reward System,1
+smpdb,SMP00391,Insulin Signalling,1
+smpdb,SMP00421,Vatalanib Action Pathway,1
+smpdb,SMP00429,Disulfiram Action Pathway,1
+smpdb,SMP00463,Phosphatidylinositol Phosphate Metabolism,1
+smpdb,SMP00471,Tamoxifen Action Pathway,1
+smpdb,SMP00494,"Tyrosinemia, transient, of the newborn",1
+smpdb,SMP00498,Dopamine beta-hydroxylase deficiency,1
+smpdb,SMP00533,Monoamine oxidase-a deficiency (MAO-A),1
+smpdb,SMP00582,Joubert syndrome,1
+smpdb,SMP00606,Tamoxifen Metabolism Pathway,1
+smpdb,SMP00619,Felodipine Metabolism Pathway,1
+smpdb,SMP00650,Doxorubicin Metabolism Pathway,1
+smpdb,SMP00716,Thyroid hormone synthesis,1
+smpdb,SMP02292,The oncogenic action of Succinate,1
+smpdb,SMP02295,The oncogenic action of Fumarate,1
+wikipathways,WP1424,Globo Sphingolipid Metabolism,1
+wikipathways,WP1438,Influenza A virus infection,1
+wikipathways,WP1455,Serotonin Transporter Activity,1
+wikipathways,WP1541,Energy Metabolism,1
+wikipathways,WP1559,TFs regulate miRNAs related to cardiac hypertrophy,1
+wikipathways,WP1603,Nicotine Activity on Chromaffin Cells,1
+wikipathways,WP183,Proteasome Degradation,1
+wikipathways,WP1981,Thyroxine (Thyroid Hormone) Production,1
+wikipathways,WP1991,SRF and miRs in Smooth Muscle Differentiation and Proliferation,1
+wikipathways,WP1992,Genes targeted by miRNAs in adipocytes,1
+wikipathways,WP1995,Effects of nitric oxide,1
+wikipathways,WP2023,Cell Differentiation - Index expanded,1
+wikipathways,WP2035,Follicle Stimulating Hormone (FSH) signaling pathway,1
+wikipathways,WP2038,Regulation of Microtubule Cytoskeleton,1
+wikipathways,WP2363,Gastric Cancer Network 2,1
+wikipathways,WP2406,Cardiac Progenitor Differentiation,1
+wikipathways,WP2456,HIF1A and PPARG regulation of glycolysis,1
+wikipathways,WP247,Small Ligand GPCRs,1
+wikipathways,WP2583,T-Cell Receptor and Co-stimulatory Signaling,1
+wikipathways,WP2596,Gastric acid production,1
+wikipathways,WP26,Signal Transduction of S1P Receptor,1
+wikipathways,WP2815,Mammary gland development pathway - Involution (Stage 4 of 4),1
+wikipathways,WP2853,Endoderm differentiation,1
+wikipathways,WP2857,Mesodermal commitment pathway,1
+wikipathways,WP2868,TCA Cycle Nutrient Utilization and Invasiveness of Ovarian Cancer,1
+wikipathways,WP2881,Estrogen Receptor Pathway,1
+wikipathways,WP3297,EV release from cardiac cells and their functional effects,1
+wikipathways,WP3298,Melatonin metabolism and effects,1
+wikipathways,WP3301,MFAP5-mediated ovarian cancer cell motility and invasiveness,1
+wikipathways,WP3413,NOTCH1 regulation of endothelial cell calcification,1
+wikipathways,WP3414,Initiation of transcription and translation elongation at the HIV-1 LTR,1
+wikipathways,WP35,G Protein Signaling Pathways,1
+wikipathways,WP3584,MECP2 and Associated Rett Syndrome,1
+wikipathways,WP3612,Photodynamic therapy-induced NFE2L2 (NRF2) survival signaling,1
+wikipathways,WP3640,Imatinib and Chronic Myeloid Leukemia,1
+wikipathways,WP3644,NAD+ metabolism,1
+wikipathways,WP3656,Interleukin-1 Induced Activation of NF-kappa-B,1
+wikipathways,WP3657,Hematopoietic Stem Cell Gene Regulation by GABP alpha-beta Complex,1
+wikipathways,WP3664,Regulation of Wnt-B-catenin Signaling by Small Molecule Compounds,1
+wikipathways,WP3668,Hypothesized Pathways in Pathogenesis of Cardiovascular Disease,1
+wikipathways,WP3672,LncRNA-mediated mechanisms of therapeutic resistance,1
+wikipathways,WP3678,Amplification and Expansion of Oncogenic Pathways as Metastatic Traits,1
+wikipathways,WP3679,Cell-type Dependent Selectivity of CCK2R Signaling,1
+wikipathways,WP383,Striated Muscle Contraction Pathway,1
+wikipathways,WP3878,ATM Signaling Network in Development and Disease,1
+wikipathways,WP3879,"4-hydroxytamoxifen, Dexamethasone, and Retinoic Acids Regulation of p27 Expression",1
+wikipathways,WP3926,ApoE and miR-146 in inflammation and atherosclerosis,1
+wikipathways,WP3969,H19 action Rb-E2F1 signaling and CDK-Beta-catenin activity,1
+wikipathways,WP399,Wnt signaling pathway and pluripotency,1
+wikipathways,WP4022,Pyrimidine metabolism,1
+wikipathways,WP4146,Macrophage markers,1
+wikipathways,WP4147,PTF1A related regulatory pathway,1
+wikipathways,WP4149,White fat cell differentiation,1
+wikipathways,WP4150,Wnt signaling in kidney disease,1
+wikipathways,WP4153,"Degradation pathway of sphingolipids, including diseases",1
+wikipathways,WP422,MAPK Cascade,1
+wikipathways,WP4249,Hedgehog Signaling Pathway,1
+wikipathways,WP4258,LncRNA involvement in canonical Wnt signaling and colorectal cancer,1
+wikipathways,WP4288,MTHFR deficiency,1
+wikipathways,WP4301,Inhibition of exosome biogenesis and secretion by Manumycin A in CRPC cells,1
+wikipathways,WP4313,Ferroptosis,1
+wikipathways,WP4321,Thermogenesis,1
+wikipathways,WP4389,Bile acids synthesis and enterohepatic circulation,1
+wikipathways,WP4399,MicroRNA network associated with chronic lymphocytic leukemia,1
+wikipathways,WP4535,Envelope proteins and their potential roles in EDMD physiopathology,1
+wikipathways,WP4537,Hippo-Yap signaling pathway,1
+wikipathways,WP4538,Regulatory circuits of the STAT3 signaling pathway,1
+wikipathways,WP4553,FBXL10 enhancement of MAP-ERK signaling in diffuse large B-cell lymphoma,1
+wikipathways,WP4560,MFAP5 effect on permeability and motility of endothelial cells via cytoskeleton rearrangement,1
+wikipathways,WP4561,Cell migration and invasion through p75NTR,1
+wikipathways,WP4562,Canonical NF-KB pathway,1
+wikipathways,WP4577,Neurodegeneration with brain iron accumulation (NBIA) subtypes pathway,1
+wikipathways,WP465,Tryptophan metabolism,1
+wikipathways,WP4721,Eicosanoid metabolism via lipooxygenases (LOX),1
+wikipathways,WP4725,Sphingolipid Metabolism (general overview),1
+wikipathways,WP4726,Sphingolipid Metabolism (integrated pathway),1
+wikipathways,WP4746,Thyroid hormones production and their peripheral downstream signaling effects,1
+wikipathways,WP4756,Renin-angiotensin-aldosterone system (RAAS),1
+wikipathways,WP4767,FGFR3 signaling in chondrocyte proliferation and terminal differentiation,1
+wikipathways,WP4788,Autosomal recessive Osteopetrosis pathways,1
+wikipathways,WP4803,Ciliopathies,1
+wikipathways,WP4830,GDNF-RET signaling axis,1
+wikipathways,WP4842,Mammalian disorder of sexual development,1
+wikipathways,WP4861,Endoplasmic reticulum stress response in coronavirus infection,1
+wikipathways,WP4868,Type I interferon induction and signaling during SARS-CoV-2 infection,1
+wikipathways,WP4872,MAP3K1 role in promoting and blocking gonadal determination,1
+wikipathways,WP4876,Activation of NLRP3 Inflammasome by SARS-CoV-2,1
+wikipathways,WP4883,SARS-CoV-2 and angiotensin-converting enzyme 2 receptor- molecular mechanisms,1
+wikipathways,WP4900,Purinergic signaling,1
+wikipathways,WP4905,1q21.1 copy number variation syndrome,1
+wikipathways,WP4906,3q29 copy number variation syndrome,1
+wikipathways,WP4925,Unfolded protein response,1
+wikipathways,WP4928,MAPK pathway in congenital thyroid cancer,1
+wikipathways,WP4942,15q13.3 copy number variation syndrome,1
+wikipathways,WP4947,NO metabolism in cystic fibrosis,1
+wikipathways,WP4950,16p11.2 distal deletion syndrome,1
+wikipathways,WP4961,STING pathway in Kawasaki-like disease and COVID-19,1
+wikipathways,WP5046,NAD Metabolism in Oncogene-Induced Senescence and Mitochondrial Dysfunction-Associated Senescence,1
+wikipathways,WP5063,FOXP3 in COVID-19,1
+wikipathways,WP5074,"Kallmann,s Syndrome",1
+wikipathways,WP5076,Soluble ACE2-mediated cell entry of SARS-CoV-2,1
+wikipathways,WP524,G13 Signaling Pathway,1
+wikipathways,WP58,Monoamine GPCRs,1
+wikipathways,WP581,EPO Receptor Signaling,1
+wikipathways,WP585,Interferon type I signaling pathways,1
+wikipathways,WP716,Vitamin A and carotenoid metabolism,1
+wikipathways,WP732,Serotonin Receptor 2 and ELK-SRF-GATA4 signaling,1
+wikipathways,WP80,Nucleotide GPCRs,1

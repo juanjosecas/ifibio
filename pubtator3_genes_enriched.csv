@@ -1,0 +1,1279 @@
+PMID,Section,EntityType,Mention,NormalizedName,NormalizedID,Database,Valid,GeneID,Symbol,Description,TaxID,Organism,CommonName
+39855537,abstract,Gene,parvalbumin,Pvalb,19293,ncbi_gene,True,19293,Pvalb,parvalbumin,,Mus musculus,house mouse
+39855537,abstract,Gene,parvalbumin,Pvalb,19293,ncbi_gene,True,19293,Pvalb,parvalbumin,,Mus musculus,house mouse
+39947439,title,Gene,dopamine transporter,SLC6A3,6531,ncbi_gene,True,6531,SLC6A3,solute carrier family 6 member 3,,Homo sapiens,human
+39947439,title,Gene,DAT,SLC6A3,6531,ncbi_gene,True,6531,SLC6A3,solute carrier family 6 member 3,,Homo sapiens,human
+39947439,abstract,Gene,tyrosine hydroxylase,TH,7054,ncbi_gene,True,7054,TH,tyrosine hydroxylase,,Homo sapiens,human
+39947439,abstract,Gene,TH,TH,7054,ncbi_gene,True,7054,TH,tyrosine hydroxylase,,Homo sapiens,human
+39947439,abstract,Gene,vesicular monoamine transporter 2,SLC18A2,6571,ncbi_gene,True,6571,SLC18A2,solute carrier family 18 member A2,,Homo sapiens,human
+39947439,abstract,Gene,VMAT2,SLC18A2,6571,ncbi_gene,True,6571,SLC18A2,solute carrier family 18 member A2,,Homo sapiens,human
+39947439,abstract,Gene,dopamine transporter,SLC6A3,6531,ncbi_gene,True,6531,SLC6A3,solute carrier family 6 member 3,,Homo sapiens,human
+39947439,abstract,Gene,DAT,SLC6A3,6531,ncbi_gene,True,6531,SLC6A3,solute carrier family 6 member 3,,Homo sapiens,human
+39947439,abstract,Gene,DAT,SLC6A3,6531,ncbi_gene,True,6531,SLC6A3,solute carrier family 6 member 3,,Homo sapiens,human
+39955250,title,Gene,AQUAPORIN-9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+39955250,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+39955250,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+39955250,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+39955250,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+39955250,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+39955250,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+39955250,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+39955250,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+39955250,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+39955250,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+39955250,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+39955250,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+39955250,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+40527250,title,Gene,Aquaporin-1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+40527250,title,Gene,aquaporin-4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+40527250,title,Gene,caveolin-1,CAV1,857,ncbi_gene,True,857,CAV1,caveolin 1,,Homo sapiens,human
+40553107,title,Gene,dopamine D5 receptor,Drd5,13492,ncbi_gene,True,13492,Drd5,dopamine receptor D5,,Mus musculus,house mouse
+40553107,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+40553107,abstract,Gene,D5R,Drd5,13492,ncbi_gene,True,13492,Drd5,dopamine receptor D5,,Mus musculus,house mouse
+40553107,abstract,Gene,D5R,Drd5,13492,ncbi_gene,True,13492,Drd5,dopamine receptor D5,,Mus musculus,house mouse
+40553107,abstract,Gene,D5R,Drd5,13492,ncbi_gene,True,13492,Drd5,dopamine receptor D5,,Mus musculus,house mouse
+40577142,title,Gene,CD4+,CD4,920,ncbi_gene,True,920,CD4,CD4 molecule,,Homo sapiens,human
+40595449,abstract,Gene,TOR,RORC,6097,ncbi_gene,True,6097,RORC,RAR related orphan receptor C,,Homo sapiens,human
+40603573,title,Gene,4EBP,Thor,33569,ncbi_gene,True,33569,Thor,thor,,Drosophila melanogaster,fruit fly
+40603573,title,Gene,Thor,Thor,33569,ncbi_gene,True,33569,Thor,thor,,Drosophila melanogaster,fruit fly
+40603573,abstract,Gene,Sima,sima,43580,ncbi_gene,True,43580,sima,similar,,Drosophila melanogaster,fruit fly
+40603573,abstract,Gene,4E-BP,Thor,33569,ncbi_gene,True,33569,Thor,thor,,Drosophila melanogaster,fruit fly
+40603573,abstract,Gene,Thor,Thor,33569,ncbi_gene,True,33569,Thor,thor,,Drosophila melanogaster,fruit fly
+40603573,abstract,Gene,4E-BP,Thor,33569,ncbi_gene,True,33569,Thor,thor,,Drosophila melanogaster,fruit fly
+40603573,abstract,Gene,Thor,Thor,33569,ncbi_gene,True,33569,Thor,thor,,Drosophila melanogaster,fruit fly
+40603573,abstract,Gene,Sima,sima,43580,ncbi_gene,True,43580,sima,similar,,Drosophila melanogaster,fruit fly
+40603573,abstract,Gene,Foxo,foxo,41709,ncbi_gene,True,41709,foxo,"forkhead box, sub-group O",,Drosophila melanogaster,fruit fly
+40603573,abstract,Gene,4E-BP,Thor,33569,ncbi_gene,True,33569,Thor,thor,,Drosophila melanogaster,fruit fly
+40603573,abstract,Gene,Thor,Thor,33569,ncbi_gene,True,33569,Thor,thor,,Drosophila melanogaster,fruit fly
+40603573,abstract,Gene,Thor,Thor,33569,ncbi_gene,True,33569,Thor,thor,,Drosophila melanogaster,fruit fly
+40603573,abstract,Gene,Thor,Thor,33569,ncbi_gene,True,33569,Thor,thor,,Drosophila melanogaster,fruit fly
+40617562,title,Gene,GB3,A4GALT,53947,ncbi_gene,True,53947,A4GALT,"alpha 1,4-galactosyltransferase (P1PK blood group)",,Homo sapiens,human
+40617562,abstract,Gene,Stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+40617562,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+40617562,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+40617562,abstract,Gene,Stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+40617562,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+40617562,abstract,Gene,Stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+40617562,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+40617562,abstract,Gene,LC3,MAP1LC3A,84557,ncbi_gene,True,84557,MAP1LC3A,microtubule associated protein 1 light chain 3 alpha,,Homo sapiens,human
+40617562,abstract,Gene,Stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+40617562,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+40617562,abstract,Gene,TAR-DNA-binding protein-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+40617562,abstract,Gene,Stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+40617562,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+40882494,title,Gene,Aquaporin-1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+40882494,title,Gene,aquaporin-4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+40882494,title,Gene,caveolin-1,CAV1,857,ncbi_gene,True,857,CAV1,caveolin 1,,Homo sapiens,human
+41014673,title,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+41014673,abstract,Gene,aquaporin 3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+41014673,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+41014673,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+41014673,abstract,Gene,TonEBP,NFAT5,10725,ncbi_gene,True,10725,NFAT5,nuclear factor of activated T cells 5,,Homo sapiens,human
+41014673,abstract,Gene,NF-kappaB,NFKB1,4790,ncbi_gene,True,4790,NFKB1,nuclear factor kappa B subunit 1,,Homo sapiens,human
+41014673,abstract,Gene,Bax,BAX,581,ncbi_gene,True,581,BAX,"BCL2 associated X, apoptosis regulator",,Homo sapiens,human
+41014673,abstract,Gene,Bcl-2,BCL2,596,ncbi_gene,True,596,BCL2,BCL2 apoptosis regulator,,Homo sapiens,human
+41014673,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+41014673,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+41014673,abstract,Gene,TonEBP,NFAT5,10725,ncbi_gene,True,10725,NFAT5,nuclear factor of activated T cells 5,,Homo sapiens,human
+41014673,abstract,Gene,NF-kappaB,NFKB1,4790,ncbi_gene,True,4790,NFKB1,nuclear factor kappa B subunit 1,,Homo sapiens,human
+41014673,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+41014673,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+41014673,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+41014673,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+41014673,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+41014673,abstract,Gene,TonEBP,NFAT5,10725,ncbi_gene,True,10725,NFAT5,nuclear factor of activated T cells 5,,Homo sapiens,human
+41014673,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+41183746,abstract,Gene,tyrosine hydroxylase,TH,7054,ncbi_gene,True,7054,TH,tyrosine hydroxylase,,Homo sapiens,human
+41183746,abstract,Gene,TH+,TH,7054,ncbi_gene,True,7054,TH,tyrosine hydroxylase,,Homo sapiens,human
+41183746,abstract,Gene,TH+,TH,7054,ncbi_gene,True,7054,TH,tyrosine hydroxylase,,Homo sapiens,human
+41183746,abstract,Gene,aromatic L-amino acid decarboxylase,DDC,1644,ncbi_gene,True,1644,DDC,dopa decarboxylase,,Homo sapiens,human
+41183746,abstract,Gene,AADC,DDC,1644,ncbi_gene,True,1644,DDC,dopa decarboxylase,,Homo sapiens,human
+41183746,abstract,Gene,dopamine transporter,SLC6A3,6531,ncbi_gene,True,6531,SLC6A3,solute carrier family 6 member 3,,Homo sapiens,human
+41183746,abstract,Gene,DAT,SLC6A3,6531,ncbi_gene,True,6531,SLC6A3,solute carrier family 6 member 3,,Homo sapiens,human
+41183746,abstract,Gene,TH+,TH,7054,ncbi_gene,True,7054,TH,tyrosine hydroxylase,,Homo sapiens,human
+41183746,abstract,Gene,DAT,SLC6A3,6531,ncbi_gene,True,6531,SLC6A3,solute carrier family 6 member 3,,Homo sapiens,human
+41183746,abstract,Gene,calbindin,CALB1,793,ncbi_gene,True,793,CALB1,calbindin 1,,Homo sapiens,human
+41183746,abstract,Gene,vasoactive intestinal peptide,VIP,7432,ncbi_gene,True,7432,VIP,vasoactive intestinal peptide,,Homo sapiens,human
+41183746,abstract,Gene,VIP,VIP,7432,ncbi_gene,True,7432,VIP,vasoactive intestinal peptide,,Homo sapiens,human
+41183746,abstract,Gene,TH+,TH,7054,ncbi_gene,True,7054,TH,tyrosine hydroxylase,,Homo sapiens,human
+41208638,abstract,Gene,Malvolio,Mvl,42490,ncbi_gene,True,42490,Mvl,Malvolio,,Drosophila melanogaster,fruit fly
+41208638,abstract,Gene,Mvl,Mvl,42490,ncbi_gene,True,42490,Mvl,Malvolio,,Drosophila melanogaster,fruit fly
+41208638,abstract,Gene,Mvl,Mvl,42490,ncbi_gene,True,42490,Mvl,Malvolio,,Drosophila melanogaster,fruit fly
+41208638,abstract,Gene,Mvl,Mvl,42490,ncbi_gene,True,42490,Mvl,Malvolio,,Drosophila melanogaster,fruit fly
+41208638,abstract,Gene,Mvl,Mvl,42490,ncbi_gene,True,42490,Mvl,Malvolio,,Drosophila melanogaster,fruit fly
+41208638,abstract,Gene,Mvl,Mvl,42490,ncbi_gene,True,42490,Mvl,Malvolio,,Drosophila melanogaster,fruit fly
+41208638,abstract,Gene,ferritin,Fer1HCH,46415,ncbi_gene,True,46415,Fer1HCH,Ferritin 1 heavy chain homologue,,Drosophila melanogaster,fruit fly
+41208638,abstract,Gene,Fer3HCH,Fer3HCH,32260,ncbi_gene,True,32260,Fer3HCH,Ferritin 3 heavy chain homologue,,Drosophila melanogaster,fruit fly
+41242030,title,Gene,Thrombomodulin,THBD,7056,ncbi_gene,True,7056,THBD,thrombomodulin,,Homo sapiens,human
+41242030,abstract,Gene,thrombomodulin,THBD,7056,ncbi_gene,True,7056,THBD,thrombomodulin,,Homo sapiens,human
+41242030,abstract,Gene,THBD,THBD,7056,ncbi_gene,True,7056,THBD,thrombomodulin,,Homo sapiens,human
+41242030,abstract,Gene,THBD,THBD,7056,ncbi_gene,True,7056,THBD,thrombomodulin,,Homo sapiens,human
+41242030,abstract,Gene,HIF-1alpha,HIF1A,3091,ncbi_gene,True,3091,HIF1A,hypoxia inducible factor 1 subunit alpha,,Homo sapiens,human
+41242030,abstract,Gene,HIF-1alpha,HIF1A,3091,ncbi_gene,True,3091,HIF1A,hypoxia inducible factor 1 subunit alpha,,Homo sapiens,human
+41242030,abstract,Gene,THBD,THBD,7056,ncbi_gene,True,7056,THBD,thrombomodulin,,Homo sapiens,human
+41242030,abstract,Gene,KLF4,KLF4,9314,ncbi_gene,True,9314,KLF4,KLF transcription factor 4,,Homo sapiens,human
+41242030,abstract,Gene,THBD,THBD,7056,ncbi_gene,True,7056,THBD,thrombomodulin,,Homo sapiens,human
+41242030,abstract,Gene,THBD,THBD,7056,ncbi_gene,True,7056,THBD,thrombomodulin,,Homo sapiens,human
+41242030,abstract,Gene,KLF4,KLF4,9314,ncbi_gene,True,9314,KLF4,KLF transcription factor 4,,Homo sapiens,human
+41242030,abstract,Gene,HIF-1alpha,HIF1A,3091,ncbi_gene,True,3091,HIF1A,hypoxia inducible factor 1 subunit alpha,,Homo sapiens,human
+41242030,abstract,Gene,THBD,THBD,7056,ncbi_gene,True,7056,THBD,thrombomodulin,,Homo sapiens,human
+41242030,abstract,Gene,THBD,THBD,7056,ncbi_gene,True,7056,THBD,thrombomodulin,,Homo sapiens,human
+41242030,abstract,Gene,KLF4,KLF4,9314,ncbi_gene,True,9314,KLF4,KLF transcription factor 4,,Homo sapiens,human
+41242030,abstract,Gene,THBD,THBD,7056,ncbi_gene,True,7056,THBD,thrombomodulin,,Homo sapiens,human
+41242030,abstract,Gene,HIF-1alpha,HIF1A,3091,ncbi_gene,True,3091,HIF1A,hypoxia inducible factor 1 subunit alpha,,Homo sapiens,human
+41242030,abstract,Gene,KLF4,KLF4,9314,ncbi_gene,True,9314,KLF4,KLF transcription factor 4,,Homo sapiens,human
+41457365,title,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+41457365,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+41457365,abstract,Gene,Transient Receptor Potential Vanilloid 4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+41457365,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+41457365,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+41457365,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+41457365,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+41457365,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+41457365,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+41457365,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+41457365,abstract,Gene,aquaporin-1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+41457365,abstract,Gene,AQP1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+41457365,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+41457365,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+41605341,abstract,Gene,c-Fos,Fos,14281,ncbi_gene,True,14281,Fos,"Fos proto-oncogene, AP-1 transcription factor subunit",,Mus musculus,house mouse
+41605341,abstract,Gene,c-Fos,Fos,14281,ncbi_gene,True,14281,Fos,"Fos proto-oncogene, AP-1 transcription factor subunit",,Mus musculus,house mouse
+41800087,abstract,Gene,glucosylceramide synthase,Ugcg,83626,ncbi_gene,True,83626,Ugcg,UDP-glucose ceramide glucosyltransferase,,Rattus norvegicus,Norway rat
+41800087,abstract,Gene,aquaporin 1,Aqp1,25240,ncbi_gene,True,25240,Aqp1,aquaporin 1,,Rattus norvegicus,Norway rat
+41800087,abstract,Gene,AQP1,Aqp1,25240,ncbi_gene,True,25240,Aqp1,aquaporin 1,,Rattus norvegicus,Norway rat
+41800087,abstract,Gene,neutrophil gelatinase-associated lipocalin,Lcn2,170496,ncbi_gene,True,170496,Lcn2,lipocalin 2,,Rattus norvegicus,Norway rat
+41800087,abstract,Gene,NGAL,Lcn2,170496,ncbi_gene,True,170496,Lcn2,lipocalin 2,,Rattus norvegicus,Norway rat
+41800087,abstract,Gene,AQP1,Aqp1,25240,ncbi_gene,True,25240,Aqp1,aquaporin 1,,Rattus norvegicus,Norway rat
+41800087,abstract,Gene,NGAL,Lcn2,170496,ncbi_gene,True,170496,Lcn2,lipocalin 2,,Rattus norvegicus,Norway rat
+41817828,title,Gene,Somatostatin,Sst,20604,ncbi_gene,True,20604,Sst,somatostatin,,Mus musculus,house mouse
+41817828,abstract,Gene,Somatostatin,Sst,20604,ncbi_gene,True,20604,Sst,somatostatin,,Mus musculus,house mouse
+41817828,abstract,Gene,SOM,Sst,20604,ncbi_gene,True,20604,Sst,somatostatin,,Mus musculus,house mouse
+41817828,abstract,Gene,SOM,Sst,20604,ncbi_gene,True,20604,Sst,somatostatin,,Mus musculus,house mouse
+41817828,abstract,Gene,SOM,Sst,20604,ncbi_gene,True,20604,Sst,somatostatin,,Mus musculus,house mouse
+41817828,abstract,Gene,c-Fos,Fos,14281,ncbi_gene,True,14281,Fos,"Fos proto-oncogene, AP-1 transcription factor subunit",,Mus musculus,house mouse
+41817828,abstract,Gene,SOM,Sst,20604,ncbi_gene,True,20604,Sst,somatostatin,,Mus musculus,house mouse
+41817828,abstract,Gene,Drd1,Drd1,13488,ncbi_gene,True,13488,Drd1,dopamine receptor D1,,Mus musculus,house mouse
+41817828,abstract,Gene,Drd5,Drd5,13492,ncbi_gene,True,13492,Drd5,dopamine receptor D5,,Mus musculus,house mouse
+41817828,abstract,Gene,SOM,Sst,20604,ncbi_gene,True,20604,Sst,somatostatin,,Mus musculus,house mouse
+41817828,abstract,Gene,SOM,Sst,20604,ncbi_gene,True,20604,Sst,somatostatin,,Mus musculus,house mouse
+41817828,abstract,Gene,SOM,Sst,20604,ncbi_gene,True,20604,Sst,somatostatin,,Mus musculus,house mouse
+41817828,abstract,Gene,SOM,Sst,20604,ncbi_gene,True,20604,Sst,somatostatin,,Mus musculus,house mouse
+41824201,title,Gene,NHE1,SLC9A1,6548,ncbi_gene,True,6548,SLC9A1,solute carrier family 9 member A1,,Homo sapiens,human
+41933672,title,Gene,AQUAPORIN-4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+41933672,abstract,Gene,Aquaporin-4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+41933672,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+41933672,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+41933672,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+41933672,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+41933672,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+41933672,abstract,Gene,Vimentin,VIM,7431,ncbi_gene,True,7431,VIM,vimentin,,Homo sapiens,human
+41933672,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+41933672,abstract,Gene,Vimentin,VIM,7431,ncbi_gene,True,7431,VIM,vimentin,,Homo sapiens,human
+41933672,abstract,Gene,PI3K,PIK3CB,5291,ncbi_gene,True,5291,PIK3CB,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",,Homo sapiens,human
+41933672,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+41933672,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+41933672,abstract,Gene,Vimentin,VIM,7431,ncbi_gene,True,7431,VIM,vimentin,,Homo sapiens,human
+41933672,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+41950695,title,Gene,Aquaporin-1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+41950695,title,Gene,aquaporin-4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+41950695,title,Gene,caveolin-1,CAV1,857,ncbi_gene,True,857,CAV1,caveolin 1,,Homo sapiens,human
+42086667,title,Gene,GAT-3,Slc6a11,79213,ncbi_gene,True,79213,Slc6a11,solute carrier family 6 member 11,,Rattus norvegicus,Norway rat
+42086667,abstract,Gene,GAT-3,Slc6a11,79213,ncbi_gene,True,79213,Slc6a11,solute carrier family 6 member 11,,Rattus norvegicus,Norway rat
+42086667,abstract,Gene,GAT-3,Slc6a11,79213,ncbi_gene,True,79213,Slc6a11,solute carrier family 6 member 11,,Rattus norvegicus,Norway rat
+42086667,abstract,Gene,GAT-3,Slc6a11,79213,ncbi_gene,True,79213,Slc6a11,solute carrier family 6 member 11,,Rattus norvegicus,Norway rat
+42086667,abstract,Gene,GAT-3,Slc6a11,79213,ncbi_gene,True,79213,Slc6a11,solute carrier family 6 member 11,,Rattus norvegicus,Norway rat
+42086667,abstract,Gene,GAT-3,Slc6a11,79213,ncbi_gene,True,79213,Slc6a11,solute carrier family 6 member 11,,Rattus norvegicus,Norway rat
+42123443,abstract,Gene,Abcb1a,Abcb1a,170913,ncbi_gene,True,170913,Abcb1a,ATP binding cassette subfamily B member 1A,,Rattus norvegicus,Norway rat
+42123443,abstract,Gene,Abcb1b,Abcb1b,24646,ncbi_gene,True,24646,Abcb1b,"ATP-binding cassette, sub-family B member 1B",,Rattus norvegicus,Norway rat
+42123443,abstract,Gene,Slco4A1,Slco4a1,171144,ncbi_gene,True,171144,Slco4a1,"solute carrier organic anion transporter family, member 4a1",,Rattus norvegicus,Norway rat
+42123443,abstract,Gene,folate receptor-alpha,Folr1,171049,ncbi_gene,True,171049,Folr1,folate receptor alpha,,Rattus norvegicus,Norway rat
+42123443,abstract,Gene,Folr1,Folr1,171049,ncbi_gene,True,171049,Folr1,folate receptor alpha,,Rattus norvegicus,Norway rat
+42123443,abstract,Gene,Slc19A1,Slc19a1,29723,ncbi_gene,True,29723,Slc19a1,solute carrier family 19 member 1,,Rattus norvegicus,Norway rat
+42123443,abstract,Gene,Slc7A5,Slc7a5,50719,ncbi_gene,True,50719,Slc7a5,solute carrier family 7 member 5,,Rattus norvegicus,Norway rat
+42123443,abstract,Gene,Abcb1a,Abcb1a,170913,ncbi_gene,True,170913,Abcb1a,ATP binding cassette subfamily B member 1A,,Rattus norvegicus,Norway rat
+42123443,abstract,Gene,Abcb1b,Abcb1b,24646,ncbi_gene,True,24646,Abcb1b,"ATP-binding cassette, sub-family B member 1B",,Rattus norvegicus,Norway rat
+42123443,abstract,Gene,Folr1,Folr1,171049,ncbi_gene,True,171049,Folr1,folate receptor alpha,,Rattus norvegicus,Norway rat
+42134656,title,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+42134656,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+42134656,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+42134656,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+42134656,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+42347511,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+42347511,abstract,Gene,Stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+42347511,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+42347511,abstract,Gene,Stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+42347511,abstract,Gene,Stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+42347511,abstract,Gene,Stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+42347511,abstract,Gene,Stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+42347511,abstract,Gene,Stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+42347511,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+42347511,abstract,Gene,Stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+42347511,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+42347511,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+42347511,abstract,Gene,Stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+42347511,abstract,Gene,Stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+42404802,title,Gene,Aquaporin-4,Aqp4,11829,ncbi_gene,True,11829,Aqp4,aquaporin 4,,Mus musculus,house mouse
+42404802,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+42404802,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+42404802,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+42404802,abstract,Gene,Aquaporin-4,Aqp4,11829,ncbi_gene,True,11829,Aqp4,aquaporin 4,,Mus musculus,house mouse
+42404802,abstract,Gene,AQP4,Aqp4,11829,ncbi_gene,True,11829,Aqp4,aquaporin 4,,Mus musculus,house mouse
+42404802,abstract,Gene,AQP4,Aqp4,11829,ncbi_gene,True,11829,Aqp4,aquaporin 4,,Mus musculus,house mouse
+42570776,title,Gene,Dopamine D2 receptor,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+42570776,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+42570776,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+42570776,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+42570776,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+42570776,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+42570776,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+42570776,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+42570776,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+42570776,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+42570776,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+42570776,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+42570776,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+42570776,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+42576265,title,Gene,aquaporin-1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+42576265,abstract,Gene,aquaporin-1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+42576265,abstract,Gene,aquaporin-1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+42576265,abstract,Gene,aquaporin-1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+42576265,abstract,Gene,aquaporin-1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+42576265,abstract,Gene,aquaporin-4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+42576265,abstract,Gene,aquaporin-1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+42576265,abstract,Gene,aquaporin-1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+42576265,abstract,Gene,aquaporin-1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+42576265,abstract,Gene,C-reactive protein,CRP,1401,ncbi_gene,True,1401,CRP,C-reactive protein,,Homo sapiens,human
+42576265,abstract,Gene,aquaporin-1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+42576265,abstract,Gene,aquaporin-4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+42576265,abstract,Gene,aquaporin-1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+42576265,abstract,Gene,aquaporin-1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+42601945,title,Gene,ADORA2A,ADORA2A,135,ncbi_gene,True,135,ADORA2A,adenosine A2a receptor,,Homo sapiens,human
+42601945,abstract,Gene, receptor,ADORA2A,135,ncbi_gene,True,135,ADORA2A,adenosine A2a receptor,,Homo sapiens,human
+42601945,abstract,Gene,ADORA2A,ADORA2A,135,ncbi_gene,True,135,ADORA2A,adenosine A2a receptor,,Homo sapiens,human
+42601945,abstract,Gene,ADORA2A,ADORA2A,135,ncbi_gene,True,135,ADORA2A,adenosine A2a receptor,,Homo sapiens,human
+42601945,abstract,Gene,ADORA2A,ADORA2A,135,ncbi_gene,True,135,ADORA2A,adenosine A2a receptor,,Homo sapiens,human
+42601945,abstract,Gene,ADORA2A,ADORA2A,135,ncbi_gene,True,135,ADORA2A,adenosine A2a receptor,,Homo sapiens,human
+42601945,abstract,Gene,ADORA2A,ADORA2A,135,ncbi_gene,True,135,ADORA2A,adenosine A2a receptor,,Homo sapiens,human
+42601945,abstract,Gene,ADORA2A,ADORA2A,135,ncbi_gene,True,135,ADORA2A,adenosine A2a receptor,,Homo sapiens,human
+42601945,abstract,Gene,ADORA2A,ADORA2A,135,ncbi_gene,True,135,ADORA2A,adenosine A2a receptor,,Homo sapiens,human
+42601945,abstract,Gene,ADORA2A,ADORA2A,135,ncbi_gene,True,135,ADORA2A,adenosine A2a receptor,,Homo sapiens,human
+42611393,abstract,Gene,thyroglobulin,TG,7038,ncbi_gene,True,7038,TG,thyroglobulin,,Homo sapiens,human
+42611393,abstract,Gene,TG,TG,7038,ncbi_gene,True,7038,TG,thyroglobulin,,Homo sapiens,human
+42611393,abstract,Gene,TG,TG,7038,ncbi_gene,True,7038,TG,thyroglobulin,,Homo sapiens,human
+42611393,abstract,Gene,TG,TG,7038,ncbi_gene,True,7038,TG,thyroglobulin,,Homo sapiens,human
+42611393,abstract,Gene,TG,TG,7038,ncbi_gene,True,7038,TG,thyroglobulin,,Homo sapiens,human
+42611393,abstract,Gene,TG,TG,7038,ncbi_gene,True,7038,TG,thyroglobulin,,Homo sapiens,human
+42611393,abstract,Gene,TG,TG,7038,ncbi_gene,True,7038,TG,thyroglobulin,,Homo sapiens,human
+35535012,title,Gene,D1/D5,Dio1,13370,ncbi_gene,True,13370,Dio1,"deiodinase, iodothyronine, type I",,Mus musculus,house mouse
+35535012,abstract,Gene,Kv1.3,Kcna3,16491,ncbi_gene,True,16491,Kcna3,"potassium voltage-gated channel, shaker-related subfamily, member 3",,Mus musculus,house mouse
+35535012,abstract,Gene,ERK1/2,Mapk3,26417,ncbi_gene,True,26417,Mapk3,mitogen-activated protein kinase 3,,Mus musculus,house mouse
+35535012,abstract,Gene,Kv1.3,Kcna3,16491,ncbi_gene,True,16491,Kcna3,"potassium voltage-gated channel, shaker-related subfamily, member 3",,Mus musculus,house mouse
+35535012,abstract,Gene,ERK1/2,Mapk3,26417,ncbi_gene,True,26417,Mapk3,mitogen-activated protein kinase 3,,Mus musculus,house mouse
+35597334,abstract,Gene,c-Fos,FOS,2353,ncbi_gene,True,2353,FOS,"Fos proto-oncogene, AP-1 transcription factor subunit",,Homo sapiens,human
+35597334,abstract,Gene,c-Fos,FOS,2353,ncbi_gene,True,2353,FOS,"Fos proto-oncogene, AP-1 transcription factor subunit",,Homo sapiens,human
+35597334,abstract,Gene,c-Fos,FOS,2353,ncbi_gene,True,2353,FOS,"Fos proto-oncogene, AP-1 transcription factor subunit",,Homo sapiens,human
+35752429,title,Gene,Oxytocin,Oxt,18429,ncbi_gene,True,18429,Oxt,oxytocin,,Mus musculus,house mouse
+35752429,abstract,Gene,Oxytocin,Oxt,18429,ncbi_gene,True,18429,Oxt,oxytocin,,Mus musculus,house mouse
+35752429,abstract,Gene,AVP,Avp,11998,ncbi_gene,True,11998,Avp,arginine vasopressin,,Mus musculus,house mouse
+35752429,abstract,Gene,AVP,Avp,11998,ncbi_gene,True,11998,Avp,arginine vasopressin,,Mus musculus,house mouse
+35835234,abstract,Gene,GFAP,Gfap,14580,ncbi_gene,True,14580,Gfap,glial fibrillary acidic protein,,Mus musculus,house mouse
+35835234,abstract,Gene,NeuN,Rbfox3,52897,ncbi_gene,True,52897,Rbfox3,"RNA binding protein, fox-1 homolog (C. elegans) 3",,Mus musculus,house mouse
+35835234,abstract,Gene,TNFalpha,Tnf,21926,ncbi_gene,True,21926,Tnf,tumor necrosis factor,,Mus musculus,house mouse
+35835234,abstract,Gene,IL-2,Il2,16183,ncbi_gene,True,16183,Il2,interleukin 2,,Mus musculus,house mouse
+35957815,abstract,Gene,stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+35957815,abstract,Gene,sab,SH3BP5,9467,ncbi_gene,True,9467,SH3BP5,SH3 domain binding protein 5,,Homo sapiens,human
+36227397,title,Gene,ERK1/2,Mapk3,26417,ncbi_gene,True,26417,Mapk3,mitogen-activated protein kinase 3,,Mus musculus,house mouse
+36227397,abstract,Gene,ERK1/2,Mapk3,26417,ncbi_gene,True,26417,Mapk3,mitogen-activated protein kinase 3,,Mus musculus,house mouse
+36227397,abstract,Gene,ERK1/2,Mapk3,26417,ncbi_gene,True,26417,Mapk3,mitogen-activated protein kinase 3,,Mus musculus,house mouse
+36549423,abstract,Gene,ENaC,Scnn1g,24768,ncbi_gene,True,24768,Scnn1g,sodium channel epithelial 1 subunit gamma,,Rattus norvegicus,Norway rat
+36549423,abstract,Gene,Klk1,Klk1,24523,ncbi_gene,True,24523,Klk1,kallikrein 1,,Rattus norvegicus,Norway rat
+36549423,abstract,Gene,ENaC,Scnn1g,24768,ncbi_gene,True,24768,Scnn1g,sodium channel epithelial 1 subunit gamma,,Rattus norvegicus,Norway rat
+36717499,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+36878143,title,Gene,eNOS,NOS3,4846,ncbi_gene,True,4846,NOS3,nitric oxide synthase 3,,Homo sapiens,human
+36878143,title,Gene,VEGFA,VEGFA,7422,ncbi_gene,True,7422,VEGFA,vascular endothelial growth factor A,,Homo sapiens,human
+36878143,title,Gene,FLT-1,FLT1,2321,ncbi_gene,True,2321,FLT1,fms related receptor tyrosine kinase 1,,Homo sapiens,human
+36878143,abstract,Gene,eNOS,NOS3,4846,ncbi_gene,True,4846,NOS3,nitric oxide synthase 3,,Homo sapiens,human
+36878143,abstract,Gene,VEGFA,VEGFA,7422,ncbi_gene,True,7422,VEGFA,vascular endothelial growth factor A,,Homo sapiens,human
+36878143,abstract,Gene,FLT-1,FLT1,2321,ncbi_gene,True,2321,FLT1,fms related receptor tyrosine kinase 1,,Homo sapiens,human
+36878143,abstract,Gene,eNOS,NOS3,4846,ncbi_gene,True,4846,NOS3,nitric oxide synthase 3,,Homo sapiens,human
+36878143,abstract,Gene,VEGFA,VEGFA,7422,ncbi_gene,True,7422,VEGFA,vascular endothelial growth factor A,,Homo sapiens,human
+36878143,abstract,Gene,FLT-1,FLT1,2321,ncbi_gene,True,2321,FLT1,fms related receptor tyrosine kinase 1,,Homo sapiens,human
+36878143,abstract,Gene,VEGFA,VEGFA,7422,ncbi_gene,True,7422,VEGFA,vascular endothelial growth factor A,,Homo sapiens,human
+36878143,abstract,Gene,VEGFA,VEGFA,7422,ncbi_gene,True,7422,VEGFA,vascular endothelial growth factor A,,Homo sapiens,human
+37683958,abstract,Gene,D2 receptor,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+37683958,abstract,Gene,D2 receptor,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+37852390,abstract,Gene,Cav1.2,CACNA1C,775,ncbi_gene,True,775,CACNA1C,calcium voltage-gated channel subunit alpha1 C,,Homo sapiens,human
+37852390,abstract,Gene,Cav1.3,CACNA1D,776,ncbi_gene,True,776,CACNA1D,calcium voltage-gated channel subunit alpha1 D,,Homo sapiens,human
+37852390,abstract,Gene,Cav1.2,CACNA1C,775,ncbi_gene,True,775,CACNA1C,calcium voltage-gated channel subunit alpha1 C,,Homo sapiens,human
+37852390,abstract,Gene,Cav1.2,CACNA1C,775,ncbi_gene,True,775,CACNA1C,calcium voltage-gated channel subunit alpha1 C,,Homo sapiens,human
+37852390,abstract,Gene,Cav1.2,CACNA1C,775,ncbi_gene,True,775,CACNA1C,calcium voltage-gated channel subunit alpha1 C,,Homo sapiens,human
+37979924,abstract,Gene,Stx2,Stx2,25130,ncbi_gene,True,25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+37979924,abstract,Gene,Stx2,Stx2,25130,ncbi_gene,True,25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+37979924,abstract,Gene,Stx2,Stx2,25130,ncbi_gene,True,25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+37979924,abstract,Gene,Stx2,Stx2,25130,ncbi_gene,True,25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+37979924,abstract,Gene,Stx2,Stx2,25130,ncbi_gene,True,25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+37979924,abstract,Gene,Stx2,Stx2,25130,ncbi_gene,True,25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+37979924,abstract,Gene,Stx2,Stx2,25130,ncbi_gene,True,25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+37979924,abstract,Gene,Stx2,Stx2,25130,ncbi_gene,True,25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+37979924,abstract,Gene,Stx2,Stx2,25130,ncbi_gene,True,25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+37979924,abstract,Gene,Stx2,Stx2,25130,ncbi_gene,True,25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+37979924,abstract,Gene,Stx2,Stx2,25130,ncbi_gene,True,25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+37979924,abstract,Gene,Stx2,Stx2,25130,ncbi_gene,True,25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+38019897,abstract,Gene,CD4,CD4,920,ncbi_gene,True,920,CD4,CD4 molecule,,Homo sapiens,human
+38019897,abstract,Gene,CD4,CD4,920,ncbi_gene,True,920,CD4,CD4 molecule,,Homo sapiens,human
+38019897,abstract,Gene,P3H3,P3H3,10536,ncbi_gene,True,10536,P3H3,prolyl 3-hydroxylase 3,,Homo sapiens,human
+38019897,abstract,Gene,NBL1,NBL1,4681,ncbi_gene,True,4681,NBL1,"NBL1, DAN family BMP antagonist",,Homo sapiens,human
+38019897,abstract,Gene,KCNJ2,KCNJ2,3759,ncbi_gene,True,3759,KCNJ2,potassium inwardly rectifying channel subfamily J member 2,,Homo sapiens,human
+38019897,abstract,Gene,GJB2,GJB2,2706,ncbi_gene,True,2706,GJB2,gap junction protein beta 2,,Homo sapiens,human
+38019897,abstract,Gene,IL1A,IL1A,3552,ncbi_gene,True,3552,IL1A,interleukin 1 alpha,,Homo sapiens,human
+38019897,abstract,Gene,CSF3,CSF3,1440,ncbi_gene,True,1440,CSF3,colony stimulating factor 3,,Homo sapiens,human
+38019897,abstract,Gene,TNFAIP5,PTX3,5806,ncbi_gene,True,5806,PTX3,pentraxin 3,,Homo sapiens,human
+38019897,abstract,Gene,TNFAIP6,TNFAIP6,7130,ncbi_gene,True,7130,TNFAIP6,TNF alpha induced protein 6,,Homo sapiens,human
+38019897,abstract,Gene,TNFAIP9,STEAP4,79689,ncbi_gene,True,79689,STEAP4,STEAP4 metalloreductase,,Homo sapiens,human
+38019897,abstract,Gene,CXCL3,CXCL3,2921,ncbi_gene,True,2921,CXCL3,C-X-C motif chemokine ligand 3,,Homo sapiens,human
+38019897,abstract,Gene,CXCL10,CXCL10,3627,ncbi_gene,True,3627,CXCL10,C-X-C motif chemokine ligand 10,,Homo sapiens,human
+38019897,abstract,Gene,TLR7,TLR7,51284,ncbi_gene,True,51284,TLR7,toll like receptor 7,,Homo sapiens,human
+38019897,abstract,Gene,TLR4,TLR4,7099,ncbi_gene,True,7099,TLR4,toll like receptor 4,,Homo sapiens,human
+38019897,abstract,Gene,IL-1,IL1A,3552,ncbi_gene,True,3552,IL1A,interleukin 1 alpha,,Homo sapiens,human
+38019897,abstract,Gene,IL-10,IL10,3586,ncbi_gene,True,3586,IL10,interleukin 10,,Homo sapiens,human
+38019897,abstract,Gene,P3H3,P3H3,10536,ncbi_gene,True,10536,P3H3,prolyl 3-hydroxylase 3,,Homo sapiens,human
+38019897,abstract,Gene,IL-10,IL10,3586,ncbi_gene,True,3586,IL10,interleukin 10,,Homo sapiens,human
+38019897,abstract,Gene,TNF-alpha,TNF,7124,ncbi_gene,True,7124,TNF,tumor necrosis factor,,Homo sapiens,human
+38019897,abstract,Gene,IL-10,IL10,3586,ncbi_gene,True,3586,IL10,interleukin 10,,Homo sapiens,human
+38086442,abstract,Gene,vimentin,Vim,81818,ncbi_gene,True,81818,Vim,vimentin,,Rattus norvegicus,Norway rat
+38289455,title,Gene,G9a,ehmt2,569250,ncbi_gene,True,569250,ehmt2,euchromatic histone-lysine N-methyltransferase 2,,Danio rerio,zebrafish
+38289455,abstract,Gene,histone,zgc:113984,573997,ncbi_gene,True,573997,zgc:113984,zgc:113984,,Danio rerio,zebrafish
+38289455,abstract,Gene,histone,zgc:113984,573997,ncbi_gene,True,573997,zgc:113984,zgc:113984,,Danio rerio,zebrafish
+38289455,abstract,Gene,G9a,ehmt2,569250,ncbi_gene,True,569250,ehmt2,euchromatic histone-lysine N-methyltransferase 2,,Danio rerio,zebrafish
+38289455,abstract,Gene,G9a,ehmt2,569250,ncbi_gene,True,569250,ehmt2,euchromatic histone-lysine N-methyltransferase 2,,Danio rerio,zebrafish
+38289455,abstract,Gene,HDAC-1,hdac1,192302,ncbi_gene,True,192302,hdac1,histone deacetylase 1,,Danio rerio,zebrafish
+38289455,abstract,Gene,G9a,ehmt2,569250,ncbi_gene,True,569250,ehmt2,euchromatic histone-lysine N-methyltransferase 2,,Danio rerio,zebrafish
+38289455,abstract,Gene,G9a,ehmt2,569250,ncbi_gene,True,569250,ehmt2,euchromatic histone-lysine N-methyltransferase 2,,Danio rerio,zebrafish
+38788356,abstract,Gene,CD4,Cd4,24932,ncbi_gene,True,24932,Cd4,Cd4 molecule,,Rattus norvegicus,Norway rat
+38788356,abstract,Gene,CD45,Ptprc,24699,ncbi_gene,True,24699,Ptprc,"protein tyrosine phosphatase, receptor type, C",,Rattus norvegicus,Norway rat
+38788356,abstract,Gene,CD4,Cd4,24932,ncbi_gene,True,24932,Cd4,Cd4 molecule,,Rattus norvegicus,Norway rat
+38788356,abstract,Gene,CD45,Ptprc,24699,ncbi_gene,True,24699,Ptprc,"protein tyrosine phosphatase, receptor type, C",,Rattus norvegicus,Norway rat
+38956598,title,Gene,aquaporin-4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+38956598,title,Gene,CD11c,ITGAX,3687,ncbi_gene,True,3687,ITGAX,integrin subunit alpha X,,Homo sapiens,human
+38956598,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+38956598,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+38956598,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+38956598,abstract,Gene,Rfx4,RFX4,5992,ncbi_gene,True,5992,RFX4,regulatory factor X4,,Homo sapiens,human
+38956598,abstract,Gene,FoxJ1,FOXJ1,2302,ncbi_gene,True,2302,FOXJ1,forkhead box J1,,Homo sapiens,human
+38956598,abstract,Gene,Spag16,SPAG16,79582,ncbi_gene,True,79582,SPAG16,sperm associated antigen 16,,Homo sapiens,human
+38956598,abstract,Gene,Hydin,HYDIN,54768,ncbi_gene,True,54768,HYDIN,HYDIN axonemal central pair apparatus protein,,Homo sapiens,human
+38956598,abstract,Gene,Cfap43,CFAP43,80217,ncbi_gene,True,80217,CFAP43,cilia and flagella associated protein 43,,Homo sapiens,human
+38956598,abstract,Gene,Cfap69,CFAP69,79846,ncbi_gene,True,79846,CFAP69,cilia and flagella associated protein 69,,Homo sapiens,human
+38956598,abstract,Gene,Ccdc170,CCDC170,80129,ncbi_gene,True,80129,CCDC170,coiled-coil domain containing 170,,Homo sapiens,human
+38956598,abstract,Gene,Cdhr4,CDHR4,389118,ncbi_gene,True,389118,CDHR4,cadherin related family member 4,,Homo sapiens,human
+38956598,abstract,Gene,Spp1,SPP1,6696,ncbi_gene,True,6696,SPP1,secreted phosphoprotein 1,,Homo sapiens,human
+38956598,abstract,Gene,Gpnmb,GPNMB,10457,ncbi_gene,True,10457,GPNMB,glycoprotein nmb,,Homo sapiens,human
+38956598,abstract,Gene,Itgax,ITGAX,3687,ncbi_gene,True,3687,ITGAX,integrin subunit alpha X,,Homo sapiens,human
+38956598,abstract,Gene,Cd68,CD68,968,ncbi_gene,True,968,CD68,CD68 molecule,,Homo sapiens,human
+38956598,abstract,Gene,Cd11c,ITGAX,3687,ncbi_gene,True,3687,ITGAX,integrin subunit alpha X,,Homo sapiens,human
+38956598,abstract,Gene,vimentin,VIM,7431,ncbi_gene,True,7431,VIM,vimentin,,Homo sapiens,human
+38956598,abstract,Gene,CD11c,ITGAX,3687,ncbi_gene,True,3687,ITGAX,integrin subunit alpha X,,Homo sapiens,human
+38956598,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+39327159,title,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+39327159,abstract,Gene,TAR DNA-binding protein 43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+39327159,abstract,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+39442808,abstract,Gene,Stx2a,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+39442808,abstract,Gene,Stx2a,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+39442808,abstract,Gene,Stx2a,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+39442808,abstract,Gene,Stx2a,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+39442808,abstract,Gene,Stx2a,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+39442808,abstract,Gene,Stx2a,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+39442808,abstract,Gene,aquaporin-1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+39442808,abstract,Gene,AQP1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+39442808,abstract,Gene,aquaporin-4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+39442808,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+39442808,abstract,Gene,Stx2a,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+39442808,abstract,Gene,Stx2a,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+39442808,abstract,Gene,AQP1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+39442808,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+39442808,abstract,Gene,AQP1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+39442808,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+39461007,title,Gene,AQP3,Aqp3,11828,ncbi_gene,True,11828,Aqp3,aquaporin 3,,Mus musculus,house mouse
+39461007,abstract,Gene,AQP3,Aqp3,11828,ncbi_gene,True,11828,Aqp3,aquaporin 3,,Mus musculus,house mouse
+39461007,abstract,Gene,AQP3,Aqp3,11828,ncbi_gene,True,11828,Aqp3,aquaporin 3,,Mus musculus,house mouse
+39461007,abstract,Gene,caspase-3,Casp3,12367,ncbi_gene,True,12367,Casp3,caspase 3,,Mus musculus,house mouse
+39461007,abstract,Gene,AQP3,Aqp3,11828,ncbi_gene,True,11828,Aqp3,aquaporin 3,,Mus musculus,house mouse
+39461007,abstract,Gene,AQP3,Aqp3,11828,ncbi_gene,True,11828,Aqp3,aquaporin 3,,Mus musculus,house mouse
+39485629,title,Gene,Osteopontin,SPP1,6696,ncbi_gene,True,6696,SPP1,secreted phosphoprotein 1,,Homo sapiens,human
+39485629,title,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+39485629,title,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+39485629,abstract,Gene,Aquaporin-4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+39485629,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+39485629,abstract,Gene,Transient Receptor Potential Vanilloid 4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+39485629,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+39485629,abstract,Gene,Osteopontin,SPP1,6696,ncbi_gene,True,6696,SPP1,secreted phosphoprotein 1,,Homo sapiens,human
+39485629,abstract,Gene,OPN,SPP1,6696,ncbi_gene,True,6696,SPP1,secreted phosphoprotein 1,,Homo sapiens,human
+39485629,abstract,Gene,OPN,SPP1,6696,ncbi_gene,True,6696,SPP1,secreted phosphoprotein 1,,Homo sapiens,human
+39485629,abstract,Gene,OPN,SPP1,6696,ncbi_gene,True,6696,SPP1,secreted phosphoprotein 1,,Homo sapiens,human
+39485629,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+39485629,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+39485629,abstract,Gene,OPN,SPP1,6696,ncbi_gene,True,6696,SPP1,secreted phosphoprotein 1,,Homo sapiens,human
+39485629,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+39485629,abstract,Gene,OPN,SPP1,6696,ncbi_gene,True,6696,SPP1,secreted phosphoprotein 1,,Homo sapiens,human
+39485629,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+39485629,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+39485629,abstract,Gene,OPN,SPP1,6696,ncbi_gene,True,6696,SPP1,secreted phosphoprotein 1,,Homo sapiens,human
+39485629,abstract,Gene,OPN,SPP1,6696,ncbi_gene,True,6696,SPP1,secreted phosphoprotein 1,,Homo sapiens,human
+39485629,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+39485629,abstract,Gene,OPN,SPP1,6696,ncbi_gene,True,6696,SPP1,secreted phosphoprotein 1,,Homo sapiens,human
+39485629,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+39485629,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+39485629,abstract,Gene,OPN,SPP1,6696,ncbi_gene,True,6696,SPP1,secreted phosphoprotein 1,,Homo sapiens,human
+39553573,abstract,Gene,Stx2,Stx2,13852,ncbi_gene,True,13852,Stx2,syntaxin 2,,Mus musculus,house mouse
+39553573,abstract,Gene,Stx2,Stx2,13852,ncbi_gene,True,13852,Stx2,syntaxin 2,,Mus musculus,house mouse
+32311511,title,Gene,Pomc,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,title,Gene,Npy,Npy,109648,ncbi_gene,True,109648,Npy,neuropeptide Y,,Mus musculus,house mouse
+32311511,abstract,Gene,proopiomelanocortin,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,Pomc,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,Pomc,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,Pomc,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,Neuropeptide Y,Npy,109648,ncbi_gene,True,109648,Npy,neuropeptide Y,,Mus musculus,house mouse
+32311511,abstract,Gene,NPY,Npy,109648,ncbi_gene,True,109648,Npy,neuropeptide Y,,Mus musculus,house mouse
+32311511,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,Pomc,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,Pomc,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,Pomc,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,neuropeptide Y,Npy,109648,ncbi_gene,True,109648,Npy,neuropeptide Y,,Mus musculus,house mouse
+32311511,abstract,Gene,NPY,Npy,109648,ncbi_gene,True,109648,Npy,neuropeptide Y,,Mus musculus,house mouse
+32311511,abstract,Gene,Pomc,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,Pomc,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,NPY,Npy,109648,ncbi_gene,True,109648,Npy,neuropeptide Y,,Mus musculus,house mouse
+32311511,abstract,Gene,Pomc,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+32311511,abstract,Gene,NPY,Npy,109648,ncbi_gene,True,109648,Npy,neuropeptide Y,,Mus musculus,house mouse
+32360730,abstract,Gene,ERK1/2,rl,3354888,ncbi_gene,True,3354888,rl,rolled,,Drosophila melanogaster,fruit fly
+32360730,abstract,Gene,NF1,Nf1,43149,ncbi_gene,True,43149,Nf1,Neurofibromin 1,,Drosophila melanogaster,fruit fly
+32360730,abstract,Gene,NF1,Nf1,43149,ncbi_gene,True,43149,Nf1,Neurofibromin 1,,Drosophila melanogaster,fruit fly
+32360730,abstract,Gene,ERK1/2,rl,3354888,ncbi_gene,True,3354888,rl,rolled,,Drosophila melanogaster,fruit fly
+32482148,abstract,Gene,CCL2,CCL2,6347,ncbi_gene,True,6347,CCL2,C-C motif chemokine ligand 2,,Homo sapiens,human
+32482148,abstract,Gene,monocyte chemoattractant protein-1,CCL2,6347,ncbi_gene,True,6347,CCL2,C-C motif chemokine ligand 2,,Homo sapiens,human
+32482148,abstract,Gene,CCL3,CCL3,6348,ncbi_gene,True,6348,CCL3,C-C motif chemokine ligand 3,,Homo sapiens,human
+32482148,abstract,Gene,macrophage inflammatory protein-1 alpha,CCL3,6348,ncbi_gene,True,6348,CCL3,C-C motif chemokine ligand 3,,Homo sapiens,human
+32482148,abstract,Gene,CCL5,CCL5,6352,ncbi_gene,True,6352,CCL5,C-C motif chemokine ligand 5,,Homo sapiens,human
+32482148,abstract,Gene,chemokine (C-C motif) ligand 5,CCL5,6352,ncbi_gene,True,6352,CCL5,C-C motif chemokine ligand 5,,Homo sapiens,human
+32482148,abstract,Gene,Gb3,A4GALT,53947,ncbi_gene,True,53947,A4GALT,"alpha 1,4-galactosyltransferase (P1PK blood group)",,Homo sapiens,human
+32482148,abstract,Gene,HIF,,,,False,,,,,,
+32482148,abstract,Gene,hypoxia-inducible factor,,,,False,,,,,,
+32482148,abstract,Gene,IFN,IFNA1,3439,ncbi_gene,True,3439,IFNA1,interferon alpha 1,,Homo sapiens,human
+32482148,abstract,Gene,Ig,,,,False,,,,,,
+32482148,abstract,Gene,PGF,PGF,5228,ncbi_gene,True,5228,PGF,placental growth factor,,Homo sapiens,human
+32482148,abstract,Gene,placental growth factor,PGF,5228,ncbi_gene,True,5228,PGF,placental growth factor,,Homo sapiens,human
+32482148,abstract,Gene,VEGF,VEGFA,7422,ncbi_gene,True,7422,VEGFA,vascular endothelial growth factor A,,Homo sapiens,human
+32525252,abstract,Gene,Pc9,Pcsk9,100102,ncbi_gene,True,100102,Pcsk9,proprotein convertase subtilisin/kexin type 9,,Mus musculus,house mouse
+32525252,abstract,Gene,Pc9,Pcsk9,100102,ncbi_gene,True,100102,Pcsk9,proprotein convertase subtilisin/kexin type 9,,Mus musculus,house mouse
+32525252,abstract,Gene,Pc9,Pcsk9,100102,ncbi_gene,True,100102,Pcsk9,proprotein convertase subtilisin/kexin type 9,,Mus musculus,house mouse
+32525252,abstract,Gene,Bcl-XL,Bcl2l1,12048,ncbi_gene,True,12048,Bcl2l1,BCL2-like 1,,Mus musculus,house mouse
+32525252,abstract,Gene,Bcl-2,Bcl2,12043,ncbi_gene,True,12043,Bcl2,B cell leukemia/lymphoma 2,,Mus musculus,house mouse
+32525252,abstract,Gene,Bid,Bid,12122,ncbi_gene,True,12122,Bid,BH3 interacting domain death agonist,,Mus musculus,house mouse
+32525252,abstract,Gene,caspase-3,Casp3,12367,ncbi_gene,True,12367,Casp3,caspase 3,,Mus musculus,house mouse
+32525252,abstract,Gene,PARP-1,Parp1,11545,ncbi_gene,True,11545,Parp1,"poly (ADP-ribose) polymerase family, member 1",,Mus musculus,house mouse
+32525252,abstract,Gene,CD107a,Lamp1,16783,ncbi_gene,True,16783,Lamp1,lysosomal-associated membrane protein 1,,Mus musculus,house mouse
+32525252,abstract,Gene,interferon-gamma,Ifng,15978,ncbi_gene,True,15978,Ifng,interferon gamma,,Mus musculus,house mouse
+32525252,abstract,Gene,tumor necrosis factor-alpha,Tnf,21926,ncbi_gene,True,21926,Tnf,tumor necrosis factor,,Mus musculus,house mouse
+32525252,abstract,Gene,Pc9,Pcsk9,100102,ncbi_gene,True,100102,Pcsk9,proprotein convertase subtilisin/kexin type 9,,Mus musculus,house mouse
+33094506,title,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+33094506,title,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+33094506,abstract,Gene,transient receptor potential vanilloid 4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+33094506,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+33094506,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+33094506,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+33094506,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+33094506,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+33094506,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+33094506,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+33094506,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+33094506,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+33094506,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+33094506,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+33094506,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+33363456,title,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+33363456,abstract,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+33363456,abstract,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+33363456,abstract,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+33363456,abstract,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+33363456,abstract,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+33363456,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+33363456,abstract,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+33363456,abstract,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+33363456,abstract,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+33363456,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+33363456,abstract,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+33363456,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+33363456,abstract,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+33363456,abstract,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+33547844,abstract,Gene,dopamine D1/D5 receptor,Drd1,13488,ncbi_gene,True,13488,Drd1,dopamine receptor D1,,Mus musculus,house mouse
+33685676,title,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+33685676,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+33685676,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+33685676,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+33685676,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+33685676,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+33685676,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+33685676,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+33685676,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+33703954,abstract,Gene,lactate dehydrogenase,,,,False,,,,,,
+33822178,abstract,Gene,NMDA receptors,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+33822178,abstract,Gene,NMDAr,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+33822178,abstract,Gene,NMDAr,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+34155339,abstract,Gene,Gb3,A4GALT,53947,ncbi_gene,True,53947,A4GALT,"alpha 1,4-galactosyltransferase (P1PK blood group)",,Homo sapiens,human
+34155339,abstract,Gene,glucosylceramide synthase,UGCG,7357,ncbi_gene,True,7357,UGCG,UDP-glucose ceramide glucosyltransferase,,Homo sapiens,human
+34155339,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+34155339,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+34155339,abstract,Gene,Gb3,A4GALT,53947,ncbi_gene,True,53947,A4GALT,"alpha 1,4-galactosyltransferase (P1PK blood group)",,Homo sapiens,human
+34155339,abstract,Gene,Gb3,A4GALT,53947,ncbi_gene,True,53947,A4GALT,"alpha 1,4-galactosyltransferase (P1PK blood group)",,Homo sapiens,human
+34155339,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+34155339,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+34155339,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+34216588,abstract,Gene,ecto-nucleoside triphosphate diphosphohydrolase-1 and -2,ENTPD1,953,ncbi_gene,True,953,ENTPD1,ectonucleoside triphosphate diphosphohydrolase 1,,Homo sapiens,human
+34216588,abstract,Gene,ecto-5'-nucleotidase,NT5E,4907,ncbi_gene,True,4907,NT5E,5'-nucleotidase ecto,,Homo sapiens,human
+34263427,title,Gene,Aquaporin-4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34263427,title,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34263427,abstract,Gene,Aquaporin-4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34263427,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34263427,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34263427,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34263427,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34263427,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34263427,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34263427,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34263427,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34263427,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34263427,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34263427,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34263427,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34263427,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34263427,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34263427,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+34267676,title,Gene,Tumor Necrosis Factor-Alpha,TNF,7124,ncbi_gene,True,7124,TNF,tumor necrosis factor,,Homo sapiens,human
+34267676,title,Gene,Aquaporin 3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+34267676,abstract,Gene,tumor necrosis factor-alpha,TNF,7124,ncbi_gene,True,7124,TNF,tumor necrosis factor,,Homo sapiens,human
+34267676,abstract,Gene,TNF-alpha,TNF,7124,ncbi_gene,True,7124,TNF,tumor necrosis factor,,Homo sapiens,human
+34267676,abstract,Gene,aquaporin 3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+34267676,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+34267676,abstract,Gene,TNF-alpha,TNF,7124,ncbi_gene,True,7124,TNF,tumor necrosis factor,,Homo sapiens,human
+34267676,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+34267676,abstract,Gene,TNF-alpha,TNF,7124,ncbi_gene,True,7124,TNF,tumor necrosis factor,,Homo sapiens,human
+34267676,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+34267676,abstract,Gene,TNF-alpha,Tnf,24835,ncbi_gene,True,24835,Tnf,tumor necrosis factor,,Rattus norvegicus,Norway rat
+34267676,abstract,Gene,TNF-alpha,TNF,7124,ncbi_gene,True,7124,TNF,tumor necrosis factor,,Homo sapiens,human
+34267676,abstract,Gene,TNF-alpha,TNF,7124,ncbi_gene,True,7124,TNF,tumor necrosis factor,,Homo sapiens,human
+34267676,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+34267676,abstract,Gene,TNF-alpha,TNF,7124,ncbi_gene,True,7124,TNF,tumor necrosis factor,,Homo sapiens,human
+34267676,abstract,Gene,TNF-alpha,TNF,7124,ncbi_gene,True,7124,TNF,tumor necrosis factor,,Homo sapiens,human
+34267676,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+34267676,abstract,Gene,TNF-alpha,TNF,7124,ncbi_gene,True,7124,TNF,tumor necrosis factor,,Homo sapiens,human
+34267676,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+34267676,abstract,Gene,TNF-alpha,TNF,7124,ncbi_gene,True,7124,TNF,tumor necrosis factor,,Homo sapiens,human
+34267676,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+34267676,abstract,Gene,TNF-alpha,TNF,7124,ncbi_gene,True,7124,TNF,tumor necrosis factor,,Homo sapiens,human
+34267676,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+34279203,abstract,Gene,DNA methyltransferase,dnmt3bb.2,30659,ncbi_gene,True,30659,dnmt3bb.2,"DNA (cytosine-5-)-methyltransferase 3 beta, duplicate b.2",,Danio rerio,zebrafish
+34279203,abstract,Gene,DNMTs,dnmt3bb.2,30659,ncbi_gene,True,30659,dnmt3bb.2,"DNA (cytosine-5-)-methyltransferase 3 beta, duplicate b.2",,Danio rerio,zebrafish
+34320266,abstract,Gene,Na+ -K+ -2Cl- cotransporter 1,Slc12a2,83629,ncbi_gene,True,83629,Slc12a2,solute carrier family 12 member 2,,Rattus norvegicus,Norway rat
+34320266,abstract,Gene,NKCC1,Slc12a2,83629,ncbi_gene,True,83629,Slc12a2,solute carrier family 12 member 2,,Rattus norvegicus,Norway rat
+34320266,abstract,Gene,serum/glucocorticoid-regulated kinase 1,Sgk1,29517,ncbi_gene,True,29517,Sgk1,serum/glucocorticoid regulated kinase 1,,Rattus norvegicus,Norway rat
+34320266,abstract,Gene,SGK1,Sgk1,29517,ncbi_gene,True,29517,Sgk1,serum/glucocorticoid regulated kinase 1,,Rattus norvegicus,Norway rat
+34320266,abstract,Gene,CD4,Cd4,24932,ncbi_gene,True,24932,Cd4,Cd4 molecule,,Rattus norvegicus,Norway rat
+34320266,abstract,Gene,CD45,Ptprc,24699,ncbi_gene,True,24699,Ptprc,"protein tyrosine phosphatase, receptor type, C",,Rattus norvegicus,Norway rat
+34320266,abstract,Gene,CD4,Cd4,24932,ncbi_gene,True,24932,Cd4,Cd4 molecule,,Rattus norvegicus,Norway rat
+34320266,abstract,Gene,NKCC1,Slc12a2,83629,ncbi_gene,True,83629,Slc12a2,solute carrier family 12 member 2,,Rattus norvegicus,Norway rat
+34320266,abstract,Gene,CD4,Cd4,24932,ncbi_gene,True,24932,Cd4,Cd4 molecule,,Rattus norvegicus,Norway rat
+34320266,abstract,Gene,CD45,Ptprc,24699,ncbi_gene,True,24699,Ptprc,"protein tyrosine phosphatase, receptor type, C",,Rattus norvegicus,Norway rat
+34320266,abstract,Gene,NKCC1,Slc12a2,83629,ncbi_gene,True,83629,Slc12a2,solute carrier family 12 member 2,,Rattus norvegicus,Norway rat
+34320266,abstract,Gene,SGK1,Sgk1,29517,ncbi_gene,True,29517,Sgk1,serum/glucocorticoid regulated kinase 1,,Rattus norvegicus,Norway rat
+34320266,abstract,Gene,NKCC1,Slc12a2,83629,ncbi_gene,True,83629,Slc12a2,solute carrier family 12 member 2,,Rattus norvegicus,Norway rat
+34320266,abstract,Gene,SGK1,Sgk1,29517,ncbi_gene,True,29517,Sgk1,serum/glucocorticoid regulated kinase 1,,Rattus norvegicus,Norway rat
+34437406,abstract,Gene,Stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+34437406,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+34437406,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+34437406,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+34437406,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+34437406,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+34804128,title,Gene,SIRT6,Sirt6,50721,ncbi_gene,True,50721,Sirt6,sirtuin 6,,Mus musculus,house mouse
+34804128,abstract,Gene,SIRT6,Sirt6,50721,ncbi_gene,True,50721,Sirt6,sirtuin 6,,Mus musculus,house mouse
+34804128,abstract,Gene,glutamine synthetase,Glul,14645,ncbi_gene,True,14645,Glul,glutamate-ammonia ligase,,Mus musculus,house mouse
+34804128,abstract,Gene,SOX9,Sox9,20682,ncbi_gene,True,20682,Sox9,SRY (sex determining region Y)-box 9,,Mus musculus,house mouse
+34804128,abstract,Gene,SIRT6,Sirt6,50721,ncbi_gene,True,50721,Sirt6,sirtuin 6,,Mus musculus,house mouse
+34804128,abstract,Gene,SIRT6,Sirt6,50721,ncbi_gene,True,50721,Sirt6,sirtuin 6,,Mus musculus,house mouse
+34804128,abstract,Gene,SOX9,Sox9,20682,ncbi_gene,True,20682,Sox9,SRY (sex determining region Y)-box 9,,Mus musculus,house mouse
+34804128,abstract,Gene,SOX9,Sox9,20682,ncbi_gene,True,20682,Sox9,SRY (sex determining region Y)-box 9,,Mus musculus,house mouse
+34804128,abstract,Gene,SIRT6,Sirt6,50721,ncbi_gene,True,50721,Sirt6,sirtuin 6,,Mus musculus,house mouse
+34804128,abstract,Gene,SIRT6,Sirt6,50721,ncbi_gene,True,50721,Sirt6,sirtuin 6,,Mus musculus,house mouse
+34804128,abstract,Gene,SOX9,Sox9,20682,ncbi_gene,True,20682,Sox9,SRY (sex determining region Y)-box 9,,Mus musculus,house mouse
+34822608,abstract,Gene,Stx,ST8SIA2,8128,ncbi_gene,True,8128,ST8SIA2,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2",,Homo sapiens,human
+34822608,abstract,Gene,Stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+34822608,abstract,Gene,Stx1/2,STX12,23673,ncbi_gene,True,23673,STX12,syntaxin 12,,Homo sapiens,human
+34823607,abstract,Gene,synapsin-1,MRX50,6853,ncbi_gene,True,6853,SYN1,synapsin I,,Homo sapiens,human
+34900753,abstract,Gene,Stx2a,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+34900753,abstract,Gene,Stx2a,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+34900753,abstract,Gene,CD69,CD69,969,ncbi_gene,True,969,CD69,CD69 molecule,,Homo sapiens,human
+34900753,abstract,Gene,CD107a,LAMP1,3916,ncbi_gene,True,3916,LAMP1,lysosome associated membrane protein 1,,Homo sapiens,human
+34900753,abstract,Gene,TNF-alpha,TNF,7124,ncbi_gene,True,7124,TNF,tumor necrosis factor,,Homo sapiens,human
+34900753,abstract,Gene,IFN-gamma,IFNG,3458,ncbi_gene,True,3458,IFNG,interferon gamma,,Homo sapiens,human
+34900753,abstract,Gene,Stx2a,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+34900753,abstract,Gene,CD107a,LAMP1,3916,ncbi_gene,True,3916,LAMP1,lysosome associated membrane protein 1,,Homo sapiens,human
+34900753,abstract,Gene,Stx2a,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+34900753,abstract,Gene,TNF-alpha,TNF,7124,ncbi_gene,True,7124,TNF,tumor necrosis factor,,Homo sapiens,human
+34900753,abstract,Gene,Stx2a,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+34900753,abstract,Gene,Stx2a,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+34900753,abstract,Gene,TNF-alpha,TNF,7124,ncbi_gene,True,7124,TNF,tumor necrosis factor,,Homo sapiens,human
+34916412,abstract,Gene,transactive response DNA-binding protein of 43 kDa,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+34916412,abstract,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+34916412,abstract,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+34916412,abstract,Gene,RNA binding protein,RBMS3,27303,ncbi_gene,True,27303,RBMS3,RNA binding motif single stranded interacting protein 3,,Homo sapiens,human
+34916412,abstract,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+34916412,abstract,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+34925067,title,Gene,Aquaporin-9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+34925067,abstract,Gene,Aquaporin-9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+34925067,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+34925067,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+34925067,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+34925067,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+34925067,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+34925067,abstract,Gene,Bax,BAX,581,ncbi_gene,True,581,BAX,"BCL2 associated X, apoptosis regulator",,Homo sapiens,human
+34925067,abstract,Gene,Bcl-2,BCL2,596,ncbi_gene,True,596,BCL2,BCL2 apoptosis regulator,,Homo sapiens,human
+34925067,abstract,Gene,Terminal Deoxynucleotidyltransferase,DNTT,1791,ncbi_gene,True,1791,DNTT,DNA nucleotidylexotransferase,,Homo sapiens,human
+34925067,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+34925067,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+34925067,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+34925067,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+34925067,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+34930957,abstract,Gene,c-Fos,Fos,14281,ncbi_gene,True,14281,Fos,"Fos proto-oncogene, AP-1 transcription factor subunit",,Mus musculus,house mouse
+34933954,abstract,Gene,SCIN,Scin,20259,ncbi_gene,True,20259,Scin,scinderin,,Mus musculus,house mouse
+34933954,abstract,Gene,SCIN,Scin,20259,ncbi_gene,True,20259,Scin,scinderin,,Mus musculus,house mouse
+34935149,title,Gene,Colony-stimulating factor-1 receptor,Csf1r,12978,ncbi_gene,True,12978,Csf1r,colony stimulating factor 1 receptor,,Mus musculus,house mouse
+34935149,abstract,Gene,colony-stimulating factor-1 receptor,Csf1r,12978,ncbi_gene,True,12978,Csf1r,colony stimulating factor 1 receptor,,Mus musculus,house mouse
+34935149,abstract,Gene,CSF-1R,Csf1r,12978,ncbi_gene,True,12978,Csf1r,colony stimulating factor 1 receptor,,Mus musculus,house mouse
+34938200,abstract,Gene,caveolin-1,CAV1,857,ncbi_gene,True,857,CAV1,caveolin 1,,Homo sapiens,human
+34938200,abstract,Gene,Cav-1,CAV1,857,ncbi_gene,True,857,CAV1,caveolin 1,,Homo sapiens,human
+34938200,abstract,Gene,matrix metalloproteinase-2,MMP2,4313,ncbi_gene,True,4313,MMP2,matrix metallopeptidase 2,,Homo sapiens,human
+34938200,abstract,Gene,MMP-2,MMP2,4313,ncbi_gene,True,4313,MMP2,matrix metallopeptidase 2,,Homo sapiens,human
+34938200,abstract,Gene,Cav-1,CAV1,857,ncbi_gene,True,857,CAV1,caveolin 1,,Homo sapiens,human
+34971959,abstract,Gene,AQP1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+34971959,abstract,Gene,AQP1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+35431989,abstract,Gene,angiotensin-converting enzyme 2,ACE2,59272,ncbi_gene,True,59272,ACE2,angiotensin converting enzyme 2,,Homo sapiens,human
+35431989,abstract,Gene,ACE2,ACE2,59272,ncbi_gene,True,59272,ACE2,angiotensin converting enzyme 2,,Homo sapiens,human
+30283405,title,Gene,Proopiomelanocortin,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+30283405,abstract,Gene,proopiomelanocortin,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+30283405,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+30283405,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+30283405,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+30283405,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+30283405,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+30283405,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+30283405,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+30283405,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+30283405,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+30283405,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+30283405,abstract,Gene,C-FOS,Fos,14281,ncbi_gene,True,14281,Fos,"Fos proto-oncogene, AP-1 transcription factor subunit",,Mus musculus,house mouse
+30283405,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+30283405,abstract,Gene,C-FOS,Fos,14281,ncbi_gene,True,14281,Fos,"Fos proto-oncogene, AP-1 transcription factor subunit",,Mus musculus,house mouse
+30283405,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+30283405,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+30283405,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+30283405,abstract,Gene,POMC,Pomc,18976,ncbi_gene,True,18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+30300837,abstract,Gene,insulin receptor,Insr,24954,ncbi_gene,True,24954,Insr,insulin receptor,,Rattus norvegicus,Norway rat
+30360505,abstract,Gene,Stx2,Stx2,25130,ncbi_gene,True,25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+30360505,abstract,Gene,Stx2,Stx2,25130,ncbi_gene,True,25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+30360505,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+30360505,abstract,Gene,Stx2,Stx2,25130,ncbi_gene,True,25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+30360505,abstract,Gene,Stx2,Stx2,25130,ncbi_gene,True,25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+30425647,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+30425647,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+30425647,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+30425647,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+30466042,title,Gene,Cx26,GJB2,2706,ncbi_gene,True,2706,GJB2,gap junction protein beta 2,,Homo sapiens,human
+30466042,abstract,Gene,Cx26,GJB2,2706,ncbi_gene,True,2706,GJB2,gap junction protein beta 2,,Homo sapiens,human
+30466042,abstract,Gene,Cx26,GJB2,2706,ncbi_gene,True,2706,GJB2,gap junction protein beta 2,,Homo sapiens,human
+30466042,abstract,Gene,ASP2,BACE1,23621,ncbi_gene,True,23621,BACE1,beta-secretase 1,,Homo sapiens,human
+30466042,abstract,Gene,Cx26,GJB2,2706,ncbi_gene,True,2706,GJB2,gap junction protein beta 2,,Homo sapiens,human
+30466042,abstract,Gene,Cx26,GJB2,2706,ncbi_gene,True,2706,GJB2,gap junction protein beta 2,,Homo sapiens,human
+30513821,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+30513821,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+30513821,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+30513821,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+30513821,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+30513821,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+30539720,title,Gene,aquaporin-4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+30539720,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+30539720,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+30539720,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+30539720,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+30539720,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+30539720,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+30539720,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+30539720,abstract,Gene,hypoxia inducible factor (HIF)-1alpha,HIF1A,3091,ncbi_gene,True,3091,HIF1A,hypoxia inducible factor 1 subunit alpha,,Homo sapiens,human
+30539720,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+30539720,abstract,Gene,HIF-1alpha,HIF1A,3091,ncbi_gene,True,3091,HIF1A,hypoxia inducible factor 1 subunit alpha,,Homo sapiens,human
+30539720,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+30539720,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+30539720,abstract,Gene,HIF-1alpha,HIF1A,3091,ncbi_gene,True,3091,HIF1A,hypoxia inducible factor 1 subunit alpha,,Homo sapiens,human
+30539720,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+30539720,abstract,Gene,HIF-1alpha,HIF1A,3091,ncbi_gene,True,3091,HIF1A,hypoxia inducible factor 1 subunit alpha,,Homo sapiens,human
+30539720,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+30539720,abstract,Gene,AQP4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+30619183,abstract,Gene,Stx2,Stx2,13852,ncbi_gene,True,13852,Stx2,syntaxin 2,,Mus musculus,house mouse
+30619183,abstract,Gene,glial fibrillary acidic protein,Gfap,14580,ncbi_gene,True,14580,Gfap,glial fibrillary acidic protein,,Mus musculus,house mouse
+30619183,abstract,Gene,GFAP,Gfap,14580,ncbi_gene,True,14580,Gfap,glial fibrillary acidic protein,,Mus musculus,house mouse
+30620717,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+30620717,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+30620717,abstract,Gene,Stx2,Stx2,25130,ncbi_gene,True,25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+30620717,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+30620717,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+30620717,abstract,Gene,MMP-2,MMP2,4313,ncbi_gene,True,4313,MMP2,matrix metallopeptidase 2,,Homo sapiens,human
+30620717,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+30620717,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+30620717,abstract,Gene,MMP-2,MMP2,4313,ncbi_gene,True,4313,MMP2,matrix metallopeptidase 2,,Homo sapiens,human
+30620717,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+30628061,title,Gene,connexin 43,Gja1,14609,ncbi_gene,True,14609,Gja1,"gap junction protein, alpha 1",,Mus musculus,house mouse
+30628061,abstract,Gene,connexin 43,Gja1,14609,ncbi_gene,True,14609,Gja1,"gap junction protein, alpha 1",,Mus musculus,house mouse
+30628061,abstract,Gene,Cx43,Gja1,14609,ncbi_gene,True,14609,Gja1,"gap junction protein, alpha 1",,Mus musculus,house mouse
+30628061,abstract,Gene,Cx43,Gja1,14609,ncbi_gene,True,14609,Gja1,"gap junction protein, alpha 1",,Mus musculus,house mouse
+30628061,abstract,Gene,Cx43,Gja1,14609,ncbi_gene,True,14609,Gja1,"gap junction protein, alpha 1",,Mus musculus,house mouse
+30628061,abstract,Gene,Cx43,Gja1,14609,ncbi_gene,True,14609,Gja1,"gap junction protein, alpha 1",,Mus musculus,house mouse
+30658119,abstract,Gene,acetylcholinesterase,Ache,11423,ncbi_gene,True,11423,Ache,acetylcholinesterase,,Mus musculus,house mouse
+30658119,abstract,Gene,Acetylcholinesterase,Ache,11423,ncbi_gene,True,11423,Ache,acetylcholinesterase,,Mus musculus,house mouse
+30732602,abstract,Gene,GFAP,Gfap,14580,ncbi_gene,True,14580,Gfap,glial fibrillary acidic protein,,Mus musculus,house mouse
+30732602,abstract,Gene,NeuN,Rbfox3,52897,ncbi_gene,True,52897,Rbfox3,"RNA binding protein, fox-1 homolog (C. elegans) 3",,Mus musculus,house mouse
+30732602,abstract,Gene,MBP,Mbp,17196,ncbi_gene,True,17196,Mbp,myelin basic protein,,Mus musculus,house mouse
+30732602,abstract,Gene,Iba1,Iba1,114737,ncbi_gene,True,114737,Iba1,induction of brown adipocytes 1,,Mus musculus,house mouse
+30732602,abstract,Gene,GFAP,Gfap,14580,ncbi_gene,True,14580,Gfap,glial fibrillary acidic protein,,Mus musculus,house mouse
+30732602,abstract,Gene,Iba1,Iba1,114737,ncbi_gene,True,114737,Iba1,induction of brown adipocytes 1,,Mus musculus,house mouse
+30732602,abstract,Gene,NeuN,Rbfox3,52897,ncbi_gene,True,52897,Rbfox3,"RNA binding protein, fox-1 homolog (C. elegans) 3",,Mus musculus,house mouse
+30732602,abstract,Gene,MBP,Mbp,17196,ncbi_gene,True,17196,Mbp,myelin basic protein,,Mus musculus,house mouse
+30746639,abstract,Gene,D1 receptor,Drd1,13488,ncbi_gene,True,13488,Drd1,dopamine receptor D1,,Mus musculus,house mouse
+30746639,abstract,Gene,D2 receptor,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+30746639,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+30746639,abstract,Gene,parvalbumin,Pvalb,19293,ncbi_gene,True,19293,Pvalb,parvalbumin,,Mus musculus,house mouse
+30746639,abstract,Gene,PV,Pvalb,19293,ncbi_gene,True,19293,Pvalb,parvalbumin,,Mus musculus,house mouse
+30746639,abstract,Gene,vesicular GABA transporter,Slc32a1,22348,ncbi_gene,True,22348,Slc32a1,"solute carrier family 32 (GABA vesicular transporter), member 1",,Mus musculus,house mouse
+30746639,abstract,Gene,VGAT,Slc32a1,22348,ncbi_gene,True,22348,Slc32a1,"solute carrier family 32 (GABA vesicular transporter), member 1",,Mus musculus,house mouse
+30746639,abstract,Gene,PV,Pvalb,19293,ncbi_gene,True,19293,Pvalb,parvalbumin,,Mus musculus,house mouse
+30746639,abstract,Gene,PV,Pvalb,19293,ncbi_gene,True,19293,Pvalb,parvalbumin,,Mus musculus,house mouse
+30746639,abstract,Gene,PV,Pvalb,19293,ncbi_gene,True,19293,Pvalb,parvalbumin,,Mus musculus,house mouse
+30746639,abstract,Gene,activity-regulated cytoskeleton-associated protein,Arc,11838,ncbi_gene,True,11838,Arc,activity regulated cytoskeletal-associated protein,,Mus musculus,house mouse
+30746639,abstract,Gene,Arc,Arc,11838,ncbi_gene,True,11838,Arc,activity regulated cytoskeletal-associated protein,,Mus musculus,house mouse
+30746639,abstract,Gene,c-Fos,Fos,14281,ncbi_gene,True,14281,Fos,"Fos proto-oncogene, AP-1 transcription factor subunit",,Mus musculus,house mouse
+30747154,title,Gene,podocalyxin,PODXL,5420,ncbi_gene,True,5420,PODXL,podocalyxin like,,Homo sapiens,human
+30747154,title,Gene,synaptopodin,SYNPO,11346,ncbi_gene,True,11346,SYNPO,synaptopodin,,Homo sapiens,human
+30747154,abstract,Gene,podocalyxin,PODXL,5420,ncbi_gene,True,5420,PODXL,podocalyxin like,,Homo sapiens,human
+30747154,abstract,Gene,synaptopodin,SYNPO,11346,ncbi_gene,True,11346,SYNPO,synaptopodin,,Homo sapiens,human
+30747154,abstract,Gene,synaptopodin,SYNPO,11346,ncbi_gene,True,11346,SYNPO,synaptopodin,,Homo sapiens,human
+30747154,abstract,Gene,podocalyxin,PODXL,5420,ncbi_gene,True,5420,PODXL,podocalyxin like,,Homo sapiens,human
+30747154,abstract,Gene,synaptopodin,SYNPO,11346,ncbi_gene,True,11346,SYNPO,synaptopodin,,Homo sapiens,human
+30747154,abstract,Gene,podocalyxin,PODXL,5420,ncbi_gene,True,5420,PODXL,podocalyxin like,,Homo sapiens,human
+30747154,abstract,Gene,synaptopodin,SYNPO,11346,ncbi_gene,True,11346,SYNPO,synaptopodin,,Homo sapiens,human
+30747154,abstract,Gene,podocalyxin,PODXL,5420,ncbi_gene,True,5420,PODXL,podocalyxin like,,Homo sapiens,human
+30747154,abstract,Gene,podocalyxin,PODXL,5420,ncbi_gene,True,5420,PODXL,podocalyxin like,,Homo sapiens,human
+30747154,abstract,Gene,podocalyxin,PODXL,5420,ncbi_gene,True,5420,PODXL,podocalyxin like,,Homo sapiens,human
+30826460,abstract,Gene,Pitx3,pitx3,402974,ncbi_gene,True,402974,pitx3,paired-like homeodomain 3,,Danio rerio,zebrafish
+30826460,abstract,Gene,Pitx3,pitx3,402974,ncbi_gene,True,402974,pitx3,paired-like homeodomain 3,,Danio rerio,zebrafish
+30879772,title,Gene,estrogen receptor-alpha,ESR1,2099,ncbi_gene,True,2099,ESR1,estrogen receptor 1,,Homo sapiens,human
+30879772,title,Gene,G protein-coupled estrogen receptor-1,GPER1,2852,ncbi_gene,True,2852,GPER1,G protein-coupled estrogen receptor 1,,Homo sapiens,human
+30879772,abstract,Gene,G protein-coupled estrogen receptor 1,GPER1,2852,ncbi_gene,True,2852,GPER1,G protein-coupled estrogen receptor 1,,Homo sapiens,human
+30879772,abstract,Gene,GPER-1,GPER1,2852,ncbi_gene,True,2852,GPER1,G protein-coupled estrogen receptor 1,,Homo sapiens,human
+30879772,abstract,Gene,estrogen receptor alpha,ESR1,2099,ncbi_gene,True,2099,ESR1,estrogen receptor 1,,Homo sapiens,human
+30879772,abstract,Gene,ERalpha,ESR1,2099,ncbi_gene,True,2099,ESR1,estrogen receptor 1,,Homo sapiens,human
+30879772,abstract,Gene,ERbeta,ESR2,2100,ncbi_gene,True,2100,ESR2,estrogen receptor 2,,Homo sapiens,human
+30879772,abstract,Gene,GPER-1,GPER1,2852,ncbi_gene,True,2852,GPER1,G protein-coupled estrogen receptor 1,,Homo sapiens,human
+30879772,abstract,Gene,ER,EREG,2069,ncbi_gene,True,2069,EREG,epiregulin,,Homo sapiens,human
+30879772,abstract,Gene,beta-catenin,CTNNB1,1499,ncbi_gene,True,1499,CTNNB1,catenin beta 1,,Homo sapiens,human
+30879772,abstract,Gene,beta-catenin,CTNNB1,1499,ncbi_gene,True,1499,CTNNB1,catenin beta 1,,Homo sapiens,human
+30879772,abstract,Gene,ERalpha,ESR1,2099,ncbi_gene,True,2099,ESR1,estrogen receptor 1,,Homo sapiens,human
+30879772,abstract,Gene,GPER-1,GPER1,2852,ncbi_gene,True,2852,GPER1,G protein-coupled estrogen receptor 1,,Homo sapiens,human
+30879772,abstract,Gene,beta-catenin,CTNNB1,1499,ncbi_gene,True,1499,CTNNB1,catenin beta 1,,Homo sapiens,human
+30895594,abstract,Gene,rhodopsin,Rho,212541,ncbi_gene,True,212541,Rho,rhodopsin,,Mus musculus,house mouse
+30895594,abstract,Gene,CaMKII,Camk2d,108058,ncbi_gene,True,108058,Camk2d,"calcium/calmodulin-dependent protein kinase II, delta",,Mus musculus,house mouse
+31018904,title,Gene,TRPV-1,TRPV1,7442,ncbi_gene,True,7442,TRPV1,transient receptor potential cation channel subfamily V member 1,,Homo sapiens,human
+31018904,abstract,Gene,transient receptor potential vanilloid 1,TRPV1,7442,ncbi_gene,True,7442,TRPV1,transient receptor potential cation channel subfamily V member 1,,Homo sapiens,human
+31018904,abstract,Gene,TRPV-1,TRPV1,7442,ncbi_gene,True,7442,TRPV1,transient receptor potential cation channel subfamily V member 1,,Homo sapiens,human
+31018904,abstract,Gene,TRPV-1,TRPV1,7442,ncbi_gene,True,7442,TRPV1,transient receptor potential cation channel subfamily V member 1,,Homo sapiens,human
+31018904,abstract,Gene,TRPV-1,TRPV1,7442,ncbi_gene,True,7442,TRPV1,transient receptor potential cation channel subfamily V member 1,,Homo sapiens,human
+31018904,abstract,Gene,TRPV-1,TRPV1,7442,ncbi_gene,True,7442,TRPV1,transient receptor potential cation channel subfamily V member 1,,Homo sapiens,human
+31057366,title,Gene,ERK1/2,Mapk3,26417,ncbi_gene,True,26417,Mapk3,mitogen-activated protein kinase 3,,Mus musculus,house mouse
+31057366,abstract,Gene,extracellular signal-regulated kinase,Mapk1,26413,ncbi_gene,True,26413,Mapk1,mitogen-activated protein kinase 1,,Mus musculus,house mouse
+31057366,abstract,Gene,ERK,Mapk1,26413,ncbi_gene,True,26413,Mapk1,mitogen-activated protein kinase 1,,Mus musculus,house mouse
+31068973,title,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+31068973,title,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+31068973,abstract,Gene,TAR DNA-binding protein 43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+31068973,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+31068973,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+31068973,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+31068973,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+31535145,abstract,Gene,Aquaporin 1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+31535145,abstract,Gene,Aquaporin 4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+31535145,abstract,Gene,Aquaporin 1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+31535145,abstract,Gene,Aquaporin 4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+31535145,abstract,Gene,Aquaporin 1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+31535145,abstract,Gene,Aquaporin 4,AQP4,361,ncbi_gene,True,361,AQP4,aquaporin 4,,Homo sapiens,human
+31541456,abstract,Gene,Caveolin-1,CAV1,857,ncbi_gene,True,857,CAV1,caveolin 1,,Homo sapiens,human
+31541456,abstract,Gene,Cav-1,CAV1,857,ncbi_gene,True,857,CAV1,caveolin 1,,Homo sapiens,human
+31541456,abstract,Gene,aquaporin-3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+31541456,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+31541456,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+31541456,abstract,Gene,Cav-1,CAV1,857,ncbi_gene,True,857,CAV1,caveolin 1,,Homo sapiens,human
+31541456,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+31541456,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+31541456,abstract,Gene,Cav-1,CAV1,857,ncbi_gene,True,857,CAV1,caveolin 1,,Homo sapiens,human
+31541456,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+31541456,abstract,Gene,Cav-1,CAV1,857,ncbi_gene,True,857,CAV1,caveolin 1,,Homo sapiens,human
+31541456,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+31541456,abstract,Gene,Cav-1,CAV1,857,ncbi_gene,True,857,CAV1,caveolin 1,,Homo sapiens,human
+31628683,title,Gene,Aquaporin-2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+31628683,title,Gene,Na+ /H+ exchanger isoform 1,SLC9A1,6548,ncbi_gene,True,6548,SLC9A1,solute carrier family 9 member A1,,Homo sapiens,human
+31628683,abstract,Gene,Aquaporin-2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+31628683,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+31628683,abstract,Gene,integrin beta1,ITGB1,3688,ncbi_gene,True,3688,ITGB1,integrin subunit beta 1,,Homo sapiens,human
+31628683,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+31628683,abstract,Gene,Na+ /H+ exchanger isoform 1,SLC9A1,6548,ncbi_gene,True,6548,SLC9A1,solute carrier family 9 member A1,,Homo sapiens,human
+31628683,abstract,Gene,NHE1,SLC9A1,6548,ncbi_gene,True,6548,SLC9A1,solute carrier family 9 member A1,,Homo sapiens,human
+31628683,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+31628683,abstract,Gene,NHE1,SLC9A1,6548,ncbi_gene,True,6548,SLC9A1,solute carrier family 9 member A1,,Homo sapiens,human
+31628683,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+31628683,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+31628683,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+31628683,abstract,Gene,NHE1,SLC9A1,6548,ncbi_gene,True,6548,SLC9A1,solute carrier family 9 member A1,,Homo sapiens,human
+31628683,abstract,Gene,NHE1,SLC9A1,6548,ncbi_gene,True,6548,SLC9A1,solute carrier family 9 member A1,,Homo sapiens,human
+31628683,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+31628683,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+31628683,abstract,Gene,NHE1,SLC9A1,6548,ncbi_gene,True,6548,SLC9A1,solute carrier family 9 member A1,,Homo sapiens,human
+31628683,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+31703347,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+31703347,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+31703347,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+31703347,abstract,Gene,IL-6,IL6,3569,ncbi_gene,True,3569,IL6,interleukin 6,,Homo sapiens,human
+31703347,abstract,Gene,IL-8,CXCL8,3576,ncbi_gene,True,3576,CXCL8,C-X-C motif chemokine ligand 8,,Homo sapiens,human
+31703347,abstract,Gene,TNF-alpha,TNF,7124,ncbi_gene,True,7124,TNF,tumor necrosis factor,,Homo sapiens,human
+31703347,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+31703347,abstract,Gene,IL-8,CXCL8,3576,ncbi_gene,True,3576,CXCL8,C-X-C motif chemokine ligand 8,,Homo sapiens,human
+31703347,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+31703347,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+31780897,abstract,Gene,Connexins,Gjd2,14617,ncbi_gene,True,14617,Gjd2,"gap junction protein, delta 2",,Mus musculus,house mouse
+31780897,abstract,Gene,connexins,Gjd2,14617,ncbi_gene,True,14617,Gjd2,"gap junction protein, delta 2",,Mus musculus,house mouse
+31811544,title,Gene,Na+/H+ exchanger isoform 1,Slc9a1,24782,ncbi_gene,True,24782,Slc9a1,solute carrier family 9 member A1,,Rattus norvegicus,Norway rat
+31811544,title,Gene,AQP2,Aqp2,25386,ncbi_gene,True,25386,Aqp2,aquaporin 2,,Rattus norvegicus,Norway rat
+31811544,abstract,Gene,Aquaporin-2,Aqp2,25386,ncbi_gene,True,25386,Aqp2,aquaporin 2,,Rattus norvegicus,Norway rat
+31811544,abstract,Gene,Aquaporin-2,Aqp2,11827,ncbi_gene,True,11827,Aqp2,aquaporin 2,,Mus musculus,house mouse
+31811544,abstract,Gene,AQP2,Aqp2,11827,ncbi_gene,True,11827,Aqp2,aquaporin 2,,Mus musculus,house mouse
+31811544,abstract,Gene,Na+/H+ exchanger isoform 1,Slc9a1,20544,ncbi_gene,True,20544,Slc9a1,"solute carrier family 9 (sodium/hydrogen exchanger), member 1",,Mus musculus,house mouse
+31811544,abstract,Gene,AQP2,Aqp2,25386,ncbi_gene,True,25386,Aqp2,aquaporin 2,,Rattus norvegicus,Norway rat
+31811544,abstract,Gene,AQP2,Aqp2,25386,ncbi_gene,True,25386,Aqp2,aquaporin 2,,Rattus norvegicus,Norway rat
+31811544,abstract,Gene,Aquaporin-2,Aqp2,25386,ncbi_gene,True,25386,Aqp2,aquaporin 2,,Rattus norvegicus,Norway rat
+31811544,abstract,Gene,Na+/H+ exchanger isoform 1,Slc9a1,24782,ncbi_gene,True,24782,Slc9a1,solute carrier family 9 member A1,,Rattus norvegicus,Norway rat
+31811544,abstract,Gene,NHE1,Slc9a1,24782,ncbi_gene,True,24782,Slc9a1,solute carrier family 9 member A1,,Rattus norvegicus,Norway rat
+31811544,abstract,Gene,Aquaporin-2,Aqp2,25386,ncbi_gene,True,25386,Aqp2,aquaporin 2,,Rattus norvegicus,Norway rat
+31811544,abstract,Gene,Na+/H+ exchanger isoform 1,Slc9a1,24782,ncbi_gene,True,24782,Slc9a1,solute carrier family 9 member A1,,Rattus norvegicus,Norway rat
+31811544,abstract,Gene,Na+/H+ exchanger isoform 1,Slc9a1,20544,ncbi_gene,True,20544,Slc9a1,"solute carrier family 9 (sodium/hydrogen exchanger), member 1",,Mus musculus,house mouse
+31811544,abstract,Gene,AQP2,Aqp2,11827,ncbi_gene,True,11827,Aqp2,aquaporin 2,,Mus musculus,house mouse
+31811544,abstract,Gene,AQP2,Aqp2,11827,ncbi_gene,True,11827,Aqp2,aquaporin 2,,Mus musculus,house mouse
+31811544,abstract,Gene,NHE1,Slc9a1,20544,ncbi_gene,True,20544,Slc9a1,"solute carrier family 9 (sodium/hydrogen exchanger), member 1",,Mus musculus,house mouse
+31811544,abstract,Gene,Na+/H+ exchanger isoform 1,Slc9a1,24782,ncbi_gene,True,24782,Slc9a1,solute carrier family 9 member A1,,Rattus norvegicus,Norway rat
+31811544,abstract,Gene,NHE1,Slc9a1,20544,ncbi_gene,True,20544,Slc9a1,"solute carrier family 9 (sodium/hydrogen exchanger), member 1",,Mus musculus,house mouse
+31811544,abstract,Gene,Aquaporin-2,Aqp2,25386,ncbi_gene,True,25386,Aqp2,aquaporin 2,,Rattus norvegicus,Norway rat
+31811544,abstract,Gene,Aquaporin-2,Aqp2,25386,ncbi_gene,True,25386,Aqp2,aquaporin 2,,Rattus norvegicus,Norway rat
+31811544,abstract,Gene,NHE1,Slc9a1,20544,ncbi_gene,True,20544,Slc9a1,"solute carrier family 9 (sodium/hydrogen exchanger), member 1",,Mus musculus,house mouse
+31811544,abstract,Gene,AQP2,Aqp2,25386,ncbi_gene,True,25386,Aqp2,aquaporin 2,,Rattus norvegicus,Norway rat
+31811544,abstract,Gene,Na+/H+ exchanger isoform 1,Slc9a1,24782,ncbi_gene,True,24782,Slc9a1,solute carrier family 9 member A1,,Rattus norvegicus,Norway rat
+31811544,abstract,Gene,Na+/H+ exchanger isoform 1,Slc9a1,20544,ncbi_gene,True,20544,Slc9a1,"solute carrier family 9 (sodium/hydrogen exchanger), member 1",,Mus musculus,house mouse
+31811544,abstract,Gene,Na+/H+ exchanger isoform 1,Slc9a1,20544,ncbi_gene,True,20544,Slc9a1,"solute carrier family 9 (sodium/hydrogen exchanger), member 1",,Mus musculus,house mouse
+31824869,title,Gene,stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+31824869,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+31824869,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+31824869,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+31824869,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+31824869,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+31824869,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+31824869,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+31824869,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+31833146,title,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+31833146,abstract,Gene,dopamine D1 receptor,Drd1,13488,ncbi_gene,True,13488,Drd1,dopamine receptor D1,,Mus musculus,house mouse
+31833146,abstract,Gene,dopamine D2 receptor,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+31833146,abstract,Gene,D2 receptor,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+31833146,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+31833146,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+31833146,abstract,Gene,c-Fos,Fos,14281,ncbi_gene,True,14281,Fos,"Fos proto-oncogene, AP-1 transcription factor subunit",,Mus musculus,house mouse
+31833146,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+31833146,abstract,Gene,c-Fos,Fos,14281,ncbi_gene,True,14281,Fos,"Fos proto-oncogene, AP-1 transcription factor subunit",,Mus musculus,house mouse
+31833146,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+31833146,abstract,Gene,c-Fos,Fos,14281,ncbi_gene,True,14281,Fos,"Fos proto-oncogene, AP-1 transcription factor subunit",,Mus musculus,house mouse
+31833146,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+31848934,abstract,Gene,Nicotinic receptor,chrna1,30725,ncbi_gene,True,30725,chrna1,"cholinergic receptor, nicotinic, alpha 1 (muscle)",,Danio rerio,zebrafish
+31848934,abstract,Gene,histone,zgc:113984,573997,ncbi_gene,True,573997,zgc:113984,zgc:113984,,Danio rerio,zebrafish
+31848934,abstract,Gene,histone,zgc:113984,573997,ncbi_gene,True,573997,zgc:113984,zgc:113984,,Danio rerio,zebrafish
+31956716,title,Gene,AQP1,Aqp1,25240,ncbi_gene,True,25240,Aqp1,aquaporin 1,,Rattus norvegicus,Norway rat
+31956716,abstract,Gene,aquaporin-1,Aqp1,25240,ncbi_gene,True,25240,Aqp1,aquaporin 1,,Rattus norvegicus,Norway rat
+31956716,abstract,Gene,AQP1,Aqp1,25240,ncbi_gene,True,25240,Aqp1,aquaporin 1,,Rattus norvegicus,Norway rat
+31956716,abstract,Gene,AQP1,Aqp1,25240,ncbi_gene,True,25240,Aqp1,aquaporin 1,,Rattus norvegicus,Norway rat
+31956716,abstract,Gene,AQP1,Aqp1,25240,ncbi_gene,True,25240,Aqp1,aquaporin 1,,Rattus norvegicus,Norway rat
+31956716,abstract,Gene,AQP1,Aqp1,25240,ncbi_gene,True,25240,Aqp1,aquaporin 1,,Rattus norvegicus,Norway rat
+31956716,abstract,Gene,AQP1,Aqp1,25240,ncbi_gene,True,25240,Aqp1,aquaporin 1,,Rattus norvegicus,Norway rat
+31956716,abstract,Gene,AQP1,Aqp1,25240,ncbi_gene,True,25240,Aqp1,aquaporin 1,,Rattus norvegicus,Norway rat
+31997350,abstract,Gene,P2RX7,p2rx7,387298,ncbi_gene,True,387298,p2rx7,"purinergic receptor P2X, ligand-gated ion channel, 7",,Danio rerio,zebrafish
+31997350,abstract,Gene,P2RX7,p2rx7,387298,ncbi_gene,True,387298,p2rx7,"purinergic receptor P2X, ligand-gated ion channel, 7",,Danio rerio,zebrafish
+31997350,abstract,Gene,P2RX7,p2rx7,387298,ncbi_gene,True,387298,p2rx7,"purinergic receptor P2X, ligand-gated ion channel, 7",,Danio rerio,zebrafish
+31997350,abstract,Gene,P2RX7,p2rx7,387298,ncbi_gene,True,387298,p2rx7,"purinergic receptor P2X, ligand-gated ion channel, 7",,Danio rerio,zebrafish
+31997350,abstract,Gene,P2RX7,p2rx7,387298,ncbi_gene,True,387298,p2rx7,"purinergic receptor P2X, ligand-gated ion channel, 7",,Danio rerio,zebrafish
+31997350,abstract,Gene,lin28a,lin28a,394066,ncbi_gene,True,394066,lin28ab,lin-28 homolog Ab,,Danio rerio,zebrafish
+31997350,abstract,Gene,tnfalpha,tnfa,405785,ncbi_gene,True,405785,tnfa,"tumor necrosis factor a (TNF superfamily, member 2)",,Danio rerio,zebrafish
+31997350,abstract,Gene,hif1alpha,hif1aa,797150,ncbi_gene,True,797150,hif1aa,hypoxia inducible factor 1 subunit alpha a,,Danio rerio,zebrafish
+31997350,abstract,Gene,vegfaa,vegfaa,30682,ncbi_gene,True,30682,vegfaa,vascular endothelial growth factor Aa,,Danio rerio,zebrafish
+31997350,abstract,Gene,P2RX7,p2rx7,387298,ncbi_gene,True,387298,p2rx7,"purinergic receptor P2X, ligand-gated ion channel, 7",,Danio rerio,zebrafish
+31997350,abstract,Gene,P2RX7,p2rx7,387298,ncbi_gene,True,387298,p2rx7,"purinergic receptor P2X, ligand-gated ion channel, 7",,Danio rerio,zebrafish
+32205341,abstract,Gene,parvalbumin,Pvalb,19293,ncbi_gene,True,19293,Pvalb,parvalbumin,,Mus musculus,house mouse
+32205341,abstract,Gene,NMDAR,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+32205341,abstract,Gene,NMDAR,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+32205341,abstract,Gene,NMDAR,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+32205341,abstract,Gene,NMDAR,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+32205341,abstract,Gene,NMDAR,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+32205341,abstract,Gene,NMDAR,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+32259636,title,Gene,growth hormone,Gh,14599,ncbi_gene,True,14599,Gh,growth hormone,,Mus musculus,house mouse
+32259636,title,Gene,cPLA2alpha,Pla2g4a,18783,ncbi_gene,True,18783,Pla2g4a,"phospholipase A2, group IVA (cytosolic, calcium-dependent)",,Mus musculus,house mouse
+32259636,title,Gene,COX,Cox4i1,12857,ncbi_gene,True,12857,Cox4i1,cytochrome c oxidase subunit 4I1,,Mus musculus,house mouse
+32259636,abstract,Gene,growth hormone,Gh,14599,ncbi_gene,True,14599,Gh,growth hormone,,Mus musculus,house mouse
+32259636,abstract,Gene,GH,Gh,14599,ncbi_gene,True,14599,Gh,growth hormone,,Mus musculus,house mouse
+32259636,abstract,Gene,cPLA2alpha,Pla2g4a,18783,ncbi_gene,True,18783,Pla2g4a,"phospholipase A2, group IVA (cytosolic, calcium-dependent)",,Mus musculus,house mouse
+32259636,abstract,Gene,COX1,COX1,17708,ncbi_gene,True,17708,COX1,cytochrome c oxidase subunit I,,Mus musculus,house mouse
+32259636,abstract,Gene,COX2,COX2,17709,ncbi_gene,True,17709,COX2,cytochrome c oxidase subunit II,,Mus musculus,house mouse
+32259636,abstract,Gene,GH,Gh,14599,ncbi_gene,True,14599,Gh,growth hormone,,Mus musculus,house mouse
+32259636,abstract,Gene,GH,Gh,14599,ncbi_gene,True,14599,Gh,growth hormone,,Mus musculus,house mouse
+32259636,abstract,Gene,cPLA2alpha,Pla2g4a,18783,ncbi_gene,True,18783,Pla2g4a,"phospholipase A2, group IVA (cytosolic, calcium-dependent)",,Mus musculus,house mouse
+32259636,abstract,Gene,COX1,COX1,17708,ncbi_gene,True,17708,COX1,cytochrome c oxidase subunit I,,Mus musculus,house mouse
+32259636,abstract,Gene,COX2,COX2,17709,ncbi_gene,True,17709,COX2,cytochrome c oxidase subunit II,,Mus musculus,house mouse
+32259636,abstract,Gene,COX2,COX2,17709,ncbi_gene,True,17709,COX2,cytochrome c oxidase subunit II,,Mus musculus,house mouse
+32259636,abstract,Gene,COX1,COX1,17708,ncbi_gene,True,17708,COX1,cytochrome c oxidase subunit I,,Mus musculus,house mouse
+32259636,abstract,Gene,GH,Gh,14599,ncbi_gene,True,14599,Gh,growth hormone,,Mus musculus,house mouse
+27568555,title,Gene,Kv1.3,Kcna3,16491,ncbi_gene,True,16491,Kcna3,"potassium voltage-gated channel, shaker-related subfamily, member 3",,Mus musculus,house mouse
+27568555,abstract,Gene,Kv1.3,Kcna3,16491,ncbi_gene,True,16491,Kcna3,"potassium voltage-gated channel, shaker-related subfamily, member 3",,Mus musculus,house mouse
+27568555,abstract,Gene,Kv1.3,Kcna3,16491,ncbi_gene,True,16491,Kcna3,"potassium voltage-gated channel, shaker-related subfamily, member 3",,Mus musculus,house mouse
+27568555,abstract,Gene,Kv1.3,Kcna3,16491,ncbi_gene,True,16491,Kcna3,"potassium voltage-gated channel, shaker-related subfamily, member 3",,Mus musculus,house mouse
+27733175,title,Gene,CD80,CD80,941,ncbi_gene,True,941,CD80,CD80 molecule,,Homo sapiens,human
+27733175,abstract,Gene,CD80,CD80,941,ncbi_gene,True,941,CD80,CD80 molecule,,Homo sapiens,human
+27733175,abstract,Gene,B7-1,CD80,941,ncbi_gene,True,941,CD80,CD80 molecule,,Homo sapiens,human
+27733175,abstract,Gene,CD80,CD80,941,ncbi_gene,True,941,CD80,CD80 molecule,,Homo sapiens,human
+27733175,abstract,Gene,CD80,CD80,941,ncbi_gene,True,941,CD80,CD80 molecule,,Homo sapiens,human
+28066234,title,Gene,TDP-43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+28066234,abstract,Gene,TAR DNA-binding protein 43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+28066234,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+28066234,abstract,Gene,TDP 43,TARDBP,23435,ncbi_gene,True,23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+28098409,title,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+28098409,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+28098409,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+28098409,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+28098409,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+28098409,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+28098409,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+28098409,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+28098409,abstract,Gene,TRPV4,TRPV4,59341,ncbi_gene,True,59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+28432141,abstract,Gene,mitogen-activated protein kinase,rl,3354888,ncbi_gene,True,3354888,rl,rolled,,Drosophila melanogaster,fruit fly
+28432141,abstract,Gene,mitogen-activated protein kinase,rl,3354888,ncbi_gene,True,3354888,rl,rolled,,Drosophila melanogaster,fruit fly
+28439227,title,Gene,NF-kappa B,Nfkb1,18033,ncbi_gene,True,18033,Nfkb1,"nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105",,Mus musculus,house mouse
+28439227,abstract,Gene,NF-kappa B,Nfkb1,18033,ncbi_gene,True,18033,Nfkb1,"nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105",,Mus musculus,house mouse
+28439227,abstract,Gene,NF-kappa B,Nfkb1,18033,ncbi_gene,True,18033,Nfkb1,"nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105",,Mus musculus,house mouse
+28439227,abstract,Gene,NF-kappa B,Nfkb1,18033,ncbi_gene,True,18033,Nfkb1,"nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105",,Mus musculus,house mouse
+28439227,abstract,Gene,NF-kappa B,Nfkb1,18033,ncbi_gene,True,18033,Nfkb1,"nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105",,Mus musculus,house mouse
+28439227,abstract,Gene,NF-kappa B,Nfkb1,18033,ncbi_gene,True,18033,Nfkb1,"nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105",,Mus musculus,house mouse
+28523190,title,Gene,uPAR,PLAUR,5329,ncbi_gene,True,5329,PLAUR,"plasminogen activator, urokinase receptor",,Homo sapiens,human
+28523190,abstract,Gene,urokinase-type Plasminogen Activator Receptor,PLAUR,5329,ncbi_gene,True,5329,PLAUR,"plasminogen activator, urokinase receptor",,Homo sapiens,human
+28523190,abstract,Gene,uPAR,PLAUR,5329,ncbi_gene,True,5329,PLAUR,"plasminogen activator, urokinase receptor",,Homo sapiens,human
+28523190,abstract,Gene,uPAR,PLAUR,5329,ncbi_gene,True,5329,PLAUR,"plasminogen activator, urokinase receptor",,Homo sapiens,human
+28523190,abstract,Gene,uPAR,PLAUR,5329,ncbi_gene,True,5329,PLAUR,"plasminogen activator, urokinase receptor",,Homo sapiens,human
+28523190,abstract,Gene,uPAR,PLAUR,5329,ncbi_gene,True,5329,PLAUR,"plasminogen activator, urokinase receptor",,Homo sapiens,human
+28523190,abstract,Gene,uPAR,PLAUR,5329,ncbi_gene,True,5329,PLAUR,"plasminogen activator, urokinase receptor",,Homo sapiens,human
+28523190,abstract,Gene,uPAR,PLAUR,5329,ncbi_gene,True,5329,PLAUR,"plasminogen activator, urokinase receptor",,Homo sapiens,human
+28523190,abstract,Gene,uPAR,PLAUR,5329,ncbi_gene,True,5329,PLAUR,"plasminogen activator, urokinase receptor",,Homo sapiens,human
+28523190,abstract,Gene,uPAR,PLAUR,5329,ncbi_gene,True,5329,PLAUR,"plasminogen activator, urokinase receptor",,Homo sapiens,human
+28523190,abstract,Gene,uPAR,PLAUR,5329,ncbi_gene,True,5329,PLAUR,"plasminogen activator, urokinase receptor",,Homo sapiens,human
+28710541,abstract,Gene,P2RY1,p2ry1,100003922,ncbi_gene,True,100003922,p2ry1,purinergic receptor P2Y1,,Danio rerio,zebrafish
+28710541,abstract,Gene,P2RY1,p2ry1,100003922,ncbi_gene,True,100003922,p2ry1,purinergic receptor P2Y1,,Danio rerio,zebrafish
+28710541,abstract,Gene,P2RY1,p2ry1,100003922,ncbi_gene,True,100003922,p2ry1,purinergic receptor P2Y1,,Danio rerio,zebrafish
+28710541,abstract,Gene,P2RY1,p2ry1,100003922,ncbi_gene,True,100003922,p2ry1,purinergic receptor P2Y1,,Danio rerio,zebrafish
+28710541,abstract,Gene,lin28a,lin28a,394066,ncbi_gene,True,394066,lin28ab,lin-28 homolog Ab,,Danio rerio,zebrafish
+28710541,abstract,Gene,ascl1a,ascl1a,30466,ncbi_gene,True,30466,ascl1a,achaete-scute family bHLH transcription factor 1a,,Danio rerio,zebrafish
+28710541,abstract,Gene,P2RY1,p2ry1,100003922,ncbi_gene,True,100003922,p2ry1,purinergic receptor P2Y1,,Danio rerio,zebrafish
+28710541,abstract,Gene,glial fibrillary acidic protein,gfap,30646,ncbi_gene,True,30646,gfap,glial fibrillary acidic protein,,Danio rerio,zebrafish
+28710541,abstract,Gene,P2RY1,p2ry1,100003922,ncbi_gene,True,100003922,p2ry1,purinergic receptor P2Y1,,Danio rerio,zebrafish
+28710541,abstract,Gene,P2RY1,p2ry1,100003922,ncbi_gene,True,100003922,p2ry1,purinergic receptor P2Y1,,Danio rerio,zebrafish
+28718802,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+28718802,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+28718802,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+28718802,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+28888654,abstract,Gene,stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+29068360,title,Gene,CD40 Ligand,CD40LG,959,ncbi_gene,True,959,CD40LG,CD40 ligand,,Homo sapiens,human
+29068360,abstract,Gene,CD40 ligand,CD40LG,959,ncbi_gene,True,959,CD40LG,CD40 ligand,,Homo sapiens,human
+29068360,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+29068360,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+29085903,abstract,Gene,brain-derived neurotrophic factor,Bdnf,24225,ncbi_gene,True,24225,Bdnf,brain-derived neurotrophic factor,,Rattus norvegicus,Norway rat
+29085903,abstract,Gene,BDNF,Bdnf,24225,ncbi_gene,True,24225,Bdnf,brain-derived neurotrophic factor,,Rattus norvegicus,Norway rat
+29085903,abstract,Gene,activity-regulated cytoskeletal-associated protein,Arc,54323,ncbi_gene,True,54323,Arc,activity-regulated cytoskeleton-associated protein,,Rattus norvegicus,Norway rat
+29085903,abstract,Gene,Arc,Arc,54323,ncbi_gene,True,54323,Arc,activity-regulated cytoskeleton-associated protein,,Rattus norvegicus,Norway rat
+29085903,abstract,Gene,Arc,Arc,54323,ncbi_gene,True,54323,Arc,activity-regulated cytoskeleton-associated protein,,Rattus norvegicus,Norway rat
+29085903,abstract,Gene,BDNF,Bdnf,24225,ncbi_gene,True,24225,Bdnf,brain-derived neurotrophic factor,,Rattus norvegicus,Norway rat
+29085903,abstract,Gene,Arc,Arc,54323,ncbi_gene,True,54323,Arc,activity-regulated cytoskeleton-associated protein,,Rattus norvegicus,Norway rat
+29085903,abstract,Gene,BDNF,Bdnf,24225,ncbi_gene,True,24225,Bdnf,brain-derived neurotrophic factor,,Rattus norvegicus,Norway rat
+29085903,abstract,Gene,Arc,Arc,54323,ncbi_gene,True,54323,Arc,activity-regulated cytoskeleton-associated protein,,Rattus norvegicus,Norway rat
+29108637,title,Gene,aquaporin-3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+29108637,title,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+29108637,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+29108637,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+29108637,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+29108637,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+29108637,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+29243846,title,Gene,AQP2,Aqp2,25386,ncbi_gene,True,25386,Aqp2,aquaporin 2,,Rattus norvegicus,Norway rat
+29243846,title,Gene,TRPV4,Trpv4,66026,ncbi_gene,True,66026,Trpv4,"transient receptor potential cation channel, subfamily V, member 4",,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,TRPV4,Trpv4,66026,ncbi_gene,True,66026,Trpv4,"transient receptor potential cation channel, subfamily V, member 4",,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,TRPV4,Trpv4,66026,ncbi_gene,True,66026,Trpv4,"transient receptor potential cation channel, subfamily V, member 4",,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,TRPV4,Trpv4,66026,ncbi_gene,True,66026,Trpv4,"transient receptor potential cation channel, subfamily V, member 4",,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,AQP2,Aqp2,25386,ncbi_gene,True,25386,Aqp2,aquaporin 2,,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,TRPV4,Trpv4,66026,ncbi_gene,True,66026,Trpv4,"transient receptor potential cation channel, subfamily V, member 4",,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,TRPV4,Trpv4,66026,ncbi_gene,True,66026,Trpv4,"transient receptor potential cation channel, subfamily V, member 4",,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,RCCD1,Rccd1,308760,ncbi_gene,True,308760,Rccd1,RCC1 domain containing 1,,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,RCCD1,Rccd1,308760,ncbi_gene,True,308760,Rccd1,RCC1 domain containing 1,,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,AQP2,Aqp2,25386,ncbi_gene,True,25386,Aqp2,aquaporin 2,,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,AQP2,Aqp2,25386,ncbi_gene,True,25386,Aqp2,aquaporin 2,,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,RCCD1,Rccd1,308760,ncbi_gene,True,308760,Rccd1,RCC1 domain containing 1,,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,AQP2,Aqp2,25386,ncbi_gene,True,25386,Aqp2,aquaporin 2,,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,TRPV4,Trpv4,66026,ncbi_gene,True,66026,Trpv4,"transient receptor potential cation channel, subfamily V, member 4",,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,SK3,Kcnn3,54263,ncbi_gene,True,54263,Kcnn3,potassium calcium-activated channel subfamily N member 3,,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,AQP2,Aqp2,25386,ncbi_gene,True,25386,Aqp2,aquaporin 2,,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,SK3,Kcnn3,54263,ncbi_gene,True,54263,Kcnn3,potassium calcium-activated channel subfamily N member 3,,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,TRPV4,Trpv4,66026,ncbi_gene,True,66026,Trpv4,"transient receptor potential cation channel, subfamily V, member 4",,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,TRPV4,Trpv4,66026,ncbi_gene,True,66026,Trpv4,"transient receptor potential cation channel, subfamily V, member 4",,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,AQP2,Aqp2,25386,ncbi_gene,True,25386,Aqp2,aquaporin 2,,Rattus norvegicus,Norway rat
+29243846,abstract,Gene,TRPV4,Trpv4,66026,ncbi_gene,True,66026,Trpv4,"transient receptor potential cation channel, subfamily V, member 4",,Rattus norvegicus,Norway rat
+29394409,abstract,Gene,N-methyl-D-aspartate receptor,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+29394409,abstract,Gene,NMDAR,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+29394409,abstract,Gene,NMDAR,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+29394409,abstract,Gene,Ppp1r2,Ppp1r2,66849,ncbi_gene,True,66849,Ppp1r2,"protein phosphatase 1, regulatory inhibitor subunit 2",,Mus musculus,house mouse
+29394409,abstract,Gene,NMDAR,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+29394409,abstract,Gene,Grin1,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+29394409,abstract,Gene,parvalbumin,Pvalb,19293,ncbi_gene,True,19293,Pvalb,parvalbumin,,Mus musculus,house mouse
+29394409,abstract,Gene,PV,Pvalb,19293,ncbi_gene,True,19293,Pvalb,parvalbumin,,Mus musculus,house mouse
+29394409,abstract,Gene,Ppp1r2,Ppp1r2,66849,ncbi_gene,True,66849,Ppp1r2,"protein phosphatase 1, regulatory inhibitor subunit 2",,Mus musculus,house mouse
+29394409,abstract,Gene,Grin1,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+29394409,abstract,Gene,c-Fos,Fos,14281,ncbi_gene,True,14281,Fos,"Fos proto-oncogene, AP-1 transcription factor subunit",,Mus musculus,house mouse
+29394409,abstract,Gene,PV,Pvalb,19293,ncbi_gene,True,19293,Pvalb,parvalbumin,,Mus musculus,house mouse
+29394409,abstract,Gene,Grin1,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+29394409,abstract,Gene,Ppp1r2,Ppp1r2,66849,ncbi_gene,True,66849,Ppp1r2,"protein phosphatase 1, regulatory inhibitor subunit 2",,Mus musculus,house mouse
+29394409,abstract,Gene,Grin1,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+29394409,abstract,Gene,somatostatin,Sst,20604,ncbi_gene,True,20604,Sst,somatostatin,,Mus musculus,house mouse
+29394409,abstract,Gene,Grin1,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+29394409,abstract,Gene,Ppp1r2,Ppp1r2,66849,ncbi_gene,True,66849,Ppp1r2,"protein phosphatase 1, regulatory inhibitor subunit 2",,Mus musculus,house mouse
+29394409,abstract,Gene,Grin1,Grin1,14810,ncbi_gene,True,14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+29394409,abstract,Gene,PV,Pvalb,19293,ncbi_gene,True,19293,Pvalb,parvalbumin,,Mus musculus,house mouse
+29483033,title,Gene,lactoferrin,LTF,280846,ncbi_gene,True,280846,LTF,lactotransferrin,,Bos taurus,domestic cattle
+29483033,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+29483033,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+29483033,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+29483033,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+29483033,abstract,Gene,lactoferrin,LTF,280846,ncbi_gene,True,280846,LTF,lactotransferrin,,Bos taurus,domestic cattle
+29483033,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+29483033,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+29483033,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+29483033,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+29483033,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+29494356,abstract,Gene,caspase-8,Casp8,12370,ncbi_gene,True,12370,Casp8,caspase 8,,Mus musculus,house mouse
+29494356,abstract,Gene,caspase-9,Casp9,12371,ncbi_gene,True,12371,Casp9,caspase 9,,Mus musculus,house mouse
+29494356,abstract,Gene,caspase-3,Casp3,12367,ncbi_gene,True,12367,Casp3,caspase 3,,Mus musculus,house mouse
+29494356,abstract,Gene,Bcl-2,Bcl2,12043,ncbi_gene,True,12043,Bcl2,B cell leukemia/lymphoma 2,,Mus musculus,house mouse
+29494356,abstract,Gene,poly(ADP-ribose) polymerase,Parp1,11545,ncbi_gene,True,11545,Parp1,"poly (ADP-ribose) polymerase family, member 1",,Mus musculus,house mouse
+29494356,abstract,Gene,caspase-3,Casp3,12367,ncbi_gene,True,12367,Casp3,caspase 3,,Mus musculus,house mouse
+29494356,abstract,Gene,proliferating cell nuclear antigen,Pcna,18538,ncbi_gene,True,18538,Pcna,proliferating cell nuclear antigen,,Mus musculus,house mouse
+29494356,abstract,Gene,caspase-3,Casp3,12367,ncbi_gene,True,12367,Casp3,caspase 3,,Mus musculus,house mouse
+29494356,abstract,Gene,TRAIL,Tnfsf10,22035,ncbi_gene,True,22035,Tnfsf10,"tumor necrosis factor (ligand) superfamily, member 10",,Mus musculus,house mouse
+29494356,abstract,Gene,Bcl-2,Bcl2,12043,ncbi_gene,True,12043,Bcl2,B cell leukemia/lymphoma 2,,Mus musculus,house mouse
+29567477,title,Gene,aquaporin-3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+29567477,title,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+29567477,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+29567477,abstract,Gene,AQP1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+29567477,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+29567477,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+29567477,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+29567477,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+29567477,abstract,Gene,AQP1,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+29567477,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+29567477,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+29567477,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+29567477,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+29567477,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+29669277,title,Gene,Tau,MAPT,4137,ncbi_gene,True,4137,MAPT,microtubule associated protein tau,,Homo sapiens,human
+29669277,title,Gene,Tau,MAPT,4137,ncbi_gene,True,4137,MAPT,microtubule associated protein tau,,Homo sapiens,human
+29669277,abstract,Gene,microtubule-associated protein tau,MAPT,4137,ncbi_gene,True,4137,MAPT,microtubule associated protein tau,,Homo sapiens,human
+29669277,abstract,Gene,tau,MAPT,4137,ncbi_gene,True,4137,MAPT,microtubule associated protein tau,,Homo sapiens,human
+29669277,abstract,Gene,tau,MAPT,4137,ncbi_gene,True,4137,MAPT,microtubule associated protein tau,,Homo sapiens,human
+29669277,abstract,Gene,tau,MAPT,4137,ncbi_gene,True,4137,MAPT,microtubule associated protein tau,,Homo sapiens,human
+29669277,abstract,Gene,tau,MAPT,4137,ncbi_gene,True,4137,MAPT,microtubule associated protein tau,,Homo sapiens,human
+29669277,abstract,Gene,tau,MAPT,4137,ncbi_gene,True,4137,MAPT,microtubule associated protein tau,,Homo sapiens,human
+29669277,abstract,Gene,tau,MAPT,4137,ncbi_gene,True,4137,MAPT,microtubule associated protein tau,,Homo sapiens,human
+29755331,title,Gene,c-Fos,FOS,2353,ncbi_gene,True,2353,FOS,"Fos proto-oncogene, AP-1 transcription factor subunit",,Homo sapiens,human
+29755331,title,Gene,Egr1,EGR1,1958,ncbi_gene,True,1958,EGR1,early growth response 1,,Homo sapiens,human
+29755331,title,Gene,Arc,ARC,23237,ncbi_gene,True,23237,ARC,activity regulated cytoskeleton associated protein,,Homo sapiens,human
+29755331,abstract,Gene,c-fos,FOS,2353,ncbi_gene,True,2353,FOS,"Fos proto-oncogene, AP-1 transcription factor subunit",,Homo sapiens,human
+29755331,abstract,Gene,Egr1,EGR1,1958,ncbi_gene,True,1958,EGR1,early growth response 1,,Homo sapiens,human
+29755331,abstract,Gene,arc,ARC,23237,ncbi_gene,True,23237,ARC,activity regulated cytoskeleton associated protein,,Homo sapiens,human
+29790838,abstract,Gene,phosphatidylinositol-3-kinase,PIK3R1,5295,ncbi_gene,True,5295,PIK3R1,phosphoinositide-3-kinase regulatory subunit 1,,Homo sapiens,human
+29790838,abstract,Gene,leucine-rich repeat containing 8,LRRC8A,56262,ncbi_gene,True,56262,LRRC8A,leucine rich repeat containing 8 VRAC subunit A,,Homo sapiens,human
+29790838,abstract,Gene,LRRC8,LRRC8A,56262,ncbi_gene,True,56262,LRRC8A,leucine rich repeat containing 8 VRAC subunit A,,Homo sapiens,human
+29807709,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+29807709,abstract,Gene,Stx2,STX2,519148,ncbi_gene,True,519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+30102439,abstract,Gene,hpl,hp,566096,ncbi_gene,True,566096,hp,haptoglobin,,Danio rerio,zebrafish
+30102439,abstract,Gene,hpl,hp,566096,ncbi_gene,True,566096,hp,haptoglobin,,Danio rerio,zebrafish
+30102439,abstract,Gene,vascular endothelial growth factor,vegfaa,30682,ncbi_gene,True,30682,vegfaa,vascular endothelial growth factor Aa,,Danio rerio,zebrafish
+30102439,abstract,Gene,VEGF,vegfaa,30682,ncbi_gene,True,30682,vegfaa,vascular endothelial growth factor Aa,,Danio rerio,zebrafish
+30102439,abstract,Gene,hpl,hp,566096,ncbi_gene,True,566096,hp,haptoglobin,,Danio rerio,zebrafish
+30139698,abstract,Gene,alpha-galactosidase A,GLA,2717,ncbi_gene,True,2717,GLA,galactosidase alpha,,Homo sapiens,human
+30139698,abstract,Gene,synaptopodin,SYNPO,11346,ncbi_gene,True,11346,SYNPO,synaptopodin,,Homo sapiens,human
+30204500,title,Gene,VIP,Vip,22353,ncbi_gene,True,22353,Vip,vasoactive intestinal polypeptide,,Mus musculus,house mouse
+30204500,abstract,Gene,Vasoactive intestinal peptide,Vip,22353,ncbi_gene,True,22353,Vip,vasoactive intestinal polypeptide,,Mus musculus,house mouse
+30204500,abstract,Gene,VIP,Vip,22353,ncbi_gene,True,22353,Vip,vasoactive intestinal polypeptide,,Mus musculus,house mouse
+30204500,abstract,Gene,VIP,Vip,22353,ncbi_gene,True,22353,Vip,vasoactive intestinal polypeptide,,Mus musculus,house mouse
+30204500,abstract,Gene,VIP,Vip,22353,ncbi_gene,True,22353,Vip,vasoactive intestinal polypeptide,,Mus musculus,house mouse
+30204500,abstract,Gene,VIP,Vip,22353,ncbi_gene,True,22353,Vip,vasoactive intestinal polypeptide,,Mus musculus,house mouse
+30204500,abstract,Gene,matrix metalloproteinase 9,Mmp9,17395,ncbi_gene,True,17395,Mmp9,matrix metallopeptidase 9,,Mus musculus,house mouse
+30204500,abstract,Gene,VIP,Vip,22353,ncbi_gene,True,22353,Vip,vasoactive intestinal polypeptide,,Mus musculus,house mouse
+30204500,abstract,Gene,VIP,Vip,22353,ncbi_gene,True,22353,Vip,vasoactive intestinal polypeptide,,Mus musculus,house mouse
+30204500,abstract,Gene,VIP,Vip,22353,ncbi_gene,True,22353,Vip,vasoactive intestinal polypeptide,,Mus musculus,house mouse
+25157355,abstract,Gene,Gb3,A4galt,63888,ncbi_gene,True,63888,A4galt,"alpha 1,4-galactosyltransferase",,Rattus norvegicus,Norway rat
+25392493,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+25392493,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+25392493,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+25392493,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+25392493,abstract,Gene,TDP-43,Tardbp,230908,ncbi_gene,True,230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+25506318,abstract,Gene,dopamine D1/D5 receptors,DRD1,1812,ncbi_gene,True,1812,DRD1,dopamine receptor D1,,Homo sapiens,human
+25794836,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+25794836,abstract,Gene,stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+25794836,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+25794836,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+25794836,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+25819809,abstract,Gene,Gb3,A4galt,63888,ncbi_gene,True,63888,A4galt,"alpha 1,4-galactosyltransferase",,Rattus norvegicus,Norway rat
+25819809,abstract,Gene,vascular endothelial growth factor,Vegfa,83785,ncbi_gene,True,83785,Vegfa,vascular endothelial growth factor A,,Rattus norvegicus,Norway rat
+25819809,abstract,Gene,VEGF,Vegfa,83785,ncbi_gene,True,83785,Vegfa,vascular endothelial growth factor A,,Rattus norvegicus,Norway rat
+25819809,abstract,Gene,Tumor necrosis factor-alpha,Tnf,24835,ncbi_gene,True,24835,Tnf,tumor necrosis factor,,Rattus norvegicus,Norway rat
+25819809,abstract,Gene,TNF-alpha,Tnf,24835,ncbi_gene,True,24835,Tnf,tumor necrosis factor,,Rattus norvegicus,Norway rat
+25819809,abstract,Gene,TNF-alpha,Tnf,24835,ncbi_gene,True,24835,Tnf,tumor necrosis factor,,Rattus norvegicus,Norway rat
+25819809,abstract,Gene,VEGF,Vegfa,83785,ncbi_gene,True,83785,Vegfa,vascular endothelial growth factor A,,Rattus norvegicus,Norway rat
+25819809,abstract,Gene,Gb3,A4galt,63888,ncbi_gene,True,63888,A4galt,"alpha 1,4-galactosyltransferase",,Rattus norvegicus,Norway rat
+25819809,abstract,Gene,VEGF,Vegfa,83785,ncbi_gene,True,83785,Vegfa,vascular endothelial growth factor A,,Rattus norvegicus,Norway rat
+25856239,abstract,Gene,Kir,KIR2DL4,3805,ncbi_gene,True,3805,KIR2DL4,"killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 4",,Homo sapiens,human
+25856239,abstract,Gene,KDR,KDR,3791,ncbi_gene,True,3791,KDR,kinase insert domain receptor,,Homo sapiens,human
+25981209,abstract,Gene,CREB,Creb1,81646,ncbi_gene,True,81646,Creb1,cAMP responsive element binding protein 1,,Rattus norvegicus,Norway rat
+25981209,abstract,Gene,HDAC2,Hdac2,84577,ncbi_gene,True,84577,Hdac2,histone deacetylase 2,,Rattus norvegicus,Norway rat
+25981209,abstract,Gene,histone deacetylase 2,Hdac2,84577,ncbi_gene,True,84577,Hdac2,histone deacetylase 2,,Rattus norvegicus,Norway rat
+26030198,abstract,Gene,Stx2,Stx2,13852,ncbi_gene,True,13852,Stx2,syntaxin 2,,Mus musculus,house mouse
+26192095,abstract,Gene,neuronal nitric oxide synthase,Nos1,18125,ncbi_gene,True,18125,Nos1,"nitric oxide synthase 1, neuronal",,Mus musculus,house mouse
+26192095,abstract,Gene,nNOS,Nos1,18125,ncbi_gene,True,18125,Nos1,"nitric oxide synthase 1, neuronal",,Mus musculus,house mouse
+26335361,abstract,Gene,Stx1,STX1A,6804,ncbi_gene,True,6804,STX1A,syntaxin 1A,,Homo sapiens,human
+26335361,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+26335361,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+26335361,abstract,Gene,Gb3,A4GALT,53947,ncbi_gene,True,53947,A4GALT,"alpha 1,4-galactosyltransferase (P1PK blood group)",,Homo sapiens,human
+26335361,abstract,Gene,Gb3,A4GALT,53947,ncbi_gene,True,53947,A4GALT,"alpha 1,4-galactosyltransferase (P1PK blood group)",,Homo sapiens,human
+26335361,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+26335361,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+26335361,abstract,Gene,Gb3,A4GALT,53947,ncbi_gene,True,53947,A4GALT,"alpha 1,4-galactosyltransferase (P1PK blood group)",,Homo sapiens,human
+26335361,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+26335361,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+26335361,abstract,Gene,Stx2,STX2,2054,ncbi_gene,True,2054,STX2,syntaxin 2,,Homo sapiens,human
+26470817,abstract,Gene,Na(+)/H(+) exchanger (NHE)-1,SLC9A1,6548,ncbi_gene,True,6548,SLC9A1,solute carrier family 9 member A1,,Homo sapiens,human
+26470817,abstract,Gene,NHE-2,SLC9A2,6549,ncbi_gene,True,6549,SLC9A2,solute carrier family 9 member A2,,Homo sapiens,human
+26470817,abstract,Gene,NHE-3,SLC9A3,6550,ncbi_gene,True,6550,SLC9A3,solute carrier family 9 member A3,,Homo sapiens,human
+26484945,abstract,Gene,5-HT2A receptors,Htr2a,15558,ncbi_gene,True,15558,Htr2a,5-hydroxytryptamine (serotonin) receptor 2A,,Mus musculus,house mouse
+26484945,abstract,Gene,5-HT2A -/-,Htr2a,15558,ncbi_gene,True,15558,Htr2a,5-hydroxytryptamine (serotonin) receptor 2A,,Mus musculus,house mouse
+26484945,abstract,Gene,5-HT2A -/-,Htr2a,15558,ncbi_gene,True,15558,Htr2a,5-hydroxytryptamine (serotonin) receptor 2A,,Mus musculus,house mouse
+26484945,abstract,Gene,5-HT2A -/-,Htr2a,15558,ncbi_gene,True,15558,Htr2a,5-hydroxytryptamine (serotonin) receptor 2A,,Mus musculus,house mouse
+26484945,abstract,Gene,5-HT1A,Htr1a,15550,ncbi_gene,True,15550,Htr1a,5-hydroxytryptamine (serotonin) receptor 1A,,Mus musculus,house mouse
+26484945,abstract,Gene,5-HT2A -/-,Htr2a,15558,ncbi_gene,True,15558,Htr2a,5-hydroxytryptamine (serotonin) receptor 2A,,Mus musculus,house mouse
+26484945,abstract,Gene,5-HT1A,Htr1a,15550,ncbi_gene,True,15550,Htr1a,5-hydroxytryptamine (serotonin) receptor 1A,,Mus musculus,house mouse
+26484945,abstract,Gene,5-HT2A receptors,Htr2a,15558,ncbi_gene,True,15558,Htr2a,5-hydroxytryptamine (serotonin) receptor 2A,,Mus musculus,house mouse
+26484945,abstract,Gene,5-HT1A,Htr1a,15550,ncbi_gene,True,15550,Htr1a,5-hydroxytryptamine (serotonin) receptor 1A,,Mus musculus,house mouse
+26484945,abstract,Gene,5-HT2A,Htr2a,15558,ncbi_gene,True,15558,Htr2a,5-hydroxytryptamine (serotonin) receptor 2A,,Mus musculus,house mouse
+26484945,abstract,Gene,5-HT1A,Htr1a,15550,ncbi_gene,True,15550,Htr1a,5-hydroxytryptamine (serotonin) receptor 1A,,Mus musculus,house mouse
+26484945,abstract,Gene,5-HT1A,Htr1a,15550,ncbi_gene,True,15550,Htr1a,5-hydroxytryptamine (serotonin) receptor 1A,,Mus musculus,house mouse
+26484945,abstract,Gene,5-HT2A,Htr2a,15558,ncbi_gene,True,15558,Htr2a,5-hydroxytryptamine (serotonin) receptor 2A,,Mus musculus,house mouse
+26484945,abstract,Gene,PLC,Hspg2,15530,ncbi_gene,True,15530,Hspg2,perlecan (heparan sulfate proteoglycan 2),,Mus musculus,house mouse
+26493441,abstract,Gene,CaMKII,CAMK2G,818,ncbi_gene,True,818,CAMK2G,calcium/calmodulin dependent protein kinase II gamma,,Homo sapiens,human
+26568619,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+26568619,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+26568619,abstract,Gene,Bax,BAX,581,ncbi_gene,True,581,BAX,"BCL2 associated X, apoptosis regulator",,Homo sapiens,human
+26568619,abstract,Gene,caspase-3,CASP3,836,ncbi_gene,True,836,CASP3,caspase 3,,Homo sapiens,human
+26568619,abstract,Gene,Bax,BAX,581,ncbi_gene,True,581,BAX,"BCL2 associated X, apoptosis regulator",,Homo sapiens,human
+26568619,abstract,Gene,caspase-3,CASP3,836,ncbi_gene,True,836,CASP3,caspase 3,,Homo sapiens,human
+26568619,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+26568619,abstract,Gene,caspase-3,CASP3,836,ncbi_gene,True,836,CASP3,caspase 3,,Homo sapiens,human
+26568619,abstract,Gene,AQP1/4,AQP1,358,ncbi_gene,True,358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+26568619,abstract,Gene,AQP9,AQP9,366,ncbi_gene,True,366,AQP9,aquaporin 9,,Homo sapiens,human
+26568619,abstract,Gene,AQP3,AQP3,360,ncbi_gene,True,360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+26779016,abstract,Gene,5-HT2A,Htr2a,15558,ncbi_gene,True,15558,Htr2a,5-hydroxytryptamine (serotonin) receptor 2A,,Mus musculus,house mouse
+26779016,abstract,Gene,htr2a,Htr2a,15558,ncbi_gene,True,15558,Htr2a,5-hydroxytryptamine (serotonin) receptor 2A,,Mus musculus,house mouse
+26779016,abstract,Gene,htr2a,Htr2a,15558,ncbi_gene,True,15558,Htr2a,5-hydroxytryptamine (serotonin) receptor 2A,,Mus musculus,house mouse
+27016779,abstract,Gene,Transient receptor potential vanilloid 1,TRPV1,7442,ncbi_gene,True,7442,TRPV1,transient receptor potential cation channel subfamily V member 1,,Homo sapiens,human
+27016779,abstract,Gene,TRPV-1,TRPV1,7442,ncbi_gene,True,7442,TRPV1,transient receptor potential cation channel subfamily V member 1,,Homo sapiens,human
+27016779,abstract,Gene,TRPV-1,TRPV1,7442,ncbi_gene,True,7442,TRPV1,transient receptor potential cation channel subfamily V member 1,,Homo sapiens,human
+27016779,abstract,Gene,TRPV-1,TRPV1,7442,ncbi_gene,True,7442,TRPV1,transient receptor potential cation channel subfamily V member 1,,Homo sapiens,human
+27191152,title,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+27191152,title,Gene,NHE2,SLC9A2,6549,ncbi_gene,True,6549,SLC9A2,solute carrier family 9 member A2,,Homo sapiens,human
+27191152,abstract,Gene,Aquaporin 2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+27191152,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+27191152,abstract,Gene,NHE2,SLC9A2,6549,ncbi_gene,True,6549,SLC9A2,solute carrier family 9 member A2,,Homo sapiens,human
+27191152,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+27191152,abstract,Gene,RCCD1,RCCD1,91433,ncbi_gene,True,91433,RCCD1,RCC1 domain containing 1,,Homo sapiens,human
+27191152,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+27191152,abstract,Gene,RCCD1,RCCD1,91433,ncbi_gene,True,91433,RCCD1,RCC1 domain containing 1,,Homo sapiens,human
+27191152,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+27191152,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+27191152,abstract,Gene,NHE2,SLC9A2,6549,ncbi_gene,True,6549,SLC9A2,solute carrier family 9 member A2,,Homo sapiens,human
+27191152,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+27191152,abstract,Gene,NHE2,SLC9A2,6549,ncbi_gene,True,6549,SLC9A2,solute carrier family 9 member A2,,Homo sapiens,human
+27191152,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+27191152,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+27191152,abstract,Gene,NHE2,SLC9A2,6549,ncbi_gene,True,6549,SLC9A2,solute carrier family 9 member A2,,Homo sapiens,human
+27191152,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+27191152,abstract,Gene,NHE2,SLC9A2,6549,ncbi_gene,True,6549,SLC9A2,solute carrier family 9 member A2,,Homo sapiens,human
+27191152,abstract,Gene,AQP2,AQP2,359,ncbi_gene,True,359,AQP2,aquaporin 2,,Homo sapiens,human
+27321160,title,Gene,ERK,MAPK1,5594,ncbi_gene,True,5594,MAPK1,mitogen-activated protein kinase 1,,Homo sapiens,human
+27321160,abstract,Gene,ERK,MAPK1,5594,ncbi_gene,True,5594,MAPK1,mitogen-activated protein kinase 1,,Homo sapiens,human
+27321160,abstract,Gene,ERK,MAPK1,5594,ncbi_gene,True,5594,MAPK1,mitogen-activated protein kinase 1,,Homo sapiens,human
+27321160,abstract,Gene,ERK,MAPK1,5594,ncbi_gene,True,5594,MAPK1,mitogen-activated protein kinase 1,,Homo sapiens,human
+27342375,title,Gene,caveolin-1,CAV1,857,ncbi_gene,True,857,CAV1,caveolin 1,,Homo sapiens,human
+27431292,abstract,Gene,dopamine D1 and D2 receptors,Drd1,13488,ncbi_gene,True,13488,Drd1,dopamine receptor D1,,Mus musculus,house mouse
+27431292,abstract,Gene,D2 receptor,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+27431292,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+27431292,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+27431292,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+27431292,abstract,Gene,Drd2,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+27431292,abstract,Gene,Drd2,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+27431292,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+27431292,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+27431292,abstract,Gene,Drd2,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+27431292,abstract,Gene,D2R,Drd2,13489,ncbi_gene,True,13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+27488203,abstract,Gene,hypoxia inducible factor-1 alpha,HIF1A,3091,ncbi_gene,True,3091,HIF1A,hypoxia inducible factor 1 subunit alpha,,Homo sapiens,human
+27488203,abstract,Gene,HIF-1alpha,HIF1A,3091,ncbi_gene,True,3091,HIF1A,hypoxia inducible factor 1 subunit alpha,,Homo sapiens,human
+27488203,abstract,Gene,HIF-1alpha,HIF1A,3091,ncbi_gene,True,3091,HIF1A,hypoxia inducible factor 1 subunit alpha,,Homo sapiens,human
+27488203,abstract,Gene,FAAH,FAAH,2166,ncbi_gene,True,2166,FAAH,fatty acid amide hydrolase,,Homo sapiens,human
+27488203,abstract,Gene,Bax,BAX,581,ncbi_gene,True,581,BAX,"BCL2 associated X, apoptosis regulator",,Homo sapiens,human
+27488203,abstract,Gene,Bcl-2,BCL2,596,ncbi_gene,True,596,BCL2,BCL2 apoptosis regulator,,Homo sapiens,human
+27488203,abstract,Gene,HIF-1alpha,HIF1A,3091,ncbi_gene,True,3091,HIF1A,hypoxia inducible factor 1 subunit alpha,,Homo sapiens,human
+27488203,abstract,Gene,Bax,BAX,581,ncbi_gene,True,581,BAX,"BCL2 associated X, apoptosis regulator",,Homo sapiens,human
+27488203,abstract,Gene,Bcl-2,BCL2,596,ncbi_gene,True,596,BCL2,BCL2 apoptosis regulator,,Homo sapiens,human
+27488203,abstract,Gene,caspase 3,CASP3,836,ncbi_gene,True,836,CASP3,caspase 3,,Homo sapiens,human
+27488203,abstract,Gene,PARP,COL11A2,1302,ncbi_gene,True,1302,COL11A2,collagen type XI alpha 2 chain,,Homo sapiens,human
+27488203,abstract,Gene,CB1,CNR1,1268,ncbi_gene,True,1268,CNR1,cannabinoid receptor 1,,Homo sapiens,human
+27488203,abstract,Gene,HIF-1alpha,HIF1A,3091,ncbi_gene,True,3091,HIF1A,hypoxia inducible factor 1 subunit alpha,,Homo sapiens,human
+27521227,abstract,Gene,vimentin,VIM,7431,ncbi_gene,True,7431,VIM,vimentin,,Homo sapiens,human
+27521227,abstract,Gene,CD133,PROM1,8842,ncbi_gene,True,8842,PROM1,prominin 1,,Homo sapiens,human
+27521227,abstract,Gene,CD133,PROM1,8842,ncbi_gene,True,8842,PROM1,prominin 1,,Homo sapiens,human

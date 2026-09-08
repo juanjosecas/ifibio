@@ -1,0 +1,240 @@
+GeneID,Symbol,Description,TaxID,Organism,CommonName
+19293,Pvalb,parvalbumin,,Mus musculus,house mouse
+6531,SLC6A3,solute carrier family 6 member 3,,Homo sapiens,human
+7054,TH,tyrosine hydroxylase,,Homo sapiens,human
+6571,SLC18A2,solute carrier family 18 member A2,,Homo sapiens,human
+366,AQP9,aquaporin 9,,Homo sapiens,human
+358,AQP1,aquaporin 1 (Colton blood group),,Homo sapiens,human
+361,AQP4,aquaporin 4,,Homo sapiens,human
+857,CAV1,caveolin 1,,Homo sapiens,human
+13492,Drd5,dopamine receptor D5,,Mus musculus,house mouse
+13489,Drd2,dopamine receptor D2,,Mus musculus,house mouse
+920,CD4,CD4 molecule,,Homo sapiens,human
+6097,RORC,RAR related orphan receptor C,,Homo sapiens,human
+33569,Thor,thor,,Drosophila melanogaster,fruit fly
+43580,sima,similar,,Drosophila melanogaster,fruit fly
+41709,foxo,"forkhead box, sub-group O",,Drosophila melanogaster,fruit fly
+53947,A4GALT,"alpha 1,4-galactosyltransferase (P1PK blood group)",,Homo sapiens,human
+6804,STX1A,syntaxin 1A,,Homo sapiens,human
+2054,STX2,syntaxin 2,,Homo sapiens,human
+84557,MAP1LC3A,microtubule associated protein 1 light chain 3 alpha,,Homo sapiens,human
+23435,TARDBP,TAR DNA binding protein,,Homo sapiens,human
+360,AQP3,aquaporin 3 (Gill blood group),,Homo sapiens,human
+10725,NFAT5,nuclear factor of activated T cells 5,,Homo sapiens,human
+4790,NFKB1,nuclear factor kappa B subunit 1,,Homo sapiens,human
+581,BAX,"BCL2 associated X, apoptosis regulator",,Homo sapiens,human
+596,BCL2,BCL2 apoptosis regulator,,Homo sapiens,human
+1644,DDC,dopa decarboxylase,,Homo sapiens,human
+793,CALB1,calbindin 1,,Homo sapiens,human
+7432,VIP,vasoactive intestinal peptide,,Homo sapiens,human
+42490,Mvl,Malvolio,,Drosophila melanogaster,fruit fly
+46415,Fer1HCH,Ferritin 1 heavy chain homologue,,Drosophila melanogaster,fruit fly
+32260,Fer3HCH,Ferritin 3 heavy chain homologue,,Drosophila melanogaster,fruit fly
+7056,THBD,thrombomodulin,,Homo sapiens,human
+3091,HIF1A,hypoxia inducible factor 1 subunit alpha,,Homo sapiens,human
+9314,KLF4,KLF transcription factor 4,,Homo sapiens,human
+59341,TRPV4,transient receptor potential cation channel subfamily V member 4,,Homo sapiens,human
+14281,Fos,"Fos proto-oncogene, AP-1 transcription factor subunit",,Mus musculus,house mouse
+83626,Ugcg,UDP-glucose ceramide glucosyltransferase,,Rattus norvegicus,Norway rat
+25240,Aqp1,aquaporin 1,,Rattus norvegicus,Norway rat
+170496,Lcn2,lipocalin 2,,Rattus norvegicus,Norway rat
+20604,Sst,somatostatin,,Mus musculus,house mouse
+13488,Drd1,dopamine receptor D1,,Mus musculus,house mouse
+6548,SLC9A1,solute carrier family 9 member A1,,Homo sapiens,human
+7431,VIM,vimentin,,Homo sapiens,human
+5291,PIK3CB,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",,Homo sapiens,human
+79213,Slc6a11,solute carrier family 6 member 11,,Rattus norvegicus,Norway rat
+170913,Abcb1a,ATP binding cassette subfamily B member 1A,,Rattus norvegicus,Norway rat
+24646,Abcb1b,"ATP-binding cassette, sub-family B member 1B",,Rattus norvegicus,Norway rat
+171144,Slco4a1,"solute carrier organic anion transporter family, member 4a1",,Rattus norvegicus,Norway rat
+171049,Folr1,folate receptor alpha,,Rattus norvegicus,Norway rat
+29723,Slc19a1,solute carrier family 19 member 1,,Rattus norvegicus,Norway rat
+50719,Slc7a5,solute carrier family 7 member 5,,Rattus norvegicus,Norway rat
+230908,Tardbp,TAR DNA binding protein,,Mus musculus,house mouse
+11829,Aqp4,aquaporin 4,,Mus musculus,house mouse
+1401,CRP,C-reactive protein,,Homo sapiens,human
+135,ADORA2A,adenosine A2a receptor,,Homo sapiens,human
+7038,TG,thyroglobulin,,Homo sapiens,human
+13370,Dio1,"deiodinase, iodothyronine, type I",,Mus musculus,house mouse
+16491,Kcna3,"potassium voltage-gated channel, shaker-related subfamily, member 3",,Mus musculus,house mouse
+26417,Mapk3,mitogen-activated protein kinase 3,,Mus musculus,house mouse
+2353,FOS,"Fos proto-oncogene, AP-1 transcription factor subunit",,Homo sapiens,human
+18429,Oxt,oxytocin,,Mus musculus,house mouse
+11998,Avp,arginine vasopressin,,Mus musculus,house mouse
+14580,Gfap,glial fibrillary acidic protein,,Mus musculus,house mouse
+52897,Rbfox3,"RNA binding protein, fox-1 homolog (C. elegans) 3",,Mus musculus,house mouse
+21926,Tnf,tumor necrosis factor,,Mus musculus,house mouse
+16183,Il2,interleukin 2,,Mus musculus,house mouse
+9467,SH3BP5,SH3 domain binding protein 5,,Homo sapiens,human
+24768,Scnn1g,sodium channel epithelial 1 subunit gamma,,Rattus norvegicus,Norway rat
+24523,Klk1,kallikrein 1,,Rattus norvegicus,Norway rat
+4846,NOS3,nitric oxide synthase 3,,Homo sapiens,human
+7422,VEGFA,vascular endothelial growth factor A,,Homo sapiens,human
+2321,FLT1,fms related receptor tyrosine kinase 1,,Homo sapiens,human
+775,CACNA1C,calcium voltage-gated channel subunit alpha1 C,,Homo sapiens,human
+776,CACNA1D,calcium voltage-gated channel subunit alpha1 D,,Homo sapiens,human
+25130,Stx2,syntaxin 2,,Rattus norvegicus,Norway rat
+10536,P3H3,prolyl 3-hydroxylase 3,,Homo sapiens,human
+4681,NBL1,"NBL1, DAN family BMP antagonist",,Homo sapiens,human
+3759,KCNJ2,potassium inwardly rectifying channel subfamily J member 2,,Homo sapiens,human
+2706,GJB2,gap junction protein beta 2,,Homo sapiens,human
+3552,IL1A,interleukin 1 alpha,,Homo sapiens,human
+1440,CSF3,colony stimulating factor 3,,Homo sapiens,human
+5806,PTX3,pentraxin 3,,Homo sapiens,human
+7130,TNFAIP6,TNF alpha induced protein 6,,Homo sapiens,human
+79689,STEAP4,STEAP4 metalloreductase,,Homo sapiens,human
+2921,CXCL3,C-X-C motif chemokine ligand 3,,Homo sapiens,human
+3627,CXCL10,C-X-C motif chemokine ligand 10,,Homo sapiens,human
+51284,TLR7,toll like receptor 7,,Homo sapiens,human
+7099,TLR4,toll like receptor 4,,Homo sapiens,human
+3586,IL10,interleukin 10,,Homo sapiens,human
+7124,TNF,tumor necrosis factor,,Homo sapiens,human
+81818,Vim,vimentin,,Rattus norvegicus,Norway rat
+569250,ehmt2,euchromatic histone-lysine N-methyltransferase 2,,Danio rerio,zebrafish
+573997,zgc:113984,zgc:113984,,Danio rerio,zebrafish
+192302,hdac1,histone deacetylase 1,,Danio rerio,zebrafish
+24932,Cd4,Cd4 molecule,,Rattus norvegicus,Norway rat
+24699,Ptprc,"protein tyrosine phosphatase, receptor type, C",,Rattus norvegicus,Norway rat
+3687,ITGAX,integrin subunit alpha X,,Homo sapiens,human
+5992,RFX4,regulatory factor X4,,Homo sapiens,human
+2302,FOXJ1,forkhead box J1,,Homo sapiens,human
+79582,SPAG16,sperm associated antigen 16,,Homo sapiens,human
+54768,HYDIN,HYDIN axonemal central pair apparatus protein,,Homo sapiens,human
+80217,CFAP43,cilia and flagella associated protein 43,,Homo sapiens,human
+79846,CFAP69,cilia and flagella associated protein 69,,Homo sapiens,human
+80129,CCDC170,coiled-coil domain containing 170,,Homo sapiens,human
+389118,CDHR4,cadherin related family member 4,,Homo sapiens,human
+6696,SPP1,secreted phosphoprotein 1,,Homo sapiens,human
+10457,GPNMB,glycoprotein nmb,,Homo sapiens,human
+968,CD68,CD68 molecule,,Homo sapiens,human
+11828,Aqp3,aquaporin 3,,Mus musculus,house mouse
+12367,Casp3,caspase 3,,Mus musculus,house mouse
+13852,Stx2,syntaxin 2,,Mus musculus,house mouse
+18976,Pomc,pro-opiomelanocortin-alpha,,Mus musculus,house mouse
+109648,Npy,neuropeptide Y,,Mus musculus,house mouse
+3354888,rl,rolled,,Drosophila melanogaster,fruit fly
+43149,Nf1,Neurofibromin 1,,Drosophila melanogaster,fruit fly
+6347,CCL2,C-C motif chemokine ligand 2,,Homo sapiens,human
+6348,CCL3,C-C motif chemokine ligand 3,,Homo sapiens,human
+6352,CCL5,C-C motif chemokine ligand 5,,Homo sapiens,human
+3439,IFNA1,interferon alpha 1,,Homo sapiens,human
+5228,PGF,placental growth factor,,Homo sapiens,human
+100102,Pcsk9,proprotein convertase subtilisin/kexin type 9,,Mus musculus,house mouse
+12048,Bcl2l1,BCL2-like 1,,Mus musculus,house mouse
+12043,Bcl2,B cell leukemia/lymphoma 2,,Mus musculus,house mouse
+12122,Bid,BH3 interacting domain death agonist,,Mus musculus,house mouse
+11545,Parp1,"poly (ADP-ribose) polymerase family, member 1",,Mus musculus,house mouse
+16783,Lamp1,lysosomal-associated membrane protein 1,,Mus musculus,house mouse
+15978,Ifng,interferon gamma,,Mus musculus,house mouse
+359,AQP2,aquaporin 2,,Homo sapiens,human
+519148,STX2,syntaxin 2,,Bos taurus,domestic cattle
+14810,Grin1,"glutamate receptor, ionotropic, NMDA1 (zeta 1)",,Mus musculus,house mouse
+7357,UGCG,UDP-glucose ceramide glucosyltransferase,,Homo sapiens,human
+953,ENTPD1,ectonucleoside triphosphate diphosphohydrolase 1,,Homo sapiens,human
+4907,NT5E,5'-nucleotidase ecto,,Homo sapiens,human
+24835,Tnf,tumor necrosis factor,,Rattus norvegicus,Norway rat
+30659,dnmt3bb.2,"DNA (cytosine-5-)-methyltransferase 3 beta, duplicate b.2",,Danio rerio,zebrafish
+83629,Slc12a2,solute carrier family 12 member 2,,Rattus norvegicus,Norway rat
+29517,Sgk1,serum/glucocorticoid regulated kinase 1,,Rattus norvegicus,Norway rat
+50721,Sirt6,sirtuin 6,,Mus musculus,house mouse
+14645,Glul,glutamate-ammonia ligase,,Mus musculus,house mouse
+20682,Sox9,SRY (sex determining region Y)-box 9,,Mus musculus,house mouse
+8128,ST8SIA2,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2",,Homo sapiens,human
+23673,STX12,syntaxin 12,,Homo sapiens,human
+6853,SYN1,synapsin I,,Homo sapiens,human
+969,CD69,CD69 molecule,,Homo sapiens,human
+3916,LAMP1,lysosome associated membrane protein 1,,Homo sapiens,human
+3458,IFNG,interferon gamma,,Homo sapiens,human
+27303,RBMS3,RNA binding motif single stranded interacting protein 3,,Homo sapiens,human
+1791,DNTT,DNA nucleotidylexotransferase,,Homo sapiens,human
+20259,Scin,scinderin,,Mus musculus,house mouse
+12978,Csf1r,colony stimulating factor 1 receptor,,Mus musculus,house mouse
+4313,MMP2,matrix metallopeptidase 2,,Homo sapiens,human
+59272,ACE2,angiotensin converting enzyme 2,,Homo sapiens,human
+24954,Insr,insulin receptor,,Rattus norvegicus,Norway rat
+23621,BACE1,beta-secretase 1,,Homo sapiens,human
+14609,Gja1,"gap junction protein, alpha 1",,Mus musculus,house mouse
+11423,Ache,acetylcholinesterase,,Mus musculus,house mouse
+17196,Mbp,myelin basic protein,,Mus musculus,house mouse
+114737,Iba1,induction of brown adipocytes 1,,Mus musculus,house mouse
+22348,Slc32a1,"solute carrier family 32 (GABA vesicular transporter), member 1",,Mus musculus,house mouse
+11838,Arc,activity regulated cytoskeletal-associated protein,,Mus musculus,house mouse
+5420,PODXL,podocalyxin like,,Homo sapiens,human
+11346,SYNPO,synaptopodin,,Homo sapiens,human
+402974,pitx3,paired-like homeodomain 3,,Danio rerio,zebrafish
+2099,ESR1,estrogen receptor 1,,Homo sapiens,human
+2852,GPER1,G protein-coupled estrogen receptor 1,,Homo sapiens,human
+2100,ESR2,estrogen receptor 2,,Homo sapiens,human
+2069,EREG,epiregulin,,Homo sapiens,human
+1499,CTNNB1,catenin beta 1,,Homo sapiens,human
+212541,Rho,rhodopsin,,Mus musculus,house mouse
+108058,Camk2d,"calcium/calmodulin-dependent protein kinase II, delta",,Mus musculus,house mouse
+7442,TRPV1,transient receptor potential cation channel subfamily V member 1,,Homo sapiens,human
+26413,Mapk1,mitogen-activated protein kinase 1,,Mus musculus,house mouse
+3688,ITGB1,integrin subunit beta 1,,Homo sapiens,human
+3569,IL6,interleukin 6,,Homo sapiens,human
+3576,CXCL8,C-X-C motif chemokine ligand 8,,Homo sapiens,human
+14617,Gjd2,"gap junction protein, delta 2",,Mus musculus,house mouse
+24782,Slc9a1,solute carrier family 9 member A1,,Rattus norvegicus,Norway rat
+25386,Aqp2,aquaporin 2,,Rattus norvegicus,Norway rat
+11827,Aqp2,aquaporin 2,,Mus musculus,house mouse
+20544,Slc9a1,"solute carrier family 9 (sodium/hydrogen exchanger), member 1",,Mus musculus,house mouse
+30725,chrna1,"cholinergic receptor, nicotinic, alpha 1 (muscle)",,Danio rerio,zebrafish
+387298,p2rx7,"purinergic receptor P2X, ligand-gated ion channel, 7",,Danio rerio,zebrafish
+394066,lin28ab,lin-28 homolog Ab,,Danio rerio,zebrafish
+405785,tnfa,"tumor necrosis factor a (TNF superfamily, member 2)",,Danio rerio,zebrafish
+797150,hif1aa,hypoxia inducible factor 1 subunit alpha a,,Danio rerio,zebrafish
+30682,vegfaa,vascular endothelial growth factor Aa,,Danio rerio,zebrafish
+14599,Gh,growth hormone,,Mus musculus,house mouse
+18783,Pla2g4a,"phospholipase A2, group IVA (cytosolic, calcium-dependent)",,Mus musculus,house mouse
+12857,Cox4i1,cytochrome c oxidase subunit 4I1,,Mus musculus,house mouse
+17708,COX1,cytochrome c oxidase subunit I,,Mus musculus,house mouse
+17709,COX2,cytochrome c oxidase subunit II,,Mus musculus,house mouse
+941,CD80,CD80 molecule,,Homo sapiens,human
+18033,Nfkb1,"nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105",,Mus musculus,house mouse
+5329,PLAUR,"plasminogen activator, urokinase receptor",,Homo sapiens,human
+100003922,p2ry1,purinergic receptor P2Y1,,Danio rerio,zebrafish
+30466,ascl1a,achaete-scute family bHLH transcription factor 1a,,Danio rerio,zebrafish
+30646,gfap,glial fibrillary acidic protein,,Danio rerio,zebrafish
+959,CD40LG,CD40 ligand,,Homo sapiens,human
+24225,Bdnf,brain-derived neurotrophic factor,,Rattus norvegicus,Norway rat
+54323,Arc,activity-regulated cytoskeleton-associated protein,,Rattus norvegicus,Norway rat
+66026,Trpv4,"transient receptor potential cation channel, subfamily V, member 4",,Rattus norvegicus,Norway rat
+308760,Rccd1,RCC1 domain containing 1,,Rattus norvegicus,Norway rat
+54263,Kcnn3,potassium calcium-activated channel subfamily N member 3,,Rattus norvegicus,Norway rat
+66849,Ppp1r2,"protein phosphatase 1, regulatory inhibitor subunit 2",,Mus musculus,house mouse
+280846,LTF,lactotransferrin,,Bos taurus,domestic cattle
+12370,Casp8,caspase 8,,Mus musculus,house mouse
+12371,Casp9,caspase 9,,Mus musculus,house mouse
+18538,Pcna,proliferating cell nuclear antigen,,Mus musculus,house mouse
+22035,Tnfsf10,"tumor necrosis factor (ligand) superfamily, member 10",,Mus musculus,house mouse
+4137,MAPT,microtubule associated protein tau,,Homo sapiens,human
+1958,EGR1,early growth response 1,,Homo sapiens,human
+23237,ARC,activity regulated cytoskeleton associated protein,,Homo sapiens,human
+5295,PIK3R1,phosphoinositide-3-kinase regulatory subunit 1,,Homo sapiens,human
+56262,LRRC8A,leucine rich repeat containing 8 VRAC subunit A,,Homo sapiens,human
+566096,hp,haptoglobin,,Danio rerio,zebrafish
+2717,GLA,galactosidase alpha,,Homo sapiens,human
+22353,Vip,vasoactive intestinal polypeptide,,Mus musculus,house mouse
+17395,Mmp9,matrix metallopeptidase 9,,Mus musculus,house mouse
+63888,A4galt,"alpha 1,4-galactosyltransferase",,Rattus norvegicus,Norway rat
+1812,DRD1,dopamine receptor D1,,Homo sapiens,human
+83785,Vegfa,vascular endothelial growth factor A,,Rattus norvegicus,Norway rat
+3805,KIR2DL4,"killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 4",,Homo sapiens,human
+3791,KDR,kinase insert domain receptor,,Homo sapiens,human
+81646,Creb1,cAMP responsive element binding protein 1,,Rattus norvegicus,Norway rat
+84577,Hdac2,histone deacetylase 2,,Rattus norvegicus,Norway rat
+18125,Nos1,"nitric oxide synthase 1, neuronal",,Mus musculus,house mouse
+6549,SLC9A2,solute carrier family 9 member A2,,Homo sapiens,human
+6550,SLC9A3,solute carrier family 9 member A3,,Homo sapiens,human
+15558,Htr2a,5-hydroxytryptamine (serotonin) receptor 2A,,Mus musculus,house mouse
+15550,Htr1a,5-hydroxytryptamine (serotonin) receptor 1A,,Mus musculus,house mouse
+15530,Hspg2,perlecan (heparan sulfate proteoglycan 2),,Mus musculus,house mouse
+818,CAMK2G,calcium/calmodulin dependent protein kinase II gamma,,Homo sapiens,human
+836,CASP3,caspase 3,,Homo sapiens,human
+91433,RCCD1,RCC1 domain containing 1,,Homo sapiens,human
+5594,MAPK1,mitogen-activated protein kinase 1,,Homo sapiens,human
+2166,FAAH,fatty acid amide hydrolase,,Homo sapiens,human
+1302,COL11A2,collagen type XI alpha 2 chain,,Homo sapiens,human
+1268,CNR1,cannabinoid receptor 1,,Homo sapiens,human
+8842,PROM1,prominin 1,,Homo sapiens,human
