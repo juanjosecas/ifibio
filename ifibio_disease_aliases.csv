@@ -1,0 +1,288 @@
+NormalizedID,NormalizedName,N_aliases,Aliases,Papers
+D006463,Hemolytic-Uremic Syndrome,8,"['HUS', 'Hemolytic Uremic Syndrome', 'Hemolytic uremic syndrome', 'Uremic Hemolytic Syndrome', 'hemolytic uremic syndrome', 'hemolytic-uremic syndrome', 'post-diarrheal Hemolytic Uremic Syndrome', 'post-diarrheal hemolytic uremic syndrome']",41
+D019636,Neurodegenerative Diseases,9,"['Neurodegenerative conditions', 'neurodegeneration', 'neurodegenerative diseases', 'neurodegenerative disorder', 'neurodegenerative disorders', 'neurodegenerative pathologies', 'neurodegenerative proteinopathies', 'neurological and neuropsychiatrical conditions', 'neuropsychiatric and neurodegenerative disorders']",21
+D010300,Parkinson Disease,6,"['PD', ""Parkinson's"", ""Parkinson's Disease"", ""Parkinson's disease"", 'Parkinsonian', 'parkinsonian']",19
+D011225,Pre-Eclampsia,4,"['PE', 'Preeclampsia', 'pre-eclampsia', 'preeclampsia']",19
+D001523,Mental Disorders,16,"['Behavioral sensitization', 'Psychiatric Disorders', 'anxiogenic behavior', 'behavioral abnormalities', 'behavioral impairment', 'behavioral impairments', 'behavioral sensitization', 'locomotor activity deficits', 'mental illnesses', 'neuropsychiatric conditions', 'neuropsychiatric disorders', 'psychiatric', 'psychiatric conditions', 'psychiatric disorder', 'psychiatric disorders', 'psychiatric neurodevelopmental disorders']",18
+D007249,Inflammation,5,"['Inflammatory', 'chronic liver inflammation', 'inflammation', 'inflammatory', 'renal inflammation']",18
+D007239,Infections,5,"['Infection', 'Maternal infections', 'STEC infection', 'infection', 'infections']",16
+D007674,Kidney Diseases,13,"['Alport Renal Disease', 'Alport renal disease', 'Renal damages', 'glomerulopathies', 'glomerulopathy', 'kidney damage', 'kidney disease', 'kidney injury', 'kidney involvement', 'renal damage', 'renal damages', 'renal disease', 'renal injury']",14
+D064420,Drug-Related Side Effects and Adverse Reactions,6,"['Cytotoxic', 'Cytotoxicity', 'cytotoxic', 'cytotoxicity', 'photoreceptor toxicity', 'toxicity']",14
+D058186,Acute Kidney Injury,5,"['ARF', 'acute and chronic renal failure', 'acute kidney injury', 'acute renal failure', 'acute renal injury']",14
+D003967,Diarrhea,4,"['bloody and non-bloody diarrhea', 'bloody diarrhea', 'diarrhea', 'hemorrhagic diarrhea']",12
+D009410,Nerve Degeneration,12,"['DAN', 'Neuronal', 'axonal and neuronal damage', 'axonal degeneration', 'degeneration', 'dopaminergic neuron loss', 'neuron', 'neuronal', 'neuronal damage', 'neuronal death', 'neuronal degeneration', 'nigrostriatal degeneration']",11
+D004927,Escherichia coli Infections,7,"['EHEC infection', 'Escherichia coli Infections', 'Escherichia coli infection', 'STEC encephalopathy', 'STEC infection', 'STEC infections', 'STEC-associated diseases']",11
+D009461,Neurologic Manifestations,7,"['Neurological abnormalities', 'Neurological compromise', 'motor deficits', 'neurological alterations', 'neurological disorders', 'neuronal dysfunction', 'sociability deficits']",10
+D000690,Amyotrophic Lateral Sclerosis,2,"['ALS', 'amyotrophic lateral sclerosis']",10
+D008569,Memory Disorders,7,"['impaired recognition and spatial memory', 'impairment of IA memory', 'memory and navigation deficits', 'memory deficits', 'memory impaired', 'memory impairment', 'memory loss']",9
+D009369,Neoplasms,4,"['cancer', 'carcinoma', 'tumor', 'tumors']",9
+D057180,Frontotemporal Dementia,4,"['FTD', 'Frontotemporal Dementia', 'frontotemporal dementia', 'frontotemporal dementia disease']",9
+D004409,Dyskinesia Drug-Induced,3,"['Dyskinesia', 'LID', 'dyskinesia']",9
+D010302,Parkinson Disease Secondary,3,"['Parkinsonism', 'parkinsonian symptoms', 'parkinsonism']",9
+D011507,Proteinuria,3,"['Proteinuria', 'proteinuria', 'proteinuric']",9
+D003072,Cognition Disorders,9,"['Cognitive Deficits', 'Cognitive/Social Deficits', 'cognitive alterations', 'cognitive deficits', 'cognitive dysfunction', 'cognitive dysfunctions', 'cognitive impairments', 'impaired cognitive and social function', 'motor and cognitive deficits']",8
+D003643,Death,3,"['death', 'deaths', 'died']",8
+D000860,Hypoxia,2,"['Hypoxia', 'hypoxia']",8
+D003092,Colitis,1,['hemorrhagic colitis'],8
+D000795,Fabry Disease,5,"['FD', 'Fabry', 'Fabry Disease', 'Fabry disease', 'Fabry nephropathy']",7
+D001927,Brain Diseases,4,"['Encephalopathy', 'brain disorders', 'encephalopathies', 'encephalopathy']",7
+D006973,Hypertension,4,"['HT', 'Hypertension', 'hypertension', 'hypertensive']",7
+D057177,TDP-43 Proteinopathies,2,"['TDP-43 proteinopathies', 'TDP-43 proteinopathy']",7
+D005317,Fetal Growth Retardation,5,"['FGR', 'IUGR', 'fetal growth restriction', 'growth restriction', 'intrauterine growth restriction']",6
+C538543,Preeclamptic toxemia,2,"['preeclamptic', 'preeclamptic placenta']",6
+D019966,Substance-Related Disorders,7,"['addict', 'addiction', 'addictive-like behaviors', 'drug abuse', 'drug addictions', 'drugs of abuse', 'substance dependence']",5
+C535672,Acute cholinergic dysautonomia,6,"['ChIs dysfunction', 'SCIN', 'SCIN dysfunction', 'cholinergic dysfunction', 'cholinergic hypofunction', 'cholinergic interneuron']",5
+D004827,Epilepsy,3,"['Epilepsy', 'epilepsy', 'epileptic seizure']",5
+D009069,Movement Disorders,3,"['Parkinson and Movement Disorder', 'locomotor hyperactivity', 'motor disabilities']",5
+D009437,Neuralgia,3,"['NP', 'Neuropathic pain', 'neuropathic pain']",5
+D012559,Schizophrenia,3,"['SZ', 'Schizophrenia', 'schizophrenia']",5
+D000022,Abortion Spontaneous,2,"['pregnancy loss', 'spontaneous abortion']",5
+D002547,Cerebral Palsy,2,"['Dyskinetic', 'dyskinetic']",5
+D001007,Anxiety,1,['anxiety'],5
+D002292,Carcinoma Renal Cell,6,"['Clear Cell Renal Carcinoma', 'Clear cell renal cell carcinoma', 'ccRCC', 'clear cell renal cell carcinoma', 'renal cell damage', 'renal cells']",4
+D007859,Learning Disabilities,5,"['impaired learning of', 'learning and learning disability', 'learning deficits', 'learning disability', 'learning problems']",4
+D000068079,Motor Disorders,4,"['motor deficiencies', 'motor disorders', 'motor impairment', 'motor impairments']",4
+D030342,Genetic Diseases Inborn,4,"['X-linked hereditary disease', 'genetic abnormalities', 'genetic disorders', 'hereditary disease']",4
+D000090862,Neuroinflammatory Diseases,3,"['Neuroinflammatory', 'neuroinflammation', 'neuroinflammatory']",4
+D004487,Edema,3,"['Swelling', 'edema', 'swelling']",4
+D009765,Obesity,3,"['Obesity', 'obese', 'obesity']",4
+D000014,Abnormalities Drug-Induced,2,"['interface abnormalities', 'motor abnormalities']",4
+D000743,Anemia Hemolytic,2,"['hemolytic anemia', 'microangiopathic lesions']",4
+D014652,Vascular Diseases,2,"['endothelial damage', 'endothelial dysfunction']",4
+D019958,Attention Deficit and Disruptive Behavior Disorders,2,"['behavior deficits', 'behavioral deficits']",4
+D057165,Proteostasis Deficiencies,2,"['proteinopathies', 'proteinopathy']",4
+D006948,Hyperkinesis,1,['hyperactivity'],4
+D003920,Diabetes Mellitus,5,"['DM', 'Diabetes', 'diabetes', 'diabetes mellitus', 'diabetic']",3
+D004403,Dysentery,4,"['diarrheal', 'diarrheal disease', 'diarrheal infections', 'post-diarrheal']",3
+D005879,Tourette Syndrome,4,"['TS', 'Tourette', 'Tourette syndrome', ""Tourette's syndrome""]",3
+D008607,Intellectual Disability,4,"['Intellectual disability', 'intellectual and adaptive cognitive disability', 'intellectual disability', 'mental retardation']",3
+D000544,Alzheimer Disease,3,"['AD', ""Alzheimer's"", ""Alzheimer's disease""]",3
+D002561,Cerebrovascular Disorders,3,"['Vascular Dysfunction', 'Vascular dysfunction', 'vascular disorders']",3
+D004194,Disease,3,"['dopaminergic lesion', 'multiples diseases', 'neuropsychiatric disease']",3
+D005517,Foodborne Diseases,3,"['food-associated diseases', 'food-borne diseases', 'foodborne disease']",3
+D009422,Nervous System Diseases,3,"['Nervous System Diseases', 'dopaminergic', 'neuropsychiatric and neurological disorders']",3
+D010922,Placenta Diseases,3,"['placental abnormalities', 'placental damage', 'placentation']",3
+D063646,Carcinogenesis,3,"['liver tumorigenesis', 'thyroid tumorigenesis', 'tumorigenesis']",3
+D010146,Pain,2,"['pain', 'pathological pain']",3
+D016640,Diabetes Gestational,2,"['gestational diabetes mellitus', 'gestational disorders']",3
+D000026,Abortion Habitual,1,['abortion'],3
+D011248,Pregnancy Complications,1,['pregnancy complications'],3
+D013921,Thrombocytopenia,1,['thrombocytopenia'],3
+D000086382,COVID-19,6,"['COVID-19', 'SARS-CoV-2', 'SARS-CoV-2 infection', 'Severe Acute Respiratory Syndrome Coronavirus 2', 'Severe Acute Respiratory Syndrome Coronavirus 2 Infection', 'coronavirus disease 2019']",2
+610251,610251,4,"['AH', 'Alcohol hangover', 'Hangover', 'alcohol hangover']",2
+D000079262,Obesity Maternal,3,"['Maternal', 'maternal', 'maternal syndrome']",2
+D000092223,Hippocampal Sclerosis,3,"['Hippocampal Sclerosis', 'hippocampal damage', 'hippocampal sclerosis']",2
+D003324,Coronary Artery Disease,3,"['RCA', 'coronary artery alterations', 'coronary atherosclerosis']",2
+D007174,Disruptive Impulse Control and Conduct Disorders,3,"['impulsive', 'impulsive responses', 'impulsivity']",2
+D008288,Malaria,3,"['Malaria', 'malaria', 'placental malaria']",2
+D012164,Retinal Diseases,3,"['Retinal injuries and diseases', 'retinal damage', 'retinal disease']",2
+300082,300082,2,"['social defeat', 'social impairments']",2
+612348,612348,2,"['activation dyssynchrony', 'activity']",2
+D000013,Congenital Abnormalities,2,"['congenital anomalies', 'fetal malformations']",2
+D001157,Arterial Occlusive Diseases,2,"['RCA occlusion', 'glomerular occlusion']",2
+D001259,Ataxia,2,"['deficits in motor coordination', 'impaired coordination and balance']",2
+D001289,Attention Deficit Disorder with Hyperactivity,2,"['attention and memory', 'attention deficit hyperactivity disorder']",2
+D001424,Bacterial Infections,2,"['bacterial', 'bacterial infection']",2
+D001480,Basal Ganglia Diseases,2,"['axonal damage', 'ganglia']",2
+D002303,Cardiac Output Low,2,"['low cardiac output', 'low cardiac output syndrome']",2
+D002493,Central Nervous System Diseases,2,"['CNS injury', 'central nervous system (CNS) injury']",2
+D002658,Developmental Disabilities,2,"['impaired neurological development', 'neurodevelopmental disorder']",2
+D003141,Communicable Diseases,2,"['infectious diseases', 'infectious illness']",2
+D005767,Gastrointestinal Diseases,2,"['Gastrointestinal infection', 'gastrointestinal infections']",2
+D005921,Glomerulonephritis,2,"['glomerulonephritis', 'glomerulosclerosis']",2
+D006030,Glycosuria Renal,2,"['renal alterations', 'renal compromise']",2
+D007153,Immunologic Deficiency Syndromes,2,"['micronutrient deficiency', 'thyroglobulin deficiency']",2
+D007511,Ischemia,2,"['ischaemia', 'ischemia']",2
+D007676,Kidney Failure Chronic,2,"['chronic renal failure', 'end-stage renal disease']",2
+D008659,Metabolic Diseases,2,"['metabolic disorder', 'metabolic impairment']",2
+D009634,Noonan Syndrome,2,"['NS', 'Noonan syndrome']",2
+D009771,Obsessive-Compulsive Disorder,2,"['OCD', 'obsessive-compulsive disorder']",2
+D011254,Pregnancy in Diabetics,2,"['pregnancy diseases and', 'pregnancy disorders']",2
+D012640,Seizures,2,"['seizure', 'seizures']",2
+D013901,Thoracic Outlet Syndrome,2,"['neurovascular damage', 'neurovascular disarrangements']",2
+D013927,Thrombosis,2,"['thrombosis', 'thrombus']",2
+D015431,Weight Loss,2,"['SCIN reduction', 'weight loss']",2
+D028361,Mitochondrial Diseases,2,"['mitochondrial abnormalities', 'mitochondrial dysfunction']",2
+D057772,Vascular System Injuries,2,"['endothelial injury', 'vascular damage']",2
+D059350,Chronic Pain,2,"['Chronic pain', 'chronic pain']",2
+D000138,Acidosis,1,['acidosis'],2
+D000230,Adenocarcinoma,1,['tubular damage'],2
+D002318,Cardiovascular Diseases,1,['cardiovascular diseases'],2
+D002534,Hypoxia Brain,1,['hypoxic'],2
+D003866,Depressive Disorder,1,['depression'],2
+D004408,Dysgeusia,1,['alterations'],2
+D006333,Heart Failure,1,['heart failure'],2
+D006963,Hyperphagia,1,['hyperphagia'],2
+D007333,Insulin Resistance,1,['insulin resistance'],2
+D009128,Muscle Spasticity,1,['spasticity'],2
+D009336,Necrosis,1,['necrosis'],2
+D009404,Nephrotic Syndrome,1,['nephrotic syndrome'],2
+D014029,Tobacco Use Disorder,1,['nicotine addiction'],2
+D016388,Tooth Loss,1,['loss'],2
+D047928,Premature Birth,1,['preterm birth'],2
+D057049,Thrombotic Microangiopathies,1,['thrombotic microangiopathy'],2
+D059445,Anhedonia,1,['anhedonia'],2
+D009080,Mucocutaneous Lymph Node Syndrome,4,"['KD', 'KSS', 'Kawasaki disease', 'Kawasaki shock syndrome']",1
+D009471,Neuromyelitis Optica,4,"['NMOSD', 'Neuromyelitis', 'Optica', 'neuromyelitis optica spectrum disorders']",1
+D024801,Tauopathies,4,"['Tauopathies', 'Tauopathy', 'tauopathies', 'tauopathy']",1
+C000705967,pediatric multisystem inflammatory disease COVID-19 related,3,"['PIMS-TS', 'multisystem inflammatory syndrome', 'pediatric inflammatory multisystem syndrome temporally']",1
+D000090463,Iron Deficiencies,3,"['ID', 'Iron Deficiency', 'Iron deficiency']",1
+D003409,Congenital Hypothyroidism,3,"['CH', 'Congenital goitrous hypothyroidism', 'congenital hypothyroidism']",1
+D003711,Demyelinating Diseases,3,"['demyelinating diseases', 'demyelination', 'myelin loss']",1
+D044342,Malnutrition,3,"['malnutrition', 'perinatal malnutrition', 'protein malnutrition']",1
+C000719212,Pathophobia,2,"['Fear', 'fear']",1
+C536897,Tang Hsi Ryu syndrome,2,"['Myocardial interstitial oedema', 'myocardial oedema and dysfunction']",1
+D000079262,Pregnancy in Obesity,2,"['Maternal obesity', 'maternal obesity']",1
+D000080902,Mandibular Nerve Injuries,2,"['SNI', 'spared nerve injury']",1
+D000088562,Persistent Infection,2,"['LTD', 'long term depression']",1
+D000419,Albuminuria,2,"['Albuminuria', 'albuminuria']",1
+D002037,Bundle-Branch Block,2,"['LBBB', 'left bundle branch block']",1
+D002277,Carcinoma,2,"['Spindles', 'spindles']",1
+D005320,Fetal Macrosomia,2,"['fetal macrosomia', 'macrosomia']",1
+D005922,Glomerulonephritis IGA,2,"['IgA Nephropathy', 'IgA nephropathy']",1
+D006944,Hyperglycemic Hyperosmolar Nonketotic Coma,2,"['Hyperosmolarity', 'hyperosmolarity']",1
+D007680,Kidney Neoplasms,2,"['kidney cancer', 'renal cancer']",1
+D008231,Lymphopenia,2,"['Lymphopenia', 'lymphopenia']",1
+D009103,Multiple Sclerosis,2,"['MS', 'Multiple sclerosis']",1
+D009202,Cardiomyopathies,2,"['Myocardial Ischaemia', 'Myocardial ischaemia']",1
+D009394,Nephritis Hereditary,2,"['Alport disease', 'Alport syndrome']",1
+D011141,Polyuria,2,"['Polyuria', 'polyuria']",1
+D012173,Retinitis,2,"['Retinal Injury', 'retinal injury']",1
+D015179,Colorectal Neoplasms,2,"['Colorectal Cancer', 'colorectal cancer']",1
+D020181,Sleep Apnea Obstructive,2,"['OSA', 'Obstructive sleep apnea']",1
+D020258,Neurotoxicity Syndromes,2,"['neurotoxic', 'neurotoxicity']",1
+D064726,Triple Negative Breast Neoplasms,2,"['TNBC', 'triple negative breast cancer']",1
+603933,603933,1,['proliferative retinopathies'],1
+C000719195,Belonephobia,1,['injection'],1
+C000719624,fetal inflammatory response syndrome,1,['lipopolysaccharid'],1
+C531700,Diarrhea prodrome + Hemolytic-Uremic Syndrome,1,['post-diarrhea Hemolytic Uremic Syndrome'],1
+C535477,Corneal dystrophy epithelial basement membrane,1,['map impairment'],1
+C535516,Hereditary leiomyomatosis and renal cell cancer,1,['MCL'],1
+C536271,Ichthyosis prematurity syndrome,1,['premature delivery'],1
+C536956,Temporal epilepsy familial,1,['temporal epilepsy'],1
+C537708,Kifafa seizure disorder,1,['familial disorder'],1
+C538175,Acquired ichthyosis,1,['SCALE'],1
+C557674,SeSAME syndrome,1,['tubulopathy'],1
+C562465,Phobia Specific,1,['specific phobia'],1
+C565423,Hypomagnesemia 5 Renal with Ocular Involvement,1,['renal Fabry involvement'],1
+C565627,Trichohepatoenteric Syndrome,1,['acute bloody diarrhea syndrome'],1
+C567159,Spherocytosis Type 1,1,['HS'],1
+C580424,Ring Chromosome 20 Syndrome,1,['R'],1
+D000067404,Social Communication Disorder,1,['social dysfunction'],1
+D000071072,Acute Febrile Encephalopathy,1,['acute encephalopathy'],1
+D000073376,Epileptic Syndromes,1,['epileptic syndrome'],1
+D000073436,Microvascular Rarefaction,1,['microvasculature'],1
+D000073932,Food Addiction,1,['Compulsive'],1
+D000081029,Pulmonary Arterial Hypertension,1,['arterial hypertension'],1
+D000094629,Dissection Thoracic Aorta,1,['LAD occlusion'],1
+D000309,Adrenal Insufficiency,1,['dopaminergic hypofunction'],1
+D000437,Alcoholism,1,['addiction disorder'],1
+D000848,Anodontia,1,['H'],1
+D001008,Anxiety Disorders,1,['anxiety disorders'],1
+D001024,Aortic Valve Stenosis,1,['aortic stenosis'],1
+D001049,Apnea,1,['apneas'],1
+D001068,Feeding and Eating Disorders,1,['eating disorders'],1
+D001145,Arrhythmias Cardiac,1,['malignant arrhythmias'],1
+D001714,Bipolar Disorder,1,['bipolar disorder'],1
+D001766,Blindness,1,['blindness'],1
+D001929,Brain Edema,1,['brain edema'],1
+D002032,Bulimia,1,['binge-eating'],1
+D002389,Catatonia,1,['catatonia'],1
+D002821,Chorioamnionitis,1,['amnion'],1
+D002908,Chronic Disease,1,['chronic disease'],1
+D002972,Cleft Palate,1,['-P'],1
+D003108,Colonic Diseases,1,"['damage to the liver, colon and kidney']",1
+D003110,Colonic Neoplasms,1,['colon carcinoma'],1
+D003291,Conversion Disorder,1,['functional'],1
+D003327,Coronary Disease,1,['coronary heart disease'],1
+D003638,Deafness,1,['deafness'],1
+D003704,Dementia,1,['dementia'],1
+D003807,Dentin Sensitivity,1,['motor and sensitivity impairment'],1
+D003922,Diabetes Mellitus Type 1,1,['Type-1 DM'],1
+D004342,Drug Hypersensitivity,1,['mechanical hypersensitivity'],1
+D004660,Encephalitis,1,['Brain inflammation'],1
+D004700,Endocrine System Diseases,1,['endocrine disruptor'],1
+D004832,Epilepsy Absence,1,['Childhood Epilepsies'],1
+D004833,Epilepsy Temporal Lobe,1,['temporal lobe epilepsy'],1
+D005076,Exanthema,1,['rash'],1
+D005322,Fetal Membranes Premature Rupture,1,['membrane rupture'],1
+D005334,Fever,1,['fever'],1
+D005770,Gastrointestinal Neoplasms,1,['gastrointestinal tumors'],1
+D005776,Gaucher Disease,1,"[""Gaucher's disease""]",1
+D005911,Gliosis,1,['gliosis'],1
+D006011,Glycogen Storage Disease Type IV,1,['I-III and IV'],1
+D006042,Goiter,1,['goiter'],1
+D006331,Heart Diseases,1,['dysfunction'],1
+D006332,Cardiomegaly,1,['heart hypertrophy'],1
+D006417,Hematuria,1,['hematuria'],1
+D006529,Hepatomegaly,1,['hepatomegaly'],1
+D006816,Huntington Disease,1,"[""Huntington's diseases""]",1
+D006984,Hypertrophy,1,['hepatocytes hypertrophy and hyperplasia'],1
+D007232,Infant Newborn Diseases,1,['Neonatal Dopamine Dysfunction'],1
+D007410,Intestinal Diseases,1,['renal and intestinal damage'],1
+D007683,Kidney Tubular Necrosis Acute,1,['tubular necrosis'],1
+D007706,Menkes Kinky Hair Syndrome,1,['transport'],1
+D007896,Leishmaniasis,1,['leishmaniasis'],1
+D007897,Leishmaniasis Mucocutaneous,1,['mucocutaneous leishmaniasis'],1
+D007898,Leishmaniasis Visceral,1,['visceral leishmaniasis'],1
+D008105,Liver Cirrhosis Biliary,1,['glomerular destruction'],1
+D008107,Liver Diseases,1,['complications'],1
+D008113,Liver Neoplasms,1,['liver tumors'],1
+D008545,Melanoma,1,['melanoma'],1
+D008944,Mitral Valve Insufficiency,1,['Mitral valve insufficiency'],1
+D009358,Congenital Hereditary and Neonatal Diseases and Abnormalities,1,['neurodevelopment disorders'],1
+D009386,Neoplastic Syndromes Hereditary,1,['hereditary disorder'],1
+D010490,Pericardial Effusion,1,['pericardial effusion'],1
+D010554,Personality Disorders,1,['aggression'],1
+D010698,Phobic Disorders,1,['phobias'],1
+D011183,Postoperative Complications,1,['postoperative complications'],1
+D012080,Chronic Kidney Disease-Mineral and Bone Disorder,1,['CKD-EPI'],1
+D012652,Self Mutilation,1,['Self-'],1
+D012891,Sleep Apnea Syndromes,1,['Sleep apnea'],1
+D012913,Snoring,1,['snoring'],1
+D013035,Spasm,1,['spasms'],1
+D013313,Stress Disorders Post-Traumatic,1,['post-traumatic stress disorder'],1
+D014202,Tremor,1,['resting tremor'],1
+D014511,Uremia,1,['uremia'],1
+D014693,Ventricular Fibrillation,1,['ventricular dyssynchrony'],1
+D014777,Virus Diseases,1,['SARSCoV2 virus infection'],1
+D014786,Vision Disorders,1,['vision impairment'],1
+D014947,Wounds and Injuries,1,['trauma'],1
+D015430,Weight Gain,1,['weight gain'],1
+D015658,HIV Infections,1,['HIV'],1
+D015746,Abdominal Pain,1,['abdominal pain'],1
+D015835,Ocular Motility Disorders,1,"['nonrapid eye movement sleep, stage 3']",1
+D016104,Oligohydramnios,1,['oligohydramnios'],1
+D016135,Spinal Dysraphism,1,['spine loss'],1
+D016472,Motor Neuron Disease,1,['motor neuron disease'],1
+D016584,Panic Disorder,1,['panic'],1
+D016773,Leishmaniasis Cutaneous,1,['localized cutaneous leishmaniasis'],1
+D016774,Leishmaniasis Diffuse Cutaneous,1,['diffuse cutaneous leishmaniasis'],1
+D017545,Aortic Aneurysm Thoracic,1,['thoracic aneurysms'],1
+D017695,Soft Tissue Injuries,1,['tissue injury'],1
+D018149,Glucose Intolerance,1,['glucose intolerance'],1
+D018263,Adenocarcinoma Follicular,1,['follicular thyroid carcinoma'],1
+D018487,Ventricular Dysfunction Left,1,['left ventricular'],1
+D018980,Williams Syndrome,1,['Williams syndromes'],1
+D019572,Retinal Neoplasms,1,['cytotoxic damage to the retina'],1
+D019965,Neurocognitive Disorders,1,['neurocognitive impairment'],1
+D019973,Alcohol-Related Disorders,1,['RAS-related disorders'],1
+D020018,Sexual Dysfunctions Psychological,1,['aversion'],1
+D020233,Gait Disorders Neurologic,1,['abnormal gait and posture'],1
+D020263,Lead Poisoning Nervous System,1,['photoreceptor damage'],1
+D020521,Stroke,1,['stroke'],1
+D020734,Parkinsonian Disorders,1,['parkinsonian syndrome'],1
+D020759,Anterior Spinal Artery Syndrome,1,['occlusion of both the left anterior descending (LAD) and right anterior coronary artery'],1
+D024182,Uniparental Disomy,1,['uniparental isodisomy'],1
+D046110,Hypertension Pregnancy-Induced,1,['gestational hypertension'],1
+D048949,Labor Pain,1,['obstetric syndromes'],1
+D051436,Renal Insufficiency Chronic,1,['chronic kidney disease'],1
+D051437,Renal Insufficiency,1,['Kidney failure'],1
+D051556,Hyperbilirubinemia Neonatal,1,['iMSN'],1
+D056912,Binge-Eating Disorder,1,['binge eating disorder'],1
+D057867,Endoleak,1,['endoleak formation'],1
+D058437,Hypertensive Retinopathy,1,['retinopathies'],1
+D059348,Peripheral Nerve Injuries,1,['Peripheral nerve injury'],1
+D060825,Cognitive Dysfunction,1,['cognitive abnormalities'],1
+D063726,Delusional Parasitosis,1,['delusions'],1
+D066087,Perinatal Death,1,['perinatal death'],1

@@ -1,0 +1,208 @@
+DiseaseID,Disease,Genes,Associations,Supporting_papers
+D009369,Neoplasms,44,44,47
+D007249,Inflammation,41,41,47
+D006463,Hemolytic-Uremic Syndrome,38,38,64
+D064420,Drug-Related Side Effects and Adverse Reactions,24,24,32
+D007239,Infections,22,22,28
+D000860,Hypoxia,21,21,25
+D010300,Parkinson Disease,20,20,30
+D058186,Acute Kidney Injury,19,19,28
+D011225,Pre-Eclampsia,18,18,28
+D019636,Neurodegenerative Diseases,16,16,24
+D003967,Diarrhea,16,16,22
+D007674,Kidney Diseases,16,16,21
+D015658,HIV Infections,16,16,16
+D005317,Fetal Growth Retardation,15,15,15
+D002547,Cerebral Palsy,13,13,17
+D004409,Dyskinesia Drug-Induced,13,13,17
+D009410,Nerve Degeneration,13,13,13
+D001523,Mental Disorders,12,12,15
+D004927,Escherichia coli Infections,11,11,14
+C538543,Preeclamptic toxemia,10,10,13
+D006973,Hypertension,10,10,10
+D010922,Placenta Diseases,10,10,10
+D010302,Parkinson Disease Secondary,9,9,15
+D002292,Carcinoma Renal Cell,9,9,10
+D000090862,Neuroinflammatory Diseases,9,9,9
+D003110,Colonic Neoplasms,9,9,9
+D005770,Gastrointestinal Neoplasms,9,9,9
+D008569,Memory Disorders,9,9,9
+D015179,Colorectal Neoplasms,9,9,9
+D002534,Hypoxia Brain,8,8,8
+D004487,Edema,8,8,8
+D005517,Foodborne Diseases,8,8,8
+D063646,Carcinogenesis,8,8,8
+D012559,Schizophrenia,7,7,10
+D001927,Brain Diseases,7,7,9
+C000719624,fetal inflammatory response syndrome,7,7,7
+C535516,Hereditary leiomyomatosis and renal cell cancer,7,7,7
+D000013,Congenital Abnormalities,7,7,7
+D000138,Acidosis,7,7,7
+D003141,Communicable Diseases,7,7,7
+D007896,Leishmaniasis,7,7,7
+D007897,Leishmaniasis Mucocutaneous,7,7,7
+D007898,Leishmaniasis Visceral,7,7,7
+D008288,Malaria,7,7,7
+D008545,Melanoma,7,7,7
+D016773,Leishmaniasis Cutaneous,7,7,7
+D016774,Leishmaniasis Diffuse Cutaneous,7,7,7
+D009461,Neurologic Manifestations,6,6,7
+D000026,Abortion Habitual,6,6,6
+D003920,Diabetes Mellitus,6,6,6
+D004403,Dysentery,6,6,6
+D003092,Colitis,5,5,8
+D003072,Cognition Disorders,5,5,7
+D003643,Death,5,5,7
+D000022,Abortion Spontaneous,5,5,6
+D000795,Fabry Disease,5,5,6
+D014652,Vascular Diseases,5,5,6
+D016640,Diabetes Gestational,5,5,6
+D019966,Substance-Related Disorders,5,5,6
+603933,603933,5,5,5
+C538175,Acquired ichthyosis,5,5,5
+C580424,Ring Chromosome 20 Syndrome,5,5,5
+D000848,Anodontia,5,5,5
+D001766,Blindness,5,5,5
+D002658,Developmental Disabilities,5,5,5
+D004194,Disease,5,5,5
+D005322,Fetal Membranes Premature Rupture,5,5,5
+D005911,Gliosis,5,5,5
+D006529,Hepatomegaly,5,5,5
+D006984,Hypertrophy,5,5,5
+D008113,Liver Neoplasms,5,5,5
+D016104,Oligohydramnios,5,5,5
+D019958,Attention Deficit and Disruptive Behavior Disorders,5,5,5
+D020263,Lead Poisoning Nervous System,5,5,5
+D058437,Hypertensive Retinopathy,5,5,5
+D064726,Triple Negative Breast Neoplasms,5,5,5
+D000690,Amyotrophic Lateral Sclerosis,4,4,11
+D057180,Frontotemporal Dementia,4,4,11
+D000014,Abnormalities Drug-Induced,4,4,6
+D009765,Obesity,4,4,5
+C567159,Spherocytosis Type 1,4,4,4
+D000092223,Hippocampal Sclerosis,4,4,4
+D000230,Adenocarcinoma,4,4,4
+D001007,Anxiety,4,4,4
+D001929,Brain Edema,4,4,4
+D007153,Immunologic Deficiency Syndromes,4,4,4
+D007859,Learning Disabilities,4,4,4
+D008659,Metabolic Diseases,4,4,4
+D009069,Movement Disorders,4,4,4
+D009336,Necrosis,4,4,4
+D011507,Proteinuria,4,4,4
+D013901,Thoracic Outlet Syndrome,4,4,4
+D030342,Genetic Diseases Inborn,4,4,4
+D057177,TDP-43 Proteinopathies,3,3,10
+D000743,Anemia Hemolytic,3,3,5
+D002303,Cardiac Output Low,3,3,5
+D006963,Hyperphagia,3,3,4
+612348,612348,3,3,3
+C535672,Acute cholinergic dysautonomia,3,3,3
+C557674,SeSAME syndrome,3,3,3
+D000068079,Motor Disorders,3,3,3
+D000079262,Obesity Maternal,3,3,3
+D000090463,Iron Deficiencies,3,3,3
+D001259,Ataxia,3,3,3
+D005767,Gastrointestinal Diseases,3,3,3
+D005776,Gaucher Disease,3,3,3
+D005879,Tourette Syndrome,3,3,3
+D006333,Heart Failure,3,3,3
+D007333,Insulin Resistance,3,3,3
+D007683,Kidney Tubular Necrosis Acute,3,3,3
+D007706,Menkes Kinky Hair Syndrome,3,3,3
+D012164,Retinal Diseases,3,3,3
+D014029,Tobacco Use Disorder,3,3,3
+D016388,Tooth Loss,3,3,3
+D020258,Neurotoxicity Syndromes,3,3,3
+D048949,Labor Pain,3,3,3
+D008607,Intellectual Disability,2,2,3
+D009128,Muscle Spasticity,2,2,3
+D009634,Noonan Syndrome,2,2,3
+D013921,Thrombocytopenia,2,2,3
+D057165,Proteostasis Deficiencies,2,2,3
+C536271,Ichthyosis prematurity syndrome,2,2,2
+C536897,Tang Hsi Ryu syndrome,2,2,2
+D000073436,Microvascular Rarefaction,2,2,2
+D000419,Albuminuria,2,2,2
+D000544,Alzheimer Disease,2,2,2
+D001024,Aortic Valve Stenosis,2,2,2
+D001157,Arterial Occlusive Diseases,2,2,2
+D001714,Bipolar Disorder,2,2,2
+D002389,Catatonia,2,2,2
+D002493,Central Nervous System Diseases,2,2,2
+D003638,Deafness,2,2,2
+D003704,Dementia,2,2,2
+D003866,Depressive Disorder,2,2,2
+D005921,Glomerulonephritis,2,2,2
+D006030,Glycosuria Renal,2,2,2
+D006816,Huntington Disease,2,2,2
+D006944,Hyperglycemic Hyperosmolar Nonketotic Coma,2,2,2
+D007410,Intestinal Diseases,2,2,2
+D007680,Kidney Neoplasms,2,2,2
+D008107,Liver Diseases,2,2,2
+D009386,Neoplastic Syndromes Hereditary,2,2,2
+D009422,Nervous System Diseases,2,2,2
+D009771,Obsessive-Compulsive Disorder,2,2,2
+D011183,Postoperative Complications,2,2,2
+D011248,Pregnancy Complications,2,2,2
+D011254,Pregnancy in Diabetics,2,2,2
+D013927,Thrombosis,2,2,2
+D014202,Tremor,2,2,2
+D015431,Weight Loss,2,2,2
+D018149,Glucose Intolerance,2,2,2
+D019572,Retinal Neoplasms,2,2,2
+D019973,Alcohol-Related Disorders,2,2,2
+D020233,Gait Disorders Neurologic,2,2,2
+D028361,Mitochondrial Diseases,2,2,2
+D047928,Premature Birth,2,2,2
+D051436,Renal Insufficiency Chronic,2,2,2
+D057772,Vascular System Injuries,2,2,2
+D063726,Delusional Parasitosis,2,2,2
+D009437,Neuralgia,1,1,2
+D059350,Chronic Pain,1,1,2
+610251,610251,1,1,1
+C537708,Kifafa seizure disorder,1,1,1
+C565423,Hypomagnesemia 5 Renal with Ocular Involvement,1,1,1
+D000071072,Acute Febrile Encephalopathy,1,1,1
+D000073376,Epileptic Syndromes,1,1,1
+D000080902,Mandibular Nerve Injuries,1,1,1
+D000086382,COVID-19,1,1,1
+D001068,Feeding and Eating Disorders,1,1,1
+D001480,Basal Ganglia Diseases,1,1,1
+D002032,Bulimia,1,1,1
+D002821,Chorioamnionitis,1,1,1
+D003409,Congenital Hypothyroidism,1,1,1
+D003711,Demyelinating Diseases,1,1,1
+D003807,Dentin Sensitivity,1,1,1
+D003922,Diabetes Mellitus Type 1,1,1,1
+D004342,Drug Hypersensitivity,1,1,1
+D004408,Dysgeusia,1,1,1
+D004827,Epilepsy,1,1,1
+D004832,Epilepsy Absence,1,1,1
+D005320,Fetal Macrosomia,1,1,1
+D006011,Glycogen Storage Disease Type IV,1,1,1
+D006042,Goiter,1,1,1
+D006331,Heart Diseases,1,1,1
+D007511,Ischemia,1,1,1
+D007676,Kidney Failure Chronic,1,1,1
+D009103,Multiple Sclerosis,1,1,1
+D009471,Neuromyelitis Optica,1,1,1
+D010146,Pain,1,1,1
+D011141,Polyuria,1,1,1
+D012173,Retinitis,1,1,1
+D012652,Self Mutilation,1,1,1
+D014511,Uremia,1,1,1
+D014777,Virus Diseases,1,1,1
+D014947,Wounds and Injuries,1,1,1
+D015430,Weight Gain,1,1,1
+D016135,Spinal Dysraphism,1,1,1
+D016472,Motor Neuron Disease,1,1,1
+D018263,Adenocarcinoma Follicular,1,1,1
+D018980,Williams Syndrome,1,1,1
+D020018,Sexual Dysfunctions Psychological,1,1,1
+D024182,Uniparental Disomy,1,1,1
+D024801,Tauopathies,1,1,1
+D051556,Hyperbilirubinemia Neonatal,1,1,1
+D057049,Thrombotic Microangiopathies,1,1,1
+D059445,Anhedonia,1,1,1
+D060825,Cognitive Dysfunction,1,1,1
