@@ -9,6 +9,7 @@ The site is intentionally static: all expensive analysis is precomputed in `Full
 Current interface:
 
 - Overview with publication, author, year and cluster KPIs
+- Interactive organization chart with current members, former members and unresolved official status conflicts
 - Publication output over time
 - Integrated scientific-cluster distribution
 - IFIBIO participation overview
