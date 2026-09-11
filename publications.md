@@ -1,6 +1,6 @@
 ---
 title: Publications
-nav_order: 2
+nav_order: 3
 description: "Search and inspect the IFIBIO publication corpus, with a semantic UMAP projection of abstracts."
 page_script: /assets/js/publications.js
 ---

@@ -1,6 +1,6 @@
 ---
 title: MeSH & Keywords
-nav_order: 5
+nav_order: 6
 description: "Explore the terminology extracted from the corpus, its frequency and co-occurrence structure."
 page_script: /assets/js/terms.js
 ---

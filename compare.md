@@ -1,6 +1,6 @@
 ---
 title: Compare Authors
-nav_order: 4
+nav_order: 5
 description: "Select any pair of researchers and inspect observed collaboration, neighborhood overlap and network similarity."
 page_script: /assets/js/compare.js
 ---

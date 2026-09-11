@@ -9,7 +9,7 @@ The site is intentionally static: all expensive analysis is precomputed in `Full
 Current interface:
 
 - Overview with publication, author, year and cluster KPIs
-- Interactive organization chart with current members, former members and unresolved official status conflicts
+- Interactive institutional tree generated directly from the repository Excel file
 - Publication output over time
 - Integrated scientific-cluster distribution
 - IFIBIO participation overview
@@ -31,6 +31,7 @@ The interactive parts (Plotly charts, Cytoscape networks) are still plain client
 
 Data currently consumed by the frontend:
 
+- `assets/data/Integrantes_IFIBIO_Houssay.xlsx` (sheet `Organigrama`)
 - `ml_pubmed_ifibio/analysis_summary.json`
 - `ml_pubmed_ifibio/integrated_paper_ml_dataset.csv`
 - `ml_pubmed_ifibio/coauthor_network.gexf`
@@ -63,6 +64,15 @@ One-time setup required in the repository:
 3. Push to `main` — the workflow builds and deploys automatically. No manual `index.html` editing is required for future updates.
 
 ## Updating the data
+
+### Institutional organization tree
+
+1. Download and edit `assets/data/Integrantes_IFIBIO_Houssay.xlsx`.
+2. In the `Organigrama` sheet, keep the existing column names and edit, add or remove rows. The `Estado` column accepts `Actual`, `Exintegrante` or `Conflicto: actual y exintegrante`.
+3. Replace the file in the same repository path and commit the change to `main`.
+4. GitHub Pages republishes automatically. The browser reads the Excel file directly; there is no separate JSON file to synchronize.
+
+### Scientific landscape
 
 1. Re-run `FullNetwork.ipynb` to regenerate the exports in `ml_pubmed_ifibio/`.
 2. Commit the updated CSV/JSON/GEXF files and push to `main`.

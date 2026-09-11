@@ -1,6 +1,6 @@
 ---
 title: Affiliations
-nav_order: 6
+nav_order: 7
 description: "Network of author-declared affiliation texts, linked when the same author lists both on one paper."
 page_script: /assets/js/affiliations.js
 ---

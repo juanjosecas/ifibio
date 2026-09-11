@@ -1,6 +1,6 @@
 ---
 title: Biological Landscape
-nav_order: 8.5
+nav_order: 10
 description: "Genes, diseases, pathways and functional enrichment across the IFIBIO corpus."
 page_script: /assets/js/biology.js
 ---

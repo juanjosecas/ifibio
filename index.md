@@ -1,6 +1,6 @@
 ---
 title: Overview
-nav_order: 1
+nav_order: 2
 description: "Scientific activity at a glance — publications, researchers and structure of the IFIBIO corpus."
 page_script: /assets/js/overview.js
 permalink: /
@@ -40,4 +40,4 @@ Interactive overview of publication output, scientific structure and collaborati
 
 </div>
 
-See [Organization]({{ '/organization.html' | relative_url }}) to browse current and former members by laboratory or research group, [Publications]({{ '/publications.html' | relative_url }}) to search the corpus, [Author Network]({{ '/network.html' | relative_url }}) to explore collaboration, [Compare Authors]({{ '/compare.html' | relative_url }}) for pairwise comparisons, [MeSH & Keywords]({{ '/terms.html' | relative_url }}) for terminology, [Affiliations]({{ '/affiliations.html' | relative_url }}) for institutional co-declarations, [Paper Similarity]({{ '/similarity.html' | relative_url }}) for abstract-level similarity between individual papers, and [Scientific Landscape]({{ '/landscape.html' | relative_url }}) for additional descriptive views.
+See [Institucional]({{ '/organization.html' | relative_url }}) to browse the IFIBIO structure and its current and former members, [Publications]({{ '/publications.html' | relative_url }}) to search the corpus, [Author Network]({{ '/network.html' | relative_url }}) to explore collaboration, [Compare Authors]({{ '/compare.html' | relative_url }}) for pairwise comparisons, [MeSH & Keywords]({{ '/terms.html' | relative_url }}) for terminology, [Affiliations]({{ '/affiliations.html' | relative_url }}) for institutional co-declarations, [Paper Similarity]({{ '/similarity.html' | relative_url }}) for abstract-level similarity between individual papers, and [Scientific Landscape]({{ '/landscape.html' | relative_url }}) for additional descriptive views.

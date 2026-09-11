@@ -1,45 +1,47 @@
 ---
-title: Organization
-nav_order: 2.5
-description: "Interactive IFIBIO organization chart with current members, former members and unresolved status conflicts."
+title: Institucional
+nav_order: 1
+description: "Organigrama interactivo del IFIBIO con integrantes actuales, exintegrantes y estados en revisión."
+page_vendor_script: https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js
 page_script: /assets/js/organization.js
 permalink: /organization.html
 ---
 
-# IFIBIO organization
+# Organigrama institucional
 {: .fs-8 }
 
-Laboratories, research groups and institutional support areas. Select a unit to inspect its members. Status is based on the current personnel pages and the official former-members page. <span id="data-status" class="label label-blue">Loading data…</span>
+Explore la estructura del IFIBIO y despliegue cada sector, laboratorio o grupo para consultar sus integrantes. <span id="data-status" class="label label-blue">Cargando datos…</span>
 {: .fs-5 .fw-300 }
 
 <div class="ifibio-app organization-app">
 
-<div class="org-legend" aria-label="Member status legend">
-  <span class="org-status current"><i></i>Current</span>
-  <span class="org-status conflict"><i></i>Conflicting official records</span>
-  <span class="org-status former"><i></i>Former</span>
+<div class="org-legend" aria-label="Referencia de estados">
+  <span class="org-status current"><i></i>Integrante actual</span>
+  <span class="org-status conflict"><i></i>Estado en revisión</span>
+  <span class="org-status former"><i></i>Exintegrante</span>
 </div>
 
-<section class="org-root" aria-labelledby="org-root-title">
-  <span class="section-tag">INSTITUTE</span>
-  <h2 id="org-root-title">IFIBIO Houssay</h2>
-  <p>UBA–CONICET · Instituto de Fisiología y Biofísica Bernardo Houssay</p>
-</section>
-
 <div class="org-toolbar">
-  <label><span>Find a person or group</span><input id="org-search" type="search" placeholder="Name, laboratory, subgroup…" autocomplete="off"></label>
-  <label class="org-toggle"><input id="org-show-former" type="checkbox" checked>Show former members</label>
-  <button id="org-expand-all" class="button ghost" type="button">Expand all</button>
+  <label><span>Buscar persona, sector o grupo</span><input id="org-search" type="search" placeholder="Nombre, laboratorio, subgrupo…" autocomplete="off"></label>
+  <label class="org-toggle"><input id="org-show-former" type="checkbox" checked>Mostrar exintegrantes</label>
+  <button id="org-expand-all" class="button ghost" type="button">Desplegar todo</button>
 </div>
 
 <p id="org-summary" class="org-summary" aria-live="polite"></p>
-<div id="org-units" class="org-grid"></div>
+
+<details class="org-tree-root" open>
+  <summary>
+    <span class="org-node-mark" aria-hidden="true">IF</span>
+    <span><strong>IFIBIO Houssay</strong><small>Instituto de Fisiología y Biofísica Bernardo Houssay · UBA–CONICET</small></span>
+  </summary>
+  <div id="org-tree" class="org-tree-children"></div>
+</details>
 
 <aside class="panel org-method-note">
-  <span class="section-tag">STATUS CRITERION</span>
-  <p><strong>Current</strong> means that the person appears on an official current personnel page. <strong>Former</strong> means that the person appears on the official former-members page. When both occur, the record remains amber and is not resolved automatically.</p>
+  <span class="section-tag">FUENTE DE DATOS</span>
+  <p>El organigrama se genera directamente desde la hoja <strong>Organigrama</strong> del archivo Excel incluido en el repositorio. Los cambios confirmados en ese archivo se reflejan automáticamente al volver a publicarse el sitio.</p>
+  <p><strong>Actual</strong> indica que la persona figura en una página oficial vigente. <strong>Exintegrante</strong> indica que figura en la página oficial de exintegrantes. Si aparece en ambas, el estado queda señalado para revisión.</p>
   <p id="org-source-note" class="hint"></p>
 </aside>
 
 </div>
-

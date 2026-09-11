@@ -1,6 +1,6 @@
 ---
 title: Scientific Landscape
-nav_order: 8
+nav_order: 9
 description: "Additional descriptive views of publication characteristics and semantic structure."
 page_script: /assets/js/landscape.js
 ---

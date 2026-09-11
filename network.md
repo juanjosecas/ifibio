@@ -1,6 +1,6 @@
 ---
 title: Author Network
-nav_order: 3
+nav_order: 4
 description: "Interactive observed coauthorship network with configurable visibility and labeling thresholds."
 page_script: /assets/js/network.js
 ---
