@@ -50,7 +50,8 @@ The remaining `.pkl`, `.gexf`, `.csv` and figures remain as reproducibility/sour
 ```bash
 cd /home/juan/Documents/ifibio
 bundle install
-bundle exec jekyll serve
+python3 scripts/prepare_site.py
+bundle exec jekyll serve --source .site-source
 ```
 
 Then open `http://localhost:4000`. (Requires Ruby with development headers, e.g. `sudo apt install ruby-dev`, before `bundle install` will succeed.)
