@@ -33,7 +33,7 @@
   }
 
   function memberCard(member) {
-    const detail = member.area || member.subgroup;
+    const detail = member.area ? `Área técnica: ${member.area}` : member.subgroup ? `Línea: ${member.subgroup}` : '';
     return `<article class="org-person ${member.status}">
       <div class="org-person-head"><strong>${esc(member.name)}</strong><span class="org-badge ${member.status}">${statusLabel[member.status]}</span></div>
       ${member.role ? `<p>${esc(member.role)}</p>` : ''}
@@ -43,13 +43,9 @@
   }
 
   function memberGroups(members) {
-    const groups = new Map();
-    members.forEach(member => {
-      const label = member.area || member.subgroup || 'Sin subgrupo publicado';
-      if (!groups.has(label)) groups.set(label, []);
-      groups.get(label).push(member);
-    });
-    return [...groups.entries()].map(([label, rows]) => `<section class="org-subgroup"><h5>${esc(label)} <span>${rows.length}</span></h5><div class="org-people">${rows.map(memberCard).join('')}</div></section>`).join('');
+    // Research lines and technical areas describe a person; they are not organizational units.
+    const sorted = [...members].sort((a, b) => a.name.localeCompare(b.name, 'es'));
+    return `<div class="org-people">${sorted.map(memberCard).join('')}</div>`;
   }
 
   function memberSections(members) {
@@ -62,14 +58,14 @@
   function unitBranch(unit, forceOpen) {
     const lead = unit.leader ? `<small>Responsable: ${esc(unit.leader)}</small>` : '';
     const source = unit.url ? `<a class="org-unit-link" href="${esc(unit.url)}" target="_blank" rel="noopener">Página oficial del IFIBIO ↗</a>` : '';
-    return `<details class="org-branch org-unit" ${forceOpen || allExpanded ? 'open' : ''}><summary><span class="org-node-mark" aria-hidden="true">${unit.type === 'Laboratorio' ? 'L' : 'G'}</span><span><strong>${esc(unit.name)}</strong>${lead}</span>${countBadges(unit.members)}</summary><div class="org-branch-body">${memberSections(unit.members)}${source}</div></details>`;
+    return `<details class="org-branch org-unit" data-unit-id="${esc(unit.id)}" ${forceOpen || allExpanded ? 'open' : ''}><summary><span class="org-node-mark" aria-hidden="true">${unit.type === 'Laboratorio' ? 'L' : 'G'}</span><span><strong>${esc(unit.name)}</strong>${lead}</span>${countBadges(unit.members)}</summary><div class="org-branch-body">${memberSections(unit.members)}${source}</div></details>`;
   }
 
   function sectorBranch(sector, forceOpen) {
     const directSector = sector.name === 'Personal de Apoyo' || sector.name === 'Gestión institucional';
     const content = directSector ? memberSections(sector.members) : `<div class="org-tree-children">${sector.units.map(unit => unitBranch(unit, forceOpen)).join('')}</div>`;
     const mark = sector.name === 'Laboratorios' ? 'L' : sector.name === 'Grupos de investigación' ? 'G' : sector.name === 'Personal de Apoyo' ? 'PA' : 'GI';
-    return `<details class="org-branch org-sector" ${forceOpen || allExpanded ? 'open' : ''}><summary><span class="org-node-mark" aria-hidden="true">${mark}</span><span><strong>${esc(sector.name)}</strong><small>${directSector ? 'Desplegar integrantes' : `${sector.units.length} unidades`}</small></span>${countBadges(sector.members)}</summary><div class="org-branch-body">${content}</div></details>`;
+    return `<details class="org-branch org-sector" data-sector="${esc(sector.name)}" ${forceOpen || allExpanded ? 'open' : ''}><summary><span class="org-node-mark" aria-hidden="true">${mark}</span><span><strong>${esc(sector.name)}</strong><small>${directSector ? 'Desplegar integrantes' : `${sector.units.length} unidades`}</small></span>${countBadges(sector.members)}</summary><div class="org-branch-body">${content}</div></details>`;
   }
 
   function hierarchy(query, showFormer) {
@@ -82,13 +78,13 @@
     return sectorOrder.map(sectorName => {
       const sectorRows = filtered.filter(row => row.sector === sectorName);
       if (!sectorRows.length) return null;
-      const unitNames = [...new Set(sectorRows.map(row => row.unit))];
+      const unitNames = [...new Set(sectorRows.map(row => row.unitId || row.unit))];
       return {
         name: sectorName,
         members: sectorRows,
-        units: unitNames.map(name => {
-          const members = sectorRows.filter(row => row.unit === name);
-          return { name, type: members[0].unitType, leader: members[0].leader, url: members[0].unitUrl, members };
+        units: unitNames.map(id => {
+          const members = sectorRows.filter(row => (row.unitId || row.unit) === id);
+          return { id, name: members[0].unit, type: members[0].unitType, leader: members[0].leader, url: members[0].unitUrl, members };
         }),
       };
     }).filter(Boolean);
@@ -96,8 +92,14 @@
 
   function render() {
     const query = searchEl.value.trim();
+    const openSectors = new Set([...treeEl.querySelectorAll('details[open][data-sector]')].map(el => el.dataset.sector));
+    const openUnits = new Set([...treeEl.querySelectorAll('details[open][data-unit-id]')].map(el => el.dataset.unitId));
     const sectors = hierarchy(query, showFormerEl.checked);
     treeEl.innerHTML = sectors.map(sector => sectorBranch(sector, Boolean(query))).join('') || '<div class="panel empty-state">No se encontraron coincidencias.</div>';
+    if (!query && !allExpanded) {
+      treeEl.querySelectorAll('details[data-sector]').forEach(el => { el.open = openSectors.has(el.dataset.sector); });
+      treeEl.querySelectorAll('details[data-unit-id]').forEach(el => { el.open = openUnits.has(el.dataset.unitId); });
+    }
     const visible = sectors.flatMap(sector => sector.members);
     const counts = countStatuses(visible);
     summaryEl.textContent = `${sectors.length} sectores · ${counts.current} actuales · ${counts.conflict} en revisión${showFormerEl.checked ? ` · ${counts.former} exintegrantes` : ''}`;
