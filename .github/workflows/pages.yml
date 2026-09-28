@@ -1,47 +1,67 @@
-name: Deploy Jekyll site to Pages
+name: Validate and deploy site
 
 on:
+  pull_request:
+    branches: ["main"]
   push:
     branches: ["main"]
   workflow_dispatch:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
-  group: "pages"
+  group: "pages-${{ github.ref }}"
   cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: read
+      pages: read
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Check JavaScript syntax
+        run: |
+          for file in assets/js/*.js; do node --check "$file"; done
+
       - name: Setup Pages
-        id: pages
         uses: actions/configure-pages@v5
+
+      - name: Validate data and stage site
+        run: python3 scripts/prepare_site.py
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: ./
+          source: ./.site-source
           destination: ./_site
 
+      - name: Check rendered site
+        run: python3 scripts/prepare_site.py --check-output
+
       - name: Upload Pages artifact
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v4
         with:
           path: ./_site
 
   deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     steps:
       - name: Deploy to GitHub Pages
         id: deployment

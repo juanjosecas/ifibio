@@ -27,7 +27,7 @@ Current interface:
 
 The site is built with [Jekyll](https://jekyllrb.com) using the [Just the Docs](https://just-the-docs.com) theme. Each section (Overview, Publications, Author Network, Compare Authors, MeSH & Keywords, Scientific Landscape, Methods) is a plain Markdown page at the repository root, with front matter controlling its title and navigation order. Editing the text/structure of a page only requires editing that Markdown file — no HTML templating knowledge needed.
 
-The interactive parts (Plotly charts, Cytoscape networks) are still plain client-side JavaScript, split per page under `assets/js/` and shared helpers in `assets/js/common.js`. Jekyll only handles the page templating/navigation layer; it copies `assets/`, `ml_pubmed_ifibio/` and the rest of the data as static files, so those scripts fetch and render the CSV/JSON/GEXF exports in the browser exactly as before.
+The interactive parts (Plotly charts, Cytoscape networks) are plain client-side JavaScript, split per page under `assets/js/` and shared helpers in `assets/js/common.js`. The Pages workflow stages only the pages, browser assets and datasets referenced by the JavaScript. Analysis outputs stay in Git but are not included in the deployed site.
 
 Data currently consumed by the frontend:
 
@@ -40,8 +40,10 @@ Data currently consumed by the frontend:
 - `ml_pubmed_ifibio/paper_nlp_network.gexf`
 - `ml_pubmed_ifibio/filiaciones/catalogo_filiaciones.csv`
 - `ml_pubmed_ifibio/filiaciones/red_filiaciones_aristas.csv`
+- `ml_pubmed_ifibio/affiliation_affiliation_cooccurrence.csv`
+- The six `ifibio_*.csv` datasets referenced by `assets/js/biology.js`
 
-The remaining `.pkl`, `.gexf`, `.csv` and figures remain as reproducibility/source outputs and can be progressively exposed through lighter web-specific JSON files. The other files under `ml_pubmed_ifibio/filiaciones/` (its `README.md`, `filiaciones_llm.json`, per-author/per-paper CSVs, the `.graphml` and `.png`) are reproducibility artifacts and are excluded from the built site (see `exclude` in `_config.yml`) so they don't show up as a stray navigable page.
+The remaining `.pkl`, `.gexf`, `.csv` and figures remain as reproducibility/source outputs. `scripts/prepare_site.py` discovers static dataset paths in `assets/js/*.js`, validates their formats and copies only those paths into `.site-source/`. When adding a new browser dataset, reference it with a literal `${BASEURL}/path/to/file.csv` (or `.json`, `.gexf`, `.xlsx`) in a page script so it is included automatically.
 
 ## Local development
 
@@ -55,7 +57,7 @@ Then open `http://localhost:4000`. (Requires Ruby with development headers, e.g.
 
 ## Deployment
 
-The site is deployed with a GitHub Actions workflow ([.github/workflows/pages.yml](.github/workflows/pages.yml)) that builds the Jekyll site and publishes it with the official `actions/deploy-pages` action on every push to `main`.
+The [Pages workflow](.github/workflows/pages.yml) checks JavaScript syntax, validates referenced data, builds Jekyll from the small staged source and checks the rendered output on pull requests. Only a successful push to `main` (or manual run on `main`) uploads and deploys the site. [Dependabot](.github/dependabot.yml) proposes weekly updates to GitHub Actions.
 
 One-time setup required in the repository:
 
