@@ -6,3 +6,7 @@ _site/
 vendor/
 *.gem
 .DS_Store
+.ipynb_checkpoints/
+.virtual_documents/
+*.pyc
+__pycache__/

@@ -9,7 +9,7 @@ The site is intentionally static: all expensive analysis is precomputed in `Full
 Current interface:
 
 - Overview with publication, author, year and cluster KPIs
-- Interactive institutional tree generated directly from the repository Excel file
+- Institutional directory generated directly from the repository Excel file; former members are hidden by default and research lines are displayed as personal metadata
 - Publication output over time
 - Integrated scientific-cluster distribution
 - IFIBIO participation overview
@@ -70,7 +70,7 @@ One-time setup required in the repository:
 1. Download and edit `assets/data/Integrantes_IFIBIO_Houssay.xlsx`.
 2. In the `Organigrama` sheet, keep the existing column names and edit, add or remove rows. The `Estado` column accepts `Actual`, `Exintegrante` or `Conflicto: actual y exintegrante`.
 3. Replace the file in the same repository path and commit the change to `main`.
-4. GitHub Pages republishes automatically. The browser reads the Excel file directly; there is no separate JSON file to synchronize.
+4. GitHub Pages republishes automatically. The browser reads the Excel file directly; there is no separate JSON file to synchronize. Only sector and unit define tree levels; subgroups and technical areas are shown on each person’s card. The sheet does not encode a complete governance hierarchy.
 
 ### Scientific landscape
 
