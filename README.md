@@ -9,7 +9,7 @@ The site is intentionally static: all expensive analysis is precomputed in `Full
 Current interface:
 
 - Overview with publication, author, year and cluster KPIs
-- Institutional directory generated directly from the repository Excel file; former members are hidden by default and research lines are displayed as personal metadata
+- Institutional directory generated directly from the repository Excel file; former members are shown by default in separate sections and research lines are displayed as personal metadata
 - Publication output over time
 - Integrated scientific-cluster distribution
 - IFIBIO participation overview

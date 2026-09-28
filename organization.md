@@ -23,7 +23,7 @@ Explore los sectores y las unidades de investigación del IFIBIO. Las líneas de
 
 <div class="org-toolbar">
   <label><span>Buscar persona, sector o grupo</span><input id="org-search" type="search" placeholder="Nombre, laboratorio, subgrupo…" autocomplete="off"></label>
-  <label class="org-toggle"><input id="org-show-former" type="checkbox">Mostrar exintegrantes</label>
+  <label class="org-toggle"><input id="org-show-former" type="checkbox" checked>Mostrar exintegrantes</label>
   <button id="org-expand-all" class="button ghost" type="button">Desplegar todo</button>
 </div>
 
@@ -40,7 +40,7 @@ Explore los sectores y las unidades de investigación del IFIBIO. Las líneas de
 <aside class="panel org-method-note">
   <span class="section-tag">FUENTE DE DATOS</span>
   <p>El organigrama se genera directamente desde la hoja <strong>Organigrama</strong> del archivo Excel incluido en el repositorio. Los cambios confirmados en ese archivo se reflejan automáticamente al volver a publicarse el sitio.</p>
-  <p><strong>Actual</strong> indica que la persona figura en una página oficial vigente. <strong>Exintegrante</strong> indica que figura en la página oficial de exintegrantes. Si aparece en ambas, el estado queda señalado para revisión. Los exintegrantes se pueden mostrar con el control superior y no forman parte de la nómina actual. Esta vista reproduce las asignaciones de la hoja Organigrama; no documenta cargos de dirección ni relaciones jerárquicas que esa hoja no registra. La verificación de esta planilla corresponde al 10 de septiembre de 2026.</p>
+  <p><strong>Actual</strong> indica que la persona figura en una página oficial vigente. <strong>Exintegrante</strong> indica que figura en la página oficial de exintegrantes. Si aparece en ambas, el estado queda señalado para revisión. Los exintegrantes figuran en una sección separada dentro de su última unidad publicada. Se muestran por defecto y se pueden ocultar con el control superior; no forman parte de la nómina actual. Esta vista reproduce las asignaciones de la hoja Organigrama; no documenta cargos de dirección ni relaciones jerárquicas que esa hoja no registra. La verificación de esta planilla corresponde al 10 de septiembre de 2026.</p>
   <p id="org-source-note" class="hint"></p>
 </aside>
 
