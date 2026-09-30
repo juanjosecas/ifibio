@@ -26,6 +26,17 @@ Explore la información de las nuevas planillas y prepare un borrador de asignac
   </div>
   <p class="hint">Los cambios del borrador se guardan en este navegador. El CSV incluye la nómina completa, aunque haya filtros activos. La evidencia original se conserva en cada ficha.</p>
   <p id="roster-summary" aria-live="polite"></p>
+  <section aria-labelledby="roster-composition-title">
+    <h2 id="roster-composition-title">Composición de la nómina</h2>
+    <p class="hint">Los gráficos cuentan una vez cada ficha y responden a los filtros y al borrador. Para ver la composición vigente, seleccione Estado: Actual. “Todos” incluye exintegrantes y casos sin confirmar. El lugar de trabajo corresponde a la unidad informada, no a una sede física.</p>
+    <div class="roster-charts">
+      <div id="roster-chart-groups" class="roster-chart"></div>
+      <div id="roster-chart-roles" class="roster-chart"></div>
+      <div id="roster-chart-states" class="roster-chart"></div>
+      <div id="roster-chart-units" class="roster-chart roster-chart-wide"></div>
+    </div>
+    <p id="roster-chart-notes" class="hint"></p>
+  </section>
   <div id="roster-tree"></div>
   <aside class="panel">
     <h2>Fuentes y criterios</h2>

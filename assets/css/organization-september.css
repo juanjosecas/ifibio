@@ -17,3 +17,7 @@
 .roster-editor { display:grid; gap:8px; margin:12px 0; }
 .roster-editor label { display:grid; gap:4px; }
 .roster-state { color:#475569; font-weight:600; }
+
+.roster-charts { display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,420px),1fr)); gap:1rem; }
+.roster-chart { min-width:0; background:#fff; border:1px solid #dbe3ed; border-radius:10px; overflow:hidden; }
+.roster-chart-wide { grid-column:1 / -1; }
