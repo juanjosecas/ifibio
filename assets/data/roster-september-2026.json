@@ -1,0 +1,3795 @@
+{
+  "schema_version": 1,
+  "source_period": "Septiembre de 2026",
+  "catalog": [
+    "GNS: LABORATORIO DE FISOLOGIA DEL COMPORTAMIENTO",
+    "GNS: LABORATORIO DE FORMACIÓN DE REDES NEURONALES",
+    "GNS: LABORATORIO DE FISOPATOLOGIA NEURONAL",
+    "GNS: LABORATORIO DE FIOSOLOGÍA DE CIRCUITOS NEURONALES",
+    "GNS: LABORATORIO DE FISOLOGÍA DEL DOLOR",
+    "LABORATORIO BLAKE",
+    "LABORATORIO DE BIOMEMBRANAS",
+    "LABORATORIO DE FISOPATOGENIA",
+    "LABORATORIO DE NEUROFISIOPATOLOGIA",
+    "LABORATORIO DE FISIOLOGÍA RENAL",
+    "LABORATORIO DE BIOLOGIA DE LA REPRODUCCION",
+    "GRUPO PEZ CEBRA: LABORATORIO DE NEUROBIOLOGÍA DE LA RETINA",
+    "GRUPO PEZ CEBRA: LABORATORIO DE NEUROBIOLOGÍA DE LAS ADICCIONES",
+    "GRUPO DROSPHILA: LABORATORIO DE GENETICA DEL APRENDIZAJE",
+    "GRUPO DROSPHILA: LABORATORIO KATZ"
+  ],
+  "people": [
+    {
+      "name": "Agustina Pivato",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "abpivato@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 2,
+          "name": "Agustina Pivato",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "GNS",
+          "supervisor": "Rafael Pagani",
+          "status": "Sin confirmar",
+          "emails": [
+            "abpivato@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alejandro Cesar Cristiani",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "drcristiani1963@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 39,
+          "name": "Alejandro Cesar Cristiani",
+          "category": "Tesista Maestria",
+          "unit": "GNS",
+          "supervisor": "Andres Varani",
+          "status": "Sin confirmar",
+          "emails": [
+            "drcristiani1963@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alvarez Mendoza, Ivan Enrique",
+      "unit": "GRUPO DROSPHILA: LABORATORIO DE GENETICA DEL APRENDIZAJE",
+      "status": "Actual",
+      "emails": [
+        "ivan12alvarez@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 3,
+          "name": "Alvarez Mendoza, Ivan Enrique",
+          "category": "BECARIO/A DOCTORAL CONICET",
+          "unit": "GRUPO DROSPHILA: LABORATORIO DE GENETICA DEL APRENDIZAJE",
+          "supervisor": "Rafael Pagani",
+          "status": "Actual",
+          "emails": []
+        },
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 12,
+          "name": "Mendoza Ivan Alvarez",
+          "category": "Doctorado 10/2025",
+          "unit": "GNS",
+          "supervisor": "Rafael Pagani",
+          "status": "Sin confirmar",
+          "emails": [
+            "ivan12alvarez@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amaral Maria Marta",
+      "unit": "LABORATORIO DE FISOPATOGENIA",
+      "status": "Actual",
+      "emails": [
+        "mamaral@fmed.uba.ar",
+        "mmamaral74@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 1,
+          "name": "Amaral Maria Marta",
+          "category": "INDEPENDIENTE",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "mamaral@fmed.uba.ar",
+            "mmamaral74@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 2,
+          "name": "Amaral, Maria Marta",
+          "category": "CIC CONICET INDEPENDIENTE",
+          "unit": "LABORATORIO DE FISOPATOGENIA",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "Laboratorio de Fisiopatogenia",
+          "row": 3,
+          "name": "Amaral, María Marta",
+          "category": "CIC CONICET INDEPENDIENTE",
+          "unit": "LABORATORIO DE FISOPATOGENIA",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Andrea Beltrán",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "andreabeltran@campus.fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 44,
+          "name": "Andrea Beltrán",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "GNS",
+          "supervisor": "Maximiliano Katz",
+          "status": "Sin confirmar",
+          "emails": [
+            "andreabeltran@campus.fmed.uba.ar"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arias, Luciana Soledad",
+      "unit": "LABORATORIO DE NEUROFISIOPATOLOGIA",
+      "status": "Actual",
+      "emails": [
+        "arias.luciana@inta.gob.ar",
+        "luciana.arias88@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 2,
+          "name": "Arias, Luciana Soledad",
+          "category": "Doctoral",
+          "unit": "Labo.Neurofisiopatología",
+          "supervisor": "Jorge Goldstein (co director)",
+          "status": "Sin confirmar",
+          "emails": [
+            "arias.luciana@inta.gob.ar",
+            "luciana.arias88@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 2,
+          "name": "Arias, Luciana Soledad",
+          "category": "BECARIO/A DOCTORAL OTROS",
+          "unit": "LABORATORIO DE NEUROFISIOPATOLOGIA",
+          "supervisor": "Goldstein Jorge",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Bagliani, Camila",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Exintegrante",
+      "emails": [
+        "camibagliani99@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "ex-IFIBIO",
+          "row": 4,
+          "name": "Bagliani, Camila",
+          "category": "Doctoral 01/11/2027",
+          "unit": "GNS",
+          "supervisor": "Andrés Varani",
+          "status": "Exintegrante",
+          "emails": [
+            "camibagliani99@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Belforte Juan",
+      "unit": "GNS: LABORATORIO DE FISOLOGIA DEL COMPORTAMIENTO",
+      "status": "Actual",
+      "emails": [
+        "belfortej@yahoo.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 2,
+          "name": "Belforte Juan",
+          "category": "INDEPENDIENTE",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "belfortej@yahoo.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 3,
+          "name": "Belforte, Juan",
+          "category": "CIC CONICET PRINCIPAL",
+          "unit": "GNS: LABORATORIO DE FISOLOGIA DEL COMPORTAMIENTO",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Bello Estefania",
+      "unit": "GNS: LABORATORIO DE FIOSOLOGÍA DE CIRCUITOS NEURONALES",
+      "status": "Sin confirmar",
+      "emails": [
+        "ebello@fmed.uba.ar",
+        "estefania.bello@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 3,
+          "name": "Bello Estefania",
+          "category": "ASISTENTE",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "ebello@fmed.uba.ar",
+            "estefania.bello@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 4,
+          "name": "Bello, Estefania",
+          "category": "CIC CONICET ADJUNTO",
+          "unit": "GNS: LABORATORIO DE FIOSOLOGÍA DE CIRCUITOS NEURONALES",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Belluscio Mariano Andres",
+      "unit": "Sin unidad informada",
+      "status": "Sin confirmar",
+      "emails": [
+        "mabelluscio@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 4,
+          "name": "Belluscio Mariano Andres",
+          "category": "ADJUNTO",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "mabelluscio@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beltramone, Natalia",
+      "unit": "Gestión institucional",
+      "status": "Actual",
+      "emails": [
+        "natibeltramone@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Personal de Apoyo",
+          "row": 3,
+          "name": "Beltramone, Natalia",
+          "category": "Personal de Apoyo-Técnica Principal/Cultivos Celulares",
+          "unit": "",
+          "supervisor": "Dr. Gustavo Murer",
+          "status": "Sin confirmar",
+          "emails": [
+            "natibeltramone@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "CPA",
+          "row": 2,
+          "name": "Beltramone, Natalia",
+          "category": "CPA CONICET TECNICO PRINCIPAL",
+          "unit": "Gestión institucional",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Bernabeu Ramon Oscar",
+      "unit": "GRUPO PEZ CEBRA: LABORATORIO DE NEUROBIOLOGÍA DE LAS ADICCIONES",
+      "status": "Actual",
+      "emails": [
+        "robernabeu@hotmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 5,
+          "name": "Bernabeu Ramon Oscar",
+          "category": "PRINCIPAL",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "robernabeu@hotmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 5,
+          "name": "Bernabeu, Ramon Oscar",
+          "category": "CIC CONICET PRINCIPAL",
+          "unit": "GRUPO PEZ CEBRA: LABORATORIO DE NEUROBIOLOGÍA DE LAS ADICCIONES",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Blake Mariano",
+      "unit": "LABORATORIO BLAKE",
+      "status": "Actual",
+      "emails": [
+        "blakion@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 6,
+          "name": "Blake Mariano",
+          "category": "ADJUNTO",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "blakion@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 6,
+          "name": "Blake, Mariano",
+          "category": "CIC CONICET ADJUNTO",
+          "unit": "LABORATORIO BLAKE",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Bortolotto Kelly",
+      "unit": "LABORATORIO DE BIOMEMBRANAS",
+      "status": "Sin confirmar",
+      "emails": [
+        "kellybortolotto@campus.fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 25,
+          "name": "Bortolotto Kelly",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "Biomembranas",
+          "supervisor": "Roxana Toriano",
+          "status": "Sin confirmar",
+          "emails": [
+            "kellybortolotto@campus.fmed.uba.ar"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bumaschny",
+      "unit": "Sin unidad informada",
+      "status": "Sin confirmar",
+      "emails": [],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 35,
+          "name": "Bumaschny",
+          "category": "",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Capurro Claudia Graciela",
+      "unit": "LABORATORIO DE BIOMEMBRANAS",
+      "status": "Actual",
+      "emails": [
+        "claudiacapurro@fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 7,
+          "name": "Capurro Claudia Graciela",
+          "category": "PRINCIPAL",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "claudiacapurro@fmed.uba.ar"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 7,
+          "name": "Capurro, Claudia Graciela",
+          "category": "CIC CONICET PRINCIPAL",
+          "unit": "LABORATORIO DE BIOMEMBRANAS",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Casal, Juan José",
+      "unit": "Gestión institucional",
+      "status": "Actual",
+      "emails": [
+        "juan.5ht@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Personal de Apoyo",
+          "row": 4,
+          "name": "Casal, Juan José",
+          "category": "Personal de Apoyo-Profesional Asisitente/Bioinformática",
+          "unit": "Biomembranas",
+          "supervisor": "Dr. Gustavo Murer",
+          "status": "Sin confirmar",
+          "emails": [
+            "juan.5ht@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "CPA",
+          "row": 3,
+          "name": "Casal, Juan José",
+          "category": "CPA CONICET PROFESIONAL ASISTENTE",
+          "unit": "Gestión institucional",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Casazza, Valeria",
+      "unit": "Gestión institucional",
+      "status": "Actual",
+      "emails": [
+        "fisioinvest@fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Personal de Apoyo",
+          "row": 5,
+          "name": "Casazza, Valeria",
+          "category": "Personal No Docente, Administrativo",
+          "unit": "secretaría",
+          "supervisor": "Dra. Cristina Ibarra",
+          "status": "Sin confirmar",
+          "emails": [
+            "fisioinvest@fmed.uba.ar"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "ADMINISTRATIVOS",
+          "row": 2,
+          "name": "Casazza, Valeria",
+          "category": "ADMINISTRATIVO/A UBA",
+          "unit": "Gestión institucional",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Cedeño Viteri, William Jordi",
+      "unit": "Labo Neurobiologia de la Retina de Vertebrados",
+      "status": "Sin confirmar",
+      "emails": [
+        "wcedenoviteri@fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 3,
+          "name": "Cedeño Viteri, William Jordi",
+          "category": "Doctoral",
+          "unit": "Labo Neurobiologia de la Retina de Vertebrados",
+          "supervisor": "Maria Paula Faillace",
+          "status": "Sin confirmar",
+          "emails": [
+            "wcedenoviteri@fmed.uba.ar"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Celi Castillo, Ana Beatriz",
+      "unit": "LABORATORIO DE BIOMEMBRANAS",
+      "status": "Actual",
+      "emails": [
+        "annabe.celi@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 4,
+          "name": "Celi Castillo, Ana Beatriz",
+          "category": "Doctoral 05/08/2026",
+          "unit": "Biomembranas",
+          "supervisor": "Valeria Rivarola",
+          "status": "Sin confirmar",
+          "emails": [
+            "annabe.celi@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 4,
+          "name": "Celi Castillo, Ana Beatriz",
+          "category": "BECARIO/A DOCTORAL CONICET",
+          "unit": "LABORATORIO DE BIOMEMBRANAS",
+          "supervisor": "Rivarola Valeria",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Cerles, Camila Mariel",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "cerlescamila@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 26,
+          "name": "Cerles, Camila Mariel",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "GNS",
+          "supervisor": "Estefania Bello",
+          "status": "Sin confirmar",
+          "emails": [
+            "cerlescamila@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cervi, Martina",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 3,
+          "name": "Cervi, Martina",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "GNS",
+          "supervisor": "Murer",
+          "status": "Sin confirmar",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Chamorro, Tomás Agustín",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "tagus12chamo@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 18,
+          "name": "Chamorro, Tomás Agustín",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "GNS",
+          "supervisor": "Dr. Lionel Muller Igaz",
+          "status": "Sin confirmar",
+          "emails": [
+            "tagus12chamo@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Clara Volonteri",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "claravolonteri@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 38,
+          "name": "Clara Volonteri",
+          "category": "Investigadora Asistente",
+          "unit": "GNS",
+          "supervisor": "Lorena Rela",
+          "status": "Sin confirmar",
+          "emails": [
+            "claravolonteri@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cocca, María Azul",
+      "unit": "LABORATORIO DE BIOMEMBRANAS",
+      "status": "Sin confirmar",
+      "emails": [
+        "azul.cocca4@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 4,
+          "name": "Cocca, María Azul",
+          "category": "Bioquímica",
+          "unit": "Biomembranas",
+          "supervisor": "Vanina Netti",
+          "status": "Sin confirmar",
+          "emails": [
+            "azul.cocca4@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coll, Camila",
+      "unit": "Sin unidad informada",
+      "status": "Exintegrante",
+      "emails": [
+        "collcami@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "ex-IFIBIO",
+          "row": 6,
+          "name": "Coll, Camila",
+          "category": "Doctoral/ 31/03/2026",
+          "unit": "",
+          "supervisor": "Gustavo Murer",
+          "status": "Exintegrante",
+          "emails": [
+            "collcami@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Costanzo, María Lujan",
+      "unit": "Gestión institucional",
+      "status": "Actual",
+      "emails": [
+        "secretaria.ifibio@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Personal de Apoyo",
+          "row": 6,
+          "name": "Costanzo, María Lujan",
+          "category": "Administrativa",
+          "unit": "secretaría",
+          "supervisor": "Dr. Gustavo Murer",
+          "status": "Sin confirmar",
+          "emails": [
+            "secretaria.ifibio@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "ADMINISTRATIVOS",
+          "row": 3,
+          "name": "Costanzo, María Lujan",
+          "category": "ADMINISTRATIVO/A CONICET",
+          "unit": "Gestión institucional",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Cutrera, Nicolás María",
+      "unit": "LABORATORIO DE BIOMEMBRANAS",
+      "status": "Sin confirmar",
+      "emails": [
+        "nicolascutrera94@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 5,
+          "name": "Cutrera, Nicolás María",
+          "category": "Doctoral 31/03/2026",
+          "unit": "Biomembranas",
+          "supervisor": "Claudia Capurro/Vanina Netti",
+          "status": "Sin confirmar",
+          "emails": [
+            "nicolascutrera94@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Damiano Alicia",
+      "unit": "LABORATORIO DE BIOLOGIA DE LA REPRODUCCION",
+      "status": "Actual",
+      "emails": [
+        "aedamiano@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 8,
+          "name": "Damiano Alicia",
+          "category": "PRINCIPAL",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "aedamiano@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 8,
+          "name": "Damiano, Alicia",
+          "category": "CIC CONICET PRINCIPAL",
+          "unit": "LABORATORIO DE BIOLOGIA DE LA REPRODUCCION",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Della Maggiore Valeria",
+      "unit": "Sin unidad informada",
+      "status": "Sin confirmar",
+      "emails": [
+        "vdellamaggiore@fmed.uba.ar",
+        "vdellamaggiore@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 9,
+          "name": "Della Maggiore Valeria",
+          "category": "INDEPENDIENTE",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "vdellamaggiore@fmed.uba.ar",
+            "vdellamaggiore@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Di Giusto Gisela",
+      "unit": "LABORATORIO DE BIOMEMBRANAS",
+      "status": "Actual",
+      "emails": [
+        "gdigiusto@fmed.uba.ar",
+        "giseladg@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 10,
+          "name": "Di Giusto Gisela",
+          "category": "ADJUNTO",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "gdigiusto@fmed.uba.ar",
+            "giseladg@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 9,
+          "name": "Di Giusto, Gisela",
+          "category": "CIC CONICET ADJUNTO",
+          "unit": "LABORATORIO DE BIOMEMBRANAS",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Emiliano Ermoli",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "ermoliemiliano@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 43,
+          "name": "Emiliano Ermoli",
+          "category": "Tesista de Licenciatura",
+          "unit": "GNS",
+          "supervisor": "Ceci Tubert / Gustavo Murer",
+          "status": "Sin confirmar",
+          "emails": [
+            "ermoliemiliano@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Escurra Camila",
+      "unit": "LABORATORIO DE BIOMEMBRANAS",
+      "status": "Sin confirmar",
+      "emails": [
+        "camiescurra2006@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 5,
+          "name": "Escurra Camila",
+          "category": "Pasante",
+          "unit": "Biomembranas",
+          "supervisor": "Valeria Rivarola",
+          "status": "Sin confirmar",
+          "emails": [
+            "camiescurra2006@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Esperanza Cabral Demarchi",
+      "unit": "LABORATORIO DE BIOMEMBRANAS",
+      "status": "Sin confirmar",
+      "emails": [
+        "cabralespe@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 23,
+          "name": "Esperanza Cabral Demarchi",
+          "category": "Tesista Licenciatura",
+          "unit": "Biomembranas",
+          "supervisor": "Nora Martínez",
+          "status": "Sin confirmar",
+          "emails": [
+            "cabralespe@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fabiola Malaver Chapas",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "fabiola@campus.fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 42,
+          "name": "Fabiola Malaver Chapas",
+          "category": "Tesista de maestría",
+          "unit": "GNS",
+          "supervisor": "Ceci Tubert / Gustavo Murer",
+          "status": "Sin confirmar",
+          "emails": [
+            "fabiola@campus.fmed.uba.ar"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Faillace Paula",
+      "unit": "GRUPO PEZ CEBRA: LABORATORIO DE NEUROBIOLOGÍA DE LA RETINA",
+      "status": "Actual",
+      "emails": [
+        "mfaillace@fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 11,
+          "name": "Faillace Paula",
+          "category": "INDEPENDIENTE",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "mfaillace@fmed.uba.ar"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 10,
+          "name": "Faillace, Paula",
+          "category": "CIC CONICET INDEPENDIENTE",
+          "unit": "GRUPO PEZ CEBRA: LABORATORIO DE NEUROBIOLOGÍA DE LA RETINA",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Fares Taie Felix",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Exintegrante",
+      "emails": [
+        "ffarestaie@fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "ex-IFIBIO",
+          "row": 14,
+          "name": "Fares Taie Felix",
+          "category": "Doctoral Finalización (31/03/2027)",
+          "unit": "GNS",
+          "supervisor": "Lorena Rela",
+          "status": "Exintegrante",
+          "emails": [
+            "ffarestaie@fmed.uba.ar"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fernandez, Nazarena",
+      "unit": "LABORATORIO DE BIOLOGIA DE LA REPRODUCCION",
+      "status": "Actual",
+      "emails": [
+        "nazarenafernan@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 6,
+          "name": "Fernandez, Nazarena",
+          "category": "Doctoral 31/03/2028",
+          "unit": "Biología de la Reproducción",
+          "supervisor": "Alicia Damiano",
+          "status": "Sin confirmar",
+          "emails": [
+            "nazarenafernan@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 5,
+          "name": "Fernandez, Nazarena",
+          "category": "BECARIO/A DOCTORAL CONICET",
+          "unit": "LABORATORIO DE BIOLOGIA DE LA REPRODUCCION",
+          "supervisor": "Damiano Alicia",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Fernando Benitez",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "ferbenitezvelez@campus.fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 24,
+          "name": "Fernando Benitez",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "GNS",
+          "supervisor": "Diego Pafundo",
+          "status": "Sin confirmar",
+          "emails": [
+            "ferbenitezvelez@campus.fmed.uba.ar"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fernández Chilinski, Ariadna",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "ariadnafernandezch@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 27,
+          "name": "Fernández Chilinski, Ariadna",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "GNS",
+          "supervisor": "Estefania Bello",
+          "status": "Sin confirmar",
+          "emails": [
+            "ariadnafernandezch@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fischer Sigel Lilian Karina",
+      "unit": "LABORATORIO DE FISIOLOGÍA RENAL",
+      "status": "Actual",
+      "emails": [
+        "kfischersigel@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 7,
+          "name": "Fischer Sigel Lilian Karina",
+          "category": "Postdoctoral 31/12/2026",
+          "unit": "Laboratorio de Fisiología Renal/Patologia",
+          "supervisor": "Dra. Silberstein/Dra Zotta",
+          "status": "Sin confirmar",
+          "emails": [
+            "kfischersigel@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 6,
+          "name": "Fischer Sigel, Lilian Karina",
+          "category": "BECARIO/A POSTDOCTORAL",
+          "unit": "LABORATORIO DE FISIOLOGÍA RENAL",
+          "supervisor": "Silberstein Claudia",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Ford Paula",
+      "unit": "Sin unidad informada",
+      "status": "Exintegrante",
+      "emails": [
+        "paulaford26@yahoo.com.ar",
+        "pford@fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "ex-IFIBIO",
+          "row": 12,
+          "name": "Ford Paula",
+          "category": "",
+          "unit": "",
+          "supervisor": "",
+          "status": "Exintegrante",
+          "emails": [
+            "paulaford26@yahoo.com.ar",
+            "pford@fmed.uba.ar"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fotti, Javier",
+      "unit": "GNS: LABORATORIO DE FORMACIÓN DE REDES NEURONALES",
+      "status": "Actual",
+      "emails": [
+        "javier.fotti@gmail.com",
+        "jfotti@fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 8,
+          "name": "Fotti, Javier",
+          "category": "Beca Finalizacion Doctorado CONICET junio 2025",
+          "unit": "GNS",
+          "supervisor": "Lorena Rela",
+          "status": "Sin confirmar",
+          "emails": [
+            "javier.fotti@gmail.com",
+            "jfotti@fmed.uba.ar"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 7,
+          "name": "Fotti, Javier",
+          "category": "BECARIO/A DOCTORAL CONICET",
+          "unit": "GNS: LABORATORIO DE FORMACIÓN DE REDES NEURONALES",
+          "supervisor": "Rela Lorena",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Fulginiti, Nicolas Marcelo",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Exintegrante",
+      "emails": [
+        "nicolasmfulginiti@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "ex-IFIBIO",
+          "row": 10,
+          "name": "Fulginiti, Nicolas Marcelo",
+          "category": "Doctoral 31/03/2026",
+          "unit": "GNS",
+          "supervisor": "Diego Pafundo",
+          "status": "Exintegrante",
+          "emails": [
+            "nicolasmfulginiti@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Galeano, Damián",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "galianod45@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 17,
+          "name": "Galeano, Damián",
+          "category": "Tesista (Tesis Maestría en Biología Molecular Biomédica)",
+          "unit": "GNS",
+          "supervisor": "Estefania Bello",
+          "status": "Sin confirmar",
+          "emails": [
+            "galianod45@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Garbini, Lucía",
+      "unit": "Personal de Apoyo",
+      "status": "Sin confirmar",
+      "emails": [
+        "lmagrb@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Personal de Apoyo",
+          "row": 7,
+          "name": "Garbini, Lucía",
+          "category": "Personal de Apoyo-Técnica Asistente/Bioterio",
+          "unit": "",
+          "supervisor": "Dr. Gustavo Murer",
+          "status": "Sin confirmar",
+          "emails": [
+            "lmagrb@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "CPA",
+          "row": 4,
+          "name": "Garbini, Lucía",
+          "category": "CPA CONICET TECNICO ASISTENTE",
+          "unit": "Personal de Apoyo",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Garimaldi Ramiro",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "rgarimaldi@itba.edu.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 33,
+          "name": "Garimaldi Ramiro",
+          "category": "Tesista de grado",
+          "unit": "GNS",
+          "supervisor": "Maximiliano Katz",
+          "status": "Sin confirmar",
+          "emails": [
+            "rgarimaldi@itba.edu.ar"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gestro Daniel Horacio",
+      "unit": "Neuropsicología de la Performance",
+      "status": "Sin confirmar",
+      "emails": [
+        "dhg70@yahoo.com.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 6,
+          "name": "Gestro Daniel Horacio",
+          "category": "Estudiante de doctorado (Fmed, UBA)",
+          "unit": "Neuropsicología de la Performance",
+          "supervisor": "Mariano Blake",
+          "status": "Sin confirmar",
+          "emails": [
+            "dhg70@yahoo.com.ar"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gioia, Daiana Solange",
+      "unit": "LABORATORIO DE BIOMEMBRANAS",
+      "status": "Sin confirmar",
+      "emails": [
+        "dgioia@fmed.uba.ar",
+        "gioiadaiana@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 9,
+          "name": "Gioia, Daiana Solange",
+          "category": "Doctoral Finalizacion 01/04/2026",
+          "unit": "Biomembranas",
+          "supervisor": "Roxana Toriano",
+          "status": "Sin confirmar",
+          "emails": [
+            "dgioia@fmed.uba.ar",
+            "gioiadaiana@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giron Reyes, Daniel Claudio",
+      "unit": "LABORATORIO DE FISOPATOGENIA",
+      "status": "Actual",
+      "emails": [
+        "claudio.gironr@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 10,
+          "name": "Giron Reyes, Daniel Claudio",
+          "category": "Doctoral 03/2027",
+          "unit": "Fisiopatogenia",
+          "supervisor": "Sacerdoti-Ibarra",
+          "status": "Sin confirmar",
+          "emails": [
+            "claudio.gironr@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 8,
+          "name": "Giron Reyes, Daniel Claudio",
+          "category": "BECARIO/A DOCTORAL CONICET",
+          "unit": "LABORATORIO DE FISOPATOGENIA",
+          "supervisor": "Sacerdoti Flavia",
+          "status": "Actual",
+          "emails": []
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "Laboratorio de Fisiopatogenia",
+          "row": 6,
+          "name": "Giron Reyes, Daniel",
+          "category": "BECARIO/A DOCTORAL CONICET",
+          "unit": "LABORATORIO DE FISOPATOGENIA",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Giugovaz, Bárbara",
+      "unit": "Personal de Apoyo",
+      "status": "Actual",
+      "emails": [
+        "labobarbara@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Personal de Apoyo",
+          "row": 8,
+          "name": "Giugovaz, Bárbara",
+          "category": "Personal de Apoyo-Profesional Adjunto/Electrofisiología",
+          "unit": "GNS",
+          "supervisor": "Dr. Gustavo Murer",
+          "status": "Sin confirmar",
+          "emails": [
+            "labobarbara@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "CPA",
+          "row": 5,
+          "name": "Giugovaz, Bárbara",
+          "category": "CPA CONICET PROFESIONAL PRINCIPAL",
+          "unit": "Personal de Apoyo",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Goldstein Jorge",
+      "unit": "LABORATORIO DE NEUROFISIOPATOLOGIA",
+      "status": "Actual",
+      "emails": [
+        "jogol@fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 12,
+          "name": "Goldstein Jorge",
+          "category": "INDEPENDIENTE",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "jogol@fmed.uba.ar"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 11,
+          "name": "Goldstein, Jorge",
+          "category": "CIC CONICET PRINCIPAL",
+          "unit": "LABORATORIO DE NEUROFISIOPATOLOGIA",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Gomez Acosta, Martina",
+      "unit": "GNS: LABORATORIO DE FISOLOGIA DEL COMPORTAMIENTO",
+      "status": "Actual",
+      "emails": [
+        "martinagomezacosta98@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 11,
+          "name": "Gomez Acosta, Martina",
+          "category": "Doctoral / 31/03/2028",
+          "unit": "GNS",
+          "supervisor": "Juan Belforte",
+          "status": "Sin confirmar",
+          "emails": [
+            "martinagomezacosta98@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 9,
+          "name": "Gomez Acosta, Martina",
+          "category": "BECARIO/A DOCTORAL CONICET",
+          "unit": "GNS: LABORATORIO DE FISOLOGIA DEL COMPORTAMIENTO",
+          "supervisor": "Belforte Juan",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Gonzalez Sanabria Javier",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Exintegrante",
+      "emails": [
+        "javiergs89@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "ex-IFIBIO",
+          "row": 1,
+          "name": "Gonzalez Sanabria Javier",
+          "category": "Postdoctoral - 31 -1-2026",
+          "unit": "GNS",
+          "supervisor": "Juan Belforte",
+          "status": "Exintegrante",
+          "emails": [
+            "javiergs89@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gómez, Fernando",
+      "unit": "LABORATORIO DE FISOPATOGENIA",
+      "status": "Exintegrante",
+      "emails": [
+        "gomezfernandod@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "ex-IFIBIO",
+          "row": 3,
+          "name": "Gómez, Fernando",
+          "category": "Doctoral 31-07-25",
+          "unit": "Fisiopatogenia",
+          "supervisor": "María Marta Amaral",
+          "status": "Exintegrante",
+          "emails": [
+            "gomezfernandod@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "Laboratorio de Fisiopatogenia",
+          "row": 7,
+          "name": "Gómez, Fernando",
+          "category": "BECARIO/A DOCTORAL CONICET",
+          "unit": "LABORATORIO DE FISOPATOGENIA",
+          "supervisor": "",
+          "status": "Exintegrante",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Ibarra, Cristina",
+      "unit": "LABORATORIO DE FISOPATOGENIA",
+      "status": "Actual",
+      "emails": [],
+      "records": [
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "Laboratorio de Fisiopatogenia",
+          "row": 2,
+          "name": "Ibarra, Cristina",
+          "category": "CIC CONICET PRINCIPAL",
+          "unit": "LABORATORIO DE FISOPATOGENIA",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Ibarra, Fernando Raul",
+      "unit": "GNS: LABORATORIO DE FISOLOGIA DEL COMPORTAMIENTO",
+      "status": "Actual",
+      "emails": [],
+      "records": [
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 12,
+          "name": "Ibarra, Fernando Raul",
+          "category": "",
+          "unit": "GNS: LABORATORIO DE FISOLOGIA DEL COMPORTAMIENTO",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Ilarraz, Constanza",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Exintegrante",
+      "emails": [
+        "cotydie@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "ex-IFIBIO",
+          "row": 5,
+          "name": "Ilarraz, Constanza",
+          "category": "Contrato de técnico 25/03/2026",
+          "unit": "GNS",
+          "supervisor": "Camila Zold, Fernando Kasanetz y Juan Belforte",
+          "status": "Exintegrante",
+          "emails": [
+            "cotydie@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inzillo Lorena",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "loreinzillo@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 7,
+          "name": "Inzillo Lorena",
+          "category": "Tesista de maestría de Biología Molecular Medica (UBA)",
+          "unit": "GNS",
+          "supervisor": "Lorena Rela",
+          "status": "Sin confirmar",
+          "emails": [
+            "loreinzillo@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Julián Della Giustina",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "julian.dellagiustina@campus.fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 47,
+          "name": "Julián Della Giustina",
+          "category": "Pasan del Practicantado de Medicina",
+          "unit": "GNS",
+          "supervisor": "Dr. Maximiliano Katz",
+          "status": "Sin confirmar",
+          "emails": [
+            "julian.dellagiustina@campus.fmed.uba.ar"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kasanetz Fernando",
+      "unit": "GNS: LABORATORIO DE FISOLOGÍA DEL DOLOR",
+      "status": "Actual",
+      "emails": [
+        "fkasanetz@fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 13,
+          "name": "Kasanetz Fernando",
+          "category": "ADJUNTO",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "fkasanetz@fmed.uba.ar"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 13,
+          "name": "Kasanetz, Fernando",
+          "category": "CIC CONICET INDEPENDIENTE",
+          "unit": "GNS: LABORATORIO DE FISOLOGÍA DEL DOLOR",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Katz Maximiliano",
+      "unit": "GRUPO DROSPHILA: LABORATORIO KATZ",
+      "status": "Actual",
+      "emails": [
+        "mjkatz77@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 14,
+          "name": "Katz Maximiliano",
+          "category": "ADJUNTO",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "mjkatz77@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 14,
+          "name": "Katz, Maximiliano",
+          "category": "CIC CONICET ADJUNTO",
+          "unit": "GRUPO DROSPHILA: LABORATORIO KATZ",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "La Iacona, Germán",
+      "unit": "Personal de Apoyo",
+      "status": "Actual",
+      "emails": [
+        "germail34@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Personal de Apoyo",
+          "row": 9,
+          "name": "La Iacona, Germán",
+          "category": "Personal de Apoyo-Técnico Principal/Microscopía",
+          "unit": "Microscopía Confocal",
+          "supervisor": "Dr. Gustavo Murer",
+          "status": "Sin confirmar",
+          "emails": [
+            "germail34@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "CPA",
+          "row": 6,
+          "name": "La Iacona, Germán",
+          "category": "CPA CONICET TECNICO PRINCIPAL",
+          "unit": "Personal de Apoyo",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Laura Florencia Delgado Rizzi",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "flor.delgadorizzi@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 29,
+          "name": "Laura Florencia Delgado Rizzi",
+          "category": "Pasante",
+          "unit": "GNS",
+          "supervisor": "Juan Belforte",
+          "status": "Sin confirmar",
+          "emails": [
+            "flor.delgadorizzi@gmail.com"
+          ]
+        },
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 41,
+          "name": "Florencia Delgado Rizzi",
+          "category": "Pasante",
+          "unit": "GNS",
+          "supervisor": "Juan Belforte",
+          "status": "Sin confirmar",
+          "emails": [
+            "flor.delgadorizzi@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lazaro Luis",
+      "unit": "Fisiología de la Motivación (Bello)",
+      "status": "Exintegrante",
+      "emails": [
+        "luislazaro@campus.fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "ex-IFIBIO",
+          "row": 11,
+          "name": "Lazaro Luis",
+          "category": "Estímulo / 14 Nov 2025",
+          "unit": "Fisiología de la Motivación (Bello)",
+          "supervisor": "",
+          "status": "Exintegrante",
+          "emails": [
+            "luislazaro@campus.fmed.uba.ar"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leo Felipe Brailovsky Nardozza",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "leofbrailo@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 35,
+          "name": "Leo Felipe Brailovsky Nardozza",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "GNS",
+          "supervisor": "Maximiliano Katz",
+          "status": "Sin confirmar",
+          "emails": [
+            "leofbrailo@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lerner Gonzalo",
+      "unit": "Fisiología de la acción",
+      "status": "Sin confirmar",
+      "emails": [
+        "gonzalo.lerner@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 8,
+          "name": "Lerner Gonzalo",
+          "category": "Pasante",
+          "unit": "Fisiología de la acción",
+          "supervisor": "Valeria Della Maggiore",
+          "status": "Sin confirmar",
+          "emails": [
+            "gonzalo.lerner@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lutz Jennifer",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "jennylutz0201@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 9,
+          "name": "Lutz Jennifer",
+          "category": "Pasante",
+          "unit": "GNS",
+          "supervisor": "Fernando Kasanetz",
+          "status": "Sin confirmar",
+          "emails": [
+            "jennylutz0201@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "López Ambrosioni, Florencia",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "florlambrosioni@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 19,
+          "name": "López Ambrosioni, Florencia",
+          "category": "Pasante",
+          "unit": "GNS",
+          "supervisor": "Lionel Muller Igaz",
+          "status": "Sin confirmar",
+          "emails": [
+            "florlambrosioni@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "López Díaz, Analia",
+      "unit": "Personal de Apoyo",
+      "status": "Actual",
+      "emails": [
+        "analialopezdiaz@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Personal de Apoyo",
+          "row": 10,
+          "name": "López Díaz, Analia",
+          "category": "CPA, técnico de Biología Molecular",
+          "unit": "Lab. Biologia Molecular IFIBIO",
+          "supervisor": "Dr. Gustavo Murer",
+          "status": "Sin confirmar",
+          "emails": [
+            "analialopezdiaz@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "CPA",
+          "row": 7,
+          "name": "López Díaz, Analia",
+          "category": "CPA CONICET TECNICO ASOCIADO",
+          "unit": "Personal de Apoyo",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "López María de los Milagros",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "andr.milagroslopez@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 21,
+          "name": "López María de los Milagros",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "GNS",
+          "supervisor": "Lionel Muller Igaz",
+          "status": "Sin confirmar",
+          "emails": [
+            "andr.milagroslopez@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mamani, Ana Elizabeth",
+      "unit": "Personal de Apoyo",
+      "status": "Actual",
+      "emails": [],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Personal de Apoyo",
+          "row": 15,
+          "name": "Mamani, Ana Elizabeth",
+          "category": "Art 9 CONICET, tecnica de bioterio",
+          "unit": "Sector común Personal de Apoyo",
+          "supervisor": "Dr. Gustavo Murer",
+          "status": "Sin confirmar",
+          "emails": []
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "CPA",
+          "row": 11,
+          "name": "Mamani, Ana Elizabeth",
+          "category": "ADMINISTRATIVO/A CONICET",
+          "unit": "Personal de Apoyo",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Mancini Lucero, Camilo E",
+      "unit": "Labo Pagani, Labo Bernabeu- Faillace",
+      "status": "Sin confirmar",
+      "emails": [
+        "camilo-ramone@hotmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 46,
+          "name": "Mancini Lucero, Camilo E",
+          "category": "Personal de Apoyo, Tecnico ASISTENTE / BIOTERIOS Drosófila y zebrafish",
+          "unit": "Labo Pagani, Labo Bernabeu- Faillace",
+          "supervisor": "Dr. Gustavo Murer",
+          "status": "Sin confirmar",
+          "emails": [
+            "camilo-ramone@hotmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maria Candela Fagnani",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "candelafagnani@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 40,
+          "name": "Maria Candela Fagnani",
+          "category": "Tesista Maestria",
+          "unit": "GNS",
+          "supervisor": "Andres Varani",
+          "status": "Sin confirmar",
+          "emails": [
+            "candelafagnani@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marini Micaela",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "micaelamarini@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 10,
+          "name": "Marini Micaela",
+          "category": "Tesista Licenciatura",
+          "unit": "GNS",
+          "supervisor": "Cecilia Martinez",
+          "status": "Sin confirmar",
+          "emails": [
+            "micaelamarini@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marques Da Silva Wanderson",
+      "unit": "LABORATORIO DE FISOPATOGENIA",
+      "status": "Actual",
+      "emails": [
+        "wanderson.marques1@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 16,
+          "name": "Marques Da Silva Wanderson",
+          "category": "ADJUNTO",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "wanderson.marques1@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 16,
+          "name": "Marques Da Silva, Wanderson",
+          "category": "CIC CONICET ADJUNTO",
+          "unit": "LABORATORIO DE FISOPATOGENIA",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "Laboratorio de Fisiopatogenia",
+          "row": 5,
+          "name": "Marques da Silva, Wanderson",
+          "category": "CIC CONICET ADJUNTO",
+          "unit": "LABORATORIO DE FISOPATOGENIA",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Martinez Nora Alicia",
+      "unit": "LABORATORIO DE BIOMEMBRANAS",
+      "status": "Actual",
+      "emails": [
+        "noraalicia.martinez@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 15,
+          "name": "Martinez Nora Alicia",
+          "category": "ADJUNTA",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "noraalicia.martinez@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 15,
+          "name": "Martinez, Nora Alicia",
+          "category": "CIC CONICET ADJUNTO",
+          "unit": "LABORATORIO DE BIOMEMBRANAS",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "María Inés Fernández",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "ines.fernandez@campus.fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 36,
+          "name": "María Inés Fernández",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "GNS",
+          "supervisor": "Maximiliano Katz",
+          "status": "Sin confirmar",
+          "emails": [
+            "ines.fernandez@campus.fmed.uba.ar"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mauro Marchetto",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "jmauromarchetto@hotmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 45,
+          "name": "Mauro Marchetto",
+          "category": "Tesista de grado",
+          "unit": "GNS",
+          "supervisor": "Maximiliano Katz",
+          "status": "Sin confirmar",
+          "emails": [
+            "jmauromarchetto@hotmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Menendez Dodero Emilia",
+      "unit": "LABORATORIO DE BIOMEMBRANAS",
+      "status": "Sin confirmar",
+      "emails": [
+        "emiliamdodero@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 11,
+          "name": "Menendez Dodero Emilia",
+          "category": "Pasante",
+          "unit": "Biomembranas",
+          "supervisor": "Valeria Rivarola",
+          "status": "Sin confirmar",
+          "emails": [
+            "emiliamdodero@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Molina Ponce, Tomás",
+      "unit": "LABORATORIO DE BIOMEMBRANAS",
+      "status": "Actual",
+      "emails": [
+        "tommolinaponce@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 13,
+          "name": "Molina Ponce, Tomás",
+          "category": "Doctorado 31/08/2029",
+          "unit": "Laboratorio de Biomembranas",
+          "supervisor": "Vanina Netti",
+          "status": "Sin confirmar",
+          "emails": [
+            "tommolinaponce@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 10,
+          "name": "Molina Ponce, Tomás",
+          "category": "BECARIO/A DOCTORAL CONICET",
+          "unit": "LABORATORIO DE BIOMEMBRANAS",
+          "supervisor": "Netti Vanina",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Movsisyan Peralta Nune Gayane",
+      "unit": "LABORATORIO DE FISIOLOGÍA RENAL",
+      "status": "Sin confirmar",
+      "emails": [
+        "nunemovsisyan@campus.fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 28,
+          "name": "Movsisyan Peralta Nune Gayane",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "Lab Fisiología renal",
+          "supervisor": "Claudia Silberstein",
+          "status": "Sin confirmar",
+          "emails": [
+            "nunemovsisyan@campus.fmed.uba.ar"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mucanna Juan Martín",
+      "unit": "LABORATORIO DE BIOMEMBRANAS",
+      "status": "Sin confirmar",
+      "emails": [
+        "juanmucanna@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 22,
+          "name": "Mucanna Juan Martín",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "Biomembranas",
+          "supervisor": "Gisela Di Giusto",
+          "status": "Sin confirmar",
+          "emails": [
+            "juanmucanna@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muller Igaz Lionel",
+      "unit": "GNS: LABORATORIO DE FISOPATOLOGIA NEURONAL",
+      "status": "Actual",
+      "emails": [
+        "lmuller00@yahoo.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 17,
+          "name": "Muller Igaz Lionel",
+          "category": "INDEPENDIENTE",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "lmuller00@yahoo.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 17,
+          "name": "Muller Igaz, Lionel",
+          "category": "CIC CONICET INDEPENDIENTE",
+          "unit": "GNS: LABORATORIO DE FISOPATOLOGIA NEURONAL",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Murer Gustavo",
+      "unit": "GNS: LABORATORIO DE FIOSOLOGÍA DE CIRCUITOS NEURONALES",
+      "status": "Actual",
+      "emails": [
+        "gmurer@fmed.uba.ar",
+        "gmurer@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 18,
+          "name": "Murer Gustavo",
+          "category": "SUPERIOR",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "gmurer@fmed.uba.ar",
+            "gmurer@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 18,
+          "name": "Murer, Gustavo",
+          "category": "CIC CONICET SUPERIOR",
+          "unit": "GNS: LABORATORIO DE FIOSOLOGÍA DE CIRCUITOS NEURONALES",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Muzio, Lucas",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "lucasmuzio@campus.fmed.uba"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 20,
+          "name": "Muzio, Lucas",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "GNS",
+          "supervisor": "Lionel Muller Igaz",
+          "status": "Sin confirmar",
+          "emails": [
+            "lucasmuzio@campus.fmed.uba"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Navarro Juliana",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "junavarro13@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 12,
+          "name": "Navarro Juliana",
+          "category": "Pasante",
+          "unit": "GNS",
+          "supervisor": "Fernando Kasanetz",
+          "status": "Sin confirmar",
+          "emails": [
+            "junavarro13@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Netti Vanina",
+      "unit": "LABORATORIO DE BIOMEMBRANAS",
+      "status": "Actual",
+      "emails": [
+        "vanina.netti@gmail.com",
+        "vnetti@conicet.gov.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 19,
+          "name": "Netti Vanina",
+          "category": "ADJUNTO",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "vanina.netti@gmail.com",
+            "vnetti@conicet.gov.ar"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 19,
+          "name": "Netti, Vanina",
+          "category": "CIC CONICET ADJUNTO",
+          "unit": "LABORATORIO DE BIOMEMBRANAS",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Nicollier Camila",
+      "unit": "Sin unidad informada",
+      "status": "Sin confirmar",
+      "emails": [
+        "camilanicollier@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 13,
+          "name": "Nicollier Camila",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "",
+          "supervisor": "Rafael Pagani",
+          "status": "Sin confirmar",
+          "emails": [
+            "camilanicollier@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ochoa Federico",
+      "unit": "LABORATORIO DE FISOPATOGENIA",
+      "status": "Actual",
+      "emails": [
+        "oxhoaf@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 20,
+          "name": "Ochoa Federico",
+          "category": "UBA",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "oxhoaf@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 20,
+          "name": "Ochoa, Federico",
+          "category": "INVESTIGADOR/A UBA",
+          "unit": "LABORATORIO DE FISIOPATOGENIA: SECCION PATOLOGIA",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Ortega, Graciela",
+      "unit": "Gestión institucional",
+      "status": "Sin confirmar",
+      "emails": [],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Personal de Apoyo",
+          "row": 11,
+          "name": "Ortega, Graciela",
+          "category": "Personal No Docente, Técnico",
+          "unit": "GNS",
+          "supervisor": "Dr. Gustavo Murer",
+          "status": "Sin confirmar",
+          "emails": []
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "ADMINISTRATIVOS",
+          "row": 4,
+          "name": "Ortega, Graciela",
+          "category": "ADMINISTRATIVO/A UBA",
+          "unit": "Gestión institucional",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Ortiz, Joaquin",
+      "unit": "GRUPO PEZ CEBRA: LABORATORIO DE NEUROBIOLOGÍA DE LAS ADICCIONES",
+      "status": "Actual",
+      "emails": [
+        "joaquinortiz22.jo@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 14,
+          "name": "Ortiz, Joaquin",
+          "category": "Doctoral (01-04-2027)",
+          "unit": "Labo. Neurobiología conductual y celular",
+          "supervisor": "Ramón Bernabeu",
+          "status": "Sin confirmar",
+          "emails": [
+            "joaquinortiz22.jo@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 11,
+          "name": "Ortiz, Joaquin",
+          "category": "BECARIO/A DOCTORAL CONICET",
+          "unit": "GRUPO PEZ CEBRA: LABORATORIO DE NEUROBIOLOGÍA DE LAS ADICCIONES",
+          "supervisor": "Bernabeu Rodolfo",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Pafundo Diego",
+      "unit": "GNS: LABORATORIO DE FIOSOLOGÍA DE CIRCUITOS NEURONALES",
+      "status": "Actual",
+      "emails": [
+        "dpafundo@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 21,
+          "name": "Pafundo Diego",
+          "category": "ADJUNTO",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "dpafundo@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 21,
+          "name": "Pafundo, Diego",
+          "category": "CIC CONICET ADJUNTO",
+          "unit": "GNS: LABORATORIO DE FIOSOLOGÍA DE CIRCUITOS NEURONALES",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Pagani Rafael",
+      "unit": "GRUPO DROSPHILA: LABORATORIO DE GENETICA DEL APRENDIZAJE",
+      "status": "Actual",
+      "emails": [
+        "calciumsignal@gmail.com",
+        "pagani@fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 22,
+          "name": "Pagani Rafael",
+          "category": "INDEPENDIENTE",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "calciumsignal@gmail.com",
+            "pagani@fmed.uba.ar"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 22,
+          "name": "Pagani, Rafael",
+          "category": "CIC CONICET INDEPENDIENTE",
+          "unit": "GRUPO DROSPHILA: LABORATORIO DE GENETICA DEL APRENDIZAJE",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Pinto Alipio",
+      "unit": "Sin unidad informada",
+      "status": "Exintegrante",
+      "emails": [
+        "pintoalipio@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "ex-IFIBIO",
+          "row": 13,
+          "name": "Pinto Alipio",
+          "category": "",
+          "unit": "",
+          "supervisor": "",
+          "status": "Exintegrante",
+          "emails": [
+            "pintoalipio@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Piñero Pablo",
+      "unit": "Laboratorio de Neuroendocrinología Molecular",
+      "status": "Sin confirmar",
+      "emails": [
+        "pablo.pinero08@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 14,
+          "name": "Piñero Pablo",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "Laboratorio de Neuroendocrinología Molecular",
+          "supervisor": "Viviana Bumaschny",
+          "status": "Sin confirmar",
+          "emails": [
+            "pablo.pinero08@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polotto, Camila",
+      "unit": "GNS: LABORATORIO DE FORMACIÓN DE REDES NEURONALES",
+      "status": "Actual",
+      "emails": [
+        "camila.polotto@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 15,
+          "name": "Polotto, Camila",
+          "category": "Beca Estímulo UBA/31 Marzo 2025",
+          "unit": "GNS",
+          "supervisor": "Estefania Bello",
+          "status": "Sin confirmar",
+          "emails": [
+            "camila.polotto@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 12,
+          "name": "Polotto, Camila",
+          "category": "BECARIA/A ESTUDIANTE UBA",
+          "unit": "GNS: LABORATORIO DE FORMACIÓN DE REDES NEURONALES",
+          "supervisor": "Estefania Bello",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Pratto, Gisele",
+      "unit": "Neuropsicología de la Performance",
+      "status": "Sin confirmar",
+      "emails": [
+        "pratto.gp@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 30,
+          "name": "Pratto, Gisele",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "Neuropsicología de la Performance",
+          "supervisor": "Mariano Blake",
+          "status": "Sin confirmar",
+          "emails": [
+            "pratto.gp@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Presta, Agostina",
+      "unit": "Personal de Apoyo",
+      "status": "Actual",
+      "emails": [
+        "agospresta@hotmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Personal de Apoyo",
+          "row": 12,
+          "name": "Presta, Agostina",
+          "category": "Personal de Apoyo-Técnica Asistente/Histología",
+          "unit": "Lab. Fisiopatogenia, Sección Patología",
+          "supervisor": "Dr. Gustavo Murer",
+          "status": "Sin confirmar",
+          "emails": [
+            "agospresta@hotmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "CPA",
+          "row": 8,
+          "name": "Presta, Agostina",
+          "category": "CPA CONICET TECNICO ASISTENTE",
+          "unit": "Personal de Apoyo",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Pretell Annan, Carlos Alfredo",
+      "unit": "GNS: LABORATORIO DE FISOLOGIA DEL COMPORTAMIENTO",
+      "status": "Actual",
+      "emails": [
+        "carlos.a.pretell@gmail.com",
+        "cpretell@fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 34,
+          "name": "Pretell Annan, Carlos Alfredo",
+          "category": "INVESTIGADOR/A UBA",
+          "unit": "GNS: LABORATORIO DE FISOLOGIA DEL COMPORTAMIENTO",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        },
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 23,
+          "name": "Pretell Annan Carlos",
+          "category": "UBA",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "carlos.a.pretell@gmail.com",
+            "cpretell@fmed.uba.ar"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prieto, Tomas Gustavo Sebastián",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "tgsprieto@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 32,
+          "name": "Prieto, Tomas Gustavo Sebastián",
+          "category": "Tesista Licenciatura",
+          "unit": "GNS",
+          "supervisor": "Maximiliano Katz",
+          "status": "Sin confirmar",
+          "emails": [
+            "tgsprieto@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ramos Aloi, Ana Belén",
+      "unit": "LABORATORIO DE NEUROFISIOPATOLOGIA",
+      "status": "Actual",
+      "emails": [
+        "anaramosaloi@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 16,
+          "name": "Ramos Aloi, Ana Belén",
+          "category": "Doctoral",
+          "unit": "Labo.Neurofisiopatología",
+          "supervisor": "Jorge Goldstein",
+          "status": "Sin confirmar",
+          "emails": [
+            "anaramosaloi@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 13,
+          "name": "Ramos Aloi, Ana Belén",
+          "category": "BECARIO/A DOCTORAL UBA",
+          "unit": "LABORATORIO DE NEUROFISIOPATOLOGIA",
+          "supervisor": "Goldstein Jorge",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Rela Lorena",
+      "unit": "GNS: LABORATORIO DE FORMACIÓN DE REDES NEURONALES",
+      "status": "Actual",
+      "emails": [
+        "lorena.rela@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 24,
+          "name": "Rela Lorena",
+          "category": "INDEPENDIENTE",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "lorena.rela@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 23,
+          "name": "Rela, Lorena",
+          "category": "CIC CONICET INDEPENDIENTE",
+          "unit": "GNS: LABORATORIO DE FORMACIÓN DE REDES NEURONALES",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Reynoso Mariano",
+      "unit": "LABORATORIO DE BIOLOGIA DE LA REPRODUCCION",
+      "status": "Actual",
+      "emails": [
+        "mreynoso@docente.ffyb.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 17,
+          "name": "Reynoso Mariano",
+          "category": "",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "mreynoso@docente.ffyb.uba.ar"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 14,
+          "name": "Reynoso, Mariano",
+          "category": "BECARIO/A DOCTORAL CONICET",
+          "unit": "LABORATORIO DE BIOLOGIA DE LA REPRODUCCION",
+          "supervisor": "Damiano Alicia",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Richaudeau",
+      "unit": "Sin unidad informada",
+      "status": "Sin confirmar",
+      "emails": [],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 36,
+          "name": "Richaudeau",
+          "category": "",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Riquelme, Luis",
+      "unit": "GNS: LABORATORIO DE FISOLOGIA DEL COMPORTAMIENTO",
+      "status": "Actual",
+      "emails": [],
+      "records": [
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 24,
+          "name": "Riquelme, Luis",
+          "category": "",
+          "unit": "GNS: LABORATORIO DE FISOLOGIA DEL COMPORTAMIENTO",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Risso, Verónica",
+      "unit": "Personal de Apoyo",
+      "status": "Actual",
+      "emails": [
+        "vero_risso@hotmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Personal de Apoyo",
+          "row": 13,
+          "name": "Risso, Verónica",
+          "category": "Personal de Apoyo-Técnica Principal/Bioterio",
+          "unit": "GNS",
+          "supervisor": "Dr. Gustavo Murer",
+          "status": "Sin confirmar",
+          "emails": [
+            "vero_risso@hotmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "CPA",
+          "row": 9,
+          "name": "Risso, Verónica",
+          "category": "CPA CONICET TECNICO PRINCIPAL",
+          "unit": "Personal de Apoyo",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Rivarola Valeria",
+      "unit": "LABORATORIO DE BIOMEMBRANAS",
+      "status": "Actual",
+      "emails": [
+        "mariv@fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 25,
+          "name": "Rivarola Valeria",
+          "category": "ADJUNTA",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "mariv@fmed.uba.ar"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 25,
+          "name": "Rivarola, Valeria",
+          "category": "CIC CONICET ADJUNTO",
+          "unit": "LABORATORIO DE BIOMEMBRANAS",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Rocco, Leandro Carlos",
+      "unit": "GRUPO PEZ CEBRA: LABORATORIO DE NEUROBIOLOGÍA DE LAS ADICCIONES",
+      "status": "Actual",
+      "emails": [
+        "lccrocco@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 18,
+          "name": "Rocco, Leandro Carlos",
+          "category": "Doctoral Finalización (01/04/2027)",
+          "unit": "Labo. Neurobiología conductual y celular",
+          "supervisor": "Ramón Bernabeu",
+          "status": "Sin confirmar",
+          "emails": [
+            "lccrocco@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 15,
+          "name": "Rocco, Leandro Carlos",
+          "category": "BECARIO/A DOCTORAL CONICET",
+          "unit": "GRUPO PEZ CEBRA: LABORATORIO DE NEUROBIOLOGÍA DE LAS ADICCIONES",
+          "supervisor": "Bernabeu Rodolfo",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Sacerdoti Flavia",
+      "unit": "LABORATORIO DE FISOPATOGENIA",
+      "status": "Actual",
+      "emails": [
+        "flasacerdoti@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 26,
+          "name": "Sacerdoti Flavia",
+          "category": "ADJUNTA",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "flasacerdoti@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 26,
+          "name": "Sacerdoti, Flavia",
+          "category": "CIC CONICET ADJUNTO",
+          "unit": "LABORATORIO DE FISOPATOGENIA",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "Laboratorio de Fisiopatogenia",
+          "row": 4,
+          "name": "Sacerdoti, Flavia",
+          "category": "CIC CONICET ADJUNTO",
+          "unit": "LABORATORIO DE FISOPATOGENIA",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Samper Matias",
+      "unit": "Sin unidad informada",
+      "status": "Sin confirmar",
+      "emails": [
+        "matisamper@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 15,
+          "name": "Samper Matias",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "",
+          "supervisor": "Rafael Pagani",
+          "status": "Sin confirmar",
+          "emails": [
+            "matisamper@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sanchez Armijos Kianny Miroslava",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Exintegrante",
+      "emails": [
+        "kianny.sanchez97@gmail.com",
+        "kiannysa@hotmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "ex-IFIBIO",
+          "row": 7,
+          "name": "Sanchez Armijos Kianny Miroslava",
+          "category": "Doctoral / 01/07/2026",
+          "unit": "GNS",
+          "supervisor": "Gustavo Murer",
+          "status": "Exintegrante",
+          "emails": [
+            "kianny.sanchez97@gmail.com",
+            "kiannysa@hotmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Santalla, Mariano",
+      "unit": "LABORATORIO DE BIOLOGIA DE LA REPRODUCCION",
+      "status": "Actual",
+      "emails": [
+        "marianosantalla@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 19,
+          "name": "Santalla, Mariano",
+          "category": "Doctorado / 31 Mar 2028",
+          "unit": "Fisiología de la Motivación (Bello)",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "marianosantalla@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 16,
+          "name": "Santalla, Mariano",
+          "category": "BECARIO/A DOCTORAL CONICET",
+          "unit": "LABORATORIO DE BIOLOGIA DE LA REPRODUCCION",
+          "supervisor": "Damiano Alicia",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Santos, María Florencia",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Exintegrante",
+      "emails": [
+        "santos.mflorencia@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "ex-IFIBIO",
+          "row": 9,
+          "name": "Santos, María Florencia",
+          "category": "Doctoral 31/07/2025",
+          "unit": "GNS",
+          "supervisor": "Camila Zold",
+          "status": "Exintegrante",
+          "emails": [
+            "santos.mflorencia@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sierra, Matías Nicolás",
+      "unit": "LABORATORIO DE BIOLOGIA DE LA REPRODUCCION",
+      "status": "Actual",
+      "emails": [
+        "mnicosierra@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 20,
+          "name": "Sierra, Matías Nicolás",
+          "category": "Doctoral 31/03/2027",
+          "unit": "Biología de la Reproducción",
+          "supervisor": "Alicia Damiano",
+          "status": "Sin confirmar",
+          "emails": [
+            "mnicosierra@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 17,
+          "name": "Sierra, Matías Nicolás",
+          "category": "BECARIO/A DOCTORAL CONICET",
+          "unit": "LABORATORIO DE BIOLOGIA DE LA REPRODUCCION",
+          "supervisor": "Damiano Alicia",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Silberstein Claudia",
+      "unit": "LABORATORIO DE FISIOLOGÍA RENAL",
+      "status": "Actual",
+      "emails": [
+        "csilber@fmed.uba.ar",
+        "silberstein.claudia@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 27,
+          "name": "Silberstein Claudia",
+          "category": "UBA",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "csilber@fmed.uba.ar",
+            "silberstein.claudia@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 27,
+          "name": "Silberstein, Claudia",
+          "category": "INVESTIGADOR/A UBA",
+          "unit": "LABORATORIO DE FISIOLOGÍA RENAL",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Silva Bernardes, Renata",
+      "unit": "Neuropsicología de la Performance",
+      "status": "Sin confirmar",
+      "emails": [
+        "renatabernardes.rsb@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 31,
+          "name": "Silva Bernardes, Renata",
+          "category": "Pasante del Practicantado de Medicina",
+          "unit": "Neuropsicología de la Performance",
+          "supervisor": "Mariano Blake",
+          "status": "Sin confirmar",
+          "emails": [
+            "renatabernardes.rsb@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sofia Meller",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "sofimeller@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 34,
+          "name": "Sofia Meller",
+          "category": "Tesista de grado",
+          "unit": "GNS",
+          "supervisor": "Maximiliano Katz",
+          "status": "Sin confirmar",
+          "emails": [
+            "sofimeller@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stahl Agostina",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Exintegrante",
+      "emails": [
+        "agostinastahl@yahoo.com",
+        "astahl@fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "ex-IFIBIO",
+          "row": 8,
+          "name": "Stahl Agostina",
+          "category": "Doctoral 31/03/2025",
+          "unit": "GNS",
+          "supervisor": "Gustavo Murer/Lorena Rela",
+          "status": "Exintegrante",
+          "emails": [
+            "agostinastahl@yahoo.com",
+            "astahl@fmed.uba.ar"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Toriano Roxana",
+      "unit": "LABORATORIO DE BIOMEMBRANAS",
+      "status": "Actual",
+      "emails": [
+        "rtoriano@fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 28,
+          "name": "Toriano Roxana",
+          "category": "ADJUNTA",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "rtoriano@fmed.uba.ar"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 28,
+          "name": "Toriano, Roxana",
+          "category": "",
+          "unit": "LABORATORIO DE BIOMEMBRANAS",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Trujillo María Jesús",
+      "unit": "LABORATORIO DE NEUROFISIOPATOLOGIA",
+      "status": "Actual",
+      "emails": [
+        "jesutruji@gmail.com",
+        "mtrujillo@fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 21,
+          "name": "Trujillo María Jesús",
+          "category": "Doctoral 31/03/2027",
+          "unit": "GNS",
+          "supervisor": "Fernando Kasanetz",
+          "status": "Sin confirmar",
+          "emails": [
+            "jesutruji@gmail.com",
+            "mtrujillo@fmed.uba.ar"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 18,
+          "name": "Trujillo, María Jesús",
+          "category": "CIC CONICET ASISTENTE",
+          "unit": "LABORATORIO DE NEUROFISIOPATOLOGIA",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Tubert Cecilia",
+      "unit": "GNS: LABORATORIO DE FIOSOLOGÍA DE CIRCUITOS NEURONALES",
+      "status": "Actual",
+      "emails": [
+        "cecitubert@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 29,
+          "name": "Tubert Cecilia",
+          "category": "ASISTENTE",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "cecitubert@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 29,
+          "name": "Tubert, Cecilia",
+          "category": "CIC CONICET ASISTENTE",
+          "unit": "GNS: LABORATORIO DE FIOSOLOGÍA DE CIRCUITOS NEURONALES",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Uehara, Juan Martín",
+      "unit": "GNS / GNS Junín",
+      "status": "Exintegrante",
+      "emails": [
+        "ueharajm@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "ex-IFIBIO",
+          "row": 2,
+          "name": "Uehara, Juan Martín",
+          "category": "Doctoral / 31 Marzo 2026",
+          "unit": "GNS / GNS Junín",
+          "supervisor": "Juan Belforte",
+          "status": "Exintegrante",
+          "emails": [
+            "ueharajm@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Valdivia Torres Lesly Spring",
+      "unit": "GNS: LABORATORIO DE FISOLOGÍA DEL DOLOR",
+      "status": "Actual",
+      "emails": [
+        "springvaldivia@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 31,
+          "name": "Valdivia Torres Lesly Spring",
+          "category": "ASISTENTE",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "springvaldivia@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 30,
+          "name": "Valdivia Torres, Lesly Spring",
+          "category": "CIC CONICET ASISTENTE",
+          "unit": "GNS: LABORATORIO DE FISOLOGÍA DEL DOLOR",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Valverde, Esteban",
+      "unit": "Personal de Apoyo",
+      "status": "Actual",
+      "emails": [
+        "evalverde@fi.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Personal de Apoyo",
+          "row": 14,
+          "name": "Valverde, Esteban",
+          "category": "Personal de Apoyo-Profesional Adjunto/Bioingeniería",
+          "unit": "Sector común Personal de Apoyo",
+          "supervisor": "Dr. Gustavo Murer",
+          "status": "Sin confirmar",
+          "emails": [
+            "evalverde@fi.uba.ar"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "CPA",
+          "row": 10,
+          "name": "Valverde, Esteban",
+          "category": "CPA CONICET PROFESIONAL PRINCIPAL",
+          "unit": "Personal de Apoyo",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Varani Andrés",
+      "unit": "GNS: LABORATORIO DE FISOLOGIA DEL COMPORTAMIENTO",
+      "status": "Actual",
+      "emails": [
+        "andresvarani@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 30,
+          "name": "Varani Andrés",
+          "category": "ASISTENTE",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "andresvarani@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 31,
+          "name": "Varani, Andrés",
+          "category": "CIC CONICET ASISTENTE",
+          "unit": "GNS: LABORATORIO DE FISOLOGIA DEL COMPORTAMIENTO",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Vassallu, Florencia",
+      "unit": "LABORATORIO DE NEUROFISIOPATOLOGIA",
+      "status": "Actual",
+      "emails": [
+        "florencia.vassallu@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Becarios",
+          "row": 22,
+          "name": "Vassallu, Florencia",
+          "category": "Beca Finalizacion Doctorado UBA 2025/ Nov 2026",
+          "unit": "Fisiopatología Neuronal",
+          "supervisor": "Dr. Lionel Muller Igaz",
+          "status": "Sin confirmar",
+          "emails": [
+            "florencia.vassallu@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "BECARIOS",
+          "row": 19,
+          "name": "Vassallu, Florencia",
+          "category": "BECARIO/A DOCTORAL UBA",
+          "unit": "LABORATORIO DE NEUROFISIOPATOLOGIA",
+          "supervisor": "Muller Igaz Lionel",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Velez Gutierrez Daniel Alejandro",
+      "unit": "LABORATORIO DE FISOPATOGENIA",
+      "status": "Sin confirmar",
+      "emails": [
+        "danielalejandro747@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 37,
+          "name": "Velez Gutierrez Daniel Alejandro",
+          "category": "Tesista de Maestría",
+          "unit": "Lab Fisiopatogenia",
+          "supervisor": "María Marta Amaral",
+          "status": "Sin confirmar",
+          "emails": [
+            "danielalejandro747@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zappa Trinidad Maria del Sol",
+      "unit": "GNS — unidad sin especificar",
+      "status": "Sin confirmar",
+      "emails": [
+        "mzappatrinidad@uade.edu.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Tesistas y pasantes",
+          "row": 16,
+          "name": "Zappa Trinidad Maria del Sol",
+          "category": "Tesista Licenciatura",
+          "unit": "GNS",
+          "supervisor": "Rafael Pagani",
+          "status": "Sin confirmar",
+          "emails": [
+            "mzappatrinidad@uade.edu.ar"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zold Camila",
+      "unit": "GNS: LABORATORIO DE FIOSOLOGÍA DE CIRCUITOS NEURONALES",
+      "status": "Actual",
+      "emails": [
+        "camizold@gmail.com"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 32,
+          "name": "Zold Camila",
+          "category": "ADJUNTA",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "camizold@gmail.com"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 32,
+          "name": "Zold, Camila",
+          "category": "CIC CONICET ADJUNTO",
+          "unit": "GNS: LABORATORIO DE FIOSOLOGÍA DE CIRCUITOS NEURONALES",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    },
+    {
+      "name": "Zotta Elsa",
+      "unit": "LABORATORIO DE FISOPATOGENIA",
+      "status": "Actual",
+      "emails": [
+        "ezotta2@gmail.com",
+        "ezotta@fmed.uba.ar"
+      ],
+      "records": [
+        {
+          "source": "Planilla septiembre",
+          "sheet": "Investigadores",
+          "row": 33,
+          "name": "Zotta Elsa",
+          "category": "UBA",
+          "unit": "",
+          "supervisor": "",
+          "status": "Sin confirmar",
+          "emails": [
+            "ezotta2@gmail.com",
+            "ezotta@fmed.uba.ar"
+          ]
+        },
+        {
+          "source": "Integrantes nuevo",
+          "sheet": "INVESTIGADORES",
+          "row": 33,
+          "name": "Zotta, Elsa",
+          "category": "INVESTIGADOR/A UBA",
+          "unit": "LABORATORIO DE FISIOPATOGENIA: SECCION PATOLOGIA",
+          "supervisor": "",
+          "status": "Actual",
+          "emails": []
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "La pertenencia actual no se deduce del vencimiento de una beca ni de un seguro.",
+    "La unidad principal usa la tabla por categoría del archivo nuevo cuando está informada; las demás asignaciones se conservan como evidencia.",
+    "Se excluye la hoja Organigrama del archivo nuevo por sobrescritura de categorías y estados.",
+    "Las hojas por laboratorio duplicadas no se usan para definir estados. La hoja de Fisiopatogenia se conserva por aportar un estado explícito de baja.",
+    "Los nombres abreviados solo se reúnen cuando existe una coincidencia única de palabras; las diferencias de escritura requieren revisión."
+  ]
+}
