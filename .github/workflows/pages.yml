@@ -30,7 +30,7 @@ jobs:
           for file in assets/js/*.js; do node --check "$file"; done
 
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Validate data and stage site
         run: python3 scripts/prepare_site.py
